@@ -18,7 +18,7 @@ export default function PriceHistogram({ data }) {
   }
 
   const option = {
-    title: { text: '整体价格分布', left: 'center' },
+    title: { text: '整体价格分布', left: 'center', top: 10, textStyle: { fontSize: 14 } },
     tooltip: { trigger: 'axis' },
     xAxis: { type: 'category', data: bins.map((b) => b.label), axisLabel: { rotate: 45, fontSize: 10 } },
     yAxis: { type: 'value', name: '房源数量' },
@@ -31,8 +31,8 @@ export default function PriceHistogram({ data }) {
         lineStyle: { color: 'red', type: 'dashed' },
       },
     }],
-    grid: { left: 60, right: 30, bottom: 60, top: 50 },
+    grid: { left: 60, right: 30, bottom: 60, top: 60 },
   };
 
-  return <ReactECharts option={option} style={{ height: 300 }} />;
+  return <ReactECharts option={option} style={{ height: 280 }} />;
 }

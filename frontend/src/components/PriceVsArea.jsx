@@ -19,17 +19,17 @@ export default function PriceVsArea({ data }) {
   });
 
   const option = {
-    title: { text: '价格 vs 面积', left: 'center' },
+    title: { text: '价格 vs 面积', left: 'center', top: 10, textStyle: { fontSize: 14 } },
     tooltip: {
       trigger: 'item',
       formatter: (p) => `${p.seriesName}<br/>面积: ${p.data[0]}㎡<br/>租金: ${p.data[1].toLocaleString()}元`,
     },
-    legend: { top: 30 },
+    legend: { top: 32 },
     xAxis: { type: 'value', name: '面积 (㎡)' },
     yAxis: { type: 'value', name: '月租金 (元/月)' },
     series,
-    grid: { left: 80, right: 30, bottom: 40, top: 70 },
+    grid: { left: 80, right: 30, bottom: 40, top: 80 },
   };
 
-  return <ReactECharts option={option} style={{ height: 300 }} />;
+  return <ReactECharts option={option} style={{ height: 280 }} />;
 }

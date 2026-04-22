@@ -1,21 +1,20 @@
 import './App.css';
 import { useState, useEffect, useMemo } from 'react';
-import { Layout, Typography, Spin, Slider, message, Alert, Modal } from 'antd';
+import { Layout, Typography, Spin, Slider, message, Alert, Tabs } from 'antd';
 import WorkplaceSelector from './components/WorkplaceSelector';
 import OverviewCards from './components/OverviewCards';
 import CommunityMap from './components/CommunityMap';
-import DistanceTable from './components/DistanceTable';
-import PriceBoxPlot from './components/PriceBoxPlot';
 import PriceHistogram from './components/PriceHistogram';
 import RoomsBarChart from './components/RoomsBarChart';
-import AvgAreaBar from './components/AvgAreaBar';
-import TopCommunities from './components/TopCommunities';
 import RentTypePie from './components/RentTypePie';
 import PriceVsArea from './components/PriceVsArea';
-import DirectionBar from './components/DirectionBar';
 import AdSlot from './components/AdSlot';
+import TopByRing from './components/TopByRing';
+import HeatmapCanvas from './components/HeatmapCanvas';
+import AnalysisReport from './components/AnalysisReport';
 import { WORKPLACES } from './utils/constants';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
+import { generateAnalysis } from './utils/analysis';
 
 const { Header, Content, Footer } = Layout;
 const { Title, Text, Paragraph } = Typography;
@@ -59,6 +58,16 @@ export default function App() {
 
   const overview = useMemo(() => getOverview(listings), [listings]);
 
+  const filteredListings = useMemo(() => {
+    const communityNames = new Set(enrichedStats.map((s) => s.name));
+    return listings.filter((l) => communityNames.has((l.community || '').trim()));
+  }, [listings, enrichedStats]);
+
+  const analysis = useMemo(
+    () => generateAnalysis({ overview, enrichedStats, filteredListings, workplace, maxDistance }),
+    [overview, enrichedStats, filteredListings, workplace, maxDistance],
+  );
+
   if (loading) {
     return (
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
@@ -73,9 +82,8 @@ export default function App() {
         <Title level={4} style={{ margin: 0 }}>租房雷达 · RentRadar</Title>
         <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
           <WorkplaceSelector value={workplace} onChange={setWorkplace} />
-          <div style={{ width: 200 }}>
-            <Text type="secondary">最大距离: {maxDistance}km</Text>
-            <Slider min={3} max={30} value={maxDistance} onChange={setMaxDistance} step={1} marks={{ 3: '3', 10: '10', 15: '15', 30: '30' }} />
+          <div style={{ width: 160, flexShrink: 0 }}>
+            <Slider min={3} max={30} value={maxDistance} onChange={setMaxDistance} step={1} marks={{ 3: '3km', 15: '15km', 30: '30km' }} />
           </div>
           {overview.scrapedAt && <Text type="secondary">数据: {overview.scrapedAt.split(' ')[0]}</Text>}
         </div>
@@ -91,7 +99,21 @@ export default function App() {
 
           <OverviewCards overview={overview} />
 
+          <AnalysisReport summary={analysis.summary} suggestions={analysis.suggestions} />
+
           <AdSlot slot="SLOT_TOP" format="horizontal" />
+
+          <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <Title level={5}>{workplace.name} 全景单价热力图</Title>
+            <HeatmapCanvas workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} />
+          </div>
+
+          <AdSlot slot="SLOT_MIDDLE" format="horizontal" />
+
+          <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <Title level={5}>各距离环性价比排行</Title>
+            <TopByRing enrichedStats={enrichedStats} listings={listings} />
+          </div>
 
           <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
             <Title level={5}>{workplace.name} 周边 {maxDistance}km 租房单价地图 ({enrichedStats.length} 个小区)</Title>
@@ -99,21 +121,25 @@ export default function App() {
           </div>
 
           <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={5}>按距离分层的小区列表</Title>
-            <DistanceTable enrichedStats={enrichedStats} listings={listings} />
-          </div>
-
-          <AdSlot slot="SLOT_MIDDLE" format="horizontal" />
-
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
-            <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><PriceBoxPlot data={listings} /></div>
-            <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><PriceHistogram data={listings} /></div>
-            <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><RoomsBarChart data={listings} /></div>
-            <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><AvgAreaBar data={listings} /></div>
-            <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><TopCommunities data={listings} /></div>
-            <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><RentTypePie data={listings} /></div>
-            <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><PriceVsArea data={listings} /></div>
-            <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><DirectionBar data={listings} /></div>
+            <Title level={5}>数据分析</Title>
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
+              <div>
+                <PriceHistogram data={filteredListings} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: 范围内 {filteredListings.length} 套房源月租金分布, 红线为均价</div>
+              </div>
+              <div>
+                <RoomsBarChart data={filteredListings} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: 范围内房源按板块统计各户型数量</div>
+              </div>
+              <div>
+                <RentTypePie data={filteredListings} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: 范围内房源整租/合租/其他类型占比</div>
+              </div>
+              <div>
+                <PriceVsArea data={filteredListings} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: 范围内房源面积与月租金关系, 帮助判断性价比</div>
+              </div>
+            </div>
           </div>
 
           <AdSlot slot="SLOT_BOTTOM" format="auto" />
@@ -133,7 +159,7 @@ export default function App() {
             1. 本站所有数据均基于公开信息进行统计分析，仅供个人参考与学习研究使用，不构成任何租房、投资或交易建议。
           </Paragraph>
           <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
-            2. 本站非链家官方网站，与链家网 (lianjia.com) 无任何关联。所展示的数据可能存在滞后、偏差或错误，请以官方平台实时信息为准。
+            2. 所展示的数据可能存在滞后、偏差或错误，请以各平台实时信息为准。
           </Paragraph>
           <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
             3. 本站通过广告收入维持运营，广告内容不代表本站立场。用户在参考本站信息做出任何决策前，应自行核实并承担相关风险。
