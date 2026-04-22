@@ -1,48 +1,40 @@
-# 链家租房数据采集与地理分析工具
+# 链家租房数据采集与可视化分析
 
-上海租房市场数据采集与可视化分析工具，聚焦浦东区域（张江、金桥、唐镇、川沙）及长宁区。通过 Playwright 浏览器自动化采集链家租房数据，结合腾讯位置服务 API 生成通勤距离单价地图。
+上海租房市场数据采集与可视化分析工具，聚焦浦东区域（张江、金桥、唐镇、川沙）及长宁区。通过 Playwright 浏览器自动化采集链家租房数据，结合腾讯位置服务 API 生成通勤距离单价地图，并提供 React 交互式前端看板。
 
-## 主要功能
+## 功能概览
 
-### lianjia_scraper.py — 数据采集与分析
-
-- **多区域爬取** — 支持张江、金桥、唐镇、川沙、长宁 5 个区域
+- **多区域爬取** — 张江、金桥、唐镇、川沙、长宁 5 个区域，支持断点续爬
 - **反检测机制** — 模拟人类滚动/鼠标移动、动态延迟、浏览器指纹伪装
-- **验证码自动处理** — 集成超级鹰自动识别极验验证码（最多 9 次），失败后通知手动处理
-- **断点续爬** — 中断后重新运行自动从上次位置继续
-- **数据去重与保存** — 输出 JSON + CSV，自动计算单价、添加经纬度
-- **数据分析** — 生成 8 张统计图表 + 控制台摘要报告
-
-### community_geo_map.py — 地图生成器
-
-- **通勤距离地图** — 以工作地点为圆心，按距离分层（3/5/8/10/15km）展示小区
-- **单价热力映射** — 圆点颜色映射单价（绿=便宜，红=贵）
-- **地理编码** — 腾讯位置服务 API 获取精确坐标，结果自动缓存到本地
-- **双格式输出** — 高清 PNG 静态图（5600x4400 像素）+ HTML 交互地图
-- **控制台报告** — 按距离分层打印各小区均价、单价统计
+- **验证码自动处理** — 集成超级鹰自动识别极验验证码，失败后通知手动处理
+- **数据分析** — 8 张统计图表 + 控制台摘要报告
+- **地图生成** — 高清 PNG 静态图 + HTML 交互地图，按距离分层展示小区单价
+- **前端看板** — React + Ant Design + ECharts + Leaflet 交互式可视化
+- **CI/CD** — GitHub Actions 自动部署到 GitHub Pages
 
 ## 快速开始
 
 ### 环境要求
 
 - Python 3.10
+- Node.js 20+
 - macOS（浏览器模式需要系统 Chrome）
 
 ### 安装依赖
 
 ```bash
-# 核心依赖
-python3.10 -m pip install playwright matplotlib folium
+# Python 依赖
+python3.10 -m pip install playwright matplotlib folium adjustText
 python3.10 -m playwright install chromium
 
-# 可选依赖
-python3.10 -m pip install adjustText              # 标签防重叠（推荐）
-python3.10 -m pip install browser-use langchain-openai  # AI Agent 模式
+# 可选: AI Agent 模式
+python3.10 -m pip install browser-use langchain-openai
+
+# 前端依赖
+cd frontend && npm install
 ```
 
-### 配置腾讯地图 API
-
-地理编码需要腾讯位置服务密钥。不配置也能运行，系统会回退到哈希散布算法生成近似坐标。
+### 配置 API 密钥
 
 ```bash
 cp .env.example .env
@@ -51,66 +43,115 @@ cp .env.example .env
 编辑 `.env` 填入：
 
 ```
-TENCENT_MAP_KEY=你的密钥
+TENCENT_MAP_KEY=你的密钥        # 腾讯位置服务（地图坐标，不配则用近似算法）
 TENCENT_MAP_SK=你的签名密钥
+CHAOJIYING_USER=超级鹰账号      # 验证码识别（可选）
+CHAOJIYING_PASS=超级鹰密码
+CHAOJIYING_SOFT_ID=软件ID
 ```
 
-API 密钥申请：[腾讯位置服务控制台](https://lbs.qq.com/)
+- 腾讯位置服务：[lbs.qq.com](https://lbs.qq.com/)
+- 超级鹰验证码：[chaojiying.com](https://www.chaojiying.com/)
 
-### 典型工作流程
+### 一键运行
 
 ```bash
-# 一键完成：爬取 + 分析 + 生成地图
+# 完整流程：爬取 + 分析 + 生成地图
 python3.10 run_all.py --areas all --workplace 张江国创
 
 # 仅生成地图（使用已有数据）
 python3.10 run_all.py --skip-scrape --workplace 金桥
 
-# 仅爬取分析（不生成地图）
+# 仅爬取（不生成地图）
 python3.10 run_all.py --areas zhangjiang --skip-map
 ```
 
-也可以分步执行：
+### 启动前端看板
 
 ```bash
-python3.10 lianjia_scraper.py --areas all
-python3.10 community_geo_map.py --workplace 张江国创
+cd frontend
+npm run dev
+```
+
+`npm run dev` 会自动执行数据准备脚本（从 `output/` 取最新数据复制到 `frontend/public/data/`），然后启动 Vite 开发服务器。打开 http://localhost:5173 查看看板。
+
+## 项目结构
+
+```
+lianjia/
+├── run_all.py                     # 一键运行入口
+├── lianjia_scraper.py             # 爬虫入口（兼容）
+├── community_geo_map.py           # 地图生成入口（兼容）
+├── chaojiying.py                  # 超级鹰验证码 API 客户端
+├── requirements.txt               # Python 依赖
+├── scraper/                       # 爬虫核心模块
+│   ├── config.py                  #   配置常量（区域、工作地点、颜色）
+│   ├── pipeline.py                #   流水线编排（爬取→保存→分析→地图）
+│   ├── scraper_core.py            #   爬取引擎（Playwright 浏览器自动化）
+│   ├── browser_helpers.py         #   浏览器上下文与人类行为模拟
+│   ├── captcha.py                 #   验证码自动识别（GeeTest v4 + 超级鹰）
+│   ├── storage.py                 #   数据持久化（JSON/CSV、断点续爬）
+│   ├── geo.py                     #   地理编码（腾讯 API + 本地缓存）
+│   ├── map_generator.py           #   地图生成（PNG 静态图 + HTML 交互）
+│   ├── analyzer.py                #   数据分析（8 张 matplotlib 图表）
+│   ├── retry.py                   #   重试机制与错误日志
+│   └── utils.py                   #   工具函数（日志、去重、通知）
+├── frontend/                      # React 前端可视化
+│   ├── src/
+│   │   ├── App.jsx                #   主布局（数据加载 + 组件编排）
+│   │   ├── components/
+│   │   │   ├── CommunityMap.jsx   #     Leaflet 地图（高德底图 + 距离环 + 小区标注）
+│   │   │   ├── OverviewCards.jsx  #     总览卡片（房源数、均价、单价）
+│   │   │   ├── DistanceTable.jsx  #     距离分层表格
+│   │   │   ├── PriceBoxPlot.jsx   #     各区域价格箱线图
+│   │   │   ├── PriceHistogram.jsx #     价格直方图
+│   │   │   ├── RoomsBarChart.jsx  #     户型分布柱状图
+│   │   │   ├── AvgAreaBar.jsx     #     各区域平均面积
+│   │   │   ├── TopCommunities.jsx #     热门小区排行
+│   │   │   ├── RentTypePie.jsx    #     租赁类型饼图
+│   │   │   ├── PriceVsArea.jsx    #     价格 vs 面积散点图
+│   │   │   ├── DirectionBar.jsx   #     朝向分布
+│   │   │   └── WorkplaceSelector.jsx #  工作地点选择器
+│   │   └── utils/
+│   │       ├── constants.js       #     前端常量（区域、工作地点、颜色）
+│   │       ├── haversine.js       #     Haversine 距离计算
+│   │       └── stats.js           #     统计聚合与距离筛选
+│   ├── public/data/               #   静态数据文件
+│   ├── vite.config.js             #   Vite 配置
+│   └── package.json               #   前端依赖与脚本
+├── scripts/
+│   ├── prepare_data.js            #   数据准备（复制最新数据到前端）
+│   └── deploy.sh                  #   GitHub Pages 部署脚本
+├── .github/workflows/deploy.yml   #   GitHub Actions CI/CD
+├── .env                           #   API 密钥（不入库）
+├── .env.example                   #   API 密钥模板
+└── output/                        #   输出目录（数据、地图、图表、日志）
 ```
 
 ## 操作手册
 
-### 零、一键运行 (run_all.py)
-
-串行调用爬虫和地图生成器，一个命令完成全流程。
-
-```bash
-# 完整流程
-python3.10 run_all.py --areas all --workplace 张江国创
-
-# 指定数据文件生成地图
-python3.10 run_all.py --skip-scrape --data output/lianjia_all_xxx.json --workplace 金桥
-
-# 多工作地点对比
-python3.10 run_all.py --skip-scrape --workplace 张江国创
-python3.10 run_all.py --skip-scrape --workplace 金桥 --max-distance 10
-```
+### 爬虫参数
 
 | 参数 | 默认值 | 说明 |
 |------|--------|------|
-| `--areas` | `all` | 爬取区域 |
+| `--areas` | `all` | 爬取区域：`all` 或逗号分隔（如 `zhangjiang,jinqiao`） |
 | `--max-pages` | `100` | 每区域最大页数 |
-| `--mode` | `browser` | 爬取模式 |
-| `--format` | `both` | 输出格式 |
-| `--workplace` | `张江国创` | 工作地点 |
-| `--max-distance` | `15` | 最大距离 km |
-| `--max-labels` | `200` | 标注小区数 |
+| `--mode` | `browser` | 爬取模式：`browser`（浏览器）或 `agent`（AI） |
+| `--format` | `both` | 输出格式：`json` / `csv` / `both` |
+| `--model` | `gpt-4o` | Agent 模式使用的 LLM |
+
+### 地图参数
+
+| 参数 | 默认值 | 说明 |
+|------|--------|------|
+| `--workplace` | `张江国创` | 工作地点：中文名 / 拼音 key / 经纬度坐标 |
+| `--max-distance` | `15` | 最大距离（km） |
+| `--max-labels` | `200` | 图片标注小区数，0=全部 |
 | `--skip-scrape` | — | 跳过爬取，仅生成地图 |
 | `--skip-map` | — | 跳过地图，仅爬取分析 |
-| `--data` | 自动查找 | 指定数据文件 |
+| `--data` | 自动查找最新 | 指定数据文件 |
 
-### 一、数据采集 (lianjia_scraper.py)
-
-#### 支持区域
+### 支持区域
 
 | slug | 中文名 |
 |------|--------|
@@ -120,57 +161,41 @@ python3.10 run_all.py --skip-scrape --workplace 金桥 --max-distance 10
 | `chuansha` | 川沙 |
 | `changning` | 长宁 |
 
-#### 常用命令
+### 预定义工作地点
 
-```bash
-# 爬取所有区域
-python3.10 lianjia_scraper.py --areas all
+| 名称 | 拼音 key | 地址 |
+|------|----------|------|
+| 张江国创中心 | `zhangjiang` | 丹桂路899号 |
+| 张江国创二期 | `zhangjiang_2` | 张江国创中心二期 |
+| 金桥开发区 | `jinqiao` | 金桥经济技术开发区 |
+| 唐镇 | `tangzhen` | 唐镇中心 |
+| 川沙 | `chuansha` | 川沙新镇 |
 
-# 爬取指定区域，限制页数
-python3.10 lianjia_scraper.py --areas zhangjiang,jinqiao --max-pages 20
+支持中文模糊匹配（如输入"张江"匹配"张江国创中心"），也支持直接传入经纬度：`--workplace "31.22,121.54"`
 
-# 仅分析已有数据（不爬取）
-python3.10 lianjia_scraper.py --analyze output/lianjia_all_20260422_143000.json
-
-# AI Agent 模式（需要 OPENAI_API_KEY）
-OPENAI_API_KEY="sk-xxx" python3.10 lianjia_scraper.py --mode agent --areas all
-
-# 仅输出 CSV
-python3.10 lianjia_scraper.py --areas zhangjiang --format csv
-```
-
-#### 参数说明
-
-| 参数 | 默认值 | 说明 |
-|------|--------|------|
-| `--mode` | `browser` | 爬取模式：`browser`（浏览器）或 `agent`（AI） |
-| `--areas` | `all` | 区域，逗号分隔，或 `all` |
-| `--max-pages` | `100` | 每区域最大页数 |
-| `--format` | `both` | 输出格式：`json` / `csv` / `both` |
-| `--model` | `gpt-4o` | Agent 模式使用的 LLM |
-| `--analyze` | — | 仅分析模式，指定 JSON 文件路径 |
-
-#### 输出文件
+### 输出文件
 
 ```
 output/
+├── lianjia_all_20260422_143000.json          # 全区域合并数据
+├── lianjia_all_20260422_143000.csv           # CSV 格式
 ├── lianjia_zhangjiang_20260422_143000.json   # 单区域数据
-├── lianjia_all_20260422_143000.json           # 合并数据
-├── lianjia_all_20260422_143000.csv            # CSV 格式
-├── lianjia_zhangjiang.partial.json            # 断点文件（完成后自动删除）
-├── scraper.log                                # 运行日志
+├── community_geo_cache.json                  # 地理编码缓存
+├── community_map_张江国创中心_*.png           # 高清静态地图（5600x4400）
+├── community_map_张江国创中心_*.html          # 交互式 HTML 地图
+├── scraper.log                               # 运行日志
 └── charts/
-    ├── 1_price_by_region.png                  # 各区域价格箱线图
-    ├── 2_price_histogram.png                  # 整体价格直方图
-    ├── 3_rooms_by_region.png                  # 户型分布
-    ├── 4_avg_area_by_region.png               # 各区域平均面积
-    ├── 5_top_communities.png                  # 热门小区 TOP15
-    ├── 6_rent_type_pie.png                    # 租赁类型饼图
-    ├── 7_price_vs_area.png                    # 价格 vs 面积散点图
-    └── 8_direction_by_region.png              # 朝向分布
+    ├── 1_price_by_region.png                 # 各区域价格箱线图
+    ├── 2_price_histogram.png                 # 整体价格直方图
+    ├── 3_rooms_by_region.png                 # 户型分布
+    ├── 4_avg_area_by_region.png              # 各区域平均面积
+    ├── 5_top_communities.png                 # 热门小区 TOP15
+    ├── 6_rent_type_pie.png                   # 租赁类型饼图
+    ├── 7_price_vs_area.png                   # 价格 vs 面积散点图
+    └── 8_direction_by_region.png             # 朝向分布
 ```
 
-#### 数据字段
+### 数据字段
 
 | 字段 | 说明 |
 |------|------|
@@ -190,137 +215,81 @@ output/
 | `scraped_at` | 采集时间 |
 | `lat` / `lng` | 经纬度 |
 
-### 二、地图生成 (community_geo_map.py)
+## 前端看板
 
-#### 预定义工作地点
+基于 React 19 + Ant Design 6 + ECharts 6 + Leaflet 的交互式可视化前端。
 
-| 名称 | 拼音 key | 地址 |
-|------|----------|------|
-| 张江国创中心 | `zhangjiang` | 丹桂路899号 |
-| 张江国创二期 | `zhangjiang_2` | 张江国创中心二期 |
-| 金桥开发区 | `jinqiao` | 金桥经济技术开发区 |
-| 唐镇 | `tangzhen` | 唐镇中心 |
-| 川沙 | `chuansha` | 川沙新镇 |
+### 技术栈
 
-支持中文模糊匹配（如输入"张江"匹配"张江国创中心"），也支持直接传入经纬度坐标。
+- **框架**：React 19 + Vite 8
+- **UI**：Ant Design 6
+- **图表**：ECharts 6（echarts-for-react）
+- **地图**：Leaflet + react-leaflet，底图使用高德地图瓦片
+- **语言**：JavaScript（ES Module）
 
-#### 常用命令
+### 功能模块
+
+- **工作地点选择** — 预定义地点下拉切换
+- **距离滑块** — 3~30km 范围筛选
+- **总览卡片** — 房源总数、小区数、平均月租、平均单价
+- **交互式地图** — 高德底图 + 距离环 + 小区标注（红色字体显示名称与单价）
+- **距离分层表格** — 按距离排序，展示各小区详细数据
+- **8 张统计图表** — 价格箱线图、直方图、户型分布、面积对比、热门小区、租赁类型、价格面积散点、朝向分布
+
+### 数据流
+
+前端加载两个静态 JSON 文件，由 `scripts/prepare_data.js` 从 `output/` 目录聚合生成：
+
+| 前端文件 | 数据来源 | 说明 |
+|----------|----------|------|
+| `listings.json` | `output/lianjia_all_*.json`（取时间戳最新的一个） | 全区域房源合并数据，由爬虫 `--areas all` 生成 |
+| `geo_cache.json` | `output/community_geo_cache.json` | 小区名称→经纬度映射，由腾讯地图 API + 本地缓存积累 |
+
+数据聚合规则：
+1. `prepare_data.js` 在 `output/` 下查找 `lianjia_all_*.json`（按文件名排序取最新的一个）
+2. 如果没有 `lianjia_all_*` 文件，降级查找任意 `lianjia_*.json`
+3. 将找到的文件复制为 `frontend/public/data/listings.json`
+4. 同时复制 `community_geo_cache.json` → `frontend/public/data/geo_cache.json`
+
+```mermaid
+graph LR
+    A["爬虫采集<br/>output/lianjia_all_时间戳.json"] -->|"prepare_data.js<br/>取最新文件"| B["frontend/public/data/listings.json"]
+    C["output/community_geo_cache.json"] -->|"prepare_data.js<br/>直接复制"| D["frontend/public/data/geo_cache.json"]
+    B --> E["前端加载"]
+    D --> E
+    E --> F["地图 / 图表 / 表格"]
+```
+
+手动准备数据：
 
 ```bash
-# 默认以张江国创为中心，15km 范围
-python3.10 community_geo_map.py
-
-# 指定工作地点（支持中文名模糊匹配）
-python3.10 community_geo_map.py --workplace 张江国创
-python3.10 community_geo_map.py --workplace 金桥
-python3.10 community_geo_map.py --workplace 唐镇 --max-distance 15
-
-# 自定义坐标
-python3.10 community_geo_map.py --workplace "31.22,121.54" --workplace-name "我的公司"
-
-# 仅控制台报告（不生成图片）
-python3.10 community_geo_map.py --dry-run
-
-# 强制刷新所有小区坐标
-python3.10 community_geo_map.py --refresh-geo
-
-# 标注全部小区
-python3.10 community_geo_map.py --max-labels 0
-
-# 指定数据文件
-python3.10 community_geo_map.py --data output/lianjia_all_20260422_143000.json
-```
-
-#### 参数说明
-
-| 参数 | 默认值 | 说明 |
-|------|--------|------|
-| `--workplace` | `张江国创` | 工作地点：中文名/拼音key/经纬度 |
-| `--workplace-name` | — | 自定义显示名 |
-| `--data` | 自动查找最新 | 数据文件路径 |
-| `--max-distance` | `15` | 最大距离（km） |
-| `--max-labels` | `200` | 图片标注小区数，0=全部 |
-| `--dry-run` | — | 仅打印报告，不生成图片 |
-| `--refresh-geo` | — | 清除坐标缓存，重新获取 |
-
-#### 输出文件
-
-```
-output/
-├── community_geo_cache.json                        # 地理编码缓存
-├── community_map_张江国创中心_20260422_143000.png   # 高清静态地图
-└── community_map_张江国创中心_20260422_143000.html  # 交互式 HTML 地图
-```
-
-#### 距离环说明
-
-| 距离 | 颜色 | 含义 |
-|------|------|------|
-| 0-3km | 绿色 | 步行可达 |
-| 3-5km | 深绿 | 骑行/短途 |
-| 5-8km | 橙色 | 短途公交 |
-| 8-10km | 深橙 | 公交 |
-| 10-15km | 红色 | 需地铁 |
-
-## 项目结构
-
-```
-lianjia/
-├── run_all.py                  # 一键运行脚本（爬取 + 分析 + 地图）
-├── lianjia_scraper.py          # 数据采集脚本（爬虫 + 分析）
-├── community_geo_map.py        # 地图生成脚本（PNG + HTML）
-├── requirements.txt            # Python 依赖
-├── scripts/
-│   └── prepare_data.js         # 前端数据准备（复制 JSON 到 frontend/public）
-├── frontend/                   # React 前端可视化项目
-│   ├── src/
-│   │   ├── App.jsx             # 主布局
-│   │   ├── components/         # 图表、地图、表格等组件
-│   │   └── utils/              # 工具函数（距离计算、统计聚合）
-│   ├── public/data/            # 静态数据文件
-│   └── package.json
-├── .env                        # API 密钥配置（不入库）
-├── .env.example                # API 密钥配置模板
-├── .browser_data/              # 浏览器持久化数据（不入库）
-├── output/                     # 输出目录
-│   ├── lianjia_*.json/csv      # 爬取数据
-│   ├── community_map_*.png     # 静态地图
-│   ├── community_map_*.html    # 交互地图
-│   ├── community_geo_cache.json # 地理编码缓存
-│   ├── scraper.log             # 运行日志
-│   └── charts/                 # 统计图表
-└── README.md                   # 本文件
-```
-
-## 前端可视化
-
-基于 React + Ant Design + ECharts + Leaflet 的交互式可视化前端。
-
-### 快速启动
-
-```bash
-# 1. 准备数据（将最新爬取数据复制到前端 public 目录）
+# 方式一：运行 prepare_data.js（推荐）
 node scripts/prepare_data.js
 
-# 2. 启动开发服务器
-cd frontend
-npm install
-npm run dev
-# 打开 http://localhost:5173
+# 方式二：手动复制指定文件
+cp output/lianjia_all_20260422_170248.json frontend/public/data/listings.json
+cp output/community_geo_cache.json frontend/public/data/geo_cache.json
+
+# 方式三：通过 npm run dev 自动准备并启动（内部调用 prepare_data.js）
+cd frontend && npm run dev
 ```
 
-### 前端功能
+### 部署
 
-- **工作地点选择** — 预定义地点 + 自定义坐标
-- **总览卡片** — 房源总数、小区数、平均月租、平均单价
-- **交互式地图** — Leaflet 距离环 + 小区散点（颜色=单价，大小=房源数）
-- **距离表格** — 按距离分层，支持排序和筛选
-- **8 张统计图表** — 价格分布、户型、热门小区、租赁类型等
+```bash
+# 手动部署到 GitHub Pages
+bash scripts/deploy.sh
+
+# 或推送 main 分支自动触发 GitHub Actions
+git push
+```
+
+GitHub Actions 工作流（`.github/workflows/deploy.yml`）会在 `frontend/` 或 `scripts/` 变更时自动构建并部署到 GitHub Pages。
 
 ## 注意事项
 
-1. **爬取频率**：浏览器模式已内置人类行为模拟和动态延迟，请勿过于频繁运行
-2. **验证码**：若触发验证码，需在弹出的浏览器窗口中手动完成；已配置超级鹰（`chaojiying.py`）则自动识别
-3. **浏览器数据**：`.browser_data/` 保存登录状态，删除后需重新登录
-4. **API 配额**：腾讯地图 API 有调用限制，已通过缓存机制（`community_geo_cache.json`）最小化调用次数
-5. **数据隐私**：`.env` 文件含 API 密钥，已配置 `.gitignore` 不提交到仓库
+1. **爬取频率** — 浏览器模式已内置人类行为模拟和动态延迟，请勿过于频繁运行
+2. **验证码** — 触发验证码时自动尝试超级鹰识别，失败后弹出浏览器窗口等待手动完成
+3. **浏览器数据** — `.browser_data/` 保存登录状态，删除后需重新登录
+4. **API 配额** — 腾讯地图 API 有调用限制，已通过 `community_geo_cache.json` 缓存最小化调用次数
+5. **数据隐私** — `.env` 文件含 API 密钥，已配置 `.gitignore` 不提交到仓库
