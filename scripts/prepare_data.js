@@ -58,7 +58,12 @@ function main() {
     console.log('  geo_cache.json (未找到，跳过)');
   }
 
-  console.log('\n完成! 运行 cd frontend && npm run dev 启动前端');
+  console.log('\n完成!');
+  console.log('');
+  console.log('下一步:');
+  console.log('  git add frontend/public/data/');
+  console.log('  git commit -m "Update rental data"');
+  console.log('  git push   # 触发 GitHub Actions 自动部署');
 }
 
 main();
