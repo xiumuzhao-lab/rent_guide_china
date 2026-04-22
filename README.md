@@ -270,6 +270,15 @@ lianjia/
 ├── lianjia_scraper.py          # 数据采集脚本（爬虫 + 分析）
 ├── community_geo_map.py        # 地图生成脚本（PNG + HTML）
 ├── requirements.txt            # Python 依赖
+├── scripts/
+│   └── prepare_data.js         # 前端数据准备（复制 JSON 到 frontend/public）
+├── frontend/                   # React 前端可视化项目
+│   ├── src/
+│   │   ├── App.jsx             # 主布局
+│   │   ├── components/         # 图表、地图、表格等组件
+│   │   └── utils/              # 工具函数（距离计算、统计聚合）
+│   ├── public/data/            # 静态数据文件
+│   └── package.json
 ├── .env                        # API 密钥配置（不入库）
 ├── .env.example                # API 密钥配置模板
 ├── .browser_data/              # 浏览器持久化数据（不入库）
@@ -282,6 +291,31 @@ lianjia/
 │   └── charts/                 # 统计图表
 └── README.md                   # 本文件
 ```
+
+## 前端可视化
+
+基于 React + Ant Design + ECharts + Leaflet 的交互式可视化前端。
+
+### 快速启动
+
+```bash
+# 1. 准备数据（将最新爬取数据复制到前端 public 目录）
+node scripts/prepare_data.js
+
+# 2. 启动开发服务器
+cd frontend
+npm install
+npm run dev
+# 打开 http://localhost:5173
+```
+
+### 前端功能
+
+- **工作地点选择** — 预定义地点 + 自定义坐标
+- **总览卡片** — 房源总数、小区数、平均月租、平均单价
+- **交互式地图** — Leaflet 距离环 + 小区散点（颜色=单价，大小=房源数）
+- **距离表格** — 按距离分层，支持排序和筛选
+- **8 张统计图表** — 价格分布、户型、热门小区、租赁类型等
 
 ## 注意事项
 
