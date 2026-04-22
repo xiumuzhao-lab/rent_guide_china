@@ -70,7 +70,7 @@ export default function App() {
   return (
     <Layout style={{ minHeight: '100vh' }}>
       <Header style={{ background: '#fff', borderBottom: '1px solid #f0f0f0', padding: '0 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 64 }}>
-        <Title level={4} style={{ margin: 0 }}>链家租房分析</Title>
+        <Title level={4} style={{ margin: 0 }}>租房雷达 · RentRadar</Title>
         <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
           <WorkplaceSelector value={workplace} onChange={setWorkplace} />
           <div style={{ width: 200 }}>
