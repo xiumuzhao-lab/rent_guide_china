@@ -1,0 +1,22 @@
+# 链家租房工具集依赖
+# 安装: pip install -r requirements.txt
+
+# --- 爬虫 ---
+# Browser Use (AI 浏览器自动化, 可选)
+browser-use>=0.1.0
+
+# LLM 接口 (Agent 模式需要, browser 模式不需要)
+langchain-openai>=0.1.0
+
+# 浏览器引擎
+playwright>=1.40.0
+# 安装浏览器: playwright install chromium
+
+# --- 地图生成 ---
+folium>=0.14.0
+
+# --- 标签防重叠 (强烈推荐) ---
+adjustText>=1.1.0
+
+# --- 数据分析 (通常已内置) ---
+matplotlib>=3.5.0
