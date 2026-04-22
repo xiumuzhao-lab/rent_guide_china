@@ -85,12 +85,12 @@ export default function App() {
 
           <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
             <Title level={5}>{workplace.name} 周边 {maxDistance}km 租房单价地图 ({enrichedStats.length} 个小区)</Title>
-            <CommunityMap workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} />
+            <CommunityMap workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} listings={listings} />
           </div>
 
           <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
             <Title level={5}>按距离分层的小区列表</Title>
-            <DistanceTable enrichedStats={enrichedStats} />
+            <DistanceTable enrichedStats={enrichedStats} listings={listings} />
           </div>
 
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>

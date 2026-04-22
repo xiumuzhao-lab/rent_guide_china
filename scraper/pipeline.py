@@ -30,6 +30,7 @@ from scraper.scraper_core import (
     scrape_with_browser,
 )
 from scraper.storage import (
+    clear_all_partials,
     enrich_with_geo,
     save_results,
 )
@@ -250,6 +251,9 @@ async def run_pipeline(args):
 
     # ---- Step 1: 爬取 ----
     if not args.skip_scrape:
+        if args.fresh:
+            clear_all_partials()
+
         area_names = [REGIONS[a]['name'] for a in args.selected_areas]
         logger.info(f"区域: {', '.join(area_names)}")
 
@@ -409,6 +413,8 @@ def parse_args(argv=None):
     ctrl_group = parser.add_argument_group('控制参数')
     ctrl_group.add_argument('--skip-scrape', action='store_true',
                             help='跳过爬取')
+    ctrl_group.add_argument('--fresh', action='store_true',
+                            help='清除所有断点数据，从头爬取')
     ctrl_group.add_argument('--skip-map', action='store_true',
                             help='跳过地图')
     ctrl_group.add_argument('--data', type=str, default=None,
@@ -429,10 +435,10 @@ def parse_args(argv=None):
     else:
         args.selected_areas = [a.strip() for a in args.areas.split(',')]
 
-    invalid = [a for a in args.selected_areas if a not in REGIONS]
-    if invalid:
-        logger.error(f'未知区域: {invalid}，可选: {ALL_REGIONS}')
-        sys.exit(1)
+    # 动态注册未知区域 (slug 作为显示名)
+    for slug in args.selected_areas:
+        if slug not in REGIONS:
+            REGIONS[slug] = {'name': slug, 'slug': slug}
 
     return args
 

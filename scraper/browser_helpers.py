@@ -101,6 +101,34 @@ EXTRACT_JS = """
 }
 """
 
+# 提取页面上的子区域链接 (用于大区域下钻)
+EXTRACT_SUBAREAS_JS = """
+() => {
+    // 链家区域筛选栏中的子区域链接
+    const links = document.querySelectorAll(
+        '[class*="filter"] a[href*="/zufang/"], '
+        + '[class*="area"] a[href*="/zufang/"], '
+        + '[data-el="region"] a'
+    );
+    const results = [];
+    const seen = new Set();
+    for (const a of links) {
+        const href = a.getAttribute('href') || '';
+        // 匹配 /zufang/xxx/yyy/ 格式的子区域链接 (两级以上路径)
+        const match = href.match(/\\/zufang\\/([^/]+)\\/([^/]+)\\/?$/);
+        if (match && !seen.has(match[2])) {
+            seen.add(match[2]);
+            results.push({
+                slug: match[2],
+                name: (a.textContent || '').trim(),
+                url: 'https://sh.lianjia.com' + href,
+            });
+        }
+    }
+    return results;
+}
+"""
+
 
 # ============================================================
 # 浏览器上下文创建
@@ -168,13 +196,13 @@ async def human_scroll(page):
         page: Playwright Page 对象
     """
     try:
-        for _ in range(random.randint(1, 3)):
-            scroll_y = random.randint(200, 500)
+        for _ in range(random.randint(1, 2)):
+            scroll_y = random.randint(200, 400)
             await page.evaluate(f"window.scrollBy(0, {scroll_y})")
-            await asyncio.sleep(random.uniform(0.2, 0.5))
-        await asyncio.sleep(random.uniform(0.1, 0.3))
+            await asyncio.sleep(random.uniform(0.1, 0.3))
+        await asyncio.sleep(random.uniform(0.05, 0.15))
         await page.evaluate("window.scrollTo(0, 0)")
-        await asyncio.sleep(random.uniform(0.1, 0.2))
+        await asyncio.sleep(random.uniform(0.05, 0.1))
     except Exception:
         pass
 
@@ -187,11 +215,11 @@ async def human_mouse_move(page):
         page: Playwright Page 对象
     """
     try:
-        for _ in range(random.randint(1, 3)):
+        for _ in range(random.randint(1, 2)):
             x = random.randint(100, 1300)
             y = random.randint(100, 800)
-            await page.mouse.move(x, y, steps=random.randint(5, 15))
-            await asyncio.sleep(random.uniform(0.1, 0.3))
+            await page.mouse.move(x, y, steps=random.randint(3, 8))
+            await asyncio.sleep(random.uniform(0.05, 0.15))
     except Exception:
         pass
 
@@ -220,7 +248,7 @@ def get_page_delay(page_num: int, had_captcha: bool = False) -> float:
     """
     根据页码动态计算延迟.
 
-    越往后延迟越长，模拟人类疲劳；验证码后额外休息；每5页长休息。
+    越往后延迟越长，模拟人类疲劳；验证码后额外休息。
 
     Args:
         page_num: 当前页码
@@ -229,13 +257,11 @@ def get_page_delay(page_num: int, had_captcha: bool = False) -> float:
     Returns:
         float: 延迟秒数
     """
-    base = random.uniform(2.0, 5.0)
-    if page_num > 3:
-        base += (page_num - 3) * random.uniform(0.2, 0.5)
+    base = random.uniform(1.0, 2.5)
+    if page_num > 5:
+        base += (page_num - 5) * random.uniform(0.1, 0.3)
     if had_captcha:
-        base += random.uniform(3, 8)
-    if page_num % 5 == 0:
-        base += random.uniform(8, 15)
-    if random.random() < 0.08:
         base += random.uniform(2, 4)
+    if page_num % 10 == 0:
+        base += random.uniform(3, 6)
     return base

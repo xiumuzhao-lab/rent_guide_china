@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.10
 """
 超级鹰验证码识别 API 客户端
 
@@ -28,6 +28,7 @@ REPORT_URL = "http://upload.chaojiying.net/Upload/ReportError.php"
 # 常用验证码类型
 CODETYPE_SLIDER = 9101          # 滑块/坐标型 (返回 "x" 或 "x,y")
 CODETYPE_CLICK_MULTI = 9102    # 多坐标点选型 (返回 "x1,y1|x2,y2|...")
+CODETYPE_CLICK_3 = 9103        # 固定3坐标点选型 (极验GeeTest点选)
 CODETYPE_TEXT_4 = 1902         # 4位英文数字
 CODETYPE_TEXT_6 = 1905         # 6位英文数字
 

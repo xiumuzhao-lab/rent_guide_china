@@ -1,8 +1,9 @@
-import { useEffect, useRef, useCallback } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { MapContainer, TileLayer, Circle, Marker, Tooltip, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { DISTANCE_RINGS, RING_COLORS } from '../utils/constants';
+import CommunityListings from './CommunityListings';
 
 const workplaceIcon = new L.DivIcon({
   html: '<div style="color:#e74c3c;font-size:28px;text-shadow:0 0 3px white,0 0 3px white"><b>★</b></div>',
@@ -35,7 +36,7 @@ function FitBounds({ points }) {
   return null;
 }
 
-function CommunityLayer({ enrichedStats, minUP, maxUP }) {
+function CommunityLayer({ enrichedStats, minUP, maxUP, onCommunityClick }) {
   const map = useMap();
   const layerRef = useRef(null);
 
@@ -74,6 +75,7 @@ function CommunityLayer({ enrichedStats, minUP, maxUP }) {
         </div>`,
         { direction: 'top', offset: [0, -5] },
       );
+      marker.on('click', () => onCommunityClick(stat.name));
     }
 
     group.addTo(map);
@@ -85,12 +87,14 @@ function CommunityLayer({ enrichedStats, minUP, maxUP }) {
         layerRef.current = null;
       }
     };
-  }, [map, enrichedStats, minUP, maxUP]);
+  }, [map, enrichedStats, minUP, maxUP, onCommunityClick]);
 
   return null;
 }
 
-export default function CommunityMap({ workplace, enrichedStats, maxDistance }) {
+export default function CommunityMap({ workplace, enrichedStats, maxDistance, listings }) {
+  const [selected, setSelected] = useState(null);
+
   if (!workplace || enrichedStats.length === 0) return null;
 
   const unitPrices = enrichedStats.map((s) => s.avgUnitPrice).filter(Boolean);
@@ -100,48 +104,62 @@ export default function CommunityMap({ workplace, enrichedStats, maxDistance }) 
   const visibleRings = DISTANCE_RINGS.filter((r) => r <= maxDistance);
 
   return (
-    <MapContainer
-      center={[workplace.lat, workplace.lng]}
-      zoom={12}
-      style={{ height: 500, width: '100%', borderRadius: 8 }}
-    >
-      <FitBounds
-        points={[
-          { lat: workplace.lat, lng: workplace.lng },
-          ...enrichedStats,
-        ]}
-      />
-      <TileLayer
-        attribution='&copy; 高德地图'
-        url="https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}"
-        subdomains={['1', '2', '3', '4']}
-      />
-
-      {/* 距离环 */}
-      {visibleRings.map((rKm) => (
-        <Circle
-          key={rKm}
-          center={[workplace.lat, workplace.lng]}
-          radius={rKm * 1000}
-          pathOptions={{
-            color: RING_COLORS[rKm] || '#95a5a6',
-            fillColor: 'none',
-            weight: 1.5,
-            dashArray: '6,4',
-            fillOpacity: 0,
-          }}
+    <>
+      <MapContainer
+        center={[workplace.lat, workplace.lng]}
+        zoom={12}
+        style={{ height: 500, width: '100%', borderRadius: 8 }}
+      >
+        <FitBounds
+          points={[
+            { lat: workplace.lat, lng: workplace.lng },
+            ...enrichedStats,
+          ]}
         />
-      ))}
+        <TileLayer
+          attribution='&copy; 高德地图'
+          url="https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}"
+          subdomains={['1', '2', '3', '4']}
+        />
 
-      {/* 工作地点 */}
-      <Marker position={[workplace.lat, workplace.lng]} icon={workplaceIcon}>
-        <Tooltip permanent direction="bottom" offset={[0, 10]}>
-          <b>{workplace.name}</b>
-        </Tooltip>
-      </Marker>
+        {/* 距离环 */}
+        {visibleRings.map((rKm) => (
+          <Circle
+            key={rKm}
+            center={[workplace.lat, workplace.lng]}
+            radius={rKm * 1000}
+            pathOptions={{
+              color: RING_COLORS[rKm] || '#95a5a6',
+              fillColor: 'none',
+              weight: 1.5,
+              dashArray: '6,4',
+              fillOpacity: 0,
+            }}
+          />
+        ))}
 
-      {/* 小区标注 — 原生 Leaflet 批量渲染 */}
-      <CommunityLayer enrichedStats={enrichedStats} minUP={minUP} maxUP={maxUP} />
-    </MapContainer>
+        {/* 工作地点 */}
+        <Marker position={[workplace.lat, workplace.lng]} icon={workplaceIcon}>
+          <Tooltip permanent direction="bottom" offset={[0, 10]}>
+            <b>{workplace.name}</b>
+          </Tooltip>
+        </Marker>
+
+        {/* 小区标注 */}
+        <CommunityLayer
+          enrichedStats={enrichedStats}
+          minUP={minUP}
+          maxUP={maxUP}
+          onCommunityClick={setSelected}
+        />
+      </MapContainer>
+
+      <CommunityListings
+        visible={!!selected}
+        community={selected}
+        listings={listings}
+        onClose={() => setSelected(null)}
+      />
+    </>
   );
 }

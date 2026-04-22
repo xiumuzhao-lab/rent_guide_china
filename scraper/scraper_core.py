@@ -32,6 +32,7 @@ from scraper.utils import (
 from scraper.retry import error_log
 from scraper.browser_helpers import (
     EXTRACT_JS,
+    EXTRACT_SUBAREAS_JS,
     create_browser_context,
     get_page_delay,
     human_mouse_move,
@@ -123,13 +124,13 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
                 logger.error("等待超时")
                 return all_listings, False
             had_captcha = True
-            await asyncio.sleep(3)
+            await asyncio.sleep(2)
             if f'/zufang/{area_slug}' not in page.url:
                 try:
                     await page.goto(base_url, wait_until='load', timeout=30000)
                 except Exception:
-                    await asyncio.sleep(2)
-                await asyncio.sleep(2)
+                    await asyncio.sleep(1)
+                await asyncio.sleep(1)
     else:
         url = get_area_url(area_slug, start_page)
         logger.info(f"续爬 {region_name}，从第 {start_page} 页开始...")
@@ -138,7 +139,7 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
             await page.goto(url, wait_until='domcontentloaded', timeout=30000)
         await _retry_page_operation(page, f"续爬{region_name}", _goto_resume)
         await human_scroll(page)
-        await asyncio.sleep(2)
+        await asyncio.sleep(1)
 
     # 逐页爬取
     for page_num in range(start_page, max_pages + 1):
@@ -186,7 +187,7 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
                                  page_num)
                     return all_listings, False
                 had_captcha = True
-                await asyncio.sleep(2)
+                await asyncio.sleep(1)
                 if f'/zufang/{area_slug}' not in page.url:
                     async def _recover(_url=url):
                         await page.goto(_url, wait_until='domcontentloaded',
@@ -198,9 +199,9 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
             # 等待列表加载
             try:
                 await page.wait_for_selector(
-                    '.content__list--item', timeout=10000)
+                    '.content__list--item', timeout=8000)
             except Exception:
-                await asyncio.sleep(3)
+                await asyncio.sleep(2)
 
             # 提取数据
             listings = await _retry_page_operation(
@@ -259,6 +260,37 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
     return all_listings, True
 
 
+async def _detect_subareas(page, area_slug: str) -> list:
+    """
+    检测区域是否有子区域 (下钻). 访问首页提取子区域链接.
+
+    Args:
+        page: Playwright Page 对象
+        area_slug: 区域标识
+
+    Returns:
+        list: 子区域列表 [{slug, name, url}]，无子区域返回空列表
+    """
+    region_name = REGIONS[area_slug]['name']
+    base_url = get_area_url(area_slug)
+    try:
+        await page.goto(base_url, wait_until='domcontentloaded',
+                         timeout=30000)
+        await human_scroll(page)
+        await asyncio.sleep(1)
+
+        subareas = await page.evaluate(EXTRACT_SUBAREAS_JS)
+        if subareas:
+            logger.info(
+                f"  [{region_name}] 检测到 {len(subareas)} 个子区域: "
+                + ", ".join(s['name'] for s in subareas[:10])
+                + (f" 等{len(subareas)}个" if len(subareas) > 10 else ""))
+        return subareas
+    except Exception as e:
+        logger.warning(f"  [{region_name}] 子区域检测失败: {e}")
+        return []
+
+
 async def scrape_with_browser(areas: list,
                                max_pages: int = DEFAULT_MAX_PAGES):
     """
@@ -293,26 +325,30 @@ async def scrape_with_browser(areas: list,
                             wait_until='domcontentloaded', timeout=30000)
             await human_scroll(page)
             await human_mouse_move(page)
-            await asyncio.sleep(random.uniform(2, 4))
+            await asyncio.sleep(random.uniform(1, 2))
         except Exception:
             pass
 
+        # ---- 预处理: 展开大区域为子区域 ----
+        expanded_areas = []
         for area_slug in areas:
-            region_name = REGIONS[area_slug]['name']
-            logger.info(f"\n{'=' * 50}")
-            logger.info(f"开始爬取: {region_name} ({area_slug})")
-            logger.info(f"{'=' * 50}")
-
-            # 检查断点数据
-            existing_data, start_page, already_completed = load_resume(
-                area_slug)
-
-            if already_completed:
+            subareas = await _detect_subareas(page, area_slug)
+            if subareas:
+                region_name = REGIONS[area_slug]['name']
                 logger.info(
-                    f"{region_name} 已完成 ({len(existing_data)} 条)，"
-                    f"跳过 (使用 --fresh 重爬)")
-                all_listings.extend(existing_data)
-                continue
+                    f"{region_name} 发现 {len(subareas)} 个子区域，"
+                    f"自动展开下钻")
+                # 注册子区域
+                for sa in subareas:
+                    if sa['slug'] not in REGIONS:
+                        REGIONS[sa['slug']] = {
+                            'name': sa['name'], 'slug': sa['slug']}
+                    expanded_areas.append(sa['slug'])
+            else:
+                expanded_areas.append(area_slug)
+
+        # ---- 逐区域爬取 ----
+        for area_slug in expanded_areas:
 
             area_listings, completed = await scrape_single_area(
                 page, area_slug, max_pages,
@@ -332,7 +368,7 @@ async def scrape_with_browser(areas: list,
 
             # 区域间休息
             if area_slug != areas[-1]:
-                delay = random.uniform(3, 8)
+                delay = random.uniform(1, 3)
                 logger.info(f"休息 {delay:.0f} 秒后继续下一区域...\n")
                 await asyncio.sleep(delay)
 
