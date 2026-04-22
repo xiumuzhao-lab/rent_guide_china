@@ -13,6 +13,7 @@ import TopCommunities from './components/TopCommunities';
 import RentTypePie from './components/RentTypePie';
 import PriceVsArea from './components/PriceVsArea';
 import DirectionBar from './components/DirectionBar';
+import AdSlot from './components/AdSlot';
 import { WORKPLACES } from './utils/constants';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
 
@@ -83,6 +84,8 @@ export default function App() {
         <div style={{ display: 'flex', flexDirection: 'column', gap: 24, maxWidth: 1400, margin: '0 auto' }}>
           <OverviewCards overview={overview} />
 
+          <AdSlot slot="SLOT_TOP" format="horizontal" />
+
           <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
             <Title level={5}>{workplace.name} 周边 {maxDistance}km 租房单价地图 ({enrichedStats.length} 个小区)</Title>
             <CommunityMap workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} listings={listings} />
@@ -92,6 +95,8 @@ export default function App() {
             <Title level={5}>按距离分层的小区列表</Title>
             <DistanceTable enrichedStats={enrichedStats} listings={listings} />
           </div>
+
+          <AdSlot slot="SLOT_MIDDLE" format="horizontal" />
 
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
             <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><PriceBoxPlot data={listings} /></div>
@@ -103,6 +108,8 @@ export default function App() {
             <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><PriceVsArea data={listings} /></div>
             <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}><DirectionBar data={listings} /></div>
           </div>
+
+          <AdSlot slot="SLOT_BOTTOM" format="auto" />
         </div>
       </Content>
     </Layout>
