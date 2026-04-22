@@ -60,17 +60,53 @@ API 密钥申请：[腾讯位置服务控制台](https://lbs.qq.com/)
 ### 典型工作流程
 
 ```bash
-# Step 1: 爬取数据（默认所有区域，最多100页）
+# 一键完成：爬取 + 分析 + 生成地图
+python3.10 run_all.py --areas all --workplace 张江国创
+
+# 仅生成地图（使用已有数据）
+python3.10 run_all.py --skip-scrape --workplace 金桥
+
+# 仅爬取分析（不生成地图）
+python3.10 run_all.py --areas zhangjiang --skip-map
+```
+
+也可以分步执行：
+
+```bash
 python3.10 lianjia_scraper.py --areas all
-
-# Step 2: 生成地图（自动使用最新爬取数据）
 python3.10 community_geo_map.py --workplace 张江国创
-
-# Step 3: 对比不同工作地点
-python3.10 community_geo_map.py --workplace 金桥 --max-distance 10
 ```
 
 ## 操作手册
+
+### 零、一键运行 (run_all.py)
+
+串行调用爬虫和地图生成器，一个命令完成全流程。
+
+```bash
+# 完整流程
+python3.10 run_all.py --areas all --workplace 张江国创
+
+# 指定数据文件生成地图
+python3.10 run_all.py --skip-scrape --data output/lianjia_all_xxx.json --workplace 金桥
+
+# 多工作地点对比
+python3.10 run_all.py --skip-scrape --workplace 张江国创
+python3.10 run_all.py --skip-scrape --workplace 金桥 --max-distance 10
+```
+
+| 参数 | 默认值 | 说明 |
+|------|--------|------|
+| `--areas` | `all` | 爬取区域 |
+| `--max-pages` | `100` | 每区域最大页数 |
+| `--mode` | `browser` | 爬取模式 |
+| `--format` | `both` | 输出格式 |
+| `--workplace` | `张江国创` | 工作地点 |
+| `--max-distance` | `15` | 最大距离 km |
+| `--max-labels` | `200` | 标注小区数 |
+| `--skip-scrape` | — | 跳过爬取，仅生成地图 |
+| `--skip-map` | — | 跳过地图，仅爬取分析 |
+| `--data` | 自动查找 | 指定数据文件 |
 
 ### 一、数据采集 (lianjia_scraper.py)
 
@@ -230,6 +266,7 @@ output/
 
 ```
 lianjia/
+├── run_all.py                  # 一键运行脚本（爬取 + 分析 + 地图）
 ├── lianjia_scraper.py          # 数据采集脚本（爬虫 + 分析）
 ├── community_geo_map.py        # 地图生成脚本（PNG + HTML）
 ├── requirements.txt            # Python 依赖

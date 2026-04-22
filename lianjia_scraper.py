@@ -893,7 +893,12 @@ def enrich_with_geo(data: list):
 
 
 def save_results(all_listings: list, selected_areas: list, fmt: str = 'both'):
-    """统一保存: 去重 + 按区域 + 合并文件"""
+    """
+    统一保存: 去重 + 按区域 + 合并文件.
+
+    Returns:
+        Path or None — 合并 JSON 的路径（单区域时为该区域 JSON），未生成 JSON 时返回 None
+    """
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -904,6 +909,8 @@ def save_results(all_listings: list, selected_areas: list, fmt: str = 'both'):
     # 在保存前添加经纬度
     enrich_with_geo(all_listings)
 
+    latest_json = None
+
     for slug in selected_areas:
         region_data = [l for l in all_listings if l.get('region') == slug]
         if not region_data:
@@ -911,14 +918,21 @@ def save_results(all_listings: list, selected_areas: list, fmt: str = 'both'):
         if fmt in ('csv', 'both'):
             save_to_csv(region_data, OUTPUT_DIR / f"lianjia_{slug}_{timestamp}.csv")
         if fmt in ('json', 'both'):
-            save_to_json(region_data, OUTPUT_DIR / f"lianjia_{slug}_{timestamp}.json")
+            p = OUTPUT_DIR / f"lianjia_{slug}_{timestamp}.json"
+            save_to_json(region_data, p)
+            if not latest_json:
+                latest_json = p
 
     # 合并文件
     if len(selected_areas) > 1:
         if fmt in ('csv', 'both'):
             save_to_csv(all_listings, OUTPUT_DIR / f"lianjia_all_{timestamp}.csv")
         if fmt in ('json', 'both'):
-            save_to_json(all_listings, OUTPUT_DIR / f"lianjia_all_{timestamp}.json")
+            p = OUTPUT_DIR / f"lianjia_all_{timestamp}.json"
+            save_to_json(all_listings, p)
+            latest_json = p
+
+    return latest_json
 
 
 # ============================================================
