@@ -30,8 +30,8 @@ export default function App() {
     async function loadData() {
       try {
         const [listingsRes, geoRes] = await Promise.all([
-          fetch('/data/listings.json'),
-          fetch('/data/geo_cache.json'),
+          fetch(`${import.meta.env.BASE_URL}data/listings.json`),
+          fetch(`${import.meta.env.BASE_URL}data/geo_cache.json`),
         ]);
         if (!listingsRes.ok) throw new Error('listings.json not found');
         const data = await listingsRes.json();
