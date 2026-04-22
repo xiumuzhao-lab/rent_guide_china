@@ -1,6 +1,6 @@
 import './App.css';
 import { useState, useEffect, useMemo } from 'react';
-import { Layout, Typography, Spin, Slider, message } from 'antd';
+import { Layout, Typography, Spin, Slider, message, Alert, Modal } from 'antd';
 import WorkplaceSelector from './components/WorkplaceSelector';
 import OverviewCards from './components/OverviewCards';
 import CommunityMap from './components/CommunityMap';
@@ -17,8 +17,8 @@ import AdSlot from './components/AdSlot';
 import { WORKPLACES } from './utils/constants';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
 
-const { Header, Content } = Layout;
-const { Title, Text } = Typography;
+const { Header, Content, Footer } = Layout;
+const { Title, Text, Paragraph } = Typography;
 
 export default function App() {
   const [listings, setListings] = useState([]);
@@ -82,6 +82,13 @@ export default function App() {
       </Header>
       <Content style={{ padding: 24, background: '#f5f5f5' }}>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 24, maxWidth: 1400, margin: '0 auto' }}>
+          <Alert
+            type="info"
+            showIcon
+            message="本站数据仅供参考，非实时房源信息。数据来源于公开渠道的统计分析，不构成任何租赁建议。"
+            style={{ borderRadius: 8 }}
+          />
+
           <OverviewCards overview={overview} />
 
           <AdSlot slot="SLOT_TOP" format="horizontal" />
@@ -112,6 +119,33 @@ export default function App() {
           <AdSlot slot="SLOT_BOTTOM" format="auto" />
         </div>
       </Content>
+      <Footer style={{
+        background: '#fff',
+        borderTop: '1px solid #f0f0f0',
+        padding: '24px 48px',
+        textAlign: 'center',
+      }}>
+        <div style={{ maxWidth: 900, margin: '0 auto' }}>
+          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 8 }}>
+            <strong>免责声明</strong>
+          </Paragraph>
+          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
+            1. 本站所有数据均基于公开信息进行统计分析，仅供个人参考与学习研究使用，不构成任何租房、投资或交易建议。
+          </Paragraph>
+          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
+            2. 本站非链家官方网站，与链家网 (lianjia.com) 无任何关联。所展示的数据可能存在滞后、偏差或错误，请以官方平台实时信息为准。
+          </Paragraph>
+          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
+            3. 本站通过广告收入维持运营，广告内容不代表本站立场。用户在参考本站信息做出任何决策前，应自行核实并承担相关风险。
+          </Paragraph>
+          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
+            4. 如您认为本站内容侵犯了您的合法权益，请及时联系我们，我们将在核实后尽快处理。
+          </Paragraph>
+          <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 12, marginBottom: 0 }}>
+            &copy; {new Date().getFullYear()} 租房数据分析 · 数据仅供参考
+          </Paragraph>
+        </div>
+      </Footer>
     </Layout>
   );
 }
