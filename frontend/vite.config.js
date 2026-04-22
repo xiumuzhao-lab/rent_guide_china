@@ -70,5 +70,5 @@ function tmapProxyPlugin() {
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tmapProxyPlugin()],
-  base: process.env.VITE_BASE || '/rent_guide_china/',
+  base: process.env.VITE_BASE || '/',
 })
