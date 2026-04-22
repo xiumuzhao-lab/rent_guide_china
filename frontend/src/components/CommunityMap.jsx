@@ -1,5 +1,5 @@
-import { useEffect, useRef, useState } from 'react';
-import { MapContainer, TileLayer, Circle, Marker, Tooltip, useMap } from 'react-leaflet';
+import { useEffect, useRef, useState, useCallback } from 'react';
+import { MapContainer, TileLayer, Circle, Marker, Tooltip, useMap, useMapEvent } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { DISTANCE_RINGS, RING_COLORS } from '../utils/constants';
@@ -30,15 +30,23 @@ function FitBounds({ points }) {
     if (key === prevKey.current) return;
     prevKey.current = key;
     const bounds = L.latLngBounds(points.map((p) => [p.lat, p.lng]));
-    map.fitBounds(bounds, { padding: [30, 30] });
+    map.fitBounds(bounds, { padding: [50, 50], maxZoom: 14 });
   }, [points, map]);
 
   return null;
 }
 
-function CommunityLayer({ enrichedStats, minUP, maxUP, onCommunityClick }) {
+function ZoomTracker({ onZoomChange }) {
+  useMapEvent('zoomend', (e) => {
+    onZoomChange(e.target.getZoom());
+  });
+  return null;
+}
+
+function CommunityLayer({ enrichedStats, minUP, maxUP, onCommunityClick, zoom }) {
   const map = useMap();
   const layerRef = useRef(null);
+  const showLabels = zoom >= 13;
 
   useEffect(() => {
     if (layerRef.current) {
@@ -49,23 +57,40 @@ function CommunityLayer({ enrichedStats, minUP, maxUP, onCommunityClick }) {
 
     for (const stat of enrichedStats) {
       const color = getUnitPriceColor(stat.avgUnitPrice, minUP, maxUP);
-      const label = stat.name.length > 6 ? stat.name.slice(0, 6) + '…' : stat.name;
-      const icon = new L.DivIcon({
-        html: `<div style="
-          color:#d32f2f;
-          font-size:11px;
-          font-weight:700;
-          white-space:nowrap;
-          text-shadow:1px 1px 0 #fff,-1px 1px 0 #fff,1px -1px 0 #fff,-1px -1px 0 #fff,0 1px 0 #fff,0 -1px 0 #fff;
-          cursor:pointer;
-          line-height:1.4;
-        ">${label} ${stat.avgUnitPrice}元/㎡</div>`,
-        iconSize: [0, 0],
-        iconAnchor: [0, 0],
-        className: '',
-      });
+      let marker;
 
-      const marker = L.marker([stat.lat, stat.lng], { icon }).addTo(group);
+      if (showLabels) {
+        const label = stat.name.length > 6 ? stat.name.slice(0, 6) + '…' : stat.name;
+        const icon = new L.DivIcon({
+          html: `<div style="
+            color:#d32f2f;
+            font-size:12px;
+            font-weight:700;
+            white-space:nowrap;
+            text-shadow:1px 1px 0 #fff,-1px 1px 0 #fff,1px -1px 0 #fff,-1px -1px 0 #fff,0 1px 0 #fff,0 -1px 0 #fff;
+            cursor:pointer;
+            line-height:1.4;
+          ">${label} ${stat.avgUnitPrice}元/㎡</div>`,
+          iconSize: [0, 0],
+          iconAnchor: [0, 0],
+          className: '',
+        });
+        marker = L.marker([stat.lat, stat.lng], { icon }).addTo(group);
+      } else {
+        const icon = new L.DivIcon({
+          html: `<div style="
+            width:10px;height:10px;border-radius:50%;
+            background:${color};border:1.5px solid #fff;
+            box-shadow:0 0 3px rgba(0,0,0,0.3);
+            cursor:pointer;
+          "></div>`,
+          iconSize: [10, 10],
+          iconAnchor: [5, 5],
+          className: '',
+        });
+        marker = L.marker([stat.lat, stat.lng], { icon }).addTo(group);
+      }
+
       marker.bindTooltip(
         `<div style="font-size:12px;line-height:1.6">
           <b>${stat.name}</b><br/>
@@ -87,13 +112,15 @@ function CommunityLayer({ enrichedStats, minUP, maxUP, onCommunityClick }) {
         layerRef.current = null;
       }
     };
-  }, [map, enrichedStats, minUP, maxUP, onCommunityClick]);
+  }, [map, enrichedStats, minUP, maxUP, onCommunityClick, showLabels]);
 
   return null;
 }
 
 export default function CommunityMap({ workplace, enrichedStats, maxDistance, listings }) {
   const [selected, setSelected] = useState(null);
+  const [zoom, setZoom] = useState(13);
+  const handleZoomChange = useCallback((z) => setZoom(z), []);
 
   if (!workplace || enrichedStats.length === 0) return null;
 
@@ -107,8 +134,8 @@ export default function CommunityMap({ workplace, enrichedStats, maxDistance, li
     <>
       <MapContainer
         center={[workplace.lat, workplace.lng]}
-        zoom={12}
-        style={{ height: 500, width: '100%', borderRadius: 8 }}
+        zoom={13}
+        style={{ height: 600, width: '100%', borderRadius: 8 }}
       >
         <FitBounds
           points={[
@@ -116,6 +143,7 @@ export default function CommunityMap({ workplace, enrichedStats, maxDistance, li
             ...enrichedStats,
           ]}
         />
+        <ZoomTracker onZoomChange={handleZoomChange} />
         <TileLayer
           attribution='&copy; 高德地图'
           url="https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}"
@@ -151,8 +179,13 @@ export default function CommunityMap({ workplace, enrichedStats, maxDistance, li
           minUP={minUP}
           maxUP={maxUP}
           onCommunityClick={setSelected}
+          zoom={zoom}
         />
       </MapContainer>
+
+      <div style={{ fontSize: 12, color: '#999', marginTop: 4 }}>
+        {zoom < 13 ? '放大地图可查看小区名称和单价' : `共 ${enrichedStats.length} 个小区，点击可查看房源明细`}
+      </div>
 
       <CommunityListings
         visible={!!selected}

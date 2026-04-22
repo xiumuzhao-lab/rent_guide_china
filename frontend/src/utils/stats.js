@@ -23,8 +23,10 @@ export function buildCommunityStats(data) {
       .filter((a) => !isNaN(a) && a > 0);
     if (prices.length === 0) continue;
 
-    const avgPrice = Math.round(prices.reduce((s, p) => s + p, 0) / prices.length);
-    const avgArea = areas.length > 0 ? areas.reduce((s, a) => s + a, 0) / areas.length : 0;
+    const sumPrice = prices.reduce((s, p) => s + p, 0);
+    const sumArea = areas.reduce((s, a) => s + a, 0);
+    const avgPrice = Math.round(sumPrice / prices.length);
+    const avgArea = areas.length > 0 ? sumArea / areas.length : 0;
 
     stats[name] = {
       count: items.length,
@@ -32,7 +34,7 @@ export function buildCommunityStats(data) {
       minPrice: Math.min(...prices),
       maxPrice: Math.max(...prices),
       avgArea: Math.round(avgArea * 10) / 10,
-      avgUnitPrice: avgArea > 0 ? Math.round((avgPrice / avgArea) * 10) / 10 : 0,
+      avgUnitPrice: sumArea > 0 ? Math.round((sumPrice / sumArea) * 10) / 10 : 0,
       region: items[0].region || '',
     };
   }
@@ -65,22 +67,25 @@ export function enrichStatsWithDistance(communityStats, workplace, geoCache, max
  * 获取数据中的统计摘要.
  */
 export function getOverview(listings) {
-  const prices = listings
-    .map((it) => parseInt(it.price, 10))
-    .filter((p) => !isNaN(p) && p > 0);
+  const validListings = listings.filter((it) => {
+    const p = parseInt(it.price, 10);
+    const a = parseFloat(it.area);
+    return !isNaN(p) && p > 0 && !isNaN(a) && a > 0;
+  });
+
   const communities = new Set(listings.map((it) => it.community).filter(Boolean));
 
-  const avgPrice = prices.length > 0 ? Math.round(prices.reduce((s, p) => s + p, 0) / prices.length) : 0;
-  const areas = listings
-    .map((it) => parseFloat(it.area))
-    .filter((a) => !isNaN(a) && a > 0);
-  const avgArea = areas.length > 0 ? Math.round((areas.reduce((s, a) => s + a, 0) / areas.length) * 10) / 10 : 0;
-  const avgUnitPrice = avgArea > 0 ? Math.round((avgPrice / avgArea) * 10) / 10 : 0;
+  const sumPrice = validListings.reduce((s, it) => s + parseInt(it.price, 10), 0);
+  const sumArea = validListings.reduce((s, it) => s + parseFloat(it.area), 0);
+  const avgPrice = validListings.length > 0 ? Math.round(sumPrice / validListings.length) : 0;
+  const avgArea = validListings.length > 0 ? Math.round((sumArea / validListings.length) * 10) / 10 : 0;
+  const avgUnitPrice = sumArea > 0 ? Math.round((sumPrice / sumArea) * 10) / 10 : 0;
 
   return {
     total: listings.length,
     communityCount: communities.size,
     avgPrice,
+    avgArea,
     avgUnitPrice,
     scrapedAt: listings[0]?.scraped_at || '',
   };
