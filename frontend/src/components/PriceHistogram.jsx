@@ -4,30 +4,32 @@ import { REGION_NAMES, REGION_COLORS } from '../utils/constants';
 const FALLBACK_COLORS = ['#4e79a7', '#f28e2b', '#e15759', '#76b7b2', '#59a14f', '#edc948', '#b07aa1', '#ff9da7'];
 
 export default function PriceHistogram({ data, topRegions = [] }) {
-  const prices = data
-    .map((d) => parseInt(d.price, 10))
-    .filter((p) => !isNaN(p) && p > 0);
-  if (prices.length === 0) return null;
+  const MAX_DISPLAY = 15000;
+  const filtered = data.filter((d) => {
+    const p = parseInt(d.price, 10);
+    return !isNaN(p) && p > 0 && p <= MAX_DISPLAY;
+  });
+  if (filtered.length === 0) return null;
 
-  const maxPrice = Math.max(...prices);
+  const prices = filtered.map((d) => parseInt(d.price, 10));
+  const excludedCount = data.filter((d) => {
+    const p = parseInt(d.price, 10);
+    return !isNaN(p) && p > MAX_DISPLAY;
+  }).length;
   const avg = Math.round(prices.reduce((s, p) => s + p, 0) / prices.length);
   const sorted = [...prices].sort((a, b) => a - b);
   const median = sorted[Math.floor(sorted.length / 2)];
 
-  // Dynamic bin size: aim for ~20-30 bins
-  const binSize = maxPrice <= 5000 ? 200
-    : maxPrice <= 10000 ? 500
-    : maxPrice <= 20000 ? 1000
-    : 2000;
-  const binCount = Math.ceil(maxPrice / binSize) + 1;
+  const binSize = 500;
+  const binCount = Math.ceil(MAX_DISPLAY / binSize);
 
-  const regions = topRegions.length > 0 ? topRegions : [...new Set(data.map((d) => d.region))].slice(0, 8);
+  const regions = topRegions.length > 0 ? topRegions : [...new Set(filtered.map((d) => d.region))].slice(0, 8);
   const regionLabels = regions.map((r) => REGION_NAMES[r] || r);
 
   // Build bins per region
   const binsByRegion = regions.map((reg) => {
     const bins = new Array(binCount).fill(0);
-    for (const d of data) {
+    for (const d of filtered) {
       if (d.region !== reg) continue;
       const p = parseInt(d.price, 10);
       if (isNaN(p) || p <= 0) continue;
@@ -59,7 +61,10 @@ export default function PriceHistogram({ data, topRegions = [] }) {
   const totals = binLabels.map((_, i) => binsByRegion.reduce((s, bins) => s + bins[i], 0));
 
   const option = {
-    title: { text: '月租金分布 (按板块堆叠)', left: 'center', top: 10, textStyle: { fontSize: 14 } },
+    title: {
+      text: `月租金分布 ≤1.5万 (按板块堆叠)${excludedCount > 0 ? `，${excludedCount} 套超1.5万未显示` : ''}`,
+      left: 'center', top: 10, textStyle: { fontSize: 14 },
+    },
     tooltip: {
       trigger: 'axis',
       axisPointer: { type: 'shadow' },
