@@ -19,12 +19,54 @@ import { generateAnalysis } from './utils/analysis';
 const { Header, Content, Footer } = Layout;
 const { Title, Text, Paragraph } = Typography;
 
+/** 从 URL search params 解析初始工作地点和距离 */
+function readURLParams() {
+  const p = new URLSearchParams(window.location.search);
+  const wp = p.get('wp');
+  const dist = parseInt(p.get('dist'), 10);
+  const lat = parseFloat(p.get('lat'));
+  const lng = parseFloat(p.get('lng'));
+  const result = {};
+  if (wp) {
+    const preset = WORKPLACES.find((w) => w.key === wp);
+    if (preset) {
+      result.workplace = preset;
+    } else if (wp === 'custom' && !isNaN(lat) && !isNaN(lng)) {
+      result.workplace = { key: 'custom', name: `自定义 (${lat}, ${lng})`, lat, lng, address: '' };
+    }
+  }
+  if (!isNaN(dist) && dist >= 3 && dist <= 30) result.maxDistance = dist;
+  return result;
+}
+
+/** 将工作地点和距离写入 URL */
+function writeURLParams(workplace, maxDistance) {
+  const p = new URLSearchParams();
+  if (workplace.key === 'custom') {
+    p.set('wp', 'custom');
+    p.set('lat', workplace.lat);
+    p.set('lng', workplace.lng);
+  } else {
+    p.set('wp', workplace.key);
+  }
+  p.set('dist', maxDistance);
+  const qs = p.toString();
+  const url = window.location.pathname + (qs ? `?${qs}` : '');
+  window.history.replaceState(null, '', url);
+}
+
 export default function App() {
   const [listings, setListings] = useState([]);
   const [geoCache, setGeoCache] = useState({});
   const [loading, setLoading] = useState(true);
-  const [workplace, setWorkplace] = useState(WORKPLACES[0]);
-  const [maxDistance, setMaxDistance] = useState(15);
+
+  // 从 URL 初始化
+  const initial = useMemo(() => readURLParams(), []);
+  const [workplace, setWorkplace] = useState(initial.workplace || WORKPLACES[0]);
+  const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 15);
+
+  // state 变化时同步回 URL
+  useEffect(() => { writeURLParams(workplace, maxDistance); }, [workplace, maxDistance]);
 
   useEffect(() => {
     async function loadData() {
