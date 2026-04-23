@@ -16,6 +16,7 @@ export default function WorkplaceSelector({ value, onChange }) {
   const searchTmap = useCallback(async (keyword) => {
     try {
       const res = await fetch(`/api/tmap?keyword=${encodeURIComponent(keyword)}`);
+      if (!res.ok) throw new Error('proxy unavailable');
       const json = await res.json();
       if (json.status === 0 && json.data?.length) {
         const tmapOpts = json.data.map((item) => ({
@@ -26,12 +27,31 @@ export default function WorkplaceSelector({ value, onChange }) {
           isPreset: false,
         }));
         setOptions(tmapOpts);
-      } else {
-        setOptions(defaultOptions);
+        return;
       }
     } catch {
-      setOptions(defaultOptions);
+      // dev proxy 不可用 (生产环境), 使用 Nominatim 后备
     }
+    try {
+      const res = await fetch(
+        `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(keyword + ' 上海')}&format=json&limit=5&accept-language=zh&countrycodes=cn`,
+      );
+      const data = await res.json();
+      if (data.length > 0) {
+        const opts = data.map((item) => ({
+          value: `osm_${item.place_id}`,
+          label: item.display_name.split(',').slice(0, 2).join(' - '),
+          lat: parseFloat(item.lat),
+          lng: parseFloat(item.lon),
+          isPreset: false,
+        }));
+        setOptions(opts);
+        return;
+      }
+    } catch {
+      // Nominatim 也失败
+    }
+    setOptions(defaultOptions);
   }, []);
 
   const handleSearch = (val) => {
