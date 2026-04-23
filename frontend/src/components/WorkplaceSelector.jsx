@@ -103,6 +103,8 @@ export default function WorkplaceSelector({ value, onChange }) {
         style={{ width: 260 }}
         filterOption={(input, option) => {
           if (!option?.label) return false;
+          // tmap 搜索结果已由 API 过滤，不再二次过滤
+          if (!option.isPreset) return true;
           return option.label.toLowerCase().includes(input.toLowerCase());
         }}
       />
