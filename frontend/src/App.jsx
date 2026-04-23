@@ -101,7 +101,10 @@ export default function App() {
   return (
     <Layout style={{ minHeight: '100vh' }}>
       <Header component="header" role="banner" style={{ background: '#fff', borderBottom: '1px solid #f0f0f0', padding: '0 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 64 }}>
-        <Title level={1} style={{ margin: 0, fontSize: 20, fontWeight: 700 }}>租房雷达 · RentRadar</Title>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" width={28} height={28} />
+          <Title level={1} style={{ margin: 0, fontSize: 20, fontWeight: 700 }}>租房雷达</Title>
+        </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
           <WorkplaceSelector value={workplace} onChange={setWorkplace} />
           <div style={{ width: 160, flexShrink: 0 }}>
