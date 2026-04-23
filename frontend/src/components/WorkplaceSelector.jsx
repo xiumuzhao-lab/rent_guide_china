@@ -14,9 +14,12 @@ export default function WorkplaceSelector({ value, onChange }) {
   const timerRef = useRef(null);
 
   const searchTmap = useCallback(async (keyword) => {
+    // 生产环境用远程代理, 开发环境用 Vite 代理
+    const proxyBase = window.location.hostname === 'localhost'
+      ? '' : 'http://123.57.210.21:8900';
     try {
-      const res = await fetch(`/api/tmap?keyword=${encodeURIComponent(keyword)}`);
-      if (!res.ok) throw new Error('proxy unavailable');
+      const res = await fetch(`${proxyBase}/api/tmap?keyword=${encodeURIComponent(keyword)}`);
+      if (!res.ok) throw new Error(res.statusText);
       const json = await res.json();
       if (json.status === 0 && json.data?.length) {
         const tmapOpts = json.data.map((item) => ({
@@ -30,26 +33,7 @@ export default function WorkplaceSelector({ value, onChange }) {
         return;
       }
     } catch {
-      // dev proxy 不可用 (生产环境), 使用 Nominatim 后备
-    }
-    try {
-      const res = await fetch(
-        `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(keyword + ' 上海')}&format=json&limit=5&accept-language=zh&countrycodes=cn`,
-      );
-      const data = await res.json();
-      if (data.length > 0) {
-        const opts = data.map((item) => ({
-          value: `osm_${item.place_id}`,
-          label: item.display_name.split(',').slice(0, 2).join(' - '),
-          lat: parseFloat(item.lat),
-          lng: parseFloat(item.lon),
-          isPreset: false,
-        }));
-        setOptions(opts);
-        return;
-      }
-    } catch {
-      // Nominatim 也失败
+      // fallback
     }
     setOptions(defaultOptions);
   }, []);
