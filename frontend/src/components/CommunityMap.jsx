@@ -22,12 +22,12 @@ function getUnitPriceColor(unitPrice, min, max) {
 
 function SetInitialView({ workplace }) {
   const map = useMap();
-  const done = useRef(false);
+  const prevKey = useRef('');
 
   useEffect(() => {
-    if (done.current) return;
-    done.current = true;
-    // 初始视野: 1.5km 范围
+    const key = `${workplace.lat},${workplace.lng}`;
+    if (key === prevKey.current) return;
+    prevKey.current = key;
     const R = 1.5 / 111.32;
     const cosLat = Math.cos((workplace.lat * Math.PI) / 180);
     const bounds = L.latLngBounds([

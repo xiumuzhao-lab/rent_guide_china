@@ -6,7 +6,7 @@ import OverviewCards from './components/OverviewCards';
 import CommunityMap from './components/CommunityMap';
 import PriceHistogram from './components/PriceHistogram';
 import RoomsBarChart from './components/RoomsBarChart';
-import RentTypePie from './components/RentTypePie';
+import RentTypePie from './components/TopRegionsBar';
 import PriceVsArea from './components/PriceVsArea';
 import AdSlot from './components/AdSlot';
 import TopByRing from './components/TopByRing';
@@ -146,16 +146,16 @@ export default function App() {
             <Title level={2}>数据分析（{maxDistance}km 以内）</Title>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
               <div>
-                <PriceHistogram data={analysisListings} topRegions={topRegions} />
-                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内 {analysisListings.length} 套房源月租金分布, 红线为均价</div>
+                <RentTypePie data={analysisListings} enrichedStats={enrichedStats} listings={filteredListings} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内命中板块 Top 8 小区数量, 点击柱子查看房源</div>
               </div>
               <div>
                 <RoomsBarChart data={analysisListings} topRegions={topRegions} />
                 <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内房源按板块统计各户型数量</div>
               </div>
               <div>
-                <RentTypePie data={analysisListings} />
-                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内房源整租/合租/其他类型占比</div>
+                <PriceHistogram data={analysisListings} topRegions={topRegions} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内 {analysisListings.length} 套房源月租金分布, 红线为均价</div>
               </div>
               <div>
                 <PriceVsArea data={analysisListings} topRegions={topRegions} />
