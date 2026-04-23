@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 
 /**
- * Google AdSense 广告位组件.
+ * Google AdSense 广告位组件 (当前已禁用).
  *
  * 使用方式:
  *   <AdSlot slot="1234567890" format="auto" />
@@ -11,12 +11,14 @@ import { useEffect, useRef } from 'react';
  * @param {string} [props.format='auto'] - 广告格式: auto|horizontal|vertical|rectangle
  * @param {string} [props.style] - 自定义样式
  */
+const ADS_ENABLED = false;
+
 export default function AdSlot({ slot, format = 'auto', style = {} }) {
   const adRef = useRef(null);
   const pushed = useRef(false);
 
   useEffect(() => {
-    if (!slot || pushed.current) return;
+    if (!ADS_ENABLED || !slot || pushed.current) return;
     pushed.current = true;
     try {
       (window.adsbygoogle = window.adsbygoogle || []).push({});
@@ -25,7 +27,7 @@ export default function AdSlot({ slot, format = 'auto', style = {} }) {
     }
   }, [slot]);
 
-  if (!slot) return null;
+  if (!ADS_ENABLED || !slot) return null;
 
   return (
     <div style={{ textAlign: 'center', margin: '16px 0', ...style }}>

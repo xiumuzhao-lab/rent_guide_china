@@ -50,8 +50,8 @@ STALE_DATA_TIMEOUT = 90
 WORKPLACES = {
     "zhangjiang": {
         "name": "张江国创中心",
-        "lat": 31.2033,
-        "lng": 121.5905,
+        "lat": 31.2214,
+        "lng": 121.6282,
         "address": "浦东新区丹桂路899号",
     },
     "zhangjiang_2": {
@@ -90,7 +90,7 @@ DEFAULT_MAX_LABELS = 200
 # ============================================================
 
 REGION_CENTERS = {
-    "zhangjiang": (31.2033, 121.5905),
+    "zhangjiang": (31.2214, 121.6282),
     "jinqiao": (31.2475, 121.6282),
     "tangzhen": (31.2150, 121.6550),
     "chuansha": (31.1900, 121.7000),

@@ -1,5 +1,5 @@
 import ReactECharts from 'echarts-for-react';
-import { REGIONS, REGION_COLORS } from '../utils/constants';
+import { REGION_NAMES, REGION_COLORS } from '../utils/constants';
 
 export default function PriceBoxPlot({ data }) {
   const regions = [...new Set(data.map((d) => d.region))];
@@ -21,7 +21,7 @@ export default function PriceBoxPlot({ data }) {
     tooltip: { trigger: 'item' },
     xAxis: {
       type: 'category',
-      data: regions.map((r) => REGIONS[r]?.name || r),
+      data: regions.map((r) => REGION_NAMES[r] || r),
     },
     yAxis: { type: 'value', name: '月租金 (元/月)' },
     series: [{

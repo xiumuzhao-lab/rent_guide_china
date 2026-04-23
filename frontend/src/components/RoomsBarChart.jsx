@@ -1,9 +1,13 @@
 import ReactECharts from 'echarts-for-react';
-import { REGIONS, REGION_COLORS } from '../utils/constants';
+import { REGION_NAMES, REGION_COLORS } from '../utils/constants';
 
-export default function RoomsBarChart({ data }) {
+export default function RoomsBarChart({ data, topRegions = [] }) {
+  const filteredData = topRegions.length > 0
+    ? data.filter((d) => topRegions.includes(d.region))
+    : data;
+
   const roomsCount = {};
-  for (const d of data) {
+  for (const d of filteredData) {
     const r = d.rooms?.trim();
     if (r) roomsCount[r] = (roomsCount[r] || 0) + 1;
   }
@@ -12,13 +16,13 @@ export default function RoomsBarChart({ data }) {
     .slice(0, 8)
     .map(([r]) => r);
 
-  const regions = [...new Set(data.map((d) => d.region))];
+  const regions = topRegions.length > 0 ? topRegions : [...new Set(data.map((d) => d.region))];
 
   const series = regions.map((reg) => ({
-    name: REGIONS[reg]?.name || reg,
+    name: REGION_NAMES[reg] || reg,
     type: 'bar',
     data: topRooms.map((room) =>
-      data.filter((d) => d.region === reg && d.rooms === room).length
+      filteredData.filter((d) => d.region === reg && d.rooms === room).length
     ),
     itemStyle: { color: REGION_COLORS[reg] },
   }));

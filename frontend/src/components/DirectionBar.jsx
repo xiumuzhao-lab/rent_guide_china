@@ -1,5 +1,5 @@
 import ReactECharts from 'echarts-for-react';
-import { REGIONS, REGION_COLORS } from '../utils/constants';
+import { REGION_NAMES, REGION_COLORS } from '../utils/constants';
 
 export default function DirectionBar({ data }) {
   const dirCount = {};
@@ -15,7 +15,7 @@ export default function DirectionBar({ data }) {
   const regions = [...new Set(data.map((d) => d.region))];
 
   const series = regions.map((reg) => ({
-    name: REGIONS[reg]?.name || reg,
+    name: REGION_NAMES[reg] || reg,
     type: 'bar',
     data: topDirs.map((dir) =>
       data.filter((d) => d.region === reg && d.direction === dir).length

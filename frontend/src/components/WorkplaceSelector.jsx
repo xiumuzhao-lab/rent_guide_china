@@ -25,20 +25,21 @@ export default function WorkplaceSelector({ value, onChange }) {
           lng: item.location?.lng,
           isPreset: false,
         }));
-        setOptions([...defaultOptions, ...tmapOpts]);
+        setOptions(tmapOpts);
+      } else {
+        setOptions(defaultOptions);
       }
     } catch {
-      // 生产环境无代理时静默失败
+      setOptions(defaultOptions);
     }
   }, []);
 
   const handleSearch = (val) => {
     setText(val);
+    setOptions(defaultOptions);
     if (timerRef.current) clearTimeout(timerRef.current);
     if (val.trim().length >= 2) {
       timerRef.current = setTimeout(() => searchTmap(val.trim()), 400);
-    } else {
-      setOptions(defaultOptions);
     }
   };
 

@@ -63,6 +63,28 @@ export default function App() {
     return listings.filter((l) => communityNames.has((l.community || '').trim()));
   }, [listings, enrichedStats]);
 
+  const rangeOverview = useMemo(() => getOverview(filteredListings), [filteredListings]);
+
+  const analysisListings = useMemo(() => {
+    const rangeNames = new Set(
+      enrichedStats.filter((s) => s.dist <= maxDistance).map((s) => s.name),
+    );
+    return listings.filter((l) => rangeNames.has((l.community || '').trim()));
+  }, [listings, enrichedStats, maxDistance]);
+
+  const topRegions = useMemo(() => {
+    const regionCommunities = {};
+    for (const s of enrichedStats) {
+      if (s.dist > maxDistance) continue;
+      const r = s.region;
+      if (r) regionCommunities[r] = (regionCommunities[r] || 0) + 1;
+    }
+    return Object.entries(regionCommunities)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 6)
+      .map(([r]) => r);
+  }, [enrichedStats, maxDistance]);
+
   const analysis = useMemo(
     () => generateAnalysis({ overview, enrichedStats, filteredListings, workplace, maxDistance }),
     [overview, enrichedStats, filteredListings, workplace, maxDistance],
@@ -97,7 +119,7 @@ export default function App() {
             style={{ borderRadius: 8 }}
           />
 
-          <OverviewCards overview={overview} />
+          <OverviewCards overview={rangeOverview} />
 
           <AnalysisReport summary={analysis.summary} suggestions={analysis.suggestions} />
 
@@ -121,23 +143,23 @@ export default function App() {
           </section>
 
           <section aria-label="数据分析" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={2}>数据分析</Title>
+            <Title level={2}>数据分析（{maxDistance}km 以内）</Title>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
               <div>
-                <PriceHistogram data={filteredListings} />
-                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: 范围内 {filteredListings.length} 套房源月租金分布, 红线为均价</div>
+                <PriceHistogram data={analysisListings} topRegions={topRegions} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内 {analysisListings.length} 套房源月租金分布, 红线为均价</div>
               </div>
               <div>
-                <RoomsBarChart data={filteredListings} />
-                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: 范围内房源按板块统计各户型数量</div>
+                <RoomsBarChart data={analysisListings} topRegions={topRegions} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内房源按板块统计各户型数量</div>
               </div>
               <div>
-                <RentTypePie data={filteredListings} />
-                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: 范围内房源整租/合租/其他类型占比</div>
+                <RentTypePie data={analysisListings} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内房源整租/合租/其他类型占比</div>
               </div>
               <div>
-                <PriceVsArea data={filteredListings} />
-                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: 范围内房源面积与月租金关系, 帮助判断性价比</div>
+                <PriceVsArea data={analysisListings} topRegions={topRegions} />
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内房源面积与月租金关系, 帮助判断性价比</div>
               </div>
             </div>
           </section>

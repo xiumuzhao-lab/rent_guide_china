@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Tabs, Table, Tag } from 'antd';
-import { DISTANCE_RINGS, RING_COLORS } from '../utils/constants';
+import { DISTANCE_RINGS, RING_COLORS, REGION_NAMES } from '../utils/constants';
 import CommunityListings from './CommunityListings';
 
 const RING_BANDS = [
@@ -35,8 +35,9 @@ export default function TopByRing({ enrichedStats, listings }) {
       dataIndex: 'region',
       key: 'region',
       width: 80,
-      filters: [...new Set(enrichedStats.map((s) => s.region))].filter(Boolean).map((r) => ({ text: r, value: r })),
+      filters: [...new Set(enrichedStats.map((s) => s.region))].filter(Boolean).map((r) => ({ text: REGION_NAMES[r] || r, value: r })),
       onFilter: (value, record) => record.region === value,
+      render: (v) => REGION_NAMES[v] || v,
     },
     {
       title: '距离',

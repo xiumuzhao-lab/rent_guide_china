@@ -316,6 +316,42 @@ def _collect_communities_from_csv(filepath):
     return communities
 
 
+def _collect_community_info(filepath):
+    """
+    从数据文件中提取 {社区名: {region, location}} 映射.
+
+    Args:
+        filepath: 数据文件路径 (JSON 或 CSV)
+
+    Returns:
+        dict: { community_name: { region: str, location: str } }
+    """
+    try:
+        if filepath.suffix == '.json':
+            data = json.loads(filepath.read_text(encoding='utf-8'))
+            if isinstance(data, dict):
+                data = data.get('data', [])
+            if not isinstance(data, list):
+                return {}
+            rows = data
+        else:
+            with open(filepath, 'r', encoding='utf-8-sig') as f:
+                reader = csv.DictReader(f)
+                rows = list(reader)
+    except (json.JSONDecodeError, OSError, UnicodeDecodeError):
+        return {}
+
+    communities = {}
+    for item in rows:
+        name = (item.get('community') or '').strip()
+        if name and name not in communities:
+            communities[name] = {
+                'region': item.get('region', ''),
+                'location': item.get('location', ''),
+            }
+    return communities
+
+
 def _update_json_geo(filepath, geo_coords):
     """
     更新 JSON 文件中所有记录的 lat/lng.
@@ -421,8 +457,8 @@ def refresh_geo_in_files(force=False):
     刷新地理位置缓存，并更新 output/ 下所有数据文件的 lat/lng。
 
     步骤:
-        1. 扫描所有数据文件，收集唯一小区名
-        2. 调用 batch_refresh 更新主缓存
+        1. 扫描所有数据文件，收集唯一小区名 (含 location 信息)
+        2. 调用 batch_refresh 更新主缓存 (含坐标校验)
         3. 用新缓存更新每个文件的 lat/lng 字段
 
     Args:
@@ -435,7 +471,7 @@ def refresh_geo_in_files(force=False):
 
     geocoder = get_geocoder()
 
-    # 1. 收集所有文件中的小区名
+    # 1. 收集所有文件中的小区名 (含 location 用于坐标校验)
     all_communities = {}
     file_list = []
 
@@ -444,11 +480,10 @@ def refresh_geo_in_files(force=False):
             if fp.name == 'community_geo_cache.json':
                 continue
             file_list.append(fp)
-            if fp.suffix == '.json':
-                comms = _collect_communities_from_json(fp)
-            else:
-                comms = _collect_communities_from_csv(fp)
-            all_communities.update(comms)
+            comms = _collect_community_info(fp)
+            for name, info in comms.items():
+                if name not in all_communities:
+                    all_communities[name] = info
 
     if not all_communities:
         logger.info("未找到数据文件，无需刷新")

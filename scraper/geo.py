@@ -3,6 +3,7 @@
 
 腾讯位置服务 API + 本地缓存。
 API 未返回结果时标记为 miss，不生成伪坐标。
+包含区级坐标校验，自动发现并修正缓存中的错误坐标。
 """
 
 import hashlib
@@ -21,6 +22,42 @@ from scraper.config import (
 )
 
 logger = logging.getLogger('lianjia')
+
+
+# 上海各区中心坐标 (近似值, 用于坐标校验)
+DISTRICT_CENTERS = {
+    '浦东': (31.22, 121.54),
+    '松江': (31.03, 121.23),
+    '闵行': (31.11, 121.38),
+    '徐汇': (31.18, 121.44),
+    '长宁': (31.22, 121.42),
+    '静安': (31.23, 121.45),
+    '黄浦': (31.23, 121.47),
+    '普陀': (31.25, 121.40),
+    '虹口': (31.26, 121.49),
+    '杨浦': (31.27, 121.52),
+    '宝山': (31.35, 121.45),
+    '嘉定': (31.38, 121.25),
+    '金山': (30.74, 121.34),
+    '崇明': (31.63, 121.40),
+    '奉贤': (30.92, 121.47),
+    '青浦': (31.15, 121.12),
+}
+
+# 坐标偏离区的最大容忍距离 (km), 根据各区面积和实际坐标分布设定
+DISTRICT_TOLERANCE_KM = {d: 25 for d in DISTRICT_CENTERS}
+# 小型中心城区: 25km (静安, 黄浦, 长宁) - 默认值
+# 中型中心城区: 35km
+for d in ('徐汇', '普陀', '虹口', '杨浦'):
+    DISTRICT_TOLERANCE_KM[d] = 35
+# 中型近郊区: 40km
+for d in ('闵行', '松江'):
+    DISTRICT_TOLERANCE_KM[d] = 40
+# 大型远郊区: 50km
+for d in ('宝山', '金山', '嘉定', '青浦', '奉贤'):
+    DISTRICT_TOLERANCE_KM[d] = 50
+# 浦东: 60km (含临港片区)
+DISTRICT_TOLERANCE_KM['浦东'] = 60
 
 
 def _load_tencent_config():
@@ -140,6 +177,47 @@ class GeoCoder:
         )
         self._cache_dirty = False
 
+    @staticmethod
+    def _extract_district(location):
+        """
+        从 location 字段提取区名.
+
+        Args:
+            location: 如 "松江-泗泾-祥泽苑" 或 "浦东-张江-XX"
+
+        Returns:
+            str: 区名 (如 "松江")，无法提取时返回空串
+        """
+        if not location:
+            return ''
+        parts = location.split('-')
+        return parts[0].strip() if parts else ''
+
+    def _validate_coords(self, lat, lng, location):
+        """
+        校验坐标是否在预期区的合理范围内.
+
+        Args:
+            lat: 纬度
+            lng: 经度
+            location: location 字段 (如 "松江-泗泾-祥泽苑")
+
+        Returns:
+            bool: True 表示坐标合理，False 表示坐标异常
+        """
+        district = self._extract_district(location)
+        if not district or district not in DISTRICT_CENTERS:
+            return True  # 无区信息，跳过校验
+        center_lat, center_lng = DISTRICT_CENTERS[district]
+        dist = haversine(lat, lng, center_lat, center_lng)
+        tolerance = DISTRICT_TOLERANCE_KM.get(district, 25)
+        if dist > tolerance:
+            logger.debug(
+                f"坐标校验失败: {location} -> ({lat}, {lng}) "
+                f"距 {district} 中心 {dist:.0f}km (容忍 {tolerance}km)")
+            return False
+        return True
+
     def _calc_sig(self, uri, params):
         """
         计算腾讯位置服务 API 签名.
@@ -210,7 +288,8 @@ class GeoCoder:
         构造精确的查询地址.
 
         优先使用 location 字段 (如 "浦东-惠南-西门锦绣苑")
-        拼接为 "上海浦东惠南西门锦绣苑"。
+        拼接为 "上海市浦东区惠南镇西门锦绣苑"。
+        添加行政区划限定词以提高 API 定位精度。
 
         Args:
             name: 小区名
@@ -220,8 +299,12 @@ class GeoCoder:
             str: 查询地址
         """
         if location:
-            parts = location.replace("-", "").replace(" ", "")
-            return f"上海{parts}"
+            parts = [p.strip() for p in location.split("-") if p.strip()]
+            if len(parts) >= 2:
+                district = parts[0]
+                rest = "".join(parts[1:])
+                return f"上海市{district}区{rest}"
+            return f"上海{location.replace('-', '').replace(' ', '')}"
         return f"上海{name}"
 
     def geocode(self, name, region="", location=""):
@@ -229,7 +312,7 @@ class GeoCoder:
         获取小区坐标。
 
         查找顺序: 内存缓存 -> API 调用。
-        hash 伪坐标视为未命中，强制重新查询。
+        hash 伪坐标和坐标偏离预期区的缓存条目视为未命中，强制重新查询。
 
         Args:
             name: 小区名
@@ -249,11 +332,26 @@ class GeoCoder:
             elif entry.get("lat") is None:
                 return None
             else:
-                return (entry["lat"], entry["lng"])
+                # 校验缓存坐标是否在预期区内
+                if not self._validate_coords(
+                        entry["lat"], entry["lng"], location):
+                    logger.info(
+                        f"坐标校验失败，重新查询: {name} "
+                        f"({entry['lat']}, {entry['lng']})")
+                    del self._cache[name]
+                    self._cache_dirty = True
+                    # fall through to API query
+                else:
+                    return (entry["lat"], entry["lng"])
 
         address = self._build_address(name, location)
         coords = self._api_geocode(address)
         if coords:
+            # 校验新查询的坐标
+            if not self._validate_coords(coords[0], coords[1], location):
+                logger.warning(
+                    f"API 返回坐标仍偏离预期区: {name} "
+                    f"address={address} -> ({coords[0]}, {coords[1]})")
             self._cache[name] = {
                 "lat": coords[0],
                 "lng": coords[1],
@@ -338,16 +436,17 @@ class GeoCoder:
         self._save_cache()
         return results
 
-    def refresh_geo(self, name, region="", force=False):
+    def refresh_geo(self, name, region="", location="", force=False):
         """
         重查单个小区坐标。
 
-        force=False 时只重查 source=hash/miss 的条目；
+        force=False 时只重查 source=hash/miss 或坐标偏离预期区的条目；
         force=True 时全部重查 (包括已有腾讯 API 结果的)。
 
         Args:
             name: 小区名
             region: 区域标识
+            location: 完整位置 (如 "松江-泗泾-祥泽苑")
             force: 是否强制重查所有条目
 
         Returns:
@@ -355,13 +454,20 @@ class GeoCoder:
         """
         entry = self._cache.get(name)
         if entry and not force and entry.get("source") == "tencent":
-            return (entry["lat"], entry["lng"])
+            # 校验现有坐标是否在预期区内
+            if self._validate_coords(entry["lat"], entry["lng"], location):
+                return (entry["lat"], entry["lng"])
+            logger.info(f"坐标偏离预期区，重查: {name} ({location})")
 
         # 删除旧缓存，重新查询
         if name in self._cache:
             del self._cache[name]
 
-        coords = self._api_geocode(f"上海{name}")
+        address = self._build_address(name, location)
+        coords = self._api_geocode(address)
+        # 带 location 查不到时，尝试只用小区名
+        if not coords:
+            coords = self._api_geocode(f"上海{name}")
         if coords:
             self._cache[name] = {
                 "lat": coords[0],
@@ -377,12 +483,13 @@ class GeoCoder:
         self._cache_dirty = True
         return None
 
-    def batch_refresh(self, community_regions, force=False):
+    def batch_refresh(self, community_info, force=False):
         """
         批量刷新地理坐标。
 
         Args:
-            community_regions: dict { community_name: region }
+            community_info: dict { community_name: region_str }
+                           或 { community_name: { region, location } }
             force: 是否强制重查所有条目
 
         Returns:
@@ -391,18 +498,28 @@ class GeoCoder:
         results = {}
         to_refresh = []
 
-        for name, region in community_regions.items():
+        for name, info in community_info.items():
+            if isinstance(info, dict):
+                region = info.get('region', '')
+                location = info.get('location', '')
+            else:
+                region = info
+                location = ''
             entry = self._cache.get(name)
             if entry and not force and entry.get("source") == "tencent":
-                results[name] = (entry["lat"], entry["lng"])
+                if self._validate_coords(entry["lat"], entry["lng"],
+                                         location):
+                    results[name] = (entry["lat"], entry["lng"])
+                else:
+                    to_refresh.append((name, region, location))
             else:
-                to_refresh.append((name, region))
+                to_refresh.append((name, region, location))
 
         if not to_refresh:
             logger.info(f"地理缓存刷新: {len(results)} 条无需更新")
             return results
 
-        mode = "全部" if force else "非tencent坐标"
+        mode = "全部" if force else "非tencent坐标+坐标异常"
         api_mode = "API" if self._api_key else "无API密钥"
         logger.info(
             f"地理缓存刷新 ({mode}): "
@@ -410,10 +527,10 @@ class GeoCoder:
         )
 
         upgraded = 0
-        for i, (name, region) in enumerate(to_refresh):
+        for i, (name, region, location) in enumerate(to_refresh):
             old_entry = self._cache.get(name)
             old_source = old_entry.get("source", "") if old_entry else ""
-            coords = self.refresh_geo(name, region, force=True)
+            coords = self.refresh_geo(name, region, location, force=True)
             new_entry = self._cache.get(name, {})
             new_source = new_entry.get("source", "")
             if old_source in ("hash", "miss") and new_source == "tencent":

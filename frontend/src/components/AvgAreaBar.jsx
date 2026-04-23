@@ -1,5 +1,5 @@
 import ReactECharts from 'echarts-for-react';
-import { REGIONS, REGION_COLORS } from '../utils/constants';
+import { REGION_NAMES, REGION_COLORS } from '../utils/constants';
 
 export default function AvgAreaBar({ data }) {
   const regions = [...new Set(data.map((d) => d.region))];
@@ -16,7 +16,7 @@ export default function AvgAreaBar({ data }) {
     tooltip: { trigger: 'axis' },
     xAxis: {
       type: 'category',
-      data: regions.map((r) => REGIONS[r]?.name || r),
+      data: regions.map((r) => REGION_NAMES[r] || r),
     },
     yAxis: { type: 'value', name: '平均面积 (㎡)' },
     series: [{
