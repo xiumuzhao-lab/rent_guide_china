@@ -71,24 +71,24 @@ export default function TopRegionsBar({ enrichedStats, listings }) {
   if (top8.length === 0) return null;
 
   const names = top8.map((d) => REGION_NAMES[d.region] || d.region);
-  const values = top8.map((d) => d.count);
+  const values = top8.map((d) => d.median);
   const slugs = top8.map((d) => d.region);
   const colors = top8.map((d, i) => REGION_COLORS[d.region] || FALLBACK_COLORS[i]);
 
-  // 柱顶标签显示 "数量\n中位/均价"
-  const labels = top8.map((d) => `${d.count}\n${d.median}/${d.avg}元`);
+  // 柱顶标签显示 "中位数\n(小区数)"
+  const labels = top8.map((d) => `${d.median}\n(${d.count}个)`);
 
   const option = {
-    title: { text: '命中板块 Top 8 (小区数)', left: 'center', top: 10, textStyle: { fontSize: 14 } },
+    title: { text: '命中板块 Top 8 (单价中位数)', left: 'center', top: 10, textStyle: { fontSize: 14 } },
     tooltip: {
       trigger: 'axis',
       formatter: (p) => {
         const d = top8[p[0].dataIndex];
-        return `${p[0].name}<br/>小区数: <b>${d.count}</b> 个<br/>单价中位数: <b>${d.median}</b> 元/㎡<br/>单价均价: <b>${d.avg}</b> 元/㎡`;
+        return `${p[0].name}<br/>单价中位数: <b>${d.median}</b> 元/㎡<br/>单价均价: <b>${d.avg}</b> 元/㎡<br/>小区数: <b>${d.count}</b> 个`;
       },
     },
     xAxis: { type: 'category', data: names, axisLabel: { fontSize: 11, rotate: 20 } },
-    yAxis: { type: 'value', name: '小区数量', minInterval: 1 },
+    yAxis: { type: 'value', name: '单价中位数 (元/㎡)' },
     series: [{
       type: 'bar',
       data: values.map((v, i) => ({ value: v, itemStyle: { color: colors[i] } })),

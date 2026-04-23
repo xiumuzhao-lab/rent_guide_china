@@ -192,7 +192,7 @@ export default function App() {
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
               <div>
                 <RentTypePie data={analysisListings} enrichedStats={enrichedStats} listings={filteredListings} />
-                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内命中板块 Top 8 小区数量, 点击柱子查看房源</div>
+                <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内命中板块 Top 8 单价中位数, 点击柱子查看房源</div>
               </div>
               <div>
                 <RoomsBarChart data={analysisListings} topRegions={topRegions} />
