@@ -1,7 +1,8 @@
 """
 地理编码模块
 
-腾讯位置服务 API + 本地缓存 + 哈希散布备用。
+腾讯位置服务 API + 本地缓存。
+API 未返回结果时标记为 miss，不生成伪坐标。
 """
 
 import hashlib
@@ -15,8 +16,6 @@ from urllib.parse import quote
 
 from scraper.config import (
     GEO_CACHE_FILE,
-    REGION_CENTERS,
-    REGION_SPREAD_KM,
     TENCENT_GEOCODER_URL,
     TENCENT_GEO_BATCH_INTERVAL,
 )
@@ -112,7 +111,7 @@ class GeoCoder:
     - 优先从本地 JSON 缓存读取坐标
     - 缓存未命中时调用腾讯位置服务 API
     - 同一小区只调用一次 API，结果持久化到缓存文件
-    - 未配置 API 密钥时回退到哈希散布算法
+    - API 未返回结果时标记为 miss，不生成伪坐标
     """
 
     def __init__(self):
@@ -205,49 +204,162 @@ class GeoCoder:
 
         return None
 
-    def _hash_geocode(self, name, region=""):
+    @staticmethod
+    def _build_address(name, location=""):
         """
-        备用: 确定性哈希散布算法 (无 API 时使用).
+        构造精确的查询地址.
+
+        优先使用 location 字段 (如 "浦东-惠南-西门锦绣苑")
+        拼接为 "上海浦东惠南西门锦绣苑"。
 
         Args:
             name: 小区名
-            region: 区域标识
+            location: location 字段 (如 "浦东-惠南-小区名")
 
         Returns:
-            tuple: (lat, lng)
+            str: 查询地址
         """
-        center_lat, center_lng = REGION_CENTERS.get(region, (31.21, 121.60))
-        spread = REGION_SPREAD_KM.get(region, 3.0)
+        if location:
+            parts = location.replace("-", "").replace(" ", "")
+            return f"上海{parts}"
+        return f"上海{name}"
 
-        h = int(hashlib.md5(name.encode("utf-8")).hexdigest()[:12], 16)
-        n = h % 100000
-
-        golden_angle = 2.39996322
-        angle = n * golden_angle
-        r = math.sqrt((n % 10000) / 10000.0) * spread
-
-        lat = center_lat + r * math.cos(angle) / 111.0
-        lng = center_lng + r * math.sin(angle) / (
-            111.0 * math.cos(math.radians(center_lat))
-        )
-        return (lat, lng)
-
-    def geocode(self, name, region=""):
+    def geocode(self, name, region="", location=""):
         """
         获取小区坐标。
 
-        查找顺序: 内存缓存 -> API 调用 -> 哈希散布备用。
+        查找顺序: 内存缓存 -> API 调用。
+        hash 伪坐标视为未命中，强制重新查询。
 
         Args:
             name: 小区名
             region: 区域标识
+            location: 完整位置 (如 "浦东-惠南-小区名")
 
         Returns:
-            tuple: (lat, lng)
+            tuple or None: (lat, lng) 或 None (API 未返回结果)
         """
         if name in self._cache:
             entry = self._cache[name]
+            # hash 伪坐标不可靠，视为未命中
+            if entry.get("source") == "hash":
+                del self._cache[name]
+                self._cache_dirty = True
+                # fall through to API query
+            elif entry.get("lat") is None:
+                return None
+            else:
+                return (entry["lat"], entry["lng"])
+
+        address = self._build_address(name, location)
+        coords = self._api_geocode(address)
+        if coords:
+            self._cache[name] = {
+                "lat": coords[0],
+                "lng": coords[1],
+                "source": "tencent",
+            }
+            self._cache_dirty = True
+            return coords
+
+        # 带区域查不到，尝试只用小区名
+        if location:
+            coords = self._api_geocode(f"上海{name}")
+            if coords:
+                self._cache[name] = {
+                    "lat": coords[0],
+                    "lng": coords[1],
+                    "source": "tencent",
+                }
+                self._cache_dirty = True
+                return coords
+
+        # API 未返回结果，缓存为 null，避免重复请求
+        logger.debug(f"地理编码无结果: {name}")
+        self._cache[name] = {"lat": None, "lng": None, "source": "miss"}
+        self._cache_dirty = True
+        return None
+
+    def batch_geocode(self, community_info):
+        """
+        批量地理编码: 对去重后的小区名逐一调用。
+
+        Args:
+            community_info: dict { community_name: { region, location } }
+                           或兼容旧格式 { community_name: region_str }
+
+        Returns:
+            dict { community_name: (lat, lng) or None }
+        """
+        results = {}
+        to_fetch = []
+
+        for name, info in community_info.items():
+            if name in self._cache:
+                entry = self._cache[name]
+                # hash 伪坐标不可靠，视为未命中
+                if entry.get("source") == "hash":
+                    del self._cache[name]
+                    self._cache_dirty = True
+                    if isinstance(info, dict):
+                        to_fetch.append((name, info.get('region', ''),
+                                         info.get('location', '')))
+                    else:
+                        to_fetch.append((name, info, ''))
+                elif entry.get("lat") is not None:
+                    results[name] = (entry["lat"], entry["lng"])
+                else:
+                    results[name] = None
+            else:
+                if isinstance(info, dict):
+                    to_fetch.append((name, info.get('region', ''),
+                                     info.get('location', '')))
+                else:
+                    to_fetch.append((name, info, ''))
+
+        if not to_fetch:
+            return results
+
+        api_mode = "API" if self._api_key else "无API密钥"
+        logger.info(
+            f"地理编码: 缓存命中 {len(results)}/{len(community_info)}, "
+            f"待处理 {len(to_fetch)} ({api_mode})"
+        )
+
+        for i, (name, region, location) in enumerate(to_fetch):
+            coords = self.geocode(name, region, location)
+            results[name] = coords
+            if i < len(to_fetch) - 1 and self._api_key:
+                time.sleep(TENCENT_GEO_BATCH_INTERVAL)
+            if (i + 1) % 20 == 0:
+                logger.info(f"  进度: {i + 1}/{len(to_fetch)}")
+                self._save_cache()
+
+        self._save_cache()
+        return results
+
+    def refresh_geo(self, name, region="", force=False):
+        """
+        重查单个小区坐标。
+
+        force=False 时只重查 source=hash/miss 的条目；
+        force=True 时全部重查 (包括已有腾讯 API 结果的)。
+
+        Args:
+            name: 小区名
+            region: 区域标识
+            force: 是否强制重查所有条目
+
+        Returns:
+            tuple or None: (lat, lng) 或 None
+        """
+        entry = self._cache.get(name)
+        if entry and not force and entry.get("source") == "tencent":
             return (entry["lat"], entry["lng"])
+
+        # 删除旧缓存，重新查询
+        if name in self._cache:
+            del self._cache[name]
 
         coords = self._api_geocode(f"上海{name}")
         if coords:
@@ -259,58 +371,66 @@ class GeoCoder:
             self._cache_dirty = True
             return coords
 
-        coords = self._hash_geocode(name, region)
-        self._cache[name] = {
-            "lat": coords[0],
-            "lng": coords[1],
-            "source": "hash",
-        }
+        # API 未返回结果
+        logger.debug(f"地理编码刷新无结果: {name}")
+        self._cache[name] = {"lat": None, "lng": None, "source": "miss"}
         self._cache_dirty = True
-        return coords
+        return None
 
-    def batch_geocode(self, community_regions):
+    def batch_refresh(self, community_regions, force=False):
         """
-        批量地理编码: 对去重后的小区名逐一调用。
+        批量刷新地理坐标。
 
         Args:
             community_regions: dict { community_name: region }
+            force: 是否强制重查所有条目
 
         Returns:
-            dict { community_name: (lat, lng) }
+            dict: { community_name: (lat, lng) } 更新后的坐标
         """
         results = {}
-        to_fetch = []
+        to_refresh = []
 
         for name, region in community_regions.items():
-            if name in self._cache:
-                entry = self._cache[name]
+            entry = self._cache.get(name)
+            if entry and not force and entry.get("source") == "tencent":
                 results[name] = (entry["lat"], entry["lng"])
             else:
-                to_fetch.append((name, region))
+                to_refresh.append((name, region))
 
-        if not to_fetch:
+        if not to_refresh:
+            logger.info(f"地理缓存刷新: {len(results)} 条无需更新")
             return results
 
-        api_mode = ("API" if self._api_key
-                    else "哈希散布(未配置API密钥)")
+        mode = "全部" if force else "非tencent坐标"
+        api_mode = "API" if self._api_key else "无API密钥"
         logger.info(
-            f"地理编码: 缓存命中 {len(results)}/{len(community_regions)}, "
-            f"待处理 {len(to_fetch)} ({api_mode})"
+            f"地理缓存刷新 ({mode}): "
+            f"{len(results)} 条跳过, {len(to_refresh)} 条待重查 ({api_mode})"
         )
 
-        for i, (name, region) in enumerate(to_fetch):
-            coords = self.geocode(name, region)
+        upgraded = 0
+        for i, (name, region) in enumerate(to_refresh):
+            old_entry = self._cache.get(name)
+            old_source = old_entry.get("source", "") if old_entry else ""
+            coords = self.refresh_geo(name, region, force=True)
+            new_entry = self._cache.get(name, {})
+            new_source = new_entry.get("source", "")
+            if old_source in ("hash", "miss") and new_source == "tencent":
+                upgraded += 1
             results[name] = coords
-            if i < len(to_fetch) - 1 and self._api_key:
+            if i < len(to_refresh) - 1 and self._api_key:
                 time.sleep(TENCENT_GEO_BATCH_INTERVAL)
             if (i + 1) % 20 == 0:
-                logger.info(f"  进度: {i + 1}/{len(to_fetch)}")
+                logger.info(f"  进度: {i + 1}/{len(to_refresh)}")
                 self._save_cache()
 
         self._save_cache()
+        logger.info(
+            f"地理缓存刷新完成: 重查 {len(to_refresh)} 条, "
+            f"升级为API坐标 {upgraded} 条"
+        )
         return results
-
-    def clear_cache(self):
         """清空缓存."""
         self._cache = {}
         self._cache_dirty = False
@@ -345,6 +465,6 @@ def geocode_community(name, region=""):
         region: 区域标识
 
     Returns:
-        tuple: (lat, lng)
+        tuple or None: (lat, lng) 或 None
     """
     return _geocoder.geocode(name, region)

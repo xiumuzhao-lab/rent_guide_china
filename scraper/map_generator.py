@@ -152,8 +152,10 @@ def generate_static_map(community_stats, workplace,
 
     plot_data = []
     for name, stat in community_stats.items():
-        lat, lng = geo_coords.get(
-            name, geocode_community(name, stat.get("region", "")))
+        coords = geo_coords.get(name)
+        if not coords:
+            continue
+        lat, lng = coords
         dist = haversine(wp_lat, wp_lng, lat, lng)
         if dist <= max_distance:
             plot_data.append((name, lat, lng, dist, stat))
@@ -386,7 +388,10 @@ def generate_html_map(community_stats, workplace,
         ).add_to(m)
 
     for name, stat in community_stats.items():
-        lat, lng = geocode_community(name, stat.get("region", ""))
+        coords = geocode_community(name, stat.get("region", ""))
+        if not coords:
+            continue
+        lat, lng = coords
         dist = haversine(wp_lat, wp_lng, lat, lng)
         if dist > max_distance:
             continue
@@ -432,7 +437,10 @@ def print_distance_report(community_stats, workplace, max_distance):
 
     results = []
     for name, stat in community_stats.items():
-        lat, lng = geocode_community(name, stat.get("region", ""))
+        coords = geocode_community(name, stat.get("region", ""))
+        if not coords:
+            continue
+        lat, lng = coords
         dist = haversine(wp_lat, wp_lng, lat, lng)
         results.append((name, dist, stat))
     results.sort(key=lambda x: x[1])
