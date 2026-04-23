@@ -78,8 +78,8 @@ export default function App() {
 
   return (
     <Layout style={{ minHeight: '100vh' }}>
-      <Header style={{ background: '#fff', borderBottom: '1px solid #f0f0f0', padding: '0 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 64 }}>
-        <Title level={4} style={{ margin: 0 }}>租房雷达 · RentRadar</Title>
+      <Header component="header" role="banner" style={{ background: '#fff', borderBottom: '1px solid #f0f0f0', padding: '0 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 64 }}>
+        <Title level={1} style={{ margin: 0, fontSize: 20, fontWeight: 700 }}>租房雷达 · RentRadar</Title>
         <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
           <WorkplaceSelector value={workplace} onChange={setWorkplace} />
           <div style={{ width: 160, flexShrink: 0 }}>
@@ -88,7 +88,7 @@ export default function App() {
           {overview.scrapedAt && <Text type="secondary">数据: {overview.scrapedAt.split(' ')[0]}</Text>}
         </div>
       </Header>
-      <Content style={{ padding: 24, background: '#f5f5f5' }}>
+      <Content component="main" style={{ padding: 24, background: '#f5f5f5' }}>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 24, maxWidth: 1400, margin: '0 auto' }}>
           <Alert
             type="info"
@@ -103,25 +103,25 @@ export default function App() {
 
           <AdSlot slot="SLOT_TOP" format="horizontal" />
 
-          <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={5}>{workplace.name} 全景单价热力图</Title>
+          <section aria-label="单价热力图" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <Title level={2}>{workplace.name} 全景单价热力图</Title>
             <HeatmapCanvas workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} />
-          </div>
+          </section>
 
           <AdSlot slot="SLOT_MIDDLE" format="horizontal" />
 
-          <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={5}>各距离环性价比排行</Title>
+          <section aria-label="性价比排行" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <Title level={2}>各距离环性价比排行</Title>
             <TopByRing enrichedStats={enrichedStats} listings={listings} />
-          </div>
+          </section>
 
-          <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={5}>{workplace.name} 周边 {maxDistance}km 租房单价地图 ({enrichedStats.length} 个小区)</Title>
+          <section aria-label="租房地图" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <Title level={2}>{workplace.name} 周边 {maxDistance}km 租房单价地图 ({enrichedStats.length} 个小区)</Title>
             <CommunityMap workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} listings={listings} />
-          </div>
+          </section>
 
-          <div style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={5}>数据分析</Title>
+          <section aria-label="数据分析" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <Title level={2}>数据分析</Title>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
               <div>
                 <PriceHistogram data={filteredListings} />
@@ -140,12 +140,12 @@ export default function App() {
                 <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: 范围内房源面积与月租金关系, 帮助判断性价比</div>
               </div>
             </div>
-          </div>
+          </section>
 
           <AdSlot slot="SLOT_BOTTOM" format="auto" />
         </div>
       </Content>
-      <Footer style={{
+      <Footer component="footer" role="contentinfo" style={{
         background: '#fff',
         borderTop: '1px solid #f0f0f0',
         padding: '24px 48px',
