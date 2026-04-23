@@ -21,6 +21,7 @@ ERROR_LOG_FILE = OUTPUT_DIR / "error.log"
 # ============================================================
 
 REGIONS = {
+    'pudong':     {'name': '浦东', 'slug': 'pudong'},
     'zhangjiang': {'name': '张江', 'slug': 'zhangjiang'},
     'jinqiao':    {'name': '金桥', 'slug': 'jinqiao'},
     'tangzhen':   {'name': '唐镇', 'slug': 'tangzhen'},
@@ -31,9 +32,9 @@ ALL_REGIONS = list(REGIONS.keys())
 DEFAULT_MAX_PAGES = 100
 
 CSV_FIELDS = [
-    "region", "title", "rent_type", "community", "area", "rooms", "direction",
-    "floor", "price", "unit_price", "tags", "source", "url", "scraped_at",
-    "lat", "lng",
+    "region", "title", "rent_type", "community", "location", "area", "rooms",
+    "direction", "floor", "price", "unit_price", "tags", "source", "url",
+    "scraped_at", "lat", "lng",
 ]
 
 # 每 N 条数据自动保存一次中间结果
@@ -139,4 +140,4 @@ LABEL_FONT_SIZE = 5.5
 # ============================================================
 
 TENCENT_GEOCODER_URL = "https://apis.map.qq.com/ws/geocoder/v1"
-TENCENT_GEO_BATCH_INTERVAL = 0.15
+TENCENT_GEO_BATCH_INTERVAL = 0.05

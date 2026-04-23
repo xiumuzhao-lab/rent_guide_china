@@ -136,6 +136,9 @@ def get_area_url(slug: str, page: int = None) -> str:
     """
     根据区域 slug 和页码生成 URL.
 
+    优先使用从页面直接提取的 URL (REGIONS[slug]['url'])，
+    避免手动拼接。找不到时再根据 parent 字段构造。
+
     Args:
         slug: 区域标识 (如 zhangjiang)
         page: 页码，None 或 0 表示首页
@@ -143,7 +146,18 @@ def get_area_url(slug: str, page: int = None) -> str:
     Returns:
         str: 完整 URL
     """
-    base = f"https://sh.lianjia.com/zufang/{slug}/"
+    region = REGIONS.get(slug, {})
+    # 优先使用从页面直接提取的完整 URL
+    base = region.get('url', '')
+    if not base:
+        parent = region.get('parent')
+        if parent:
+            base = f"https://sh.lianjia.com/zufang/{parent}/{slug}/"
+        else:
+            base = f"https://sh.lianjia.com/zufang/{slug}/"
+    # 确保 base 以 / 结尾
+    if not base.endswith('/'):
+        base += '/'
     if page is None or page <= 0:
         return base
     return f"{base}pg{page}/"

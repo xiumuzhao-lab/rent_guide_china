@@ -30,8 +30,10 @@ from scraper.scraper_core import (
     scrape_with_browser,
 )
 from scraper.storage import (
-    clear_all_partials,
+    clear_partial,
     enrich_with_geo,
+    merge_all_partials,
+    refresh_geo_in_files,
     save_results,
 )
 from scraper.analyzer import analyze_listings
@@ -249,10 +251,39 @@ async def run_pipeline(args):
     latest_json = None
     all_listings = []
 
+    # ---- Step 0: 地理缓存刷新 ----
+    if args.refresh_geo:
+        logger.info(f"\n{'=' * 60}")
+        logger.info("地理位置缓存刷新")
+        logger.info(f"{'=' * 60}")
+        force = getattr(args, 'refresh_geo_force', False)
+        mode = "全部重查" if force else "仅刷新hash伪坐标"
+        logger.info(f"刷新模式: {mode}")
+        refresh_geo_in_files(force=force)
+        logger.info(error_log.summary())
+        notify("链家爬虫", "地理位置刷新完成!")
+        if args.skip_scrape and args.skip_map:
+            return
+
+    # ---- Step 0b: 数据聚合 ----
+    if args.merge:
+        logger.info(f"\n{'=' * 60}")
+        logger.info("数据聚合")
+        logger.info(f"{'=' * 60}")
+        latest_json = merge_all_partials(fmt=args.format)
+        if latest_json:
+            logger.info(f"合并文件: {latest_json}")
+            notify("链家爬虫", f"数据聚合完成: {latest_json.name}")
+        logger.info(error_log.summary())
+        if args.skip_scrape and args.skip_map:
+            return
+
     # ---- Step 1: 爬取 ----
     if not args.skip_scrape:
         if args.fresh:
-            clear_all_partials()
+            for slug in args.selected_areas:
+                clear_partial(slug)
+            logger.info(f"已清除 {len(args.selected_areas)} 个区域的断点数据")
 
         area_names = [REGIONS[a]['name'] for a in args.selected_areas]
         logger.info(f"区域: {', '.join(area_names)}")
@@ -382,6 +413,9 @@ def parse_args(argv=None):
   python -m scraper.pipeline --areas zhangjiang,jinqiao --max-pages 20
   python -m scraper.pipeline --skip-scrape --workplace 金桥
   python -m scraper.pipeline --analyze output/lianjia_all_xxx.json
+  python -m scraper.pipeline --merge --skip-scrape --skip-map
+  python -m scraper.pipeline --refresh-geo --skip-scrape --skip-map
+  python -m scraper.pipeline --refresh-geo --refresh-geo-force --skip-scrape --skip-map
         """,
     )
 
@@ -414,7 +448,13 @@ def parse_args(argv=None):
     ctrl_group.add_argument('--skip-scrape', action='store_true',
                             help='跳过爬取')
     ctrl_group.add_argument('--fresh', action='store_true',
-                            help='清除所有断点数据，从头爬取')
+                            help='清除 --areas 指定区域的断点数据，从头爬取')
+    ctrl_group.add_argument('--refresh-geo', action='store_true',
+                            help='刷新地理位置缓存并更新所有历史数据文件')
+    ctrl_group.add_argument('--refresh-geo-force', action='store_true',
+                            help='强制重查所有坐标 (包括已有API结果的)')
+    ctrl_group.add_argument('--merge', action='store_true',
+                            help='聚合所有partial断点文件为合并JSON/CSV')
     ctrl_group.add_argument('--skip-map', action='store_true',
                             help='跳过地图')
     ctrl_group.add_argument('--data', type=str, default=None,
@@ -429,6 +469,9 @@ def parse_args(argv=None):
         args.skip_scrape = True
         args.skip_map = True
         args.data = args.analyze
+
+    if args.merge:
+        args.skip_scrape = True
 
     if args.areas == 'all':
         args.selected_areas = ALL_REGIONS[:]

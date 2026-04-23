@@ -54,7 +54,7 @@ EXTRACT_JS = """
         }
 
         // ---- 描述信息 ----
-        let area = '', floor = '';
+        let area = '', floor = '', location = '';
         const desEl = item.querySelector('.content__list--item--des')
             || item.querySelector('.des');
         if (desEl) {
@@ -63,6 +63,11 @@ EXTRACT_JS = """
             if (areaMatch) area = areaMatch[1];
             const floorMatch = desText.match(/([\\u4e00\\u9fa5]+楼层\\s*[（(]\\s*\\d+层\\s*[）)])/);
             if (floorMatch) floor = clean(floorMatch[1]);
+            // 提取位置: "浦东-御桥-xxx" 格式
+            const locMatch = desText.match(
+                /([\\u4e00-\\u9fff]+-[\\u4e00-\\u9fff]+(?:-[\\u4e00-\\u9fff(\\)]+)?)/
+            );
+            if (locMatch) location = locMatch[1];
         }
 
         // ---- 价格 ----
@@ -93,6 +98,7 @@ EXTRACT_JS = """
                 title, community, area, rooms, direction,
                 floor, price, tags, source, url,
                 rent_type: rentType,
+                location,
             });
         }
     });
@@ -102,32 +108,174 @@ EXTRACT_JS = """
 """
 
 # 提取页面上的子区域链接 (用于大区域下钻)
+# 三级搜索策略: filter 容器 → 全页 <ul> → 全页链接
+# 子区域链接是直接路径 (如 /zufang/beicai/)，不是嵌套路径
 EXTRACT_SUBAREAS_JS = """
-() => {
-    // 链家区域筛选栏中的子区域链接
-    const links = document.querySelectorAll(
-        '[class*="filter"] a[href*="/zufang/"], '
-        + '[class*="area"] a[href*="/zufang/"], '
-        + '[data-el="region"] a'
-    );
+(parentSlug) => {
     const results = [];
     const seen = new Set();
-    for (const a of links) {
+
+    function tryAddLink(a) {
         const href = a.getAttribute('href') || '';
-        // 匹配 /zufang/xxx/yyy/ 格式的子区域链接 (两级以上路径)
-        const match = href.match(/\\/zufang\\/([^/]+)\\/([^/]+)\\/?$/);
-        if (match && !seen.has(match[2])) {
-            seen.add(match[2]);
-            results.push({
-                slug: match[2],
-                name: (a.textContent || '').trim(),
-                url: 'https://sh.lianjia.com' + href,
-            });
+        const text = (a.textContent || '').trim();
+        if (!text || text === '不限') return;
+        let path = href;
+        try { path = new URL(href, location.origin).pathname; } catch(e) {}
+        path = path.replace(/\\/+$/, '');
+        if (!path.startsWith('/zufang/')) return;
+        const slug = path.replace('/zufang/', '');
+        if (!slug || slug.includes('/') || seen.has(slug)) return;
+        if (!/^[a-z]{3,}\\d*$/.test(slug)) return;
+        if (slug === parentSlug) return;
+        seen.add(slug);
+        let fullUrl = href;
+        try { fullUrl = new URL(href, location.origin).href; } catch(e) {}
+        if (!fullUrl.endsWith('/')) fullUrl += '/';
+        results.push({ slug: slug, name: text, url: fullUrl });
+    }
+
+    // 策略 1: filter 容器内查找
+    const filterEl = document.querySelector('.filter')
+                  || document.querySelector('#filter');
+    if (filterEl) {
+        const uls = filterEl.querySelectorAll('ul');
+        for (const ul of uls) {
+            const links = ul.querySelectorAll('a[href]');
+            let isRow = false;
+            for (const a of links) {
+                const h = a.getAttribute('href') || '';
+                const t = (a.textContent || '').trim();
+                if (t === '不限' && h.includes(parentSlug)) { isRow = true; break; }
+            }
+            if (isRow) {
+                links.forEach(a => tryAddLink(a));
+                if (results.length > 0) return results;
+            }
         }
+    }
+
+    // 策略 2: 全页所有 <ul> 中查找"不限"+parentSlug 行
+    for (const ul of document.querySelectorAll('ul')) {
+        const links = ul.querySelectorAll('a[href]');
+        if (links.length < 3) continue;
+        let isRow = false;
+        for (const a of links) {
+            const h = a.getAttribute('href') || '';
+            const t = (a.textContent || '').trim();
+            if (t === '不限' && h.includes(parentSlug)) { isRow = true; break; }
+        }
+        if (isRow) {
+            links.forEach(a => tryAddLink(a));
+            if (results.length > 0) return results;
+        }
+    }
+
+    // 策略 3: 全页搜索 /zufang/ 链接 (中文 2-6 字，在列表容器内)
+    for (const a of document.querySelectorAll('a[href*="/zufang/"]')) {
+        const text = (a.textContent || '').trim();
+        if (!/^[\\u4e00-\\u9fff]{2,6}$/.test(text)) continue;
+        const p = a.parentElement;
+        if (!p) continue;
+        const tag = p.tagName.toLowerCase();
+        if (tag !== 'li' && tag !== 'span' && tag !== 'div') continue;
+        tryAddLink(a);
     }
     return results;
 }
 """
+
+# 兜底方案: 从房源描述中提取子区域名称，再匹配页面链接
+EXTRACT_SUBAREAS_FROM_LISTINGS_JS = """
+(parentSlug) => {
+    const results = [];
+    const seen = new Set();
+    const subareaNames = new Set();
+
+    // 1. 从房源描述 "长宁-虹桥-xxx" 中提取子区域名
+    document.querySelectorAll('.content__list--item--des').forEach(el => {
+        const text = (el.textContent || '').replace(/\\s+/g, ' ').trim();
+        const m = text.match(/[\\u4e00-\\u9fff]+-([\\u4e00-\\u9fff]+)/);
+        if (m) subareaNames.add(m[1]);
+    });
+    if (subareaNames.size === 0) return results;
+
+    // 2. 在全页搜索与子区域名匹配的 /zufang/ 链接
+    document.querySelectorAll('a[href*="/zufang/"]').forEach(a => {
+        const href = a.getAttribute('href') || '';
+        const text = (a.textContent || '').trim();
+        if (!subareaNames.has(text)) return;
+        let path = href;
+        try { path = new URL(href, location.origin).pathname; } catch(e) {}
+        path = path.replace(/\\/+$/, '');
+        if (!path.startsWith('/zufang/')) return;
+        const slug = path.replace('/zufang/', '');
+        if (!slug || slug.includes('/') || seen.has(slug)) return;
+        if (!/^[a-z]{3,}\\d*$/.test(slug)) return;
+        if (slug === parentSlug) return;
+        seen.add(slug);
+        let fullUrl = href;
+        try { fullUrl = new URL(href, location.origin).href; } catch(e) {}
+        if (!fullUrl.endsWith('/')) fullUrl += '/';
+        results.push({ slug, name: text, url: fullUrl });
+    });
+    return results;
+}
+"""
+
+# 已知大区域的子区域列表 (作为自动检测失败时的后备)
+# 注意: 子区域链接是直接路径如 /zufang/beicai/，不是嵌套路径
+KNOWN_SUBAREAS = {
+    'pudong': [
+        {'slug': 'beicai', 'name': '北蔡'},
+        {'slug': 'biyun', 'name': '碧云'},
+        {'slug': 'caolu', 'name': '曹路'},
+        {'slug': 'chuansha', 'name': '川沙'},
+        {'slug': 'datuanzhen', 'name': '大团镇'},
+        {'slug': 'geqing', 'name': '合庆'},
+        {'slug': 'gaohang', 'name': '高行'},
+        {'slug': 'gaodong', 'name': '高东'},
+        {'slug': 'huamu', 'name': '花木'},
+        {'slug': 'hangtou', 'name': '航头'},
+        {'slug': 'huinan', 'name': '惠南'},
+        {'slug': 'jinqiao', 'name': '金桥'},
+        {'slug': 'jinyang', 'name': '金杨'},
+        {'slug': 'kangqiao', 'name': '康桥'},
+        {'slug': 'lujiazui', 'name': '陆家嘴'},
+        {'slug': 'laogangzhen', 'name': '老港镇'},
+        {'slug': 'lingangxincheng', 'name': '临港新城'},
+        {'slug': 'lianyang', 'name': '联洋'},
+        {'slug': 'meiyuan1', 'name': '梅园'},
+        {'slug': 'nichengzhen', 'name': '泥城镇'},
+        {'slug': 'nanmatou', 'name': '南码头'},
+        {'slug': 'sanlin', 'name': '三林'},
+        {'slug': 'shibo', 'name': '世博'},
+        {'slug': 'shuyuanzhen', 'name': '书院镇'},
+        {'slug': 'tangqiao', 'name': '塘桥'},
+        {'slug': 'tangzhen', 'name': '唐镇'},
+        {'slug': 'waigaoqiao', 'name': '外高桥'},
+        {'slug': 'wanxiangzhen', 'name': '万祥镇'},
+        {'slug': 'weifang', 'name': '潍坊'},
+        {'slug': 'xuanqiao', 'name': '宣桥'},
+        {'slug': 'xinchang', 'name': '新场'},
+        {'slug': 'yuqiao1', 'name': '御桥'},
+        {'slug': 'yangsiqiantan', 'name': '杨思前滩'},
+        {'slug': 'yangdong', 'name': '杨东'},
+        {'slug': 'yuanshen', 'name': '源深'},
+        {'slug': 'yangjing', 'name': '洋泾'},
+        {'slug': 'zhangjiang', 'name': '张江'},
+        {'slug': 'zhuqiao', 'name': '祝桥'},
+        {'slug': 'zhoupu', 'name': '周浦'},
+    ],
+    'changning': [
+        {'slug': 'beixinjing', 'name': '北新泾'},
+        {'slug': 'hongqiao1', 'name': '虹桥'},
+        {'slug': 'tianshan', 'name': '天山'},
+        {'slug': 'xianxia', 'name': '仙霞'},
+        {'slug': 'xinhualu', 'name': '新华路'},
+        {'slug': 'zhenninglu', 'name': '镇宁路'},
+        {'slug': 'zhongshangongyuan', 'name': '中山公园'},
+    ],
+}
 
 
 # ============================================================
