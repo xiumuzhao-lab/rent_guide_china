@@ -158,12 +158,14 @@ export function enrichStatsWithDistance(communityStats, workplace, geoCache, max
   for (const [name, stat] of Object.entries(communityStats)) {
     let lat = stat.lat;
     let lng = stat.lng;
-    // 后备: 从 geo_cache 查找
+    // 后备: 从 geo_cache 查找 (同样需要坐标校验)
     if (!lat || !lng) {
       const cached = geoCache?.[name];
       if (cached?.lat && cached?.lng) {
-        lat = cached.lat;
-        lng = cached.lng;
+        if (isValidCoord(cached.lat, cached.lng, '', stat.region)) {
+          lat = cached.lat;
+          lng = cached.lng;
+        }
       }
     }
     if (!lat || !lng) continue;
