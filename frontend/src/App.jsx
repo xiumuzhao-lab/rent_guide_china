@@ -85,6 +85,8 @@ export default function App() {
     navigator.geolocation.getCurrentPosition(
       (pos) => {
         const { latitude: lat, longitude: lng } = pos.coords;
+        // 不在上海范围内，默认张江
+        if (lat < 30.7 || lat > 31.9 || lng < 120.8 || lng > 122.0) return;
         let nearest = WORKPLACES[0];
         let minDist = Infinity;
         for (const wp of WORKPLACES) {
