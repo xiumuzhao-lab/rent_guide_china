@@ -76,7 +76,7 @@ export default function TopRegionsBar({ enrichedStats, listings }) {
   const colors = top8.map((d, i) => REGION_COLORS[d.region] || FALLBACK_COLORS[i]);
 
   // 柱顶标签显示 "中位数\n(小区数)"
-  const labels = top8.map((d) => `${d.median}\n(${d.count}个)`);
+  const labels = top8.map((d) => `${d.median}元/㎡\n(${d.count}个)`);
 
   const option = {
     title: { text: '命中板块 Top 8 (单价中位数)', left: 'center', top: 10, textStyle: { fontSize: 14 } },
