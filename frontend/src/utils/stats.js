@@ -15,17 +15,51 @@ const DISTRICT_CENTERS = {
 // 浦东因面积大 (含临港) 放宽容忍度
 const DISTRICT_TOLERANCE_KM = 50;
 
+// 远郊板块中心坐标 (region slug -> [lat, lng]), 用于 region 级坐标校验
+const REGION_CENTERS = {
+  jiadinglaocheng: [31.38, 121.24], jiadingxincheng: [31.37, 121.27],
+  anting: [31.29, 121.17], nanxiang: [31.30, 121.32],
+  malu: [31.36, 121.27], xuxing: [31.40, 121.27],
+  songjianglaocheng: [31.01, 121.23], songjiangxincheng: [31.03, 121.22],
+  songjiangdaxuecheng: [31.00, 121.21], sijing: [31.10, 121.26],
+  jiuting: [31.14, 121.32],
+  chuansha: [31.19, 121.70], huinan: [31.05, 121.76],
+  zhuqiao: [31.13, 121.78],
+  fengxianjinhui: [30.96, 121.47], nanqiao: [30.92, 121.47],
+  fengcheng: [30.89, 121.58],
+  jinshanxincheng: [30.74, 121.34],
+  chongmingxincheng: [31.63, 121.40], chongmingqita: [31.55, 121.50],
+  lingangxincheng: [30.89, 121.93], nichengzhen: [30.91, 121.85],
+  yingpu: [31.15, 121.12], zhujiajiao: [31.11, 121.05],
+  huaxin: [31.19, 121.18], xujing: [31.18, 121.18],
+  gucun: [31.37, 121.39], luodian: [31.39, 121.35],
+};
+const REGION_TOLERANCE_KM = 20;
+
 /**
  * 校验坐标是否在预期区的合理范围内.
+ * 先按 location 字段做区级校验，再按 region 字段做板块级校验.
  */
-function isValidCoord(lat, lng, location) {
-  if (!location) return true;
-  const district = location.split('-')[0];
-  const center = DISTRICT_CENTERS[district];
-  if (!center) return true;
-  const dist = haversine(lat, lng, center[0], center[1]);
-  const tolerance = district === '浦东' ? DISTRICT_TOLERANCE_KM : 25;
-  return dist <= tolerance;
+function isValidCoord(lat, lng, location, region) {
+  // 区级校验 (via location)
+  if (location) {
+    const district = location.split('-')[0];
+    const center = DISTRICT_CENTERS[district];
+    if (center) {
+      const dist = haversine(lat, lng, center[0], center[1]);
+      const tolerance = district === '浦东' ? DISTRICT_TOLERANCE_KM : 25;
+      if (dist > tolerance) return false;
+    }
+  }
+  // 板块级校验 (via region) — 防止 location 为空时坐标偏移
+  if (region) {
+    const center = REGION_CENTERS[region];
+    if (center) {
+      const dist = haversine(lat, lng, center[0], center[1]);
+      if (dist > REGION_TOLERANCE_KM) return false;
+    }
+  }
+  return true;
 }
 
 /**
@@ -89,7 +123,7 @@ export function buildCommunityStats(data) {
     let coordValid = true;
     if (avgLat && avgLng) {
       // 区级校验
-      if (!isValidCoord(avgLat, avgLng, location)) {
+      if (!isValidCoord(avgLat, avgLng, location, region)) {
         coordValid = false;
       }
       // 板块级校验: 偏离板块中位数 > 10km 视为异常
