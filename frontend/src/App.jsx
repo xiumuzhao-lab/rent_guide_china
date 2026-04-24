@@ -26,13 +26,25 @@ function readURLParams() {
   const dist = parseInt(p.get('dist'), 10);
   const lat = parseFloat(p.get('lat'));
   const lng = parseFloat(p.get('lng'));
+  const loc = p.get('loc');
   const result = {};
   if (wp) {
+    // 先匹配预设工作地点 (by key)
     const preset = WORKPLACES.find((w) => w.key === wp);
     if (preset) {
       result.workplace = preset;
-    } else if (wp === 'custom' && !isNaN(lat) && !isNaN(lng)) {
-      result.workplace = { key: 'custom', name: `自定义 (${lat}, ${lng})`, lat, lng, address: '' };
+    } else {
+      // 自定义地点: 从 loc 参数解析坐标, wp 为地点名称
+      let customLat = lat;
+      let customLng = lng;
+      if (loc) {
+        const parts = loc.split(',');
+        customLat = parseFloat(parts[0]);
+        customLng = parseFloat(parts[1]);
+      }
+      if (!isNaN(customLat) && !isNaN(customLng)) {
+        result.workplace = { key: 'custom', name: decodeURIComponent(wp), lat: customLat, lng: customLng, address: '' };
+      }
     }
   }
   if (!isNaN(dist) && dist >= 3 && dist <= 30) result.maxDistance = dist;
@@ -43,9 +55,8 @@ function readURLParams() {
 function writeURLParams(workplace, maxDistance) {
   const p = new URLSearchParams();
   if (workplace.key === 'custom') {
-    p.set('wp', 'custom');
-    p.set('lat', workplace.lat);
-    p.set('lng', workplace.lng);
+    p.set('wp', workplace.name);
+    p.set('loc', `${workplace.lat},${workplace.lng}`);
   } else {
     p.set('wp', workplace.key);
   }
