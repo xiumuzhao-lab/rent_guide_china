@@ -11,6 +11,7 @@
 - **地图生成** — 高清 PNG 静态图 + HTML 交互地图，按距离分层展示小区单价
 - **前端看板** — React + Ant Design + ECharts + Leaflet 交互式可视化，含热力图、距离环排名、分析报告
 - **CI/CD** — GitHub Actions 自动部署到 GitHub Pages
+- **后端代理服务** — 独立 Flask 服务代理腾讯地图 API，支持 Docker 一键部署
 
 ## 快速开始
 
@@ -129,9 +130,14 @@ lianjia/
 │   ├── public/data/                   # 静态数据文件（自动生成）
 │   ├── vite.config.js                 # Vite 配置（含腾讯地图 API 代理）
 │   └── package.json
+├── server/                              # 后端代理服务（生产环境）
+│   ├── app.py                          #   Flask 代理（CORS + 缓存）
+│   ├── requirements.txt                #   Python 依赖
+│   └── Dockerfile                      #   容器化部署
 ├── scripts/
 │   ├── prepare_data.js                # 数据准备（复制最新数据到前端）
-│   └── deploy.sh                      # GitHub Pages 部署脚本
+│   ├── deploy.sh                      # GitHub Pages 部署脚本
+│   └── deploy-server.sh               # 后端服务一键部署脚本
 ├── .github/workflows/deploy.yml       # GitHub Actions CI/CD
 ├── .env                               # API 密钥（不入库）
 ├── .env.example                       # API 密钥模板
@@ -302,6 +308,49 @@ git push
 ```
 
 GitHub Actions 工作流（`.github/workflows/deploy.yml`）在 `frontend/` 目录变更时自动构建并部署到 GitHub Pages。
+
+## 后端代理服务（server/）
+
+前端看板的工作地点搜索等功能依赖腾讯地图地点建议 API。开发环境下由 Vite 内建代理（`vite.config.js`）处理；生产环境（GitHub Pages）需要独立部署的 `server/` 服务。
+
+### 一键部署
+
+在 `.env` 中配置服务器信息后，执行一条命令即可完成传输、构建和启动：
+
+```bash
+bash scripts/deploy-server.sh
+```
+
+脚本会自动完成：传输文件 → 远程构建 Docker 镜像 → 启动容器 → 健康检查。
+
+需要在 `.env` 中配置以下变量：
+
+```bash
+# 服务器连接（必填）
+DEPLOY_HOST=your_server_ip
+DEPLOY_USER=root
+DEPLOY_PORT=22
+
+# 认证方式二选一
+DEPLOY_PASSWORD=your_password    # 方式一：密码
+# DEPLOY_KEY=~/.ssh/id_rsa      # 方式二：SSH 密钥
+```
+
+### 本地开发
+
+```bash
+cd server
+pip install -r requirements.txt
+TENCENT_MAP_KEY=xxx TENCENT_MAP_SK=xxx python app.py
+```
+
+### 接口说明
+
+| 端点 | 方法 | 参数 | 说明 |
+|------|------|------|------|
+| `/api/tmap` | GET | `keyword`（必填） | 腾讯地图地点建议，返回 JSON |
+
+内置 30 分钟 TTL 内存缓存，最多缓存 200 条结果。
 
 ## 注意事项
 
