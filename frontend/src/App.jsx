@@ -74,7 +74,7 @@ export default function App() {
   // 从 URL 初始化
   const initial = useMemo(() => readURLParams(), []);
   const [workplace, setWorkplace] = useState(initial.workplace || WORKPLACES[0]);
-  const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 15);
+  const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 5);
 
   // state 变化时同步回 URL
   useEffect(() => { writeURLParams(workplace, maxDistance); }, [workplace, maxDistance]);

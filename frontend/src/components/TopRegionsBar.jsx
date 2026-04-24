@@ -65,7 +65,7 @@ export default function TopRegionsBar({ enrichedStats, listings }) {
       const avg = ups.length > 0 ? Math.round(ups.reduce((s, v) => s + v, 0) / ups.length * 10) / 10 : 0;
       return { region: r, count: st.communities.size, median: mid, avg };
     })
-    .sort((a, b) => b.count - a.count)
+    .sort((a, b) => b.median - a.median)
     .slice(0, 8);
 
   if (top8.length === 0) return null;
