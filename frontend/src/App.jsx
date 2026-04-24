@@ -14,6 +14,7 @@ import HeatmapCanvas from './components/HeatmapCanvas';
 import AnalysisReport from './components/AnalysisReport';
 import { WORKPLACES } from './utils/constants';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
+import { haversine } from './utils/haversine';
 import { generateAnalysis } from './utils/analysis';
 
 const { Header, Content, Footer } = Layout;
@@ -73,8 +74,28 @@ export default function App() {
 
   // 从 URL 初始化
   const initial = useMemo(() => readURLParams(), []);
+  const hasURLWorkplace = !!initial.workplace;
   const [workplace, setWorkplace] = useState(initial.workplace || WORKPLACES[0]);
   const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 5);
+
+  // 无 URL 参数时，尝试定位用户位置并匹配最近工作地
+  useEffect(() => {
+    if (hasURLWorkplace) return;
+    if (!navigator.geolocation) return;
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        const { latitude: lat, longitude: lng } = pos.coords;
+        let nearest = WORKPLACES[0];
+        let minDist = Infinity;
+        for (const wp of WORKPLACES) {
+          const d = haversine(lat, lng, wp.lat, wp.lng);
+          if (d < minDist) { minDist = d; nearest = wp; }
+        }
+        setWorkplace(nearest);
+      },
+      () => { /* 定位失败，保持默认 */ },
+    );
+  }, [hasURLWorkplace]);
 
   // state 变化时同步回 URL
   useEffect(() => { writeURLParams(workplace, maxDistance); }, [workplace, maxDistance]);
