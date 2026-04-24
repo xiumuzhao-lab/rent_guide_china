@@ -40,6 +40,9 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     const ctx = canvas.getContext('2d');
     ctx.scale(dpr, dpr);
 
+    // 移动端缩放因子：宽度 < 500 时等比缩小文字和元素
+    const sf = W < 500 ? W / 600 : 1;
+
     // 背景
     ctx.fillStyle = '#f8f9fa';
     ctx.fillRect(0, 0, W, H);
@@ -80,10 +83,31 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     const maxUP = Math.max(...unitPrices);
     const priceRange = maxUP - minUP;
 
-    // 前 20% 最低单价阈值
-    const bottom20Threshold = priceRange > 0
-      ? [...unitPrices].sort((a, b) => a - b)[Math.floor(unitPrices.length * 0.2)]
-      : minUP;
+    // 按距离环分组，每环内最低 20% 单价阈值
+    const bottom20Set = new Set();
+    {
+      const rings = [3, 5, 8, 10, 15];
+      let prev = 0;
+      for (const r of rings) {
+        const group = enrichedStats.filter((s) => s.dist > prev && s.dist <= r);
+        if (group.length === 0) { prev = r; continue; }
+        const sorted = [...group].sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
+        const cut = Math.max(1, Math.ceil(sorted.length * 0.2));
+        for (let i = 0; i < cut && i < sorted.length; i++) {
+          bottom20Set.add(sorted[i].name);
+        }
+        prev = r;
+      }
+      // 超出 15km 的也按同样规则处理
+      const group = enrichedStats.filter((s) => s.dist > 15);
+      if (group.length > 0) {
+        const sorted = [...group].sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
+        const cut = Math.max(1, Math.ceil(sorted.length * 0.2));
+        for (let i = 0; i < cut && i < sorted.length; i++) {
+          bottom20Set.add(sorted[i].name);
+        }
+      }
+    }
 
     // 网格
     ctx.strokeStyle = '#e0e0e0';
@@ -104,7 +128,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     ctx.globalAlpha = 0.5;
     for (const line of SUBWAY_LINES) {
       ctx.strokeStyle = line.color;
-      ctx.lineWidth = 2;
+      ctx.lineWidth = Math.max(1, 2 * sf);
       ctx.beginPath();
       let started = false;
       for (const st of line.stations) {
@@ -148,15 +172,15 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
         const nx = -dy / len;
         const ny = dx / len;
         // 两个偏移方向都尝试
-        for (const offset of [14, -14]) {
+        for (const offset of [14 * sf, -14 * sf]) {
           if (placed) break;
           const labelX = mx + nx * offset;
           const labelY = my + ny * offset;
           const lineName = line.name;
-          ctx.font = 'bold 10px sans-serif';
+          ctx.font = `bold ${Math.round(10 * sf)}px sans-serif`;
           const ltw = ctx.measureText(lineName).width;
-          const llw = ltw + 8;
-          const llh = 14;
+          const llw = ltw + 8 * sf;
+          const llh = 14 * sf;
           const llx = labelX - llw / 2;
           const lly = labelY - llh / 2;
           // 碰撞检测：与其他线路标签、站名标签
@@ -168,11 +192,11 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
           ctx.fillStyle = line.color;
           ctx.globalAlpha = 0.9;
           ctx.beginPath();
-          ctx.roundRect(llx, lly, llw, llh, 7);
+          ctx.roundRect(llx, lly, llw, llh, 7 * sf);
           ctx.fill();
           ctx.globalAlpha = 1;
           ctx.strokeStyle = '#fff';
-          ctx.lineWidth = 1.2;
+          ctx.lineWidth = Math.max(0.8, 1.2 * sf);
           ctx.stroke();
           ctx.fillStyle = '#fff';
           ctx.textAlign = 'center';
@@ -195,24 +219,24 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
         if (st.transfer) {
           // 换乘站：双圈标记
           ctx.beginPath();
-          ctx.arc(x, y, 5.5, 0, Math.PI * 2);
+          ctx.arc(x, y, 5.5 * sf, 0, Math.PI * 2);
           ctx.fillStyle = '#fff';
           ctx.fill();
           ctx.strokeStyle = line.color;
-          ctx.lineWidth = 2.5;
+          ctx.lineWidth = Math.max(1, 2.5 * sf);
           ctx.stroke();
           ctx.beginPath();
-          ctx.arc(x, y, 3, 0, Math.PI * 2);
+          ctx.arc(x, y, 3 * sf, 0, Math.PI * 2);
           ctx.fillStyle = line.color;
           ctx.fill();
         } else {
           // 普通站：白色圆点 + 线路色边框
           ctx.beginPath();
-          ctx.arc(x, y, 3, 0, Math.PI * 2);
+          ctx.arc(x, y, 3 * sf, 0, Math.PI * 2);
           ctx.fillStyle = '#fff';
           ctx.fill();
           ctx.strokeStyle = line.color;
-          ctx.lineWidth = 1.5;
+          ctx.lineWidth = Math.max(0.8, 1.5 * sf);
           ctx.stroke();
         }
         stationLabels.push({ x, y, name: st.name, color: line.color, transfer: st.transfer });
@@ -222,16 +246,16 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     // ── 站名标注（碰撞检测） ──
     const sLabelRects = [];
     stationLabels.sort((a, b) => (b.transfer ? 1 : 0) - (a.transfer ? 1 : 0));
-    ctx.font = 'bold 9px sans-serif';
+    ctx.font = `bold ${Math.round(9 * sf)}px sans-serif`;
     ctx.textAlign = 'center';
     ctx.textBaseline = 'top';
     for (const sl of stationLabels) {
       const name = sl.name.length > 5 ? sl.name.slice(0, 5) + '…' : sl.name;
       const tw = ctx.measureText(name).width;
-      const lw = tw + 6;
-      const lh = 13;
+      const lw = tw + 6 * sf;
+      const lh = 13 * sf;
       const lx = sl.x - lw / 2;
-      const ly = sl.y + (sl.transfer ? 8 : 5);
+      const ly = sl.y + (sl.transfer ? 8 * sf : 5 * sf);
 
       const overlaps = sLabelRects.some(
         (r) => lx < r.x + r.w && lx + lw > r.x && ly < r.y + r.h && ly + lh > r.y,
@@ -241,13 +265,13 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       sLabelRects.push({ x: lx, y: ly, w: lw, h: lh });
       ctx.fillStyle = 'rgba(255,255,255,0.88)';
       ctx.beginPath();
-      ctx.roundRect(lx, ly, lw, lh, 2);
+      ctx.roundRect(lx, ly, lw, lh, 2 * sf);
       ctx.fill();
       ctx.strokeStyle = sl.color;
-      ctx.lineWidth = 0.6;
+      ctx.lineWidth = Math.max(0.4, 0.6 * sf);
       ctx.stroke();
       ctx.fillStyle = sl.color;
-      ctx.fillText(name, sl.x, ly + 1.5);
+      ctx.fillText(name, sl.x, ly + 1.5 * sf);
     }
 
     // 距离环
@@ -262,9 +286,9 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       ctx.beginPath();
       ctx.ellipse(cx, cy, rx, ry, 0, 0, Math.PI * 2);
       ctx.strokeStyle = color;
-      ctx.lineWidth = 2.5;
+      ctx.lineWidth = Math.max(1, 2.5 * sf);
       ctx.globalAlpha = 0.5;
-      ctx.setLineDash([8, 4]);
+      ctx.setLineDash([8 * sf, 4 * sf]);
       ctx.stroke();
       ctx.setLineDash([]);
       ctx.globalAlpha = 1;
@@ -274,16 +298,16 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       const lx = cx + rx * Math.cos(labelAngle);
       const ly = cy - ry * Math.sin(labelAngle);
       const labelText = `${rKm} km`;
-      ctx.font = 'bold 13px sans-serif';
+      ctx.font = `bold ${Math.round(13 * sf)}px sans-serif`;
       const tw = ctx.measureText(labelText).width;
       ctx.fillStyle = color;
       ctx.beginPath();
-      const pad = 5;
-      const br = 10;
-      ctx.roundRect(lx - tw / 2 - pad, ly - 9 - pad, tw + pad * 2, 18 + pad * 2, br);
+      const pad = 5 * sf;
+      const br = 10 * sf;
+      ctx.roundRect(lx - tw / 2 - pad, ly - 9 * sf - pad, tw + pad * 2, 18 * sf + pad * 2, br);
       ctx.fill();
       ctx.strokeStyle = '#fff';
-      ctx.lineWidth = 2;
+      ctx.lineWidth = Math.max(1, 2 * sf);
       ctx.stroke();
       ctx.fillStyle = '#fff';
       ctx.textAlign = 'center';
@@ -296,8 +320,8 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     for (const stat of sorted) {
       const x = toX(stat.lng);
       const y = toY(stat.lat);
-      const isLowPrice = priceRange > 0 && stat.avgUnitPrice <= minUP + priceRange * 0.25;
-      const radius = isLowPrice ? 7 : 4;
+      const isLowPrice = bottom20Set.has(stat.name);
+      const radius = isLowPrice ? Math.max(3, 7 * sf) : Math.max(2, 4 * sf);
       const color = getUnitPriceColor(stat.avgUnitPrice, minUP, maxUP);
 
       ctx.beginPath();
@@ -306,7 +330,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       ctx.globalAlpha = isLowPrice ? 0.9 : 0.6;
       ctx.fill();
       ctx.strokeStyle = '#fff';
-      ctx.lineWidth = 1.5;
+      ctx.lineWidth = Math.max(0.8, 1.5 * sf);
       ctx.stroke();
       ctx.globalAlpha = 1;
     }
@@ -316,7 +340,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     const wpy = toY(workplace.lat);
     ctx.beginPath();
     // 星形
-    const starR = 14;
+    const starR = Math.max(8, 14 * sf);
     for (let i = 0; i < 5; i++) {
       const angle = -Math.PI / 2 + (i * 2 * Math.PI) / 5;
       const outerX = wpx + starR * Math.cos(angle);
@@ -332,11 +356,11 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     ctx.fillStyle = '#e74c3c';
     ctx.fill();
     ctx.strokeStyle = '#fff';
-    ctx.lineWidth = 2;
+    ctx.lineWidth = Math.max(1, 2 * sf);
     ctx.stroke();
 
     // 工作地点名称
-    ctx.font = 'bold 13px sans-serif';
+    ctx.font = `bold ${Math.round(13 * sf)}px sans-serif`;
     ctx.fillStyle = '#c0392b';
     ctx.textAlign = 'left';
     ctx.textBaseline = 'middle';
@@ -344,29 +368,29 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     const ntw = ctx.measureText(nameText).width;
     ctx.fillStyle = 'rgba(255,255,255,0.9)';
     ctx.strokeStyle = '#e74c3c';
-    ctx.lineWidth = 1;
+    ctx.lineWidth = Math.max(0.6, 1 * sf);
     ctx.beginPath();
-    ctx.roundRect(wpx + 14, wpy - 12, ntw + 14, 24, 6);
+    ctx.roundRect(wpx + 14 * sf, wpy - 12 * sf, ntw + 14 * sf, 24 * sf, 6 * sf);
     ctx.fill();
     ctx.stroke();
     ctx.fillStyle = '#c0392b';
-    ctx.fillText(nameText, wpx + 21, wpy);
+    ctx.fillText(nameText, wpx + 21 * sf, wpy);
 
     // 低价小区标签 — 碰撞检测防重叠
     const labelRects = [];
     const labelStats = [...enrichedStats]
       .sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
-    ctx.font = '10px sans-serif';
+    ctx.font = `${Math.round(10 * sf)}px sans-serif`;
     for (const stat of labelStats) {
       const x = toX(stat.lng);
       const y = toY(stat.lat);
       const name = stat.name.length > 4 ? stat.name.slice(0, 4) + '…' : stat.name;
       const text = `${name}${stat.avgUnitPrice}`;
       const tw2 = ctx.measureText(text).width;
-      const lw = tw2 + 6;
-      const lh = 14;
+      const lw = tw2 + 6 * sf;
+      const lh = 14 * sf;
       const lx = x - lw / 2;
-      const ly = y - 18 - lh;
+      const ly = y - 18 * sf - lh;
 
       // 碰撞检测
       const overlaps = labelRects.some(
@@ -385,20 +409,20 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       ctx.fillText(text, x, ly + lh / 2);
     }
 
-    // 前 20% 最低单价小区标签 — 最上层，红色醒目
-    const bottom20Stats = enrichedStats.filter((s) => s.avgUnitPrice <= bottom20Threshold);
+    // 各环内最低 20% 单价小区标签 — 最上层，红色醒目
+    const bottom20Stats = enrichedStats.filter((s) => bottom20Set.has(s.name));
     const sortedBottom20 = [...bottom20Stats].sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
-    ctx.font = 'bold 11px sans-serif';
+    ctx.font = `bold ${Math.round(11 * sf)}px sans-serif`;
     for (const stat of sortedBottom20) {
       const x = toX(stat.lng);
       const y = toY(stat.lat);
       const name = stat.name.length > 5 ? stat.name.slice(0, 5) + '…' : stat.name;
       const text = `${name} ${stat.avgUnitPrice}元`;
       const tw2 = ctx.measureText(text).width;
-      const lw = tw2 + 8;
-      const lh = 16;
+      const lw = tw2 + 8 * sf;
+      const lh = 16 * sf;
       const lx = x - lw / 2;
-      const ly = y + 10;
+      const ly = y + 10 * sf;
 
       // 碰撞检测 (复用 labelRects)
       const overlaps = labelRects.some(
@@ -418,9 +442,9 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     }
 
     // 色阶条
-    const barW = 16;
+    const barW = Math.max(10, 16 * sf);
     const barH = H * 0.4;
-    const barX = W - 40;
+    const barX = W - 40 * sf;
     const barY = (H - barH) / 2;
     for (let i = 0; i < barH; i++) {
       const ratio = 1 - i / barH;
@@ -431,15 +455,15 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     ctx.lineWidth = 1;
     ctx.strokeRect(barX, barY, barW, barH);
     ctx.fillStyle = '#666';
-    ctx.font = '10px sans-serif';
+    ctx.font = `${Math.round(10 * sf)}px sans-serif`;
     ctx.textAlign = 'left';
     ctx.textBaseline = 'top';
-    ctx.fillText(`${maxUP}元`, barX + barW + 4, barY);
+    ctx.fillText(`${maxUP}元`, barX + barW + 4 * sf, barY);
     ctx.textBaseline = 'bottom';
-    ctx.fillText(`${minUP}元`, barX + barW + 4, barY + barH);
+    ctx.fillText(`${minUP}元`, barX + barW + 4 * sf, barY + barH);
 
     // 标题
-    ctx.font = 'bold 14px sans-serif';
+    ctx.font = `bold ${Math.round(14 * sf)}px sans-serif`;
     ctx.fillStyle = '#333';
     ctx.textAlign = 'center';
     ctx.textBaseline = 'top';
@@ -480,11 +504,11 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
         style={{
           position: 'absolute', top: 8, right: 8, zIndex: 10,
           background: 'rgba(255,255,255,0.95)', border: '1px solid #d9d9d9',
-          borderRadius: 6, padding: '4px 12px', cursor: 'pointer',
-          fontSize: 13, color: '#333', boxShadow: '0 1px 4px rgba(0,0,0,0.1)',
+          borderRadius: 6, padding: '4px 10px', cursor: 'pointer',
+          fontSize: 12, color: '#333', boxShadow: '0 1px 4px rgba(0,0,0,0.1)',
         }}
       >
-        导出 PNG
+        导出
       </button>
       <canvas
         ref={canvasRef}

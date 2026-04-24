@@ -92,19 +92,29 @@ function CommunityLayer({ enrichedStats, minUP, maxUP, onCommunityClick, zoom })
     [enrichedStats, zoom],
   );
 
-  // 按距离环分组，每组前 10% 低单价标为红色
+  // 按距离环分组，每组前 20% 低单价标为红色
   const topStats = useMemo(() => {
     const rings = [3, 5, 8, 10, 15];
     const topSet = new Set();
     let prev = 0;
     for (const r of rings) {
       const group = enrichedStats.filter((s) => s.dist > prev && s.dist <= r);
+      if (group.length === 0) { prev = r; continue; }
       const sorted = [...group].sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
-      const cut = Math.max(1, Math.ceil(sorted.length * 0.1));
+      const cut = Math.max(1, Math.ceil(sorted.length * 0.2));
       for (let i = 0; i < cut && i < sorted.length; i++) {
         topSet.add(sorted[i].name);
       }
       prev = r;
+    }
+    // 超出 15km 的也按同样规则处理
+    const group = enrichedStats.filter((s) => s.dist > 15);
+    if (group.length > 0) {
+      const sorted = [...group].sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
+      const cut = Math.max(1, Math.ceil(sorted.length * 0.2));
+      for (let i = 0; i < cut && i < sorted.length; i++) {
+        topSet.add(sorted[i].name);
+      }
     }
     return topSet;
   }, [enrichedStats]);
