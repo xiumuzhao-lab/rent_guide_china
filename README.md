@@ -90,59 +90,64 @@ npm run dev
 ```
 lianjia/
 ├── scraper/                       # Python 爬虫 + 分析 + 地图
-│   ├── config.py                  #   配置常量（区域、工作地点、颜色）
-│   ├── pipeline.py                #   流水线编排（CLI 解析 + 爬取→保存→分析→地图）
-│   ├── scraper_core.py            #   爬取引擎（Playwright + 子区域检测 + 断点续爬）
-│   ├── browser_helpers.py         #   浏览器上下文、人类行为模拟、子区域提取 JS
-│   ├── captcha.py                 #   验证码自动识别（GeeTest v4 + 超级鹰）
-│   ├── storage.py                 #   数据持久化（JSON/CSV、断点文件、合并聚合）
-│   ├── geo.py                     #   地理编码（腾讯 API + 本地缓存 + hash 伪坐标清理）
-│   ├── map_generator.py           #   地图生成（PNG 静态图 + Leaflet HTML）
-│   ├── analyzer.py                #   数据分析（8 张 matplotlib 图表）
-│   ├── retry.py                   #   重试机制与错误日志
-│   └── utils.py                   #   工具函数（日志、去重、通知、URL 生成）
+│   ├── __init__.py                    #   包初始化
+│   ├── __main__.py                    #   python -m scraper 入口
+│   ├── config.py                      #   配置常量（区域、工作地点、颜色）
+│   ├── pipeline.py                    #   流水线编排（CLI 解析 + 爬取→保存→分析→地图）
+│   ├── scraper_core.py                #   爬取引擎（Playwright + 子区域检测 + 断点续爬）
+│   ├── browser_helpers.py             #   浏览器上下文、人类行为模拟、子区域提取 JS
+│   ├── captcha.py                     #   验证码自动识别（GeeTest v4 + 超级鹰）
+│   ├── storage.py                     #   数据持久化（JSON/CSV、断点文件、合并聚合）
+│   ├── geo.py                         #   地理编码（腾讯 API + 本地缓存 + hash 伪坐标清理）
+│   ├── map_generator.py               #   地图生成（PNG 静态图 + Leaflet HTML）
+│   ├── analyzer.py                    #   数据分析（8 张 matplotlib 图表）
+│   ├── retry.py                       #   重试机制与错误日志
+│   ├── utils.py                       #   工具函数（日志、去重、通知、URL 生成）
+│   └── regions_config.json            #   区域爬取配置
 ├── frontend/                      # React 前端可视化
 │   ├── src/
-│   │   ├── App.jsx                #   主布局（数据加载 + 标签页导航）
+│   │   ├── main.jsx                   #   入口
+│   │   ├── App.jsx                    #   主布局（数据加载 + 标签页导航）
+│   │   ├── App.css                    #   全局样式
 │   │   ├── components/
-│   │   │   ├── CommunityMap.jsx       # Leaflet 地图（高德底图 + 距离环 + 小区标注）
-│   │   │   ├── HeatmapCanvas.jsx      # Canvas 热力图渲染
-│   │   │   ├── OverviewCards.jsx      # 总览卡片（房源数、均价、单价）
-│   │   │   ├── AnalysisReport.jsx     # 综合分析报告
-│   │   │   ├── DistanceTable.jsx      # 距离分层表格
-│   │   │   ├── TopByRing.jsx          # 各距离环热门小区排名
-│   │   │   ├── CommunityListings.jsx  # 小区房源明细列表
-│   │   │   ├── PriceBoxPlot.jsx       # 各区域价格箱线图
-│   │   │   ├── PriceHistogram.jsx     # 价格直方图
-│   │   │   ├── RoomsBarChart.jsx      # 户型分布柱状图
-│   │   │   ├── AvgAreaBar.jsx         # 各区域平均面积
-│   │   │   ├── TopCommunities.jsx     # 热门小区排行
-│   │   │   ├── RentTypePie.jsx        # 租赁类型饼图
-│   │   │   ├── PriceVsArea.jsx        # 价格 vs 面积散点图
-│   │   │   ├── DirectionBar.jsx       # 朝向分布
-│   │   │   ├── WorkplaceSelector.jsx  # 工作地点选择器（支持自定义坐标）
-│   │   │   └── AdSlot.jsx             # 广告位组件
+│   │   │   ├── CommunityMap.jsx           # Leaflet 地图（高德底图 + 距离环 + 小区标注）
+│   │   │   ├── HeatmapCanvas.jsx          # Canvas 热力图渲染
+│   │   │   ├── OverviewCards.jsx          # 总览卡片（房源数、均价、单价）
+│   │   │   ├── TopRegionsBar.jsx          # 顶部区域单价条形图
+│   │   │   ├── AnalysisReport.jsx         # 综合分析报告
+│   │   │   ├── DistanceTable.jsx          # 距离分层表格
+│   │   │   ├── TopByRing.jsx              # 各距离环热门小区排名
+│   │   │   ├── CommunityListings.jsx      # 小区房源明细列表
+│   │   │   ├── PriceBoxPlot.jsx           # 各区域价格箱线图
+│   │   │   ├── PriceHistogram.jsx         # 价格直方图
+│   │   │   ├── RoomsBarChart.jsx          # 户型分布柱状图
+│   │   │   ├── AvgAreaBar.jsx             # 各区域平均面积
+│   │   │   ├── TopCommunities.jsx         # 热门小区排行
+│   │   │   ├── RentTypePie.jsx            # 租赁类型饼图
+│   │   │   ├── PriceVsArea.jsx            # 价格 vs 面积散点图
+│   │   │   ├── DirectionBar.jsx           # 朝向分布
+│   │   │   ├── WorkplaceSelector.jsx      # 工作地点选择器（支持自定义坐标）
+│   │   │   └── AdSlot.jsx                 # 广告位组件
 │   │   └── utils/
-│   │       ├── constants.js           # 前端常量（区域、工作地点、颜色）
-│   │       ├── haversine.js           # Haversine 距离计算
-│   │       ├── stats.js               # 统计聚合与距离筛选
-│   │       └── analysis.js            # 数据分析辅助函数
-│   ├── public/data/                   # 静态数据文件（自动生成）
-│   ├── vite.config.js                 # Vite 配置（含腾讯地图 API 代理）
+│   │       ├── constants.js               # 前端常量（区域、工作地点、颜色）
+│   │       ├── haversine.js               # Haversine 距离计算
+│   │       ├── stats.js                   # 统计聚合与距离筛选
+│   │       └── analysis.js                # 数据分析辅助函数
+│   ├── public/data/                       # 静态数据文件（自动生成）
+│   ├── vite.config.js                     # Vite 配置（含腾讯地图 API 代理）
 │   └── package.json
 ├── server/                              # 后端代理服务（生产环境）
-│   ├── app.py                          #   Flask 代理（CORS + 缓存）
-│   ├── requirements.txt                #   Python 依赖
-│   └── Dockerfile                      #   容器化部署
+│   ├── app.py                           #   Flask 代理（CORS + 缓存）
+│   ├── requirements.txt                 #   Python 依赖
+│   └── Dockerfile                       #   容器化部署
 ├── scripts/
-│   ├── prepare_data.js                # 数据准备（复制最新数据到前端）
-│   ├── deploy.sh                      # GitHub Pages 部署脚本
-│   └── deploy-server.sh               # 后端服务一键部署脚本
-├── .github/workflows/deploy.yml       # GitHub Actions CI/CD
-├── .env                               # API 密钥（不入库）
-├── .env.example                       # API 密钥模板
-├── requirements.txt                   # Python 依赖
-└── output/                            # 输出目录（数据、地图、图表、日志）
+│   ├── prepare_data.js                  # 数据准备（复制最新数据到前端）
+│   ├── deploy.sh                        # GitHub Pages 部署脚本
+│   └── deploy-server.sh                 # 后端服务一键部署脚本
+├── .github/workflows/deploy.yml         # GitHub Actions CI/CD
+├── .env.example                         # API 密钥模板
+├── requirements.txt                     # Python 依赖
+└── output/                              # 输出目录（数据、地图、图表、日志）
 ```
 
 ## 操作手册

@@ -59,6 +59,48 @@ for d in ('宝山', '金山', '嘉定', '青浦', '奉贤'):
 # 浦东: 60km (含临港片区)
 DISTRICT_TOLERANCE_KM['浦东'] = 60
 
+# 远郊板块中心坐标 (子区域 -> [lat, lng])
+# 用于 location 字段中子区域级别的坐标校验
+SUB_REGION_CENTERS = {
+    # 浦东远郊
+    '临港新城': (30.91, 121.93), '临港': (30.91, 121.93),
+    '惠南': (31.05, 121.76), '祝桥': (31.13, 121.78),
+    '川沙': (31.19, 121.70), '宣桥': (31.02, 121.74),
+    '书院镇': (30.93, 121.83), '泥城镇': (30.91, 121.85),
+    '大团镇': (30.97, 121.79), '老港镇': (31.04, 121.78),
+    # 嘉定
+    '安亭': (31.29, 121.17), '南翔': (31.30, 121.32),
+    '马陆': (31.36, 121.27), '江桥': (31.24, 121.32),
+    '徐行': (31.41, 121.27),
+    # 松江
+    '泗泾': (31.10, 121.26), '九亭': (31.14, 121.32),
+    '洞泾': (31.08, 121.25), '新桥': (31.07, 121.35),
+    '佘山': (31.10, 121.20), '小昆山': (31.03, 121.20),
+    # 青浦
+    '徐泾': (31.18, 121.18), '华新': (31.19, 121.18),
+    '朱家角': (31.11, 121.05), '赵巷': (31.16, 121.16),
+    '重固': (31.18, 121.15),
+    # 宝山
+    '顾村': (31.37, 121.39), '罗店': (31.39, 121.35),
+    '罗泾': (31.44, 121.38), '大场镇': (31.32, 121.39),
+    # 奉贤
+    '南桥': (30.92, 121.47), '奉城': (30.89, 121.58),
+    '海湾': (30.87, 121.48),
+    # 金山
+    '金山新城': (30.74, 121.34),
+    # 崇明
+    '崇明新城': (31.63, 121.40), '陈家镇': (31.53, 121.80),
+    '长兴岛': (31.38, 121.63),
+}
+SUB_REGION_TOLERANCE_KM = 20
+
+# 上海边界 (绝对边界, 任何坐标超出此范围一律拒绝)
+SH_BOUNDARY = {'lat_min': 30.65, 'lat_max': 31.95,
+               'lng_min': 120.70, 'lng_max': 122.10}
+
+# 已知的镇/街道名 (用于 _build_address 添加 "镇" 后缀)
+KNOWN_TOWNS = set(SUB_REGION_CENTERS.keys())
+
 
 def _load_tencent_config():
     """
@@ -197,6 +239,8 @@ class GeoCoder:
         """
         校验坐标是否在预期区的合理范围内.
 
+        三层校验: 1) 上海边界 2) 区级 3) 子区域/板块级
+
         Args:
             lat: 纬度
             lng: 经度
@@ -205,17 +249,46 @@ class GeoCoder:
         Returns:
             bool: True 表示坐标合理，False 表示坐标异常
         """
-        district = self._extract_district(location)
-        if not district or district not in DISTRICT_CENTERS:
-            return True  # 无区信息，跳过校验
-        center_lat, center_lng = DISTRICT_CENTERS[district]
-        dist = haversine(lat, lng, center_lat, center_lng)
-        tolerance = DISTRICT_TOLERANCE_KM.get(district, 25)
-        if dist > tolerance:
+        # 第 1 层: 上海绝对边界
+        if not (SH_BOUNDARY['lat_min'] <= lat <= SH_BOUNDARY['lat_max']
+                and SH_BOUNDARY['lng_min'] <= lng <= SH_BOUNDARY['lng_max']):
             logger.debug(
-                f"坐标校验失败: {location} -> ({lat}, {lng}) "
-                f"距 {district} 中心 {dist:.0f}km (容忍 {tolerance}km)")
+                f"坐标超出上海边界: ({lat}, {lng})")
             return False
+
+        # 第 2 层: 区级校验
+        district = self._extract_district(location)
+        if district and district in DISTRICT_CENTERS:
+            center_lat, center_lng = DISTRICT_CENTERS[district]
+            dist = haversine(lat, lng, center_lat, center_lng)
+            tolerance = DISTRICT_TOLERANCE_KM.get(district, 25)
+            if dist > tolerance:
+                logger.debug(
+                    f"坐标校验失败(区级): {location} -> ({lat}, {lng}) "
+                    f"距 {district} 中心 {dist:.0f}km (容忍 {tolerance}km)")
+                return False
+
+        # 第 3 层: 子区域级校验 (更精准)
+        if location:
+            parts = [p.strip() for p in location.split('-') if p.strip()]
+            if len(parts) >= 2:
+                sub_region = parts[1]
+                # 尝试精确匹配和模糊匹配 (去掉"镇"/"新城"后缀)
+                center = SUB_REGION_CENTERS.get(sub_region)
+                if not center:
+                    for name, coord in SUB_REGION_CENTERS.items():
+                        if sub_region in name or name in sub_region:
+                            center = coord
+                            break
+                if center:
+                    dist = haversine(lat, lng, center[0], center[1])
+                    if dist > SUB_REGION_TOLERANCE_KM:
+                        logger.debug(
+                            f"坐标校验失败(板块级): {location} -> "
+                            f"({lat}, {lng}) 距 {sub_region} "
+                            f"{dist:.0f}km (容忍 {SUB_REGION_TOLERANCE_KM}km)")
+                        return False
+
         return True
 
     def _calc_sig(self, uri, params):
@@ -288,7 +361,7 @@ class GeoCoder:
         构造精确的查询地址.
 
         优先使用 location 字段 (如 "浦东-惠南-西门锦绣苑")
-        拼接为 "上海市浦东区惠南镇西门锦绣苑"。
+        拼接为 "上海市浦东新区惠南镇西门锦绣苑"。
         添加行政区划限定词以提高 API 定位精度。
 
         Args:
@@ -302,9 +375,18 @@ class GeoCoder:
             parts = [p.strip() for p in location.split("-") if p.strip()]
             if len(parts) >= 2:
                 district = parts[0]
-                rest = "".join(parts[1:])
-                return f"上海市{district}区{rest}"
-            return f"上海{location.replace('-', '').replace(' ', '')}"
+                # "浦东" 是 "浦东新区"，不是 "浦东区"
+                district_suffix = "新区" if district == "浦东" else "区"
+                # 子区域之间加空格，已知镇名加 "镇" 后缀
+                sub_parts = []
+                for p in parts[1:]:
+                    if p in KNOWN_TOWNS and not p.endswith('镇') and not p.endswith('新城'):
+                        sub_parts.append(p + "镇")
+                    else:
+                        sub_parts.append(p)
+                rest = " ".join(sub_parts)
+                return f"上海市{district}{district_suffix}{rest} {name}"
+            return f"上海{location.replace('-', ' ').replace(' ', '')}"
         return f"上海{name}"
 
     def geocode(self, name, region="", location=""):

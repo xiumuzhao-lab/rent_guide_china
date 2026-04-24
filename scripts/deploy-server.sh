@@ -17,13 +17,16 @@ set -euo pipefail
 PROJECT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 SERVER_DIR="$PROJECT_DIR/server"
 
-# 从 .env 加载变量
+# 从 .env 加载变量（去除尾部空格，避免变量值被污染）
 ENV_FILE="$PROJECT_DIR/.env"
 if [ -f "$ENV_FILE" ]; then
-  set -a
-  # shellcheck disable=SC1090
-  source <(grep -E '^\s*(DEPLOY_|TENCENT_MAP)' "$ENV_FILE")
-  set +a
+  while IFS='=' read -r key val; do
+    key=$(echo "$key" | xargs)
+    val=$(echo "$val" | xargs)
+    if [[ "$key" =~ ^(DEPLOY_|TENCENT_MAP) ]] && [[ ! "$key" =~ ^# ]]; then
+      export "$key=$val"
+    fi
+  done < <(grep -E '^\s*[A-Z_]+\s*=' "$ENV_FILE" | grep -E '^\s*(DEPLOY_|TENCENT_MAP)')
 fi
 
 # 校验必填变量
@@ -34,11 +37,13 @@ DEPLOY_PATH="${DEPLOY_PATH:-/opt/rent-radar}"
 IMAGE_NAME="rent-radar-server"
 CONTAINER_NAME="rent-radar-server"
 
-# 构建 SSH 命令
-SSH_OPTS="-o StrictHostKeyChecking=no -p $DEPLOY_PORT"
+# 构建 SSH/SCP 命令（注意 scp 端口用大写 -P，ssh 用小写 -p）
+SSH_COMMON_OPTS="-o StrictHostKeyChecking=no"
+SSH_PORT_OPTS="-p $DEPLOY_PORT"
+SCP_PORT_OPTS="-P $DEPLOY_PORT"
 if [ -n "${DEPLOY_KEY:-}" ]; then
-  SSH_CMD="ssh $SSH_OPTS -i $DEPLOY_KEY"
-  SCP_CMD="scp $SSH_OPTS -i $DEPLOY_KEY"
+  SSH_CMD="ssh $SSH_COMMON_OPTS $SSH_PORT_OPTS -i $DEPLOY_KEY"
+  SCP_CMD="scp $SSH_COMMON_OPTS $SCP_PORT_OPTS -i $DEPLOY_KEY"
 else
   if ! command -v sshpass &>/dev/null; then
     echo "错误: 使用密码部署需要 sshpass，请安装或改用 DEPLOY_KEY"
@@ -46,8 +51,8 @@ else
     exit 1
   fi
   : "${DEPLOY_PASSWORD:?DEPLOY_PASSWORD 未配置}"
-  SSH_CMD="sshpass -e ssh $SSH_OPTS"
-  SCP_CMD="sshpass -e scp $SSH_OPTS"
+  SSH_CMD="sshpass -e ssh $SSH_COMMON_OPTS $SSH_PORT_OPTS"
+  SCP_CMD="sshpass -e scp $SSH_COMMON_OPTS $SCP_PORT_OPTS"
 fi
 export SSHPASS="${DEPLOY_PASSWORD:-}"
 
@@ -67,8 +72,9 @@ $SSH_CMD "$DEPLOY_USER@$DEPLOY_HOST" /bin/bash <<REMOTE_SCRIPT
 set -euo pipefail
 cd $DEPLOY_PATH
 
-# 停止旧容器
+# 停止旧容器 + 清理占用端口的裸进程
 docker rm -f $CONTAINER_NAME 2>/dev/null || true
+fuser -k 8900/tcp 2>/dev/null || true
 
 # 构建新镜像
 docker build -t $IMAGE_NAME .
