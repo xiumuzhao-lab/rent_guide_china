@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="radarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <!-- 雷达底座圆 -->
+  <circle cx="32" cy="30" r="24" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+  <circle cx="32" cy="30" r="16" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+  <circle cx="32" cy="30" r="8" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- 雷达中心点 -->
+  <circle cx="32" cy="30" r="3" fill="url(#radarGrad)"/>
+  <!-- 雷达扫描线 -->
+  <path d="M32 30 L32 6" stroke="url(#radarGrad)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 30 L54 30" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <!-- 扫描扇区 -->
+  <path d="M32 30 L32 6 A24 24 0 0 1 54 30 Z" fill="#3b82f6" opacity="0.15"/>
+  <!-- 房子图标（底部） -->
+  <path d="M22 48 L32 38 L42 48 L42 60 L34 60 L34 52 L30 52 L30 60 L22 60 Z" fill="url(#radarGrad)"/>
+  <!-- 房顶 -->
+  <path d="M18 48 L32 34 L46 48" fill="none" stroke="#1d4ed8" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- 烟囱 -->
+  <rect x="38" y="38" width="4" height="6" rx="0.5" fill="#1d4ed8"/>
+  <!-- 信号波 -->
+  <path d="M6 18 Q2 10 6 2" fill="none" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <path d="M10 16 Q7 10 10 4" fill="none" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+  <path d="M58 18 Q62 10 58 2" fill="none" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <path d="M54 16 Q57 10 54 4" fill="none" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+</svg>

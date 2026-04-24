@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rent.scoreless.top/sitemap.xml
