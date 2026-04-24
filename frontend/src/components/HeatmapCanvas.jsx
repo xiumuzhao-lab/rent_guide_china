@@ -79,6 +79,11 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     const maxUP = Math.max(...unitPrices);
     const priceRange = maxUP - minUP;
 
+    // 前 20% 最低单价阈值
+    const bottom20Threshold = priceRange > 0
+      ? [...unitPrices].sort((a, b) => a - b)[Math.floor(unitPrices.length * 0.2)]
+      : minUP;
+
     // 网格
     ctx.strokeStyle = '#e0e0e0';
     ctx.lineWidth = 0.5;
@@ -195,10 +200,10 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     ctx.fillText(nameText, wpx + 21, wpy);
 
     // 低价小区标签 — 碰撞检测防重叠
+    const labelRects = [];
     const labelStats = [...enrichedStats]
       .sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
     ctx.font = '10px sans-serif';
-    const labelRects = [];
     for (const stat of labelStats) {
       const x = toX(stat.lng);
       const y = toY(stat.lat);
@@ -222,6 +227,38 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       ctx.roundRect(lx, ly, lw, lh, 3);
       ctx.fill();
       ctx.fillStyle = '#555';
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText(text, x, ly + lh / 2);
+    }
+
+    // 前 20% 最低单价小区标签 — 最上层，红色醒目
+    const bottom20Stats = enrichedStats.filter((s) => s.avgUnitPrice <= bottom20Threshold);
+    const sortedBottom20 = [...bottom20Stats].sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
+    ctx.font = 'bold 11px sans-serif';
+    for (const stat of sortedBottom20) {
+      const x = toX(stat.lng);
+      const y = toY(stat.lat);
+      const name = stat.name.length > 5 ? stat.name.slice(0, 5) + '…' : stat.name;
+      const text = `${name} ${stat.avgUnitPrice}元`;
+      const tw2 = ctx.measureText(text).width;
+      const lw = tw2 + 8;
+      const lh = 16;
+      const lx = x - lw / 2;
+      const ly = y + 10;
+
+      // 碰撞检测 (复用 labelRects)
+      const overlaps = labelRects.some(
+        (r) => lx < r.x + r.w && lx + lw > r.x && ly < r.y + r.h && ly + lh > r.y
+      );
+      if (overlaps) continue;
+
+      labelRects.push({ x: lx, y: ly, w: lw, h: lh });
+      ctx.fillStyle = 'rgba(255,255,255,0.9)';
+      ctx.beginPath();
+      ctx.roundRect(lx, ly, lw, lh, 3);
+      ctx.fill();
+      ctx.fillStyle = '#e74c3c';
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
       ctx.fillText(text, x, ly + lh / 2);
