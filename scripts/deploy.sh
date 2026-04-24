@@ -6,21 +6,18 @@
 #   bash scripts/deploy.sh
 #
 # 前提:
-#   1. 先运行 node scripts/prepare_data.js 准备数据
-#   2. frontend/ 下 npm install 已完成
+#   1. frontend/ 下 npm install 已完成
 
 set -euo pipefail
 
 PROJECT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
-DEPLOY_DIR="/tmp/rent-guide-deploy-$$"
-REMOTE="origin"
 BRANCH="gh-pages"
 
 echo "=== 链家租房 — 安全部署到 GitHub Pages ==="
 echo ""
 
 # Step 1: 构建前端
-echo "[1/4] 构建前端..."
+echo "[1/3] 构建前端..."
 cd "$PROJECT_DIR/frontend"
 if [ ! -d node_modules ]; then
   echo "  安装依赖..."
@@ -32,17 +29,18 @@ echo ""
 
 # Step 2: 准备数据（如果还没有）
 if [ ! -f "$PROJECT_DIR/frontend/public/data/listings.json" ]; then
-  echo "[2/4] 准备数据..."
+  echo "[2/3] 准备数据..."
   node "$PROJECT_DIR/scripts/prepare_data.js"
 else
-  echo "[2/4] 数据已就绪，跳过"
+  echo "[2/3] 数据已就绪，跳过"
 fi
 echo ""
 
 # Step 3: 在临时目录克隆 gh-pages 并更新
-echo "[3/4] 部署到 gh-pages 分支（临时目录: $DEPLOY_DIR）..."
-mkdir -p "$DEPLOY_DIR"
-cd "$DEPLOY_DIR"
+DEPLOY_DIR="$(mktemp -d)"
+echo "[3/3] 部署到 gh-pages 分支（临时目录: ${DEPLOY_DIR}）..."
+
+cd "${DEPLOY_DIR}"
 
 # 克隆 gh-pages 分支（如果不存在则创建空仓库）
 if git clone --branch "$BRANCH" --single-branch "$PROJECT_DIR" . 2>/dev/null; then
@@ -69,21 +67,21 @@ if git diff --cached --quiet; then
   echo "  没有变更，跳过部署"
 else
   git commit -m "Deploy $TIMESTAMP"
-  git remote remove origin 2>/dev/null || true
 
   # 从项目配置获取 remote URL
   REMOTE_URL=$(cd "$PROJECT_DIR" && git remote get-url origin)
+  git remote remove origin 2>/dev/null || true
   git remote add origin "$REMOTE_URL"
   git push origin "$BRANCH" --force
   echo "  已推送到 gh-pages"
 fi
 echo ""
 
-# Step 4: 清理
-echo "[4/4] 清理临时目录..."
-rm -rf "$DEPLOY_DIR"
-echo "  已清理"
+# 清理
+echo "清理临时目录..."
+cd "$PROJECT_DIR"
+rm -rf "${DEPLOY_DIR}"
 echo ""
 
 echo "=== 部署完成 ==="
-echo "  https://xiumuzhao-lab.github.io/rent_guide_china/"
+echo "  https://rent.scoreless.top/"

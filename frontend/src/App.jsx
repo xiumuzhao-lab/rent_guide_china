@@ -13,6 +13,7 @@ import TopByRing from './components/TopByRing';
 import HeatmapCanvas from './components/HeatmapCanvas';
 import AnalysisReport from './components/AnalysisReport';
 import { WORKPLACES } from './utils/constants';
+import useIsMobile from './hooks/useIsMobile';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
 import { haversine } from './utils/haversine';
 import { generateAnalysis } from './utils/analysis';
@@ -64,12 +65,13 @@ export default function App() {
   const [listings, setListings] = useState([]);
   const [geoCache, setGeoCache] = useState({});
   const [loading, setLoading] = useState(true);
+  const isMobile = useIsMobile();
 
   // 从 URL 初始化
   const initial = useMemo(() => readURLParams(), []);
   const hasURLWorkplace = !!initial.workplace;
   const [workplace, setWorkplace] = useState(initial.workplace || WORKPLACES[0]);
-  const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 5);
+  const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 3);
 
   // 无 URL 参数时，尝试定位用户位置并匹配最近工作地
   useEffect(() => {
@@ -169,36 +171,39 @@ export default function App() {
 
   return (
     <Layout style={{ minHeight: '100vh' }}>
-      <Header component="header" role="banner" style={{ background: '#fff', borderBottom: '1px solid #f0f0f0', padding: '0 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: 64 }}>
+      <Header component="header" role="banner" style={{ background: '#fff', borderBottom: '1px solid #f0f0f0', padding: isMobile ? '10px 12px' : '0 24px', display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', height: isMobile ? 'auto' : 64, gap: isMobile ? 8 : 0 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
           <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" width={28} height={28} />
-          <Title level={1} style={{ margin: 0, fontSize: 20, fontWeight: 700 }}>租房雷达</Title>
+          <Title level={1} style={{ margin: 0, fontSize: isMobile ? 16 : 20, fontWeight: 700 }}>租房雷达</Title>
         </div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: isMobile ? 8 : 16, flexWrap: 'wrap', width: isMobile ? '100%' : 'auto' }}>
           <WorkplaceSelector value={workplace} onChange={setWorkplace} />
-          <div style={{ width: 160, flexShrink: 0 }}>
+          <div style={{ width: isMobile ? '100%' : 160, flexShrink: 0 }}>
             <Slider min={3} max={30} value={maxDistance} onChange={setMaxDistance} step={1} marks={{ 3: '3km', 15: '15km', 30: '30km' }} />
           </div>
-          {overview.scrapedAt && <Text type="secondary">数据: {overview.scrapedAt.split(' ')[0]}</Text>}
         </div>
       </Header>
-      <Content component="main" style={{ padding: 24, background: '#f5f5f5' }}>
-        <div style={{ display: 'flex', flexDirection: 'column', gap: 24, maxWidth: 1400, margin: '0 auto' }}>
-          <Alert
-            type="info"
-            showIcon
-            message="本站数据仅供参考，非实时房源信息。数据来源于公开渠道的统计分析，不构成任何租赁建议。"
-            style={{ borderRadius: 8 }}
-          />
+      <Content component="main" style={{ padding: isMobile ? 10 : 24, background: '#f5f5f5' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? 12 : 24, maxWidth: 1400, margin: '0 auto' }}>
+          <div style={{
+            padding: '12px 16px',
+            background: '#fff', borderRadius: 8,
+            border: '1px solid #e6f7ff',
+            borderLeft: '4px solid #1890ff',
+            fontSize: 13, color: '#999', lineHeight: 1.8,
+          }}>
+            <span style={{ color: '#1890ff', fontWeight: 700 }}>租房单价（元/㎡/月）</span>
+            <span style={{ color: '#333', fontWeight: 600 }}>是衡量不同小区租金水平的核心指标</span>。
+            单价越低每平米月租越便宜，但需综合通勤、配套、品质等因素判断性价比。采用加权平均（总租金÷总面积）消除户型偏差。
+          </div>
 
           <OverviewCards overview={rangeOverview} />
-
-          <AnalysisReport summary={analysis.summary} suggestions={analysis.suggestions} />
 
           <AdSlot slot="SLOT_TOP" format="horizontal" />
 
           <section aria-label="单价热力图" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
             <Title level={2}>{workplace.name} 全景单价热力图</Title>
+            <div style={{ fontSize: 12, color: '#999', marginBottom: 8 }}>红色标注为低价小区，散点颜色由绿到红反映单价从高到低，距离环标注通勤范围</div>
             <HeatmapCanvas workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} />
           </section>
 
@@ -216,7 +221,7 @@ export default function App() {
 
           <section aria-label="数据分析" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
             <Title level={2}>数据分析（{maxDistance}km 以内）</Title>
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
+            <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? 10 : 16 }}>
               <div>
                 <RentTypePie data={analysisListings} enrichedStats={enrichedStats} listings={filteredListings} />
                 <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内命中板块 Top 8 单价中位数, 点击柱子查看房源</div>

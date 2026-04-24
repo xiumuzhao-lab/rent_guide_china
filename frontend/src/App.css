@@ -8,3 +8,48 @@ body {
 #root {
   min-height: 100vh;
 }
+
+/* ── 移动端适配 ── */
+@media (max-width: 768px) {
+  /* Header 垂直堆叠 */
+  .ant-layout-header {
+    height: auto !important;
+    padding: 10px 12px !important;
+    flex-wrap: wrap;
+    gap: 8px !important;
+  }
+  .ant-layout-header > div {
+    flex-wrap: wrap;
+  }
+
+  /* Content 缩小边距 */
+  .ant-layout-content {
+    padding: 10px !important;
+  }
+
+  /* section 内间距 */
+  section {
+    padding: 10px !important;
+  }
+
+  /* 标题字号 */
+  .ant-typography h1 {
+    font-size: 16px !important;
+  }
+  .ant-typography h2 {
+    font-size: 15px !important;
+  }
+
+  /* Footer 缩小 */
+  .ant-layout-footer {
+    padding: 16px 12px !important;
+  }
+
+  /* leaflet 地图控制按钮适配 */
+  .leaflet-control-zoom a {
+    width: 32px !important;
+    height: 32px !important;
+    line-height: 32px !important;
+    font-size: 16px !important;
+  }
+}

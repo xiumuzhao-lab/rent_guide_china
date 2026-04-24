@@ -1,9 +1,11 @@
 import ReactECharts from 'echarts-for-react';
+import useIsMobile from '../hooks/useIsMobile';
 import { REGION_NAMES, REGION_COLORS } from '../utils/constants';
 
 const FALLBACK_COLORS = ['#4e79a7', '#f28e2b', '#e15759', '#76b7b2', '#59a14f', '#edc948', '#b07aa1', '#ff9da7'];
 
 export default function RoomsBarChart({ data, topRegions = [] }) {
+  const isMobile = useIsMobile();
   const filteredData = topRegions.length > 0
     ? data.filter((d) => topRegions.includes(d.region))
     : data;
@@ -84,5 +86,5 @@ export default function RoomsBarChart({ data, topRegions = [] }) {
     grid: { left: 60, right: 30, bottom: 40, top: 80 },
   };
 
-  return <ReactECharts option={option} style={{ height: 280 }} />;
+  return <ReactECharts option={option} style={{ height: isMobile ? 220 : 280 }} />;
 }

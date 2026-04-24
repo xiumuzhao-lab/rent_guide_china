@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import ReactECharts from 'echarts-for-react';
+import useIsMobile from '../hooks/useIsMobile';
 import { REGION_NAMES, REGION_COLORS } from '../utils/constants';
 import { Modal, Table } from 'antd';
 
@@ -46,6 +47,7 @@ const columns = [
 ];
 
 export default function TopRegionsBar({ enrichedStats, listings }) {
+  const isMobile = useIsMobile();
   const [selected, setSelected] = useState(null);
 
   // 从 enrichedStats 按板块统计小区数量和单价
@@ -115,7 +117,7 @@ export default function TopRegionsBar({ enrichedStats, listings }) {
 
   return (
     <>
-      <ReactECharts option={option} style={{ height: 280 }} onEvents={{ click: handleClick }} />
+      <ReactECharts option={option} style={{ height: isMobile ? 220 : 280 }} onEvents={{ click: handleClick }} />
       <Modal
         title={`${regionName} — ${regionListings.length} 套房源`}
         open={!!selected}

@@ -2,12 +2,14 @@ import { AutoComplete, InputNumber, Space } from 'antd';
 import { EnvironmentOutlined } from '@ant-design/icons';
 import { useState, useRef, useCallback } from 'react';
 import { WORKPLACES } from '../utils/constants';
+import useIsMobile from '../hooks/useIsMobile';
 
 const CUSTOM_KEY = '__custom__';
 
 const defaultOptions = WORKPLACES.map((wp) => ({ value: wp.key, label: wp.name, isPreset: true }));
 
 export default function WorkplaceSelector({ value, onChange }) {
+  const isMobile = useIsMobile();
   const [options, setOptions] = useState(defaultOptions);
   const [text, setText] = useState('');
   const [editing, setEditing] = useState(false);
@@ -104,7 +106,7 @@ export default function WorkplaceSelector({ value, onChange }) {
         onFocus={() => setEditing(true)}
         onBlur={() => setEditing(false)}
         placeholder="输入地名搜索或选择"
-        style={{ width: 260 }}
+        style={{ width: isMobile ? '100%' : 260 }}
         filterOption={(input, option) => {
           if (!option?.label) return false;
           // tmap 搜索结果已由 API 过滤，不再二次过滤

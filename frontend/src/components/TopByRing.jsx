@@ -100,6 +100,7 @@ export default function TopByRing({ enrichedStats, listings }) {
         </span>
       ),
       children: filtered.length > 0 ? (
+        <div style={{ overflowX: 'auto' }}>
         <Table
           dataSource={filtered}
           columns={columns}
@@ -107,6 +108,7 @@ export default function TopByRing({ enrichedStats, listings }) {
           size="small"
           pagination={{ pageSize: 20, showSizeChanger: true, showTotal: (t) => `共 ${t} 个小区` }}
         />
+        </div>
       ) : (
         <div style={{ textAlign: 'center', padding: 40, color: '#bbb' }}>该范围内暂无小区数据</div>
       ),

@@ -2,6 +2,8 @@ import { useEffect, useRef, useState, useCallback, useMemo } from 'react';
 import { MapContainer, TileLayer, Circle, Marker, Tooltip, useMap, useMapEvent } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import html2canvas from 'html2canvas';
+import useIsMobile from '../hooks/useIsMobile';
 import { DISTANCE_RINGS, RING_COLORS } from '../utils/constants';
 import CommunityListings from './CommunityListings';
 
@@ -191,7 +193,37 @@ function CommunityLayer({ enrichedStats, minUP, maxUP, onCommunityClick, zoom })
 export default function CommunityMap({ workplace, enrichedStats, maxDistance, listings }) {
   const [selected, setSelected] = useState(null);
   const [zoom, setZoom] = useState(13);
+  const [exporting, setExporting] = useState(false);
+  const isMobile = useIsMobile();
+  const mapContainerRef = useRef(null);
   const handleZoomChange = useCallback((z) => setZoom(z), []);
+
+  const handleExport = useCallback(async () => {
+    const el = mapContainerRef.current;
+    if (!el || exporting) return;
+    setExporting(true);
+    try {
+      const canvas = await html2canvas(el, {
+        useCORS: true,
+        allowTaint: true,
+        scale: 2,
+        backgroundColor: '#f8f9fa',
+      });
+      canvas.toBlob((blob) => {
+        if (!blob) return;
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `${workplace.name}_${maxDistance}km_单价地图.png`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }, 'image/png');
+    } finally {
+      setExporting(false);
+    }
+  }, [workplace.name, maxDistance, exporting]);
 
   if (!workplace || enrichedStats.length === 0) return null;
 
@@ -203,12 +235,28 @@ export default function CommunityMap({ workplace, enrichedStats, maxDistance, li
 
   return (
     <>
-      <MapContainer
-        center={[workplace.lat, workplace.lng]}
-        zoom={25}
-        minZoom={11}
-        style={{ height: 700, width: '100%', borderRadius: 8 }}
-      >
+      <div style={{ position: 'relative' }}>
+        <button
+          onClick={handleExport}
+          disabled={exporting}
+          style={{
+            position: 'absolute', top: 8, right: 8, zIndex: 1000,
+            background: 'rgba(255,255,255,0.95)', border: '1px solid #d9d9d9',
+            borderRadius: 6, padding: '4px 12px',
+            cursor: exporting ? 'wait' : 'pointer',
+            fontSize: 13, color: '#333',
+            boxShadow: '0 1px 4px rgba(0,0,0,0.1)',
+          }}
+        >
+          {exporting ? '导出中...' : '导出 PNG'}
+        </button>
+        <div ref={mapContainerRef}>
+          <MapContainer
+            center={[workplace.lat, workplace.lng]}
+            zoom={25}
+            minZoom={11}
+            style={{ height: isMobile ? '60vh' : 700, width: '100%', borderRadius: 8 }}
+          >
         <SetInitialView workplace={workplace} />
         <ZoomTracker onZoomChange={handleZoomChange} />
         <TileLayer
@@ -290,6 +338,8 @@ export default function CommunityMap({ workplace, enrichedStats, maxDistance, li
           zoom={zoom}
         />
       </MapContainer>
+        </div>
+      </div>
 
       <div style={{ fontSize: 12, color: '#999', marginTop: 4 }}>
         滚轮缩放查看更多小区 · 放大地图显示更多标签 · 悬停查看详情 · 点击查看房源 · 共 {enrichedStats.length} 个小区

@@ -1,4 +1,5 @@
 import { useRef, useEffect, useCallback } from 'react';
+import { SUBWAY_LINES } from '../utils/subway';
 
 const RING_COLORS = { 3: '#2ecc71', 5: '#27ae60', 8: '#f39c12', 10: '#e67e22', 15: '#e74c3c' };
 const DISTANCE_RINGS = [3, 5, 8, 10, 15];
@@ -96,6 +97,158 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(W, y); ctx.stroke();
     }
     ctx.globalAlpha = 1;
+
+    // ── 地铁线路 ──
+    ctx.lineJoin = 'round';
+    ctx.lineCap = 'round';
+    ctx.globalAlpha = 0.5;
+    for (const line of SUBWAY_LINES) {
+      ctx.strokeStyle = line.color;
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      let started = false;
+      for (const st of line.stations) {
+        const x = toX(st.lng);
+        const y = toY(st.lat);
+        if (!started) { ctx.moveTo(x, y); started = true; }
+        else { ctx.lineTo(x, y); }
+      }
+      ctx.stroke();
+    }
+    ctx.globalAlpha = 1;
+
+    // ── 地铁线路名称标注（沿线路多点尝试，确保可见） ──
+    const lineLabelRects = [];
+    ctx.globalAlpha = 1;
+    for (const line of SUBWAY_LINES) {
+      const stations = line.stations;
+      if (stations.length < 2) continue;
+      // 在线路 1/4、1/2、3/4 位置尝试放置标签
+      const candidates = [
+        Math.floor(stations.length * 0.25),
+        Math.floor(stations.length * 0.5),
+        Math.floor(stations.length * 0.75),
+        0,
+        stations.length - 1,
+      ];
+      let placed = false;
+      for (const idx of candidates) {
+        if (placed) break;
+        const st = stations[idx];
+        const mx = toX(st.lng);
+        const my = toY(st.lat);
+        // 允许画布边缘有一点余量
+        if (mx < 20 || mx > W - 20 || my < 20 || my > H - 20) continue;
+        // 计算线路方向
+        const prevIdx = Math.max(0, idx - 1);
+        const nextIdx = Math.min(stations.length - 1, idx + 1);
+        const dx = toX(stations[nextIdx].lng) - toX(stations[prevIdx].lng);
+        const dy = toY(stations[nextIdx].lat) - toY(stations[prevIdx].lat);
+        const len = Math.sqrt(dx * dx + dy * dy) || 1;
+        const nx = -dy / len;
+        const ny = dx / len;
+        // 两个偏移方向都尝试
+        for (const offset of [14, -14]) {
+          if (placed) break;
+          const labelX = mx + nx * offset;
+          const labelY = my + ny * offset;
+          const lineName = line.name;
+          ctx.font = 'bold 10px sans-serif';
+          const ltw = ctx.measureText(lineName).width;
+          const llw = ltw + 8;
+          const llh = 14;
+          const llx = labelX - llw / 2;
+          const lly = labelY - llh / 2;
+          // 碰撞检测：与其他线路标签、站名标签
+          const overlaps = lineLabelRects.some(
+            (r) => llx < r.x + r.w + 2 && llx + llw > r.x - 2 && lly < r.y + r.h + 2 && lly + llh > r.y - 2,
+          );
+          if (overlaps) continue;
+          lineLabelRects.push({ x: llx, y: lly, w: llw, h: llh });
+          ctx.fillStyle = line.color;
+          ctx.globalAlpha = 0.9;
+          ctx.beginPath();
+          ctx.roundRect(llx, lly, llw, llh, 7);
+          ctx.fill();
+          ctx.globalAlpha = 1;
+          ctx.strokeStyle = '#fff';
+          ctx.lineWidth = 1.2;
+          ctx.stroke();
+          ctx.fillStyle = '#fff';
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'middle';
+          ctx.fillText(lineName, labelX, labelY);
+          placed = true;
+        }
+      }
+    }
+    ctx.globalAlpha = 1;
+
+    // ── 地铁站点标记 ──
+    const stationLabels = [];
+    for (const line of SUBWAY_LINES) {
+      for (const st of line.stations) {
+        const x = toX(st.lng);
+        const y = toY(st.lat);
+        if (x < -20 || x > W + 20 || y < -20 || y > H + 20) continue;
+
+        if (st.transfer) {
+          // 换乘站：双圈标记
+          ctx.beginPath();
+          ctx.arc(x, y, 5.5, 0, Math.PI * 2);
+          ctx.fillStyle = '#fff';
+          ctx.fill();
+          ctx.strokeStyle = line.color;
+          ctx.lineWidth = 2.5;
+          ctx.stroke();
+          ctx.beginPath();
+          ctx.arc(x, y, 3, 0, Math.PI * 2);
+          ctx.fillStyle = line.color;
+          ctx.fill();
+        } else {
+          // 普通站：白色圆点 + 线路色边框
+          ctx.beginPath();
+          ctx.arc(x, y, 3, 0, Math.PI * 2);
+          ctx.fillStyle = '#fff';
+          ctx.fill();
+          ctx.strokeStyle = line.color;
+          ctx.lineWidth = 1.5;
+          ctx.stroke();
+        }
+        stationLabels.push({ x, y, name: st.name, color: line.color, transfer: st.transfer });
+      }
+    }
+
+    // ── 站名标注（碰撞检测） ──
+    const sLabelRects = [];
+    stationLabels.sort((a, b) => (b.transfer ? 1 : 0) - (a.transfer ? 1 : 0));
+    ctx.font = 'bold 9px sans-serif';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'top';
+    for (const sl of stationLabels) {
+      const name = sl.name.length > 5 ? sl.name.slice(0, 5) + '…' : sl.name;
+      const tw = ctx.measureText(name).width;
+      const lw = tw + 6;
+      const lh = 13;
+      const lx = sl.x - lw / 2;
+      const ly = sl.y + (sl.transfer ? 8 : 5);
+
+      const overlaps = sLabelRects.some(
+        (r) => lx < r.x + r.w && lx + lw > r.x && ly < r.y + r.h && ly + lh > r.y,
+      );
+      if (overlaps) continue;
+
+      sLabelRects.push({ x: lx, y: ly, w: lw, h: lh });
+      ctx.fillStyle = 'rgba(255,255,255,0.88)';
+      ctx.beginPath();
+      ctx.roundRect(lx, ly, lw, lh, 2);
+      ctx.fill();
+      ctx.strokeStyle = sl.color;
+      ctx.lineWidth = 0.6;
+      ctx.stroke();
+      ctx.fillStyle = sl.color;
+      ctx.fillText(name, sl.x, ly + 1.5);
+    }
 
     // 距离环
     const visibleRings = DISTANCE_RINGS.filter((r) => r <= maxDistance);
@@ -296,6 +449,22 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     );
   }, [workplace, enrichedStats, maxDistance]);
 
+  const handleExport = useCallback(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    canvas.toBlob((blob) => {
+      if (!blob) return;
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `${workplace.name}_${maxDistance}km_热力图.png`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }, 'image/png');
+  }, [workplace.name, maxDistance]);
+
   useEffect(() => {
     draw();
     window.addEventListener('resize', draw);
@@ -305,7 +474,18 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
   if (!workplace || enrichedStats.length === 0) return null;
 
   return (
-    <div ref={containerRef} style={{ width: '100%' }}>
+    <div ref={containerRef} style={{ width: '100%', position: 'relative' }}>
+      <button
+        onClick={handleExport}
+        style={{
+          position: 'absolute', top: 8, right: 8, zIndex: 10,
+          background: 'rgba(255,255,255,0.95)', border: '1px solid #d9d9d9',
+          borderRadius: 6, padding: '4px 12px', cursor: 'pointer',
+          fontSize: 13, color: '#333', boxShadow: '0 1px 4px rgba(0,0,0,0.1)',
+        }}
+      >
+        导出 PNG
+      </button>
       <canvas
         ref={canvasRef}
         style={{ borderRadius: 6, display: 'block' }}
