@@ -221,14 +221,9 @@ export default function CommunityMap({ workplace, enrichedStats, maxDistance, li
       });
       canvas.toBlob((blob) => {
         if (!blob) return;
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `${workplace.name}_${maxDistance}km_单价地图.png`;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
+        import('../utils/download').then(({ downloadBlob }) => {
+          downloadBlob(blob, `${workplace.name}_${maxDistance}km_单价地图.png`);
+        });
       }, 'image/png');
     } finally {
       setExporting(false);

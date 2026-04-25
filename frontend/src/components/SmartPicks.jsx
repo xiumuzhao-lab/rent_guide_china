@@ -56,14 +56,9 @@ export default function SmartPicks({ enrichedStats, listings, workplace, isMobil
     html2canvas(el, { backgroundColor: null, scale: 2 }).then((canvas) => {
       canvas.toBlob((blob) => {
         if (!blob) return;
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `精选推荐_${workplace.name}.png`;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
+        import('../utils/download').then(({ downloadBlob }) => {
+          downloadBlob(blob, `精选推荐_${workplace.name}.png`);
+        });
       }, 'image/png');
     });
   }, [workplace.name]);
@@ -121,20 +116,21 @@ export default function SmartPicks({ enrichedStats, listings, workplace, isMobil
       padding: isMobile ? 12 : 20,
       border: '1px solid #d9f7be',
     }}>
-      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8 }}>
-        <span style={{ fontSize: isMobile ? 16 : 18, fontWeight: 700, color: '#333' }}>精选推荐</span>
-        <Tag color="#52c41a" style={{ margin: 0, fontSize: 11 }}>3km 内 · 7000 元以下 · 地铁优先</Tag>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8, flexWrap: 'wrap' }}>
+        <span style={{ fontSize: isMobile ? 15 : 18, fontWeight: 700, color: '#333' }}>精选推荐</span>
+        <Tag color="#52c41a" style={{ margin: 0, fontSize: isMobile ? 10 : 11 }}>3km内·7000元以下·地铁优先</Tag>
         <div style={{ flex: 1 }} />
         <button onClick={handleExport} style={{
           background: '#fff', border: '1px solid #d9d9d9', borderRadius: 6,
-          padding: '2px 10px', cursor: 'pointer', fontSize: 12, color: '#666',
+          padding: isMobile ? '4px 8px' : '2px 10px', cursor: 'pointer',
+          fontSize: isMobile ? 11 : 12, color: '#666', whiteSpace: 'nowrap',
         }}>
           导出图片
         </button>
       </div>
       <div style={{
-        fontSize: 13, color: '#555', lineHeight: 1.8, marginBottom: 16,
-        padding: '8px 12px', background: '#fff', borderRadius: 6, border: '1px solid #f0f0f0',
+        fontSize: isMobile ? 12 : 13, color: '#555', lineHeight: 1.8, marginBottom: isMobile ? 10 : 16,
+        padding: isMobile ? '6px 10px' : '8px 12px', background: '#fff', borderRadius: 6, border: '1px solid #f0f0f0',
       }}>
         {summary}
       </div>
@@ -167,22 +163,22 @@ export default function SmartPicks({ enrichedStats, listings, workplace, isMobil
                   {idx + 1}
                 </div>
               )}
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginLeft: isTop3 ? 20 : 0 }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginLeft: isTop3 ? (isMobile ? 16 : 20) : 0, gap: 8 }}>
                 <div style={{ flex: 1, minWidth: 0 }}>
-                  <div style={{ fontWeight: 600, fontSize: 14, color: '#333', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                  <div style={{ fontWeight: 600, fontSize: isMobile ? 13 : 14, color: '#333', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
                     {p.name}
                   </div>
-                  <div style={{ fontSize: 12, color: '#999', marginTop: 2 }}>
+                  <div style={{ fontSize: isMobile ? 11 : 12, color: '#999', marginTop: 2 }}>
                     {REGION_NAMES[p.region] || p.region} · {p.dist}km
                   </div>
                 </div>
-                <div style={{ textAlign: 'right', flexShrink: 0, marginLeft: 12 }}>
-                  <div style={{ fontWeight: 700, fontSize: 18, color: '#52c41a' }}>
+                <div style={{ textAlign: 'right', flexShrink: 0 }}>
+                  <div style={{ fontWeight: 700, fontSize: isMobile ? 16 : 18, color: '#52c41a' }}>
                     {p.avgPrice.toLocaleString()}
-                    <span style={{ fontSize: 12, fontWeight: 400, color: '#999' }}> 元/月</span>
+                    <span style={{ fontSize: isMobile ? 10 : 12, fontWeight: 400, color: '#999' }}> 元</span>
                   </div>
-                  <div style={{ fontSize: 12, color: '#999' }}>
-                    {p.avgUnitPrice} 元/㎡ · {p.avgArea}㎡ · {p.count}套
+                  <div style={{ fontSize: isMobile ? 10 : 12, color: '#999' }}>
+                    {p.avgUnitPrice}元/㎡ · {p.avgArea}㎡
                   </div>
                 </div>
               </div>

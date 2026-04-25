@@ -95,8 +95,8 @@ export default function WorkplaceSelector({ value, onChange }) {
   const displayText = editing ? text : (isCustom ? text : value.name);
 
   return (
-    <Space>
-      <EnvironmentOutlined style={{ color: '#e74c3c', fontSize: 18 }} />
+    <Space style={isMobile ? { width: '100%' } : undefined} wrap>
+      {!isMobile && <EnvironmentOutlined style={{ color: '#e74c3c', fontSize: 18 }} />}
       <AutoComplete
         value={displayText}
         options={options}
@@ -109,7 +109,6 @@ export default function WorkplaceSelector({ value, onChange }) {
         style={{ width: isMobile ? '100%' : 260 }}
         filterOption={(input, option) => {
           if (!option?.label) return false;
-          // tmap 搜索结果已由 API 过滤，不再二次过滤
           if (!option.isPreset) return true;
           return option.label.toLowerCase().includes(input.toLowerCase());
         }}
@@ -121,14 +120,14 @@ export default function WorkplaceSelector({ value, onChange }) {
             step={0.001}
             value={value.lat}
             onChange={handleCustomLat}
-            style={{ width: 110 }}
+            style={{ width: isMobile ? '48%' : 110 }}
           />
           <InputNumber
             placeholder="经度"
             step={0.001}
             value={value.lng}
             onChange={handleCustomLng}
-            style={{ width: 110 }}
+            style={{ width: isMobile ? '48%' : 110 }}
           />
         </>
       )}

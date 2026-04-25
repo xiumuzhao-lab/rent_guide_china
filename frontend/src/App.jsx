@@ -1,6 +1,7 @@
 import './App.css';
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, useRef, useCallback } from 'react';
 import { Layout, Typography, Spin, Slider, message, Alert, Tabs } from 'antd';
+import html2canvas from 'html2canvas';
 import WorkplaceSelector from './components/WorkplaceSelector';
 import OverviewCards from './components/OverviewCards';
 import CommunityMap from './components/CommunityMap';
@@ -13,6 +14,7 @@ import TopByRing from './components/TopByRing';
 import HeatmapCanvas from './components/HeatmapCanvas';
 import AnalysisReport from './components/AnalysisReport';
 import SmartPicks from './components/SmartPicks';
+import RegionDistanceText from './components/RegionDistanceText';
 import { WORKPLACES } from './utils/constants';
 import useIsMobile from './hooks/useIsMobile';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
@@ -67,6 +69,7 @@ export default function App() {
   const [geoCache, setGeoCache] = useState({});
   const [loading, setLoading] = useState(true);
   const isMobile = useIsMobile();
+  const regionSectionRef = useRef(null);
 
   // 从 URL 初始化
   const initial = useMemo(() => readURLParams(), []);
@@ -152,6 +155,7 @@ export default function App() {
       if (r) regionCommunities[r] = (regionCommunities[r] || 0) + 1;
     }
     return Object.entries(regionCommunities)
+      .filter(([, count]) => count >= 5)
       .sort((a, b) => b[1] - a[1])
       .slice(0, 6)
       .map(([r]) => r);
@@ -161,6 +165,19 @@ export default function App() {
     () => generateAnalysis({ overview, enrichedStats, filteredListings, workplace, maxDistance }),
     [overview, enrichedStats, filteredListings, workplace, maxDistance],
   );
+
+  const handleExportRegion = useCallback(() => {
+    const el = regionSectionRef.current;
+    if (!el) return;
+    html2canvas(el, { backgroundColor: '#fff', scale: 2 }).then((canvas) => {
+      canvas.toBlob((blob) => {
+        if (!blob) return;
+        import('./utils/download').then(({ downloadBlob }) => {
+          downloadBlob(blob, `板块分析_${workplace.name}_${maxDistance}km.png`);
+        });
+      }, 'image/png');
+    });
+  }, [workplace.name, maxDistance]);
 
   if (loading) {
     return (
@@ -186,45 +203,25 @@ export default function App() {
       </Header>
       <Content component="main" style={{ padding: isMobile ? 10 : 24, background: '#f5f5f5' }}>
         <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? 12 : 24, maxWidth: 1400, margin: '0 auto' }}>
-          <div style={{
-            padding: '12px 16px',
-            background: '#fff', borderRadius: 8,
-            border: '1px solid #e6f7ff',
-            borderLeft: '4px solid #1890ff',
-            fontSize: 13, color: '#999', lineHeight: 1.8,
-          }}>
-            <span style={{ color: '#1890ff', fontWeight: 700 }}>租房单价（元/㎡/月）</span>
-            <span style={{ color: '#333', fontWeight: 600 }}>是衡量不同小区租金水平的核心指标</span>。
-            单价越低每平米月租越便宜，但需综合通勤、配套、品质等因素判断性价比。采用加权平均（总租金÷总面积）消除户型偏差。
-          </div>
-
           <OverviewCards overview={rangeOverview} />
+
+
 
           <AdSlot slot="SLOT_TOP" format="horizontal" />
 
-          <section aria-label="单价热力图" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={2}>{workplace.name} 全景单价热力图</Title>
-            <div style={{ fontSize: 12, color: '#999', marginBottom: 8 }}>红色标注为各距离环内单价最低前20%小区，散点颜色由绿到红反映单价从高到低，距离环标注通勤范围</div>
-            <HeatmapCanvas workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} />
-          </section>
-
-          <SmartPicks enrichedStats={enrichedStats} listings={listings} workplace={workplace} isMobile={isMobile} />
-
-          <AdSlot slot="SLOT_MIDDLE" format="horizontal" />
-
-          <section aria-label="性价比排行" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={2}>各距离环性价比排行</Title>
-            <TopByRing enrichedStats={enrichedStats} listings={listings} />
-          </section>
-
-          <section aria-label="租房地图" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={2}>{workplace.name} 周边 {maxDistance}km 租房单价地图 ({enrichedStats.length} 个小区)</Title>
-            <CommunityMap workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} listings={listings} />
-          </section>
-
-          <section aria-label="数据分析" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
-            <Title level={2}>数据分析（{maxDistance}km 以内）</Title>
-            <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? 10 : 16 }}>
+          {/* 板块分析（含导出） */}
+          <section ref={regionSectionRef} aria-label="板块分析" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 4 }}>
+              <Title level={2} style={{ margin: 0 }}>板块分析（{maxDistance}km 以内）</Title>
+              <button onClick={handleExportRegion} style={{
+                background: '#fff', border: '1px solid #d9d9d9', borderRadius: 6,
+                padding: isMobile ? '4px 8px' : '2px 10px', cursor: 'pointer',
+                fontSize: isMobile ? 11 : 12, color: '#666', whiteSpace: 'nowrap',
+              }}>
+                导出图片
+              </button>
+            </div>
+            <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? 10 : 16, marginTop: 12 }}>
               <div>
                 <RentTypePie data={analysisListings} enrichedStats={enrichedStats} listings={filteredListings} />
                 <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内命中板块 Top 8 单价中位数, 点击柱子查看房源</div>
@@ -242,6 +239,29 @@ export default function App() {
                 <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内房源面积与月租金关系, 帮助判断性价比</div>
               </div>
             </div>
+            <div style={{ marginTop: 12 }}>
+              <RegionDistanceText enrichedStats={enrichedStats} maxDistance={maxDistance} workplace={workplace} />
+            </div>
+          </section>
+
+          <SmartPicks enrichedStats={enrichedStats} listings={listings} workplace={workplace} isMobile={isMobile} />
+
+          <section aria-label="单价热力图" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <Title level={2}>{workplace.name} 全景单价热力图</Title>
+            <div style={{ fontSize: 12, color: '#999', marginBottom: 8 }}>红色标注为各距离环内单价最低前20%小区，散点颜色由绿到红反映单价从高到低，距离环标注通勤范围</div>
+            <HeatmapCanvas workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} />
+          </section>
+
+          <AdSlot slot="SLOT_MIDDLE" format="horizontal" />
+
+          <section aria-label="性价比排行" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <Title level={2}>各距离环性价比排行</Title>
+            <TopByRing enrichedStats={enrichedStats} listings={listings} />
+          </section>
+
+          <section aria-label="租房地图" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
+            <Title level={2}>{workplace.name} 周边 {maxDistance}km 租房单价地图 ({enrichedStats.length} 个小区)</Title>
+            <CommunityMap workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} listings={listings} />
           </section>
 
           <AdSlot slot="SLOT_BOTTOM" format="auto" />

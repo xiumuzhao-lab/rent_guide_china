@@ -48,12 +48,7 @@ export function exportToCSV(enrichedStats, workplace, maxDistance) {
 
   const csv = BOM + header + '\n' + rows.join('\n');
   const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = `${workplace.name}_${maxDistance}km_租房数据_${new Date().toISOString().slice(0, 10)}.csv`;
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  URL.revokeObjectURL(url);
+  import('./download').then(({ downloadBlob }) => {
+    downloadBlob(blob, `${workplace.name}_${maxDistance}km_租房数据_${new Date().toISOString().slice(0, 10)}.csv`);
+  });
 }

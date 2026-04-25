@@ -130,7 +130,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     }
     ctx.globalAlpha = 1;
 
-    // ── 地铁线路 ──
+    // ── 地铁线路（分支间断开：连续站距 >5km 视为不同分支） ──
     ctx.lineJoin = 'round';
     ctx.lineCap = 'round';
     ctx.globalAlpha = 0.5;
@@ -139,11 +139,20 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       ctx.lineWidth = Math.max(1, 2 * sf);
       ctx.beginPath();
       let started = false;
+      let prevSt = null;
       for (const st of line.stations) {
         const x = toX(st.lng);
         const y = toY(st.lat);
-        if (!started) { ctx.moveTo(x, y); started = true; }
-        else { ctx.lineTo(x, y); }
+        if (!started) {
+          ctx.moveTo(x, y);
+          started = true;
+        } else if (prevSt && haversine(prevSt.lat, prevSt.lng, st.lat, st.lng) > 5) {
+          // 分支断裂：跳过不连线，另起 moveTo
+          ctx.moveTo(x, y);
+        } else {
+          ctx.lineTo(x, y);
+        }
+        prevSt = st;
       }
       ctx.stroke();
     }
@@ -501,14 +510,9 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     if (!canvas) return;
     canvas.toBlob((blob) => {
       if (!blob) return;
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `${workplace.name}_${maxDistance}km_热力图.png`;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
+      import('../utils/download').then(({ downloadBlob }) => {
+        downloadBlob(blob, `${workplace.name}_${maxDistance}km_热力图.png`);
+      });
     }, 'image/png');
   }, [workplace.name, maxDistance]);
 

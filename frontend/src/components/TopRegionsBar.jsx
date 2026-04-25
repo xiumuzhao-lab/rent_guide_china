@@ -60,13 +60,21 @@ export default function TopRegionsBar({ enrichedStats, listings }) {
     if (s.avgUnitPrice > 0) regionStats[r].unitPrices.push(s.avgUnitPrice);
   }
 
-  const top8 = Object.entries(regionStats)
+  const allRegions = Object.entries(regionStats)
     .map(([r, st]) => {
       const ups = st.unitPrices.sort((a, b) => a - b);
       const mid = ups.length > 0 ? ups[Math.floor(ups.length / 2)] : 0;
       const avg = ups.length > 0 ? Math.round(ups.reduce((s, v) => s + v, 0) / ups.length * 10) / 10 : 0;
       return { region: r, count: st.communities.size, median: mid, avg };
-    })
+    });
+
+  // 按小区数降序取前 30%，至少保留 1 个
+  const byCount = [...allRegions].sort((a, b) => b.count - a.count);
+  const top30Cut = Math.max(1, Math.ceil(byCount.length * 0.3));
+  const top30Set = new Set(byCount.slice(0, top30Cut).map((d) => d.region));
+
+  const top8 = allRegions
+    .filter((d) => top30Set.has(d.region))
     .sort((a, b) => a.median - b.median)
     .slice(0, 8);
 
