@@ -94,42 +94,48 @@ export default function WorkplaceSelector({ value, onChange }) {
   const isCustom = value.key === CUSTOM_KEY;
   const displayText = editing ? text : (isCustom ? text : value.name);
 
+  const acProps = {
+    value: displayText,
+    options,
+    onSelect: handleSelect,
+    onSearch: handleSearch,
+    onChange: (val) => setText(val),
+    onFocus: () => setEditing(true),
+    onBlur: () => setEditing(false),
+    placeholder: '输入工作地点，搜索周边租房',
+    filterOption: (input, option) => {
+      if (!option?.label) return false;
+      if (!option.isPreset) return true;
+      return option.label.toLowerCase().includes(input.toLowerCase());
+    },
+  };
+
+  if (isMobile) {
+    return (
+      <div style={{ width: '100%' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <span style={{ fontSize: 13, color: '#555', whiteSpace: 'nowrap', fontWeight: 500, flexShrink: 0 }}>工作地</span>
+          <AutoComplete {...acProps} style={{ flex: 1, minWidth: 0 }} />
+        </div>
+        {isCustom && (
+          <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
+            <InputNumber placeholder="纬度" step={0.001} value={value.lat} onChange={handleCustomLat} style={{ flex: 1 }} />
+            <InputNumber placeholder="经度" step={0.001} value={value.lng} onChange={handleCustomLng} style={{ flex: 1 }} />
+          </div>
+        )}
+      </div>
+    );
+  }
+
   return (
-    <Space style={isMobile ? { width: '100%' } : undefined} wrap>
-      {!isMobile && <EnvironmentOutlined style={{ color: '#e74c3c', fontSize: 18 }} />}
+    <Space wrap>
+      <EnvironmentOutlined style={{ color: '#e74c3c', fontSize: 18 }} />
       <span style={{ fontSize: 13, color: '#555', whiteSpace: 'nowrap', fontWeight: 500 }}>工作地</span>
-      <AutoComplete
-        value={displayText}
-        options={options}
-        onSelect={handleSelect}
-        onSearch={handleSearch}
-        onChange={(val) => setText(val)}
-        onFocus={() => setEditing(true)}
-        onBlur={() => setEditing(false)}
-        placeholder="输入工作地点，搜索周边租房"
-        style={{ width: isMobile ? 'calc(100% - 56px)' : 260 }}
-        filterOption={(input, option) => {
-          if (!option?.label) return false;
-          if (!option.isPreset) return true;
-          return option.label.toLowerCase().includes(input.toLowerCase());
-        }}
-      />
+      <AutoComplete {...acProps} style={{ width: 260 }} />
       {isCustom && (
         <>
-          <InputNumber
-            placeholder="纬度"
-            step={0.001}
-            value={value.lat}
-            onChange={handleCustomLat}
-            style={{ width: isMobile ? '48%' : 110 }}
-          />
-          <InputNumber
-            placeholder="经度"
-            step={0.001}
-            value={value.lng}
-            onChange={handleCustomLng}
-            style={{ width: isMobile ? '48%' : 110 }}
-          />
+          <InputNumber placeholder="纬度" step={0.001} value={value.lat} onChange={handleCustomLat} style={{ width: 110 }} />
+          <InputNumber placeholder="经度" step={0.001} value={value.lng} onChange={handleCustomLng} style={{ width: 110 }} />
         </>
       )}
     </Space>
