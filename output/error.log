@@ -1,0 +1,450 @@
+2026-04-22 17:04:01 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 17:04:02 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 17:19:21 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 17:19:22 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 17:19:25 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 17:19:26 [ERROR] 地图 | BrokenPipeError: [Errno 32] Broken pipe | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 339, in <lambda>
+    func=lambda: _step_map(
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 223, in _step_map
+    print_distance_report(community_stats, workplace, max_distance)
+
+2026-04-22 19:20:23 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 19:20:25 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 19:20:28 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 19:20:31 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 19:36:47 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 19:36:48 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 19:36:51 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 19:36:54 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 20:35:02 [ERROR] 爬取 | TypeError: save_partial() missing 1 required positional argument: 'last_page' | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 327, in scrape_with_browser
+    save_partial(area_slug, deduplicate(area_listings),
+
+2026-04-22 20:54:27 [ERROR] 爬取 | TypeError: save_partial() missing 1 required positional argument: 'last_page' | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 327, in scrape_with_browser
+    await human_mouse_move(page)
+
+2026-04-22 20:54:41 [ERROR] 爬取 | TypeError: save_partial() missing 1 required positional argument: 'last_page' | 重试第 3 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 327, in scrape_with_browser
+    await human_mouse_move(page)
+
+2026-04-22 20:54:45 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 20:54:48 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 21:34:32 [ERROR] 爬取 | NameError: name 'start_page' is not defined | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 355, in scrape_with_browser
+    start_page=start_page,
+
+2026-04-22 21:34:39 [ERROR] 爬取 | NameError: name 'start_page' is not defined | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 355, in scrape_with_browser
+    start_page=start_page,
+
+2026-04-22 21:34:49 [ERROR] 爬取 | NameError: name 'start_page' is not defined | 重试第 3 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 355, in scrape_with_browser
+    start_page=start_page,
+
+2026-04-22 21:34:52 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 21:34:55 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 21:37:46 [ERROR] 爬取 | TypeError: save_partial() missing 1 required positional argument: 'last_page' | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 378, in scrape_with_browser
+    save_partial(area_slug, deduplicate(area_listings),
+
+2026-04-22 22:53:28 [ERROR] 爬取 | TypeError: save_partial() missing 1 required positional argument: 'last_page' | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 411, in scrape_with_browser
+    save_partial(area_slug, deduplicate(area_listings),
+
+2026-04-22 22:53:42 [ERROR] 爬取 | TypeError: save_partial() missing 1 required positional argument: 'last_page' | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 411, in scrape_with_browser
+    save_partial(area_slug, deduplicate(area_listings),
+
+2026-04-22 22:54:01 [ERROR] 爬取 | TypeError: save_partial() missing 1 required positional argument: 'last_page' | 重试第 3 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 168, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 411, in scrape_with_browser
+    save_partial(area_slug, deduplicate(area_listings),
+
+2026-04-22 22:54:04 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-22 22:54:07 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 10:44:26 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 10:44:28 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 10:44:31 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 10:44:34 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 12:13:55 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 12:13:59 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 12:15:56 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 12:15:59 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 12:17:20 [ERROR] page_operation:访问长宁首页 | Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://sh.lianjia.com/zufang/changning/
+Call log:
+  - navigating to "https://sh.lianjia.com/zufang/changning/", waiting until "domcontentloaded"
+ | 重试第 1 次 | retry_in=1s
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 69, in _retry_page_operation
+    return await operation_func()
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 116, in _goto_first
+    await page.goto(base_url, wait_until='domcontentloaded',
+  File "/opt/homebrew/lib/python3.10/site-packages/playwright/async_api/_generated.py", line 9045, in goto
+    await self._impl_obj.goto(
+
+2026-04-23 13:22:04 [ERROR] 保存 | NameError: name 'community_regions' is not defined | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 191, in _step_save
+    return save_results(listings, selected_areas, fmt)
+  File "/Users/admin/lianjia/scraper/storage.py", line 232, in save_results
+    enrich_with_geo(all_listings)
+
+2026-04-23 13:22:05 [ERROR] 保存 | NameError: name 'community_regions' is not defined | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 191, in _step_save
+    return save_results(listings, selected_areas, fmt)
+  File "/Users/admin/lianjia/scraper/storage.py", line 232, in save_results
+    enrich_with_geo(all_listings)
+
+2026-04-23 13:22:07 [ERROR] 保存 | NameError: name 'community_regions' is not defined | 重试第 3 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 191, in _step_save
+    return save_results(listings, selected_areas, fmt)
+  File "/Users/admin/lianjia/scraper/storage.py", line 232, in save_results
+    enrich_with_geo(all_listings)
+
+2026-04-23 13:22:08 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 13:22:09 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 13:22:26 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 13:22:29 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 13:37:28 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 13:37:32 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 13:57:39 [ERROR] 爬取 | RuntimeError: 徐汇 子区域检测网络异常，重试 3 次均失败 | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 170, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 522, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-04-23 13:58:29 [ERROR] 爬取 | RuntimeError: 徐汇 子区域检测网络异常，重试 3 次均失败 | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 170, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 522, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-04-23 13:58:45 [ERROR] 爬取 | RuntimeError: 徐汇 子区域检测网络异常，重试 3 次均失败 | 重试第 3 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 170, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 522, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-04-23 13:59:11 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 13:59:15 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 14:27:50 [ERROR] 爬取 | RuntimeError: minghan 子区域检测网络异常，重试 3 次均失败 | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 170, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 522, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-04-23 14:28:38 [ERROR] 爬取 | RuntimeError: minghan 子区域检测网络异常，重试 3 次均失败 | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 170, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 522, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-04-23 14:57:50 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 14:57:51 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 14:57:54 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 14:57:57 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 15:11:31 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 15:11:33 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 15:11:38 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 15:11:43 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 15:27:56 [ERROR] page_operation:甘泉宜川第3页 | TimeoutError: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://sh.lianjia.com/zufang/ganquanyichuan/pg3/", waiting until "domcontentloaded"
+ | 重试第 1 次 | retry_in=1s
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 160, in _retry_page_operation
+    return await operation_func()
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 253, in _goto_page
+    await page.goto(_url, wait_until='domcontentloaded',
+  File "/opt/homebrew/lib/python3.10/site-packages/playwright/async_api/_generated.py", line 9045, in goto
+    await self._impl_obj.goto(
+
+2026-04-23 15:39:47 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 15:39:49 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 15:39:53 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 15:39:57 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 16:12:28 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 16:12:30 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 16:12:34 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 16:12:38 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 16:13:14 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 16:13:24 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:06:05 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:06:07 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:06:12 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:06:16 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:32:03 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:32:05 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:32:07 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:32:08 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:32:30 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:32:40 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:45:04 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:45:06 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:45:07 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:45:08 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:45:27 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-04-23 17:45:37 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+

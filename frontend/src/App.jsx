@@ -12,6 +12,7 @@ import AdSlot from './components/AdSlot';
 import TopByRing from './components/TopByRing';
 import HeatmapCanvas from './components/HeatmapCanvas';
 import AnalysisReport from './components/AnalysisReport';
+import SmartPicks from './components/SmartPicks';
 import { WORKPLACES } from './utils/constants';
 import useIsMobile from './hooks/useIsMobile';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
@@ -206,6 +207,8 @@ export default function App() {
             <div style={{ fontSize: 12, color: '#999', marginBottom: 8 }}>红色标注为各距离环内单价最低前20%小区，散点颜色由绿到红反映单价从高到低，距离环标注通勤范围</div>
             <HeatmapCanvas workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} />
           </section>
+
+          <SmartPicks enrichedStats={enrichedStats} listings={listings} workplace={workplace} isMobile={isMobile} />
 
           <AdSlot slot="SLOT_MIDDLE" format="horizontal" />
 

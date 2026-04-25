@@ -1,5 +1,6 @@
-import { useRef, useEffect, useCallback } from 'react';
+import { useRef, useEffect, useCallback, useMemo } from 'react';
 import { SUBWAY_LINES } from '../utils/subway';
+import { haversine } from '../utils/haversine';
 
 const RING_COLORS = { 3: '#2ecc71', 5: '#27ae60', 8: '#f39c12', 10: '#e67e22', 15: '#e74c3c' };
 const DISTANCE_RINGS = [3, 5, 8, 10, 15];
@@ -23,6 +24,13 @@ function getUnitPriceRGBA(unitPrice, min, max, alpha) {
 export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance }) {
   const canvasRef = useRef(null);
   const containerRef = useRef(null);
+
+  /** 只保留有站点在 maxDistance 范围内的地铁线路 */
+  const filteredSubwayLines = useMemo(() => {
+    return SUBWAY_LINES.filter((line) =>
+      line.stations.some((st) => haversine(workplace.lat, workplace.lng, st.lat, st.lng) <= maxDistance),
+    );
+  }, [workplace, maxDistance]);
 
   const draw = useCallback(() => {
     const canvas = canvasRef.current;
@@ -126,7 +134,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     ctx.lineJoin = 'round';
     ctx.lineCap = 'round';
     ctx.globalAlpha = 0.5;
-    for (const line of SUBWAY_LINES) {
+    for (const line of filteredSubwayLines) {
       ctx.strokeStyle = line.color;
       ctx.lineWidth = Math.max(1, 2 * sf);
       ctx.beginPath();
@@ -141,29 +149,49 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     }
     ctx.globalAlpha = 1;
 
-    // ── 地铁线路名称标注（沿线路多点尝试，确保可见） ──
+    // ── 地铁线路名称标注（优先放在画布边缘） ──
     const lineLabelRects = [];
     ctx.globalAlpha = 1;
-    for (const line of SUBWAY_LINES) {
+    for (const line of filteredSubwayLines) {
       const stations = line.stations;
       if (stations.length < 2) continue;
-      // 在线路 1/4、1/2、3/4 位置尝试放置标签
-      const candidates = [
-        Math.floor(stations.length * 0.25),
-        Math.floor(stations.length * 0.5),
-        Math.floor(stations.length * 0.75),
-        0,
-        stations.length - 1,
+      const lineName = line.name;
+      ctx.font = `bold ${Math.round(10 * sf)}px sans-serif`;
+      const ltw = ctx.measureText(lineName).width;
+      const llw = ltw + 8 * sf;
+      const llh = 14 * sf;
+
+      // 优先选择距工作地点最远（最靠近画布边缘）的端点站
+      const endpoints = [
+        { idx: 0, st: stations[0] },
+        { idx: stations.length - 1, st: stations[stations.length - 1] },
       ];
+      // 按距工作地点从远到近排序，优先选远端
+      endpoints.sort((a, b) => {
+        const da = haversine(workplace.lat, workplace.lng, a.st.lat, a.st.lng);
+        const db = haversine(workplace.lat, workplace.lng, b.st.lat, b.st.lng);
+        return db - da;
+      });
+
       let placed = false;
+      // 先尝试端点，再尝试中间站点
+      const candidates = [...endpoints.map((e) => e.idx)];
+      // 补充中间站点作为备选
+      for (const ratio of [0.15, 0.85, 0.3, 0.7, 0.5]) {
+        const idx = Math.floor(stations.length * ratio);
+        if (!candidates.includes(idx)) candidates.push(idx);
+      }
+
       for (const idx of candidates) {
         if (placed) break;
         const st = stations[idx];
         const mx = toX(st.lng);
         const my = toY(st.lat);
-        // 允许画布边缘有一点余量
-        if (mx < 20 || mx > W - 20 || my < 20 || my > H - 20) continue;
-        // 计算线路方向
+        // 必须在画布可见范围内
+        const pad = llw / 2 + 4 * sf;
+        if (mx < pad || mx > W - pad || my < llh + 4 * sf || my > H - 4 * sf) continue;
+
+        // 计算线路在该点的方向，沿法线偏移放置标签
         const prevIdx = Math.max(0, idx - 1);
         const nextIdx = Math.min(stations.length - 1, idx + 1);
         const dx = toX(stations[nextIdx].lng) - toX(stations[prevIdx].lng);
@@ -171,19 +199,14 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
         const len = Math.sqrt(dx * dx + dy * dy) || 1;
         const nx = -dy / len;
         const ny = dx / len;
-        // 两个偏移方向都尝试
+
         for (const offset of [14 * sf, -14 * sf]) {
           if (placed) break;
           const labelX = mx + nx * offset;
           const labelY = my + ny * offset;
-          const lineName = line.name;
-          ctx.font = `bold ${Math.round(10 * sf)}px sans-serif`;
-          const ltw = ctx.measureText(lineName).width;
-          const llw = ltw + 8 * sf;
-          const llh = 14 * sf;
           const llx = labelX - llw / 2;
           const lly = labelY - llh / 2;
-          // 碰撞检测：与其他线路标签、站名标签
+
           const overlaps = lineLabelRects.some(
             (r) => llx < r.x + r.w + 2 && llx + llw > r.x - 2 && lly < r.y + r.h + 2 && lly + llh > r.y - 2,
           );
@@ -210,7 +233,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
 
     // ── 地铁站点标记 ──
     const stationLabels = [];
-    for (const line of SUBWAY_LINES) {
+    for (const line of filteredSubwayLines) {
       for (const st of line.stations) {
         const x = toX(st.lng);
         const y = toY(st.lat);
@@ -471,7 +494,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       `${workplace.name} 周边 ${maxDistance}km 租房单价热力图 · 共 ${enrichedStats.length} 个小区`,
       W / 2, 12
     );
-  }, [workplace, enrichedStats, maxDistance]);
+  }, [workplace, enrichedStats, maxDistance, filteredSubwayLines]);
 
   const handleExport = useCallback(() => {
     const canvas = canvasRef.current;

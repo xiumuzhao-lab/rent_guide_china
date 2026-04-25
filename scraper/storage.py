@@ -161,6 +161,9 @@ def enrich_with_geo(data: list):
     """
     为每条房源添加经纬度 (基于小区名批量地理编码).
 
+    独栋 (品牌公寓) 的社区名无法被地图 API 准确解析到具体门店，
+    跳过地理编码以避免产生错误的统一坐标。
+
     Args:
         data: 房源数据列表，原地修改添加 lat/lng 字段
     """
@@ -168,24 +171,39 @@ def enrich_with_geo(data: list):
 
     geocoder = get_geocoder()
 
+    # 先标记独栋房源，跳过地理编码
+    dudong_comms = set()
+    for item in data:
+        rt = item.get('rent_type', item.get('rentType', ''))
+        if rt == '独栋':
+            item['lat'] = None
+            item['lng'] = None
+            dudong_comms.add(item.get('community', '').strip())
+
     community_info = {}
     for item in data:
         community = item.get('community', '').strip()
-        if community and community not in community_info:
+        if not community or community in dudong_comms:
+            continue
+        if community not in community_info:
             community_info[community] = {
                 'region': item.get('region', ''),
                 'location': item.get('location', ''),
             }
 
     if not community_info:
+        logger.info(f"无需要地理编码的小区 (跳过 {len(dudong_comms)} 个独栋社区)")
         return
 
-    logger.info(f"开始地理编码: {len(community_info)} 个唯一小区...")
+    logger.info(f"开始地理编码: {len(community_info)} 个唯一小区"
+                f" (跳过 {len(dudong_comms)} 个独栋社区)...")
     geo_coords = geocoder.batch_geocode(community_info)
 
     matched = 0
     missed = 0
     for item in data:
+        if item.get('lat') is not None:
+            continue  # 已处理 (独栋已设为 None)
         community = item.get('community', '').strip()
         if community and community in geo_coords:
             coords = geo_coords[community]
@@ -203,7 +221,8 @@ def enrich_with_geo(data: list):
             item['lng'] = None
             missed += 1
 
-    logger.info(f"地理编码完成: {matched}/{len(data)} 条匹配, {missed} 条无坐标")
+    logger.info(f"地理编码完成: {matched}/{len(data)} 条匹配, {missed} 条无坐标"
+                f" (跳过 {len(dudong_comms)} 个独栋社区)")
 
 
 def save_results(all_listings: list, selected_areas: list, fmt: str = 'both'):
