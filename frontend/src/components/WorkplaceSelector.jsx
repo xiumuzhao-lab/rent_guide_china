@@ -97,6 +97,7 @@ export default function WorkplaceSelector({ value, onChange }) {
   return (
     <Space style={isMobile ? { width: '100%' } : undefined} wrap>
       {!isMobile && <EnvironmentOutlined style={{ color: '#e74c3c', fontSize: 18 }} />}
+      <span style={{ fontSize: 13, color: '#555', whiteSpace: 'nowrap', fontWeight: 500 }}>工作地</span>
       <AutoComplete
         value={displayText}
         options={options}
@@ -105,8 +106,8 @@ export default function WorkplaceSelector({ value, onChange }) {
         onChange={(val) => setText(val)}
         onFocus={() => setEditing(true)}
         onBlur={() => setEditing(false)}
-        placeholder="输入地名搜索或选择"
-        style={{ width: isMobile ? '100%' : 260 }}
+        placeholder="输入工作地点，搜索周边租房"
+        style={{ width: isMobile ? 'calc(100% - 56px)' : 260 }}
         filterOption={(input, option) => {
           if (!option?.label) return false;
           if (!option.isPreset) return true;

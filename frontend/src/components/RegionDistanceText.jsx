@@ -1,4 +1,4 @@
-import { useMemo, useRef, useCallback } from 'react';
+import { useMemo } from 'react';
 import useIsMobile from '../hooks/useIsMobile';
 import { REGION_NAMES } from '../utils/constants';
 
@@ -21,29 +21,27 @@ export default function RegionDistanceText({ enrichedStats, maxDistance, workpla
       return { region, count: data.count, avgDist: Math.round(avgDist * 10) / 10, avgUnitPrice: Math.round(avgUP) };
     });
 
-    // 按小区数降序取前 30%，最多 5 个
     const sorted = [...all].sort((a, b) => b.count - a.count);
-    const top30Cut = Math.max(1, Math.ceil(sorted.length * 0.3));
-    const selected = sorted.slice(0, Math.min(5, top30Cut));
+    const selected = sorted.slice(0, 5);
 
     return selected
       .sort((a, b) => a.avgDist - b.avgDist)
       .map((d) => {
         const name = REGION_NAMES[d.region] || d.region;
-        return `${name}（${d.count}个小区，均价 ${d.avgUnitPrice}元/㎡，平均 ${d.avgDist}km）`;
+        const distLabel = d.avgDist < 1 ? `${Math.round(d.avgDist * 1000)}m` : `${d.avgDist}km`;
+        return `${name} ${d.count}个小区 单价${d.avgUnitPrice}元/㎡ 平均距${distLabel}`;
       });
   }, [enrichedStats, maxDistance]);
 
-  if (lines.length === 0) return null;
-
+  const sep = isMobile ? ' | ' : ' \u00b7 ';
   return (
     <div style={{
-      fontSize: isMobile ? 12 : 13, color: '#555', lineHeight: 1.8,
+      fontSize: isMobile ? 12 : 13, color: '#555', lineHeight: 2,
       padding: isMobile ? '8px 10px' : '10px 14px',
       background: '#fafafa', borderRadius: 6, border: '1px solid #f0f0f0',
     }}>
-      <span style={{ fontWeight: 600, color: '#333' }}>板块通勤距离：</span>
-      距{workplace.name} {maxDistance}km 内小区数前 30% 板块 — {lines.join('、')}
+      <span style={{ fontWeight: 600, color: '#333' }}>通勤板块：</span>
+      距{workplace.name} {maxDistance}km 内覆盖小区最多&nbsp;&rarr;&nbsp; {lines.join(sep)}
     </div>
   );
 }

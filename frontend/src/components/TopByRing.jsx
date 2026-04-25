@@ -106,7 +106,7 @@ export default function TopByRing({ enrichedStats, listings }) {
           columns={columns}
           rowKey="name"
           size="small"
-          pagination={{ pageSize: 20, showSizeChanger: true, showTotal: (t) => `共 ${t} 个小区` }}
+          pagination={{ pageSize: 10, showSizeChanger: true, showTotal: (t) => `共 ${t} 个小区` }}
         />
         </div>
       ) : (

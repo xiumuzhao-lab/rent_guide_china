@@ -41,25 +41,50 @@ export default function PriceVsArea({ data, topRegions = [] }) {
       name: REGION_NAMES[reg] || reg,
       type: 'scatter',
       data: points,
-      symbolSize: 6,
+      symbolSize: 10,
       itemStyle: {
         color: REGION_COLORS[reg] || FALLBACK_COLORS[i % FALLBACK_COLORS.length],
-        opacity: 0.6,
+        opacity: 0.65,
       },
-      emphasis: { itemStyle: { opacity: 1, borderColor: '#333', borderWidth: 1 } },
+      emphasis: { itemStyle: { opacity: 1, borderColor: '#333', borderWidth: 1.5 } },
     };
   });
 
-  // Dynamic axis ranges with padding
+  // If too many points, downsample to reduce visual clutter
+  const MAX_POINTS = 300;
+  let displaySeries = series;
+  if (allPoints.length > MAX_POINTS) {
+    displaySeries = series.map((s) => {
+      if (s.data.length <= Math.ceil(MAX_POINTS / regions.length)) return s;
+      const step = Math.ceil(s.data.length / (MAX_POINTS / regions.length));
+      return { ...s, data: s.data.filter((_, i) => i % step === 0) };
+    });
+  }
+
+  // Dynamic axis ranges with padding based on actual distribution
   const areas = allPoints.map((p) => p[0]);
   const prices = allPoints.map((p) => p[1]);
-  const maxArea = areas.length > 0 ? Math.ceil(Math.max(...areas) / 10) * 10 + 10 : 200;
-  const maxPrice = prices.length > 0 ? Math.ceil(Math.max(...prices) / 1000) * 1000 + 1000 : 10000;
+  const sortedAreas = [...areas].sort((a, b) => a - b);
+  const sortedPrices = [...prices].sort((a, b) => a - b);
+  const areaP5 = sortedAreas[Math.floor(sortedAreas.length * 0.05)] || 0;
+  const areaP95 = sortedAreas[Math.floor(sortedAreas.length * 0.95)] || 200;
+  const priceP5 = sortedPrices[Math.floor(sortedPrices.length * 0.05)] || 0;
+  const priceP95 = sortedPrices[Math.floor(sortedPrices.length * 0.95)] || 10000;
+
+  // Round to nice numbers, add 10% padding
+  const areaMin = 0;
+  const areaMax = Math.ceil((areaP95 * 1.1) / 10) * 10;
+  const priceMin = 0;
+  const priceMax = Math.ceil((priceP95 * 1.1) / 1000) * 1000;
+
+  // Sparse tick intervals: aim for ~8 ticks on each axis
+  const areaInterval = Math.ceil(areaMax / 8 / 10) * 10;
+  const priceInterval = Math.ceil(priceMax / 8 / 1000) * 1000;
 
   // Regression trend line
   const reg = linearRegression(allPoints);
   const trendData = reg
-    ? [[0, Math.max(0, reg.intercept)], [maxArea, reg.slope * maxArea + reg.intercept]]
+    ? [[0, Math.max(0, reg.intercept)], [areaMax, reg.slope * areaMax + reg.intercept]]
     : [];
 
   const avgArea = areas.length > 0 ? Math.round(areas.reduce((s, v) => s + v, 0) / areas.length) : 0;
@@ -81,17 +106,19 @@ export default function PriceVsArea({ data, topRegions = [] }) {
     xAxis: {
       type: 'value',
       name: '面积 (㎡)',
-      max: Math.min(maxArea, 300),
+      max: Math.min(areaMax, 300),
+      interval: areaInterval,
       splitLine: { lineStyle: { type: 'dashed', opacity: 0.3 } },
     },
     yAxis: {
       type: 'value',
       name: '月租金 (元)',
-      max: Math.min(maxPrice, 80000),
+      max: Math.min(priceMax, 80000),
+      interval: priceInterval,
       splitLine: { lineStyle: { type: 'dashed', opacity: 0.3 } },
     },
     series: [
-      ...series,
+      ...displaySeries,
       ...(trendData.length > 0 ? [{
         name: '趋势线',
         type: 'line',

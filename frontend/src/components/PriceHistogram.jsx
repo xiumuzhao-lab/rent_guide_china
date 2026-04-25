@@ -22,49 +22,57 @@ export default function PriceHistogram({ data, topRegions = [] }) {
   const sorted = [...prices].sort((a, b) => a - b);
   const median = sorted[Math.floor(sorted.length / 2)];
 
-  const binSize = 500;
-  const binCount = Math.ceil(MAX_DISPLAY / binSize);
+  // Dynamic bin size: adapt to actual data distribution
+  const p5 = sorted[Math.floor(sorted.length * 0.05)] || 0;
+  const p95 = sorted[Math.floor(sorted.length * 0.95)] || MAX_DISPLAY;
+  const range = p95 - p5;
+  const rawBinSize = Math.ceil(range / 30 / 100) * 100; // 30 bins covering 5th-95th percentile
+  const binSize = Math.max(200, Math.min(rawBinSize, 2000));
+  const minBin = Math.floor(p5 / binSize) * binSize;
+  const maxBin = Math.ceil(p95 / binSize) * binSize;
+  const binCount = Math.ceil((maxBin - minBin) / binSize);
 
   const regions = topRegions.length > 0 ? topRegions : [...new Set(filtered.map((d) => d.region))].slice(0, 8);
   const regionLabels = regions.map((r) => REGION_NAMES[r] || r);
 
-  // Build bins per region
+  // Build bins per region (only within dynamic range)
   const binsByRegion = regions.map((reg) => {
     const bins = new Array(binCount).fill(0);
     for (const d of filtered) {
       if (d.region !== reg) continue;
       const p = parseInt(d.price, 10);
-      if (isNaN(p) || p <= 0) continue;
-      const idx = Math.min(Math.floor(p / binSize), binCount - 1);
-      bins[idx]++;
+      if (isNaN(p) || p < minBin) continue;
+      const idx = Math.floor((p - minBin) / binSize);
+      if (idx >= 0 && idx < binCount) bins[idx]++;
     }
     return bins;
   });
 
   const binLabels = [];
   for (let i = 0; i < binCount; i++) {
-    const lo = i * binSize;
+    const lo = minBin + i * binSize;
     binLabels.push(lo >= 10000 ? `${(lo / 10000).toFixed(lo % 10000 === 0 ? 0 : 1)}w` : `${lo}`);
   }
 
-  const avgBinIdx = Math.min(Math.floor(avg / binSize), binCount - 1);
-  const medianBinIdx = Math.min(Math.floor(median / binSize), binCount - 1);
+  const avgBinIdx = Math.min(Math.floor((avg - minBin) / binSize), binCount - 1);
+  const medianBinIdx = Math.min(Math.floor((median - minBin) / binSize), binCount - 1);
 
   const series = regions.map((reg, i) => ({
     name: regionLabels[i],
     type: 'bar',
-    stack: 'total',
+    barWidth: '60%',
     data: binsByRegion[i],
     itemStyle: { color: REGION_COLORS[reg] || FALLBACK_COLORS[i % FALLBACK_COLORS.length] },
     emphasis: { focus: 'series' },
   }));
 
-  // Summary label on top of each stacked bar
+  // Total count per bin for the trend line overlay
   const totals = binLabels.map((_, i) => binsByRegion.reduce((s, bins) => s + bins[i], 0));
+  const maxTotal = Math.max(...totals, 1);
 
   const option = {
     title: {
-      text: `月租金分布 ≤1.5万 (按板块堆叠)${excludedCount > 0 ? `，${excludedCount} 套超1.5万未显示` : ''}`,
+      text: `月租金分布 (${minBin.toLocaleString()}-${maxBin.toLocaleString()}元)${excludedCount > 0 ? `，${excludedCount} 套超1.5万未显示` : ''}`,
       left: 'center', top: 10, textStyle: { fontSize: 14 },
     },
     tooltip: {
@@ -99,7 +107,7 @@ export default function PriceHistogram({ data, topRegions = [] }) {
       ...series,
       {
         type: 'line',
-        data: totals,
+        data: new Array(binCount).fill(null),
         symbol: 'none',
         lineStyle: { width: 0 },
         areaStyle: { opacity: 0 },
@@ -125,5 +133,6 @@ export default function PriceHistogram({ data, topRegions = [] }) {
     grid: { left: 60, right: 20, bottom: 55, top: 80 },
   };
 
+  console.log('[PriceHistogram] maxTotal:', maxTotal, 'totals:', JSON.stringify(totals), 'seriesCount:', series.length, 'data.length:', data.length);
   return <ReactECharts option={option} style={{ height: isMobile ? 220 : 280 }} />;
 }
