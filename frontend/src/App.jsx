@@ -81,22 +81,46 @@ export default function App() {
   // 无 URL 参数时，尝试定位用户位置并匹配最近工作地
   useEffect(() => {
     if (hasURLWorkplace) return;
-    if (!navigator.geolocation) return;
-    navigator.geolocation.getCurrentPosition(
-      (pos) => {
-        const { latitude: lat, longitude: lng } = pos.coords;
-        // 不在上海范围内，默认张江
-        if (lat < 30.7 || lat > 31.9 || lng < 120.8 || lng > 122.0) return;
-        let nearest = WORKPLACES[0];
-        let minDist = Infinity;
-        for (const wp of WORKPLACES) {
-          const d = haversine(lat, lng, wp.lat, wp.lng);
-          if (d < minDist) { minDist = d; nearest = wp; }
-        }
-        setWorkplace(nearest);
-      },
-      () => { /* 定位失败，保持默认 */ },
-    );
+
+    /** 根据坐标匹配最近工作地 */
+    function matchWorkplace(lat, lng) {
+      if (lat < 30.7 || lat > 31.9 || lng < 120.8 || lng > 122.0) return;
+      let nearest = WORKPLACES[0];
+      let minDist = Infinity;
+      for (const wp of WORKPLACES) {
+        const d = haversine(lat, lng, wp.lat, wp.lng);
+        if (d < minDist) { minDist = d; nearest = wp; }
+      }
+      setWorkplace(nearest);
+    }
+
+    // 优先使用浏览器精准定位
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (pos) => matchWorkplace(pos.coords.latitude, pos.coords.longitude),
+        () => {
+          // 浏览器定位失败，fallback 到 IP 定位
+          fetch('https://api.ip.sb/geoip')
+            .then((r) => r.json())
+            .then((data) => {
+              if (data.latitude && data.longitude) {
+                matchWorkplace(data.latitude, data.longitude);
+              }
+            })
+            .catch(() => { /* IP 定位也失败，保持默认 */ });
+        },
+      );
+    } else {
+      // 浏览器不支持 geolocation，直接 IP 定位
+      fetch('https://api.ip.sb/geoip')
+        .then((r) => r.json())
+        .then((data) => {
+          if (data.latitude && data.longitude) {
+            matchWorkplace(data.latitude, data.longitude);
+          }
+        })
+        .catch(() => {});
+    }
   }, [hasURLWorkplace]);
 
   // state 变化时同步回 URL
