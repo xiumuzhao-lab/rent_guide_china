@@ -83,7 +83,7 @@ export default function App() {
   useEffect(() => {
     if (hasURLWorkplace) return;
     const proxyBase = window.location.hostname === 'localhost'
-      ? '' : 'http://123.57.210.21:8900';
+      ? '' : 'https://server.scoreless.top';
     fetch(`${proxyBase}/api/ip-location`)
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
