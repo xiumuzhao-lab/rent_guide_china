@@ -82,23 +82,26 @@ export default function App() {
   useEffect(() => {
     if (hasURLWorkplace) return;
     const proxyBase = window.location.hostname === 'localhost'
-      ? '' : 'http://123.57.210.21:8900';
+      ? '' : 'https://server.scoreless.top';
     fetch(`${proxyBase}/api/ip-location`)
-      .then((r) => r.json())
-      .then((data) => {
-        if (data.status === 0 && data.result?.location) {
-          const { lat, lng } = data.result.location;
-          if (lat < 30.7 || lat > 31.9 || lng < 120.8 || lng > 122.0) return;
-          let nearest = WORKPLACES[0];
-          let minDist = Infinity;
-          for (const wp of WORKPLACES) {
-            const d = haversine(lat, lng, wp.lat, wp.lng);
-            if (d < minDist) { minDist = d; nearest = wp; }
-          }
-          setWorkplace(nearest);
-        }
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
       })
-      .catch(() => { /* IP 定位失败，保持默认 */ });
+      .then((data) => {
+        if (data.status !== 0) throw new Error(data.message || `status ${data.status}`);
+        if (!data.result?.location) throw new Error('no location in response');
+        const { lat, lng } = data.result.location;
+        if (lat < 30.7 || lat > 31.9 || lng < 120.8 || lng > 122.0) return;
+        let nearest = WORKPLACES[0];
+        let minDist = Infinity;
+        for (const wp of WORKPLACES) {
+          const d = haversine(lat, lng, wp.lat, wp.lng);
+          if (d < minDist) { minDist = d; nearest = wp; }
+        }
+        setWorkplace(nearest);
+      })
+      .catch((err) => { console.error('[IP定位失败]', err.message); });
   }, [hasURLWorkplace]);
 
   // state 变化时同步回 URL
@@ -255,7 +258,7 @@ export default function App() {
       oc.fillStyle = '#999';
       oc.font = `${Math.round(11 * scale)}px sans-serif`;
       const params = new URLSearchParams({ wp: workplace.name, dist: maxDistance });
-      const url = `https://rent.scoreless.top/?${params.toString()}`;
+      const url = `${window.location.origin}/?${params.toString()}`;
       const urlText = url.length > 80 ? url.slice(0, 77) + '...' : url;
       const urlW = oc.measureText(urlText).width;
       oc.fillText(urlText, Math.round(16 * scale), footY);
@@ -281,7 +284,7 @@ export default function App() {
   return (
     <Layout style={{ minHeight: '100vh' }}>
       <Header component="header" role="banner" style={{ background: '#fff', borderBottom: '1px solid #f0f0f0', padding: isMobile ? '10px 12px' : '0 24px', display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', height: isMobile ? 'auto' : 64, gap: isMobile ? 8 : 0 }}>
-        <a href="https://rent.scoreless.top" style={{ display: 'flex', alignItems: 'center', gap: 8, textDecoration: 'none', color: 'inherit' }}>
+        <a href={window.location.origin} style={{ display: 'flex', alignItems: 'center', gap: 8, textDecoration: 'none', color: 'inherit' }}>
           <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" width={28} height={28} />
           <Title level={1} style={{ margin: 0, fontSize: isMobile ? 16 : 20, fontWeight: 700 }}>租房雷达</Title>
         </a>

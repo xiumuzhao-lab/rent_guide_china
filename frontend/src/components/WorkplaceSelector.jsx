@@ -18,7 +18,7 @@ export default function WorkplaceSelector({ value, onChange }) {
   const searchTmap = useCallback(async (keyword) => {
     // 生产环境用远程代理, 开发环境用 Vite 代理
     const proxyBase = window.location.hostname === 'localhost'
-      ? '' : 'http://123.57.210.21:8900';
+      ? '' : 'https://server.scoreless.top';
     try {
       const res = await fetch(`${proxyBase}/api/tmap?keyword=${encodeURIComponent(keyword)}`);
       if (!res.ok) throw new Error(res.statusText);
