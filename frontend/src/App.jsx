@@ -72,33 +72,15 @@ export default function App() {
   const regionSectionRef = useRef(null);
   const mainContentRef = useRef(null);
 
-  // 从 URL 或 localStorage 初始化
+  // 从 URL 初始化
   const initial = useMemo(() => readURLParams(), []);
   const hasURLWorkplace = !!initial.workplace;
-  const savedWorkplace = useMemo(() => {
-    if (hasURLWorkplace) return null;
-    try {
-      const s = localStorage.getItem('rent_radar_workplace');
-      if (s) {
-        const parsed = JSON.parse(s);
-        const preset = WORKPLACES.find((w) => w.key === parsed.key && w.key !== 'custom');
-        if (preset) return preset;
-        if (parsed.key === 'custom' && parsed.lat && parsed.lng) return parsed;
-      }
-    } catch { /* ignore */ }
-    return null;
-  }, [hasURLWorkplace]);
-  const [workplace, setWorkplace] = useState(initial.workplace || savedWorkplace || WORKPLACES[0]);
+  const [workplace, setWorkplace] = useState(initial.workplace || WORKPLACES[0]);
   const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 3);
 
-  // 记住用户选择的工作地
+  // 无 URL 参数时，用 IP 定位匹配最近工作地
   useEffect(() => {
-    try { localStorage.setItem('rent_radar_workplace', JSON.stringify(workplace)); } catch { /* ignore */ }
-  }, [workplace]);
-
-  // 无 URL 参数且无 localStorage 记录时，用 IP 定位匹配最近工作地
-  useEffect(() => {
-    if (hasURLWorkplace || savedWorkplace) return;
+    if (hasURLWorkplace) return;
     const proxyBase = window.location.hostname === 'localhost'
       ? '' : 'http://123.57.210.21:8900';
     fetch(`${proxyBase}/api/ip-location`)
@@ -117,7 +99,7 @@ export default function App() {
         }
       })
       .catch(() => { /* IP 定位失败，保持默认 */ });
-  }, [hasURLWorkplace, savedWorkplace]);
+  }, [hasURLWorkplace]);
 
   // state 变化时同步回 URL
   useEffect(() => { writeURLParams(workplace, maxDistance); }, [workplace, maxDistance]);
