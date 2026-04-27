@@ -96,6 +96,29 @@ export default function App() {
     try { localStorage.setItem('rent_radar_workplace', JSON.stringify(workplace)); } catch { /* ignore */ }
   }, [workplace]);
 
+  // 无 URL 参数且无 localStorage 记录时，用 IP 定位匹配最近工作地
+  useEffect(() => {
+    if (hasURLWorkplace || savedWorkplace) return;
+    const proxyBase = window.location.hostname === 'localhost'
+      ? '' : 'http://123.57.210.21:8900';
+    fetch(`${proxyBase}/api/ip-location`)
+      .then((r) => r.json())
+      .then((data) => {
+        if (data.status === 0 && data.result?.location) {
+          const { lat, lng } = data.result.location;
+          if (lat < 30.7 || lat > 31.9 || lng < 120.8 || lng > 122.0) return;
+          let nearest = WORKPLACES[0];
+          let minDist = Infinity;
+          for (const wp of WORKPLACES) {
+            const d = haversine(lat, lng, wp.lat, wp.lng);
+            if (d < minDist) { minDist = d; nearest = wp; }
+          }
+          setWorkplace(nearest);
+        }
+      })
+      .catch(() => { /* IP 定位失败，保持默认 */ });
+  }, [hasURLWorkplace, savedWorkplace]);
+
   // state 变化时同步回 URL
   useEffect(() => { writeURLParams(workplace, maxDistance); }, [workplace, maxDistance]);
 

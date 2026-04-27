@@ -23,6 +23,52 @@ function tmapProxyPlugin() {
   return {
     name: 'tmap-proxy',
     configureServer(server) {
+      server.middlewares.use('/api/ip-location', async (req, res) => {
+        const rawIp = (req.headers['x-forwarded-for'] || req.socket.remoteAddress || '').split(',')[0].trim();
+        const ip = (!rawIp || rawIp === '127.0.0.1' || rawIp === '::1' || rawIp.startsWith('192.168.') || rawIp.startsWith('10.')) ? '' : rawIp;
+        const makeSig = (uri, params) => {
+          const sortedStr = Object.keys(params).sort().map(k => `${k}=${params[k]}`).join('&');
+          const sig = crypto.createHash('md5').update(`${uri}?${sortedStr}${apiSk}`).digest('hex');
+          const encoded = Object.keys(params).sort().map(k => `${k}=${encodeURIComponent(params[k])}`).join('&');
+          return `https://apis.map.qq.com${uri}?${encoded}&sig=${sig}`;
+        };
+        try {
+          // 1) IP 定位
+          const ipParams = { key: apiKey, output: 'json' };
+          if (ip) ipParams.ip = ip;
+          const ipResp = await fetch(makeSig('/ws/location/v1/ip', ipParams));
+          const data = await ipResp.json();
+          if (data.status !== 0) {
+            res.setHeader('Content-Type', 'application/json');
+            res.end(JSON.stringify(data));
+            return;
+          }
+          // 2) 逆地址编码
+          const { lat, lng } = data.result.location;
+          const geoResp = await fetch(makeSig('/ws/geocoder/v1', {
+            key: apiKey, output: 'json', location: `${lat},${lng}`,
+          }));
+          const geoData = await geoResp.json();
+          let address = '';
+          if (geoData.status === 0) {
+            const addr = geoData.result.address_component || {};
+            const street = addr.street || '';
+            const number = addr.street_number || '';
+            if (number && street && number.startsWith(street)) address = number;
+            else if (street && number) address = street + number;
+            else if (number) address = number;
+            else if (street) address = street;
+            if (!address) address = (geoData.result.formatted_addresses || {}).recommend || '';
+          }
+          data.result.address = address;
+          res.setHeader('Content-Type', 'application/json');
+          res.end(JSON.stringify(data));
+        } catch (e) {
+          res.statusCode = 502;
+          res.end(JSON.stringify({ status: -1, message: e.message }));
+        }
+      });
+
       server.middlewares.use('/api/tmap', async (req, res) => {
         if (!apiKey) {
           res.statusCode = 500

@@ -73,5 +73,68 @@ def tmap():
         return jsonify({"status": -1, "message": str(e)}), 502
 
 
+@app.route("/api/ip-location", methods=["GET", "OPTIONS"])
+def ip_location():
+    """根据请求 IP 定位，返回坐标和地址."""
+    if request.method == "OPTIONS":
+        return "", 204
+
+    if not API_KEY:
+        return jsonify({"status": -1, "message": "TENCENT_MAP_KEY not configured"}), 500
+
+    raw_ip = (request.headers.get("X-Forwarded-For", "") or request.remote_addr or "").split(",")[0].strip()
+    ip = "" if not raw_ip or raw_ip in ("127.0.0.1", "::1") or raw_ip.startswith(("192.168.", "10.")) else raw_ip
+
+    # 1) IP 定位
+    ip_uri = "/ws/location/v1/ip"
+    ip_params = {"key": API_KEY, "output": "json"}
+    if ip:
+        ip_params["ip"] = ip
+    sorted_str = "&".join("{}={}".format(k, ip_params[k]) for k in sorted(ip_params))
+    sig = hashlib.md5("{}?{}{}".format(ip_uri, sorted_str, API_SK).encode()).hexdigest()
+    encoded = "&".join("{}={}".format(k, quote(str(v), safe="")) for k, v in sorted(ip_params.items()))
+    try:
+        ip_resp = requests.get("https://apis.map.qq.com{}?{}&sig={}".format(ip_uri, encoded, sig), timeout=10)
+        data = ip_resp.json()
+    except Exception as e:
+        return jsonify({"status": -1, "message": str(e)}), 502
+
+    if data.get("status") != 0:
+        return jsonify(data), 200
+
+    # 2) 逆地址编码
+    lat = data["result"]["location"]["lat"]
+    lng = data["result"]["location"]["lng"]
+    geo_uri = "/ws/geocoder/v1"
+    geo_params = {"key": API_KEY, "output": "json", "location": "{},{}".format(lat, lng)}
+    sorted_str = "&".join("{}={}".format(k, geo_params[k]) for k in sorted(geo_params))
+    sig = hashlib.md5("{}?{}{}".format(geo_uri, sorted_str, API_SK).encode()).hexdigest()
+    encoded = "&".join("{}={}".format(k, quote(str(v), safe="")) for k, v in sorted(geo_params.items()))
+    try:
+        geo_resp = requests.get("https://apis.map.qq.com{}?{}&sig={}".format(geo_uri, encoded, sig), timeout=10)
+        geo_data = geo_resp.json()
+    except Exception:
+        geo_data = {}
+
+    address = ""
+    if geo_data.get("status") == 0:
+        addr = geo_data["result"].get("address_component", {})
+        street = addr.get("street", "")
+        number = addr.get("street_number", "")
+        if number and street and number.startswith(street):
+            address = number
+        elif street and number:
+            address = street + number
+        elif number:
+            address = number
+        elif street:
+            address = street
+        if not address:
+            address = geo_data["result"].get("formatted_addresses", {}).get("recommend", "")
+
+    data["result"]["address"] = address
+    return jsonify(data)
+
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8900)
