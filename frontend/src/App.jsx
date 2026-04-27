@@ -20,6 +20,7 @@ import useIsMobile from './hooks/useIsMobile';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
 import { haversine } from './utils/haversine';
 import { generateAnalysis } from './utils/analysis';
+import { exportDouyinPoster, generateDouyinText } from './utils/douyinPoster';
 
 const { Header, Content, Footer } = Layout;
 const { Title, Text, Paragraph } = Typography;
@@ -82,7 +83,7 @@ export default function App() {
   useEffect(() => {
     if (hasURLWorkplace) return;
     const proxyBase = window.location.hostname === 'localhost'
-      ? '' : 'https://server.scoreless.top';
+      ? '' : 'http://123.57.210.21:8900';
     fetch(`${proxyBase}/api/ip-location`)
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
@@ -273,6 +274,15 @@ export default function App() {
     });
   }, [workplace.name, maxDistance]);
 
+  const handleExportDouyin = useCallback(() => {
+    exportDouyinPoster({ analysis, enrichedStats, workplace, maxDistance, rangeOverview, filteredListings });
+    // 同时复制推荐文案到剪贴板
+    const text = generateDouyinText(analysis, workplace, maxDistance, rangeOverview);
+    if (text && navigator.clipboard) {
+      navigator.clipboard.writeText(text).catch(() => {});
+    }
+  }, [analysis, enrichedStats, workplace, maxDistance, rangeOverview, filteredListings]);
+
   if (loading) {
     return (
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
@@ -301,6 +311,15 @@ export default function App() {
             whiteSpace: 'nowrap', boxShadow: '0 2px 8px rgba(102,126,234,0.35)',
           }}>
             一键导出
+          </button>
+          <button onClick={handleExportDouyin} style={{
+            background: 'linear-gradient(135deg, #ff4757 0%, #ff6b81 100%)',
+            color: '#fff', border: 'none', borderRadius: 8,
+            padding: isMobile ? '6px 12px' : '7px 16px',
+            cursor: 'pointer', fontSize: 13, fontWeight: 600,
+            whiteSpace: 'nowrap', boxShadow: '0 2px 8px rgba(255,71,87,0.35)',
+          }}>
+            导出抖音
           </button>
         </div>
       </Header>
