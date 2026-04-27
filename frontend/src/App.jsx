@@ -71,7 +71,6 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const isMobile = useIsMobile();
   const regionSectionRef = useRef(null);
-  const mainContentRef = useRef(null);
 
   // 从 URL 初始化
   const initial = useMemo(() => readURLParams(), []);
@@ -79,9 +78,10 @@ export default function App() {
   const [workplace, setWorkplace] = useState(initial.workplace || WORKPLACES[0]);
   const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 3);
 
-  // 无 URL 参数时，用 IP 定位匹配最近工作地
-  useEffect(() => {
-    if (hasURLWorkplace) return;
+  // IP 定位匹配最近工作地
+  const [locating, setLocating] = useState(false);
+  const locateByIP = useCallback(() => {
+    setLocating(true);
     const proxyBase = window.location.hostname === 'localhost'
       ? '' : 'https://123.57.210.21';
     fetch(`${proxyBase}/api/ip-location`)
@@ -102,8 +102,15 @@ export default function App() {
         }
         setWorkplace(nearest);
       })
-      .catch((err) => { console.error('[IP定位失败]', err.message); });
-  }, [hasURLWorkplace]);
+      .catch((err) => { console.error('[IP定位失败]', err.message); })
+      .finally(() => setLocating(false));
+  }, []);
+
+  // 无 URL 参数时，自动定位
+  useEffect(() => {
+    if (hasURLWorkplace) return;
+    locateByIP();
+  }, [hasURLWorkplace, locateByIP]);
 
   // state 变化时同步回 URL
   useEffect(() => { writeURLParams(workplace, maxDistance); }, [workplace, maxDistance]);
@@ -186,93 +193,6 @@ export default function App() {
     });
   }, [workplace.name, maxDistance]);
 
-  const handleExportAll = useCallback(() => {
-    const el = mainContentRef.current;
-    if (!el) return;
-    html2canvas(el, { backgroundColor: '#f5f5f5', scale: 2, useCORS: true, allowTaint: true }).then((canvas) => {
-      const W = canvas.width;
-      const origH = canvas.height;
-      const headerH = 56;
-      const footerH = 36;
-      const scale = W / el.offsetWidth;
-
-      // 创建新 canvas：顶部水印 + 原图 + 底部 URL
-      const out = document.createElement('canvas');
-      out.width = W;
-      out.height = headerH * scale + origH + footerH * scale;
-      const oc = out.getContext('2d');
-
-      // --- 顶部渐变水印栏 ---
-      const grad = oc.createLinearGradient(0, 0, W, 0);
-      grad.addColorStop(0, '#667eea');
-      grad.addColorStop(1, '#764ba2');
-      oc.fillStyle = grad;
-      oc.fillRect(0, 0, W, headerH * scale);
-
-      oc.textBaseline = 'middle';
-
-      // Logo 图标（小房子形状）
-      const iconX = Math.round(16 * scale);
-      const iconY = Math.round(headerH * scale / 2);
-      const iconR = Math.round(8 * scale);
-      oc.fillStyle = '#fff';
-      // 三角形屋顶
-      oc.beginPath();
-      oc.moveTo(iconX, iconY - iconR);
-      oc.lineTo(iconX - iconR, iconY);
-      oc.lineTo(iconX + iconR, iconY);
-      oc.closePath();
-      oc.fill();
-      // 方形屋身
-      oc.fillRect(iconX - iconR * 0.7, iconY, iconR * 1.4, iconR * 0.9);
-
-      // 站点名称
-      oc.fillStyle = '#fff';
-      oc.font = `bold ${Math.round(15 * scale)}px sans-serif`;
-      const titleX = Math.round(34 * scale);
-      const titleW = oc.measureText('租房雷达').width;
-      oc.fillText('租房雷达', titleX, iconY);
-
-      // 副标题 / slogan（在标题下方）
-      oc.fillStyle = 'rgba(255,255,255,0.7)';
-      oc.font = `${Math.round(10 * scale)}px sans-serif`;
-      oc.fillText('上海租房数据可视化', titleX, iconY + Math.round(14 * scale));
-
-      // 工作地点 + 通勤范围（右对齐）
-      const rightText = `${workplace.name}周边${maxDistance}km租房分析`;
-      oc.fillStyle = 'rgba(255,255,255,0.85)';
-      oc.font = `${Math.round(12 * scale)}px sans-serif`;
-      const rightW = oc.measureText(rightText).width;
-      oc.fillText(rightText, W - rightW - Math.round(16 * scale), iconY);
-
-      // --- 原图 ---
-      oc.drawImage(canvas, 0, headerH * scale);
-
-      // --- 底部 URL 栏 ---
-      oc.fillStyle = '#fff';
-      oc.fillRect(0, headerH * scale + origH, W, footerH * scale);
-
-      oc.fillStyle = '#e0e0e0';
-      oc.fillRect(0, headerH * scale + origH, W, 1 * scale);
-
-      const footY = headerH * scale + origH + Math.round(footerH * scale / 2);
-      oc.fillStyle = '#999';
-      oc.font = `${Math.round(11 * scale)}px sans-serif`;
-      const params = new URLSearchParams({ wp: workplace.name, dist: maxDistance });
-      const url = `${window.location.origin}/?${params.toString()}`;
-      const urlText = url.length > 80 ? url.slice(0, 77) + '...' : url;
-      const urlW = oc.measureText(urlText).width;
-      oc.fillText(urlText, Math.round(16 * scale), footY);
-      oc.fillText(new Date().toLocaleDateString('zh-CN'), W - urlW - Math.round(16 * scale), footY);
-
-      out.toBlob((blob) => {
-        if (!blob) return;
-        import('./utils/download').then(({ downloadBlob }) => {
-          downloadBlob(blob, `租房雷达_${workplace.name}_${maxDistance}km_${new Date().toISOString().slice(0, 10)}.png`);
-        });
-      }, 'image/png');
-    });
-  }, [workplace.name, maxDistance]);
 
   const handleExportDouyin = useCallback(() => {
     exportDouyinPoster({ analysis, enrichedStats, workplace, maxDistance, rangeOverview, filteredListings });
@@ -303,14 +223,18 @@ export default function App() {
           <div style={{ width: isMobile ? '100%' : 160, flexShrink: 0 }}>
             <Slider min={3} max={30} value={maxDistance} onChange={setMaxDistance} step={1} marks={{ 3: '3km', 15: '15km', 30: '30km' }} />
           </div>
-          <button onClick={handleExportAll} style={{
-            background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+          <button onClick={locateByIP} disabled={locating} title="定位到最近工作地" style={{
+            background: locating ? '#d9d9d9' : 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
             color: '#fff', border: 'none', borderRadius: 8,
             padding: isMobile ? '6px 12px' : '7px 16px',
-            cursor: 'pointer', fontSize: 13, fontWeight: 600,
-            whiteSpace: 'nowrap', boxShadow: '0 2px 8px rgba(102,126,234,0.35)',
+            cursor: locating ? 'not-allowed' : 'pointer', fontSize: 13, fontWeight: 600,
+            whiteSpace: 'nowrap', boxShadow: locating ? 'none' : '0 2px 8px rgba(102,126,234,0.35)',
+            display: 'inline-flex', alignItems: 'center', gap: 4,
           }}>
-            一键导出
+            <span style={{ display: 'inline-block', width: 14, height: 14, border: locating ? '2px solid #999' : '2px solid #fff', borderRadius: '50%', position: 'relative' }}>
+              {!locating && <span style={{ position: 'absolute', top: 2, left: 2, width: 6, height: 6, background: '#fff', borderRadius: '50%' }} />}
+            </span>
+            {locating ? '定位中...' : '定位'}
           </button>
           <button onClick={handleExportDouyin} style={{
             background: 'linear-gradient(135deg, #ff4757 0%, #ff6b81 100%)',
@@ -324,7 +248,7 @@ export default function App() {
         </div>
       </Header>
       <Content component="main" style={{ padding: isMobile ? 10 : 24, background: '#f5f5f5' }}>
-        <div ref={mainContentRef} style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? 12 : 24, maxWidth: 1400, margin: '0 auto' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? 12 : 24, maxWidth: 1400, margin: '0 auto' }}>
           <OverviewCards overview={rangeOverview} />
 
 
