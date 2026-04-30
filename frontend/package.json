@@ -7,7 +7,9 @@
     "dev": "node ../scripts/prepare_data.js && vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy:oss": "bash ../scripts/deploy-oss.sh",
+    "deploy:oss:skip-build": "bash ../scripts/deploy-oss.sh --skip-build"
   },
   "dependencies": {
     "@ant-design/icons": "^6.1.1",

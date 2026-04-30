@@ -143,6 +143,7 @@ lianjia/
 ├── scripts/
 │   ├── prepare_data.js                  # 数据准备（复制最新数据到前端）
 │   ├── deploy.sh                        # GitHub Pages 部署脚本
+│   ├── deploy-oss.sh                    # 阿里云 OSS 部署脚本
 │   └── deploy-server.sh                 # 后端服务一键部署脚本
 ├── .github/workflows/deploy.yml         # GitHub Actions CI/CD
 ├── .env.example                         # API 密钥模板
@@ -304,8 +305,36 @@ cd frontend && npm run dev
 
 ### 部署
 
+#### 部署到阿里云 OSS（推荐）
+
+前端静态文件部署到阿里云 OSS，通过 CDN 加速访问。
+
 ```bash
-# 手动部署到 GitHub Pages
+# 方式一：npm 脚本（推荐）
+cd frontend
+npm run deploy:oss              # 构建 + 上传
+npm run deploy:oss:skip-build   # 跳过构建，直接上传已有 dist
+
+# 方式二：直接运行脚本
+bash scripts/deploy-oss.sh              # 构建 + 上传
+bash scripts/deploy-oss.sh --skip-build # 跳过构建
+```
+
+前提条件：
+1. 安装 [ossutil](https://help.aliyun.com/document_detail/120075.html) 命令行工具
+2. 配置 OSS 认证：`ossutil config`，输入 AccessKeyID 和 AccessKeySecret
+3. 在 `.env` 中配置 OSS 变量（可选，有默认值）：
+
+```bash
+OSS_BUCKET=rent-radar-static       # OSS Bucket 名称（默认）
+OSS_REGION=cn-shanghai             # OSS 区域（默认）
+OSS_ENDPOINT=oss-cn-shanghai.aliyuncs.com  # OSS Endpoint（默认）
+```
+
+#### 部署到 GitHub Pages
+
+```bash
+# 手动部署
 bash scripts/deploy.sh
 
 # 或推送 main 分支自动触发 GitHub Actions
