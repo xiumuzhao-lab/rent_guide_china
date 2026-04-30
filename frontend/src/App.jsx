@@ -94,13 +94,14 @@ export default function App() {
         if (!data.result?.location) throw new Error('no location in response');
         const { lat, lng } = data.result.location;
         if (lat < 30.7 || lat > 31.9 || lng < 120.8 || lng > 122.0) return;
-        let nearest = WORKPLACES[0];
-        let minDist = Infinity;
-        for (const wp of WORKPLACES) {
-          const d = haversine(lat, lng, wp.lat, wp.lng);
-          if (d < minDist) { minDist = d; nearest = wp; }
-        }
-        setWorkplace(nearest);
+        const address = data.result.address || '';
+        setWorkplace({
+          key: 'custom',
+          name: address || `定位位置`,
+          lat,
+          lng,
+          address,
+        });
       })
       .catch((err) => { console.error('[IP定位失败]', err.message); })
       .finally(() => setLocating(false));
@@ -235,15 +236,6 @@ export default function App() {
               {!locating && <span style={{ position: 'absolute', top: 2, left: 2, width: 6, height: 6, background: '#fff', borderRadius: '50%' }} />}
             </span>
             {locating ? '定位中...' : '定位'}
-          </button>
-          <button onClick={handleExportDouyin} style={{
-            background: 'linear-gradient(135deg, #ff4757 0%, #ff6b81 100%)',
-            color: '#fff', border: 'none', borderRadius: 8,
-            padding: isMobile ? '6px 12px' : '7px 16px',
-            cursor: 'pointer', fontSize: 13, fontWeight: 600,
-            whiteSpace: 'nowrap', boxShadow: '0 2px 8px rgba(255,71,87,0.35)',
-          }}>
-            导出抖音
           </button>
         </div>
       </Header>
