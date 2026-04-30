@@ -338,6 +338,9 @@ export default function App() {
           <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 12, marginBottom: 0 }}>
             &copy; {new Date().getFullYear()} 租房数据分析 · 数据仅供参考
           </Paragraph>
+          <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 4, marginBottom: 0 }}>
+            <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer" style={{ color: '#999' }}>浙ICP备2026028673号</a>
+          </Paragraph>
         </div>
       </Footer>
     </Layout>
