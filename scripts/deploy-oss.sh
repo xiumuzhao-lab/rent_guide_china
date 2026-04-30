@@ -98,8 +98,8 @@ ossutil rm "$OSS_PATH" -r -f --exclude "data/*" 2>/dev/null || true
 echo "  上传新文件..."
 ossutil cp "$DIST_DIR/" "$OSS_PATH" -r -f \
   --update \
-  --jobs 10 \
-  --part-size 10485760
+  -j 5 \
+  --parallel 5
 
 echo "  上传完成"
 echo ""
@@ -112,7 +112,7 @@ sleep 1
 CHECK_FILES=("index.html" "favicon.svg" "robots.txt")
 ALL_OK=true
 for file in "${CHECK_FILES[@]}"; do
-  if ossutil ls "$OSS_PATH$file" 2>/dev/null | grep -q "$file"; then
+  if ossutil ls "$OSS_PATH$file" 2>/dev/null | grep -q "Object Number is: 1"; then
     echo "  ✓ $file"
   else
     echo "  ✗ $file (缺失)"
