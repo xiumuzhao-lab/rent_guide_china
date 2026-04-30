@@ -315,18 +315,11 @@ export default function App() {
           <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 8 }}>
             <strong>免责声明</strong>
           </Paragraph>
-          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
-            1. 本站所有数据均基于公开信息进行统计分析，仅供个人参考与学习研究使用，不构成任何租房、投资或交易建议。
-          </Paragraph>
-          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
-            2. 所展示的数据可能存在滞后、偏差或错误，请以各平台实时信息为准。
-          </Paragraph>
-          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
-            3. 本站通过广告收入维持运营，广告内容不代表本站立场。用户在参考本站信息做出任何决策前，应自行核实并承担相关风险。
-          </Paragraph>
-          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4 }}>
-            4. 如您认为本站内容侵犯了您的合法权益，请及时联系我们，我们将在核实后尽快处理。
-          </Paragraph>
+          <ol style={{ margin: 0, paddingLeft: 18, color: 'rgba(0,0,0,0.45)', fontSize: 12, lineHeight: '22px' }}>
+            <li>本站所有数据均基于公开信息进行统计分析，仅供个人参考与学习研究使用，不构成任何租房、投资或交易建议。</li>
+            <li>所展示的数据可能存在滞后、偏差或错误，请以各平台实时信息为准。</li>
+            <li>如您认为本站内容侵犯了您的合法权益，请及时联系我们，我们将在核实后尽快处理。</li>
+          </ol>
           <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 12, marginBottom: 0 }}>
             &copy; {new Date().getFullYear()} 租房数据分析 · 数据仅供参考
           </Paragraph>
