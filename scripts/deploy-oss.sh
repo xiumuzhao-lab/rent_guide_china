@@ -112,7 +112,8 @@ sleep 1
 CHECK_FILES=("index.html" "favicon.svg" "robots.txt")
 ALL_OK=true
 for file in "${CHECK_FILES[@]}"; do
-  if ossutil ls "$OSS_PATH$file" 2>/dev/null | grep -q "Object Number is: 1"; then
+  count=$(ossutil ls "$OSS_PATH$file" 2>/dev/null | grep -c "Object Number is: 1" || true)
+  if [ "$count" -ge 1 ]; then
     echo "  ✓ $file"
   else
     echo "  ✗ $file (缺失)"
