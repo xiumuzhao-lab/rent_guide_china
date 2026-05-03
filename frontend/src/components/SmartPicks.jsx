@@ -1,15 +1,15 @@
 import { useMemo, useState, useRef, useCallback } from 'react';
 import { Tag, Tooltip } from 'antd';
 import html2canvas from 'html2canvas';
-import { SUBWAY_LINES } from '../utils/subway';
+import { SUBWAY_BY_CITY } from '../utils/subway';
 import { haversine } from '../utils/haversine';
 import { REGION_NAMES } from '../utils/constants';
 import CommunityListings from './CommunityListings';
 
 /** 找到距离给定坐标最近的地铁站，返回 { station, line, dist } */
-function findNearestStation(lat, lng) {
+function findNearestStation(lat, lng, subwayLines) {
   let best = null;
-  for (const line of SUBWAY_LINES) {
+  for (const line of subwayLines) {
     for (const st of line.stations) {
       const d = haversine(lat, lng, st.lat, st.lng);
       if (!best || d < best.dist) {
@@ -46,8 +46,9 @@ function SubwayBadge({ station, line, dist, color }) {
   );
 }
 
-export default function SmartPicks({ enrichedStats, listings, workplace, isMobile }) {
+export default function SmartPicks({ enrichedStats, listings, workplace, isMobile, city }) {
   const [selected, setSelected] = useState(null);
+  const subwayLines = SUBWAY_BY_CITY[city] || [];
   const picksRef = useRef(null);
 
   const handleExport = useCallback(() => {
@@ -70,7 +71,7 @@ export default function SmartPicks({ enrichedStats, listings, workplace, isMobil
 
     // 为每个候选小区计算最近地铁站
     const withSubway = candidates.map((s) => {
-      const nearest = findNearestStation(s.lat, s.lng);
+      const nearest = findNearestStation(s.lat, s.lng, subwayLines);
       return { ...s, subway: nearest };
     });
 

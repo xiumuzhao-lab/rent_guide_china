@@ -331,12 +331,12 @@ export default function App() {
             </div>
           </section>
 
-          <SmartPicks enrichedStats={enrichedStats} listings={listings} workplace={workplace} isMobile={isMobile} />
+          <SmartPicks enrichedStats={enrichedStats} listings={listings} workplace={workplace} isMobile={isMobile} city={city} />
 
           <section aria-label="单价热力图" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
             <Title level={2}>{workplace.name} 全景单价热力图</Title>
             <div style={{ fontSize: 12, color: '#999', marginBottom: 8 }}>红色标注为各距离环内单价最低前20%小区，散点颜色由绿到红反映单价从高到低，距离环标注通勤范围</div>
-            <HeatmapCanvas workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} />
+            <HeatmapCanvas workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} city={city} />
           </section>
 
           <AdSlot slot="SLOT_MIDDLE" format="horizontal" />

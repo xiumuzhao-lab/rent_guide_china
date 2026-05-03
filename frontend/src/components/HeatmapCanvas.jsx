@@ -1,5 +1,5 @@
 import { useRef, useEffect, useCallback, useMemo } from 'react';
-import { SUBWAY_LINES } from '../utils/subway';
+import { SUBWAY_BY_CITY } from '../utils/subway';
 import { haversine } from '../utils/haversine';
 
 const RING_COLORS = { 3: '#2ecc71', 5: '#27ae60', 8: '#f39c12', 10: '#e67e22', 15: '#e74c3c' };
@@ -22,16 +22,18 @@ function getUnitPriceRGBA(unitPrice, min, max, alpha) {
   return `rgba(${r}, ${g}, 50, ${alpha})`;
 }
 
-export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance }) {
+export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, city }) {
   const canvasRef = useRef(null);
   const containerRef = useRef(null);
 
+  const subwayLines = SUBWAY_BY_CITY[city] || [];
+
   /** 只保留有站点在 maxDistance 范围内的地铁线路 */
   const filteredSubwayLines = useMemo(() => {
-    return SUBWAY_LINES.filter((line) =>
+    return subwayLines.filter((line) =>
       line.stations.some((st) => haversine(workplace.lat, workplace.lng, st.lat, st.lng) <= maxDistance),
     );
-  }, [workplace, maxDistance]);
+  }, [subwayLines, workplace, maxDistance]);
 
   const draw = useCallback(() => {
     const canvas = canvasRef.current;
