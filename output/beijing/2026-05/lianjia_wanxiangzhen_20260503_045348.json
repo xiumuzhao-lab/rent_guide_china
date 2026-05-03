@@ -15,8 +15,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 24.1,
-    "lat": null,
-    "lng": null
+    "lat": 30.957321,
+    "lng": 121.803281
   },
   {
     "title": "整租·同润金色橘苑 3室1厅 南",
@@ -34,8 +34,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 24.9,
-    "lat": 30.957993,
-    "lng": 121.808514
+    "lat": 30.960345,
+    "lng": 121.8046
   },
   {
     "title": "整租·凯德新视界(一期) 2室1厅 南/北",
@@ -53,8 +53,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 23.6,
-    "lat": 30.96058,
-    "lng": 121.80868
+    "lat": 30.965156,
+    "lng": 121.806668
   },
   {
     "title": "整租·凯德新视界(二期) 3室2厅 南",
@@ -72,8 +72,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 15.2,
-    "lat": 30.963028,
-    "lng": 121.810669
+    "lat": 30.965156,
+    "lng": 121.806668
   },
   {
     "title": "整租·凯德新视界(一期) 3室2厅 南/北",
@@ -91,8 +91,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 22.7,
-    "lat": 30.96058,
-    "lng": 121.80868
+    "lat": 30.965156,
+    "lng": 121.806668
   },
   {
     "title": "整租·天健萃园 2室1厅 南/北",
@@ -110,8 +110,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 24.2,
-    "lat": null,
-    "lng": null
+    "lat": 30.957321,
+    "lng": 121.803281
   },
   {
     "title": "整租·凯德新视界(二期) 3室2厅 南",
@@ -129,8 +129,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 20.2,
-    "lat": 30.963028,
-    "lng": 121.810669
+    "lat": 30.965156,
+    "lng": 121.806668
   },
   {
     "title": "整租·颐景园·江南院 3室2厅 南",
@@ -148,8 +148,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 10.9,
-    "lat": 30.96926,
-    "lng": 121.806574
+    "lat": 30.98178,
+    "lng": 121.8059
   },
   {
     "title": "整租·天健萃园 2室2厅 南/北",
@@ -167,8 +167,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 27.4,
-    "lat": null,
-    "lng": null
+    "lat": 30.957321,
+    "lng": 121.803281
   },
   {
     "title": "整租·天健萃园 4室2厅 南",
@@ -186,8 +186,8 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 13.4,
-    "lat": null,
-    "lng": null
+    "lat": 30.957321,
+    "lng": 121.803281
   },
   {
     "title": "整租·同润金色橘苑 3室2厅 南/北",
@@ -205,7 +205,7 @@
     "scraped_at": "2026-04-23 10:30:17",
     "region": "wanxiangzhen",
     "unit_price": 27.2,
-    "lat": 30.957993,
-    "lng": 121.808514
+    "lat": 30.960345,
+    "lng": 121.8046
   }
 ]

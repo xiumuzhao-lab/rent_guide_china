@@ -90,13 +90,10 @@ export default function SmartPicks({ enrichedStats, listings, workplace, isMobil
     return scored.slice(0, 8);
   }, [enrichedStats]);
 
-  if (picks.length === 0) return null;
-
-  // 生成推荐文案
   const summary = useMemo(() => {
+    if (picks.length === 0) return '';
     const top3 = picks.slice(0, 3);
     const names = top3.map((p) => p.name).join('、');
-    const priceRange = `${picks[picks.length - 1].avgPrice}-${picks[0].avgPrice}`;
     const subwayInfo = top3
       .filter((p) => p.subway && p.subway.dist <= 1)
       .map((p) => `${p.name}距${p.subway.station}仅${Math.round(p.subway.dist * 1000)}m`)
@@ -108,6 +105,8 @@ export default function SmartPicks({ enrichedStats, listings, workplace, isMobil
     if (subwayInfo) parts.push(subwayInfo, '步行即达。');
     return parts.join('');
   }, [picks, workplace.name]);
+
+  if (picks.length === 0) return null;
 
   return (
     <div ref={picksRef} style={{

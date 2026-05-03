@@ -15,8 +15,8 @@
     "scraped_at": "2026-05-02 23:10:16",
     "region": "yangzhen",
     "unit_price": 30.8,
-    "lat": null,
-    "lng": null
+    "lat": 40.15953,
+    "lng": 116.81534
   },
   {
     "title": "整租·顺鑫朗郡 2室1厅 南/北",
@@ -34,8 +34,8 @@
     "scraped_at": "2026-05-02 23:10:16",
     "region": "yangzhen",
     "unit_price": 26.8,
-    "lat": null,
-    "lng": null
+    "lat": 40.157566,
+    "lng": 116.827548
   },
   {
     "title": "整租·顺鑫澜庭 3室1厅 南/北",
@@ -53,7 +53,7 @@
     "scraped_at": "2026-05-02 23:10:16",
     "region": "yangzhen",
     "unit_price": 29.5,
-    "lat": null,
-    "lng": null
+    "lat": 40.15953,
+    "lng": 116.81534
   }
 ]

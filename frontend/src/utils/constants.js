@@ -356,6 +356,57 @@ export const BJ_WORKPLACES = [
 ];
 
 // ============================================================
+// 杭州配置
+// ============================================================
+
+export const HZ_REGION_NAMES = {
+  aoti: '奥体', baimahu: '白马湖', banshan: '半山',
+  binjiangquzhengfu: '滨江区政府', caihe1: '采荷',
+  caihongcheng: '彩虹城', changhe: '长河', changqing1112: '长庆',
+  chaohui: '朝晖', chaoming11: '潮鸣', chengdongxincheng: '城东新城',
+  chengzhan: '城站', chongxian: '崇贤', daguan: '大关',
+  dajiangdong: '大江东', desheng: '德胜', deshengdong: '德胜东',
+  dingqiao: '丁桥', donghu6: '东湖', daxuechengbei: '大学城北',
+  feicuicheng1: '翡翠城', fuxing: '复兴', gaojiaoyuanqudong: '高教园区东',
+  gaojiaoyuanquxi: '高教园区西', gongchenqiao: '拱宸桥',
+  gongyeyuanbei: '工业园北', gongyeyuannan: '工业园南',
+  gouzhuang: '勾庄', gulou2: '鼓楼', guali: '瓜沥',
+  hemu: '和睦', heping2: '和平', hubin1: '湖滨',
+  huajiachi: '华家池', huochedongzhan: '火车东站', hushu1: '湖墅',
+  jianguobeilu: '建国北路', jianqiao: '笕桥', jinhua2: '进化',
+  jinshahu: '金沙湖', jinjiang1: '近江', jingfang1: '景芳',
+  jiubao: '九堡', liangzhu: '良渚', liuxia1: '留下',
+  linpingxincheng: '临平新城', linpingyunhe: '临平运河', linpu: '临浦',
+  liushuiyuan: '流水苑', laoyuhang: '老余杭', nanbuwocheng: '南部卧城',
+  nanxing: '南星', nanxiaobu: '南肖埠', pingyao: '瓶窑',
+  puyan: '浦沿', qibao1: '七堡', qianjiangshijicheng: '钱江世纪城',
+  qianjiangxincheng: '钱江新城', qiaosi: '乔司', qiaoxi1: '桥西',
+  qingbo: '清波', qingtai: '清泰', renhe2: '仁和',
+  sanliting: '三里亭', sandun: '三墩', santang: '三塘',
+  shenhua: '申花', shiqiao: '石桥', sichoucheng1: '丝绸城',
+  sijiqing1: '四季青', tangqi1: '塘栖', tiyuchanglu: '体育场路',
+  tianshui1: '天水', wandaguangchang2: '万达广场', wangjiang: '望江',
+  weilaikejicheng: '未来科技城', wenyan: '闻堰', xianlin1: '闲林',
+  xianghu: '湘湖', xiaoheshan: '小和山', xiaoshankaifaqu: '萧山开发区',
+  xiaoshankejicheng: '萧山科技城', xiaoshanshiqu: '萧山市区',
+  xiaoshanxinchengqu: '萧山新城区', xihujingqu: '西湖景区',
+  xingqiao: '星桥', xiongzhenlou: '雄镇楼', xixi: '西溪',
+  xixing: '西兴', xinyifang: '信义坊', yanjiangbei: '沿江北',
+  yanjiangnan: '沿江南', yiqiao: '义桥', yunhexincheng: '运河新城',
+  zhanongkou: '闸弄口', zhonganqiao: '众安桥', zhongtai: '中泰',
+  wulin11: '武林',
+};
+
+export const HZ_WORKPLACES = [
+  { key: 'weilaikejicheng', name: '未来科技城', lat: 30.2850, lng: 120.0260, address: '余杭区未来科技城' },
+  { key: 'binjiang', name: '滨江', lat: 30.2080, lng: 120.2100, address: '滨江区网商路' },
+  { key: 'qianjiangxincheng', name: '钱江新城', lat: 30.2500, lng: 120.2150, address: '上城区钱江新城' },
+  { key: 'wulin', name: '武林广场', lat: 30.2750, lng: 120.1650, address: '拱墅区武林广场' },
+  { key: 'xixi', name: '西溪', lat: 30.2680, lng: 120.0600, address: '西湖区西溪湿地' },
+  { key: 'xiasha', name: '下沙', lat: 30.3150, lng: 120.3500, address: '钱塘区下沙' },
+];
+
+// ============================================================
 // 城市配置
 // ============================================================
 
@@ -367,7 +418,7 @@ export const CITY_CONFIG = {
     defaultCenter: [31.22, 121.54],
     defaultZoom: 25,
     bounds: { latMin: 30.7, latMax: 31.9, lngMin: 120.8, lngMax: 122.0 },
-    dataPath: '',
+    dataPath: 'shanghai/',
   },
   beijing: {
     name: '北京',
@@ -377,6 +428,15 @@ export const CITY_CONFIG = {
     defaultZoom: 25,
     bounds: { latMin: 39.4, latMax: 41.1, lngMin: 115.4, lngMax: 117.6 },
     dataPath: 'beijing/',
+  },
+  hangzhou: {
+    name: '杭州',
+    workplaces: HZ_WORKPLACES,
+    regionNames: HZ_REGION_NAMES,
+    defaultCenter: [30.25, 120.15],
+    defaultZoom: 25,
+    bounds: { latMin: 29.9, latMax: 30.6, lngMin: 119.5, lngMax: 120.7 },
+    dataPath: 'hangzhou/',
   },
 };
 

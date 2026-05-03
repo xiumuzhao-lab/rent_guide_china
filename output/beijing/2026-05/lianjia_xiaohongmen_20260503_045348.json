@@ -15,8 +15,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 50.0,
-    "lat": null,
-    "lng": null
+    "lat": 39.826601,
+    "lng": 116.469577
   },
   {
     "title": "整租·鸿博家园二期C区 2室1厅 南",
@@ -34,8 +34,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 59.8,
-    "lat": null,
-    "lng": null
+    "lat": 39.828141,
+    "lng": 116.458658
   },
   {
     "title": "整租·江南府 3室1厅 南/北",
@@ -53,8 +53,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 67.0,
-    "lat": null,
-    "lng": null
+    "lat": 39.819555,
+    "lng": 116.468689
   },
   {
     "title": "整租·江南山水 4室2厅 复式 南/北",
@@ -72,8 +72,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 89.0,
-    "lat": 31.272752,
-    "lng": 121.584799
+    "lat": 39.824956,
+    "lng": 116.465748
   },
   {
     "title": "整租·自主城 4房间 南",
@@ -91,8 +91,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 108.3,
-    "lat": null,
-    "lng": null
+    "lat": 39.836422,
+    "lng": 116.449764
   },
   {
     "title": "整租·鸿博家园F区二期 1室1厅 南",
@@ -110,8 +110,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 85.4,
-    "lat": null,
-    "lng": null
+    "lat": 39.825396,
+    "lng": 116.458138
   },
   {
     "title": "整租·江南山水 3室2厅 南/北",
@@ -129,8 +129,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 64.6,
-    "lat": 31.272752,
-    "lng": 121.584799
+    "lat": 39.824956,
+    "lng": 116.465748
   },
   {
     "title": "整租·江南府 2室1厅 南/北",
@@ -148,8 +148,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 71.4,
-    "lat": null,
-    "lng": null
+    "lat": 39.819555,
+    "lng": 116.468689
   },
   {
     "title": "整租·自主城 3房间 东南",
@@ -167,8 +167,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 108.6,
-    "lat": null,
-    "lng": null
+    "lat": 39.836422,
+    "lng": 116.449764
   },
   {
     "title": "整租·江南山水 4室2厅 南/北",
@@ -186,8 +186,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 93.3,
-    "lat": 31.272752,
-    "lng": 121.584799
+    "lat": 39.824956,
+    "lng": 116.465748
   },
   {
     "title": "整租·江南山水 4室2厅 南/北",
@@ -205,8 +205,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 89.3,
-    "lat": 31.272752,
-    "lng": 121.584799
+    "lat": 39.824956,
+    "lng": 116.465748
   },
   {
     "title": "整租·江南府 2室1厅 南/北",
@@ -224,8 +224,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 70.2,
-    "lat": null,
-    "lng": null
+    "lat": 39.819555,
+    "lng": 116.468689
   },
   {
     "title": "整租·鸿博家园二期D区 3室0厅 南/北",
@@ -243,8 +243,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 57.7,
-    "lat": null,
-    "lng": null
+    "lat": 39.827578,
+    "lng": 116.448119
   },
   {
     "title": "整租·江南府 2室1厅 南",
@@ -262,8 +262,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 69.0,
-    "lat": null,
-    "lng": null
+    "lat": 39.819555,
+    "lng": 116.468689
   },
   {
     "title": "整租·自主城 4房间 南",
@@ -281,8 +281,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 90.3,
-    "lat": null,
-    "lng": null
+    "lat": 39.836422,
+    "lng": 116.449764
   },
   {
     "title": "整租·鸿博家园二期A区 1室1厅 南",
@@ -300,8 +300,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 63.6,
-    "lat": null,
-    "lng": null
+    "lat": 39.824706,
+    "lng": 116.456708
   },
   {
     "title": "整租·江南山水 2室1厅 西",
@@ -319,8 +319,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 76.4,
-    "lat": 31.272752,
-    "lng": 121.584799
+    "lat": 39.824956,
+    "lng": 116.465748
   },
   {
     "title": "整租·自主城 6房间 南/北",
@@ -338,8 +338,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 116.4,
-    "lat": null,
-    "lng": null
+    "lat": 39.836422,
+    "lng": 116.449764
   },
   {
     "title": "整租·鸿博家园F区二期 2室1厅 南",
@@ -357,8 +357,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 66.7,
-    "lat": null,
-    "lng": null
+    "lat": 39.825396,
+    "lng": 116.458138
   },
   {
     "title": "整租·鸿博家园一区 1室0厅 南",
@@ -376,8 +376,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 64.3,
-    "lat": null,
-    "lng": null
+    "lat": 39.829236,
+    "lng": 116.469177
   },
   {
     "title": "整租·鸿博家园三区 2室1厅 南",
@@ -395,8 +395,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 62.7,
-    "lat": null,
-    "lng": null
+    "lat": 39.828284,
+    "lng": 116.462662
   },
   {
     "title": "整租·恋日绿岛 1室0厅 东",
@@ -414,8 +414,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 65.5,
-    "lat": null,
-    "lng": null
+    "lat": 39.825544,
+    "lng": 116.471778
   },
   {
     "title": "整租·江南山水 5室3厅 复式 南/北",
@@ -433,8 +433,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 55.7,
-    "lat": 31.272752,
-    "lng": 121.584799
+    "lat": 39.824956,
+    "lng": 116.465748
   },
   {
     "title": "整租·恋日绿岛 6室2厅 南",
@@ -452,8 +452,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 55.3,
-    "lat": null,
-    "lng": null
+    "lat": 39.825544,
+    "lng": 116.471778
   },
   {
     "title": "整租·江南山水 5室2厅 南/北",
@@ -471,8 +471,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 73.0,
-    "lat": 31.272752,
-    "lng": 121.584799
+    "lat": 39.824956,
+    "lng": 116.465748
   },
   {
     "title": "整租·鸿博家园F区二期 1室1厅 南",
@@ -490,8 +490,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 72.7,
-    "lat": null,
-    "lng": null
+    "lat": 39.825396,
+    "lng": 116.458138
   },
   {
     "title": "整租·江南山水 2室1厅 南/北",
@@ -509,8 +509,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 84.4,
-    "lat": 31.272752,
-    "lng": 121.584799
+    "lat": 39.824956,
+    "lng": 116.465748
   },
   {
     "title": "整租·江南府 2室1厅 南/北",
@@ -528,8 +528,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 69.0,
-    "lat": null,
-    "lng": null
+    "lat": 39.819555,
+    "lng": 116.468689
   },
   {
     "title": "整租·江南府 2室1厅 南",
@@ -547,8 +547,8 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 80.2,
-    "lat": null,
-    "lng": null
+    "lat": 39.819555,
+    "lng": 116.468689
   },
   {
     "title": "整租·恋日绿岛 1室1厅 西南",
@@ -566,7 +566,7 @@
     "scraped_at": "2026-05-02 21:17:55",
     "region": "xiaohongmen",
     "unit_price": 69.1,
-    "lat": null,
-    "lng": null
+    "lat": 39.825544,
+    "lng": 116.471778
   }
 ]

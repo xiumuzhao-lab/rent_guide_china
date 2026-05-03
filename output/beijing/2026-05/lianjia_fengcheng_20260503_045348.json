@@ -15,8 +15,8 @@
     "scraped_at": "2026-04-23 17:36:25",
     "region": "fengcheng",
     "unit_price": 29.5,
-    "lat": null,
-    "lng": null
+    "lat": 30.96014,
+    "lng": 121.64159
   },
   {
     "title": "整租·娜欧佳苑 4室2厅 南",
@@ -34,8 +34,8 @@
     "scraped_at": "2026-04-23 17:36:25",
     "region": "fengcheng",
     "unit_price": 11.2,
-    "lat": null,
-    "lng": null
+    "lat": 30.90689,
+    "lng": 121.64437
   },
   {
     "title": "整租·中海戈雅园 3室2厅 南",
@@ -53,8 +53,8 @@
     "scraped_at": "2026-04-23 17:36:25",
     "region": "fengcheng",
     "unit_price": 3600.0,
-    "lat": null,
-    "lng": null
+    "lat": 30.91708,
+    "lng": 121.6625
   },
   {
     "title": "独栋·中海友里 上海临港自贸区店 【民水民电】【可办居住证】国企公寓70平两室拎包入住 可短租 2室0厅",
@@ -72,8 +72,8 @@
     "scraped_at": "2026-04-23 17:36:25",
     "region": "fengcheng",
     "unit_price": 28.5,
-    "lat": null,
-    "lng": null
+    "lat": 39.843681,
+    "lng": 116.442366
   },
   {
     "title": "整租·绿地风清苑 2室1厅 南",
@@ -91,8 +91,8 @@
     "scraped_at": "2026-04-23 17:36:25",
     "region": "fengcheng",
     "unit_price": 35.9,
-    "lat": null,
-    "lng": null
+    "lat": 30.91313,
+    "lng": 121.66073
   },
   {
     "title": "整租·中建公元名邸(别墅) 4室4厅 南",
@@ -110,7 +110,7 @@
     "scraped_at": "2026-04-23 17:36:25",
     "region": "fengcheng",
     "unit_price": 23.1,
-    "lat": null,
-    "lng": null
+    "lat": 30.90904,
+    "lng": 121.6526
   }
 ]

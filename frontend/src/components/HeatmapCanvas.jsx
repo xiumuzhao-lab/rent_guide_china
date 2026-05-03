@@ -8,16 +8,17 @@ const DISTANCE_RINGS = [3, 5, 8, 10, 15];
 function getUnitPriceColor(unitPrice, min, max) {
   if (max === min) return '#f39c12';
   const ratio = (unitPrice - min) / (max - min);
-  const r = Math.round(ratio * 220);
-  const g = Math.round((1 - ratio) * 180);
+  // 低价=红(醒目), 高价=绿(冷色)
+  const r = Math.round((1 - ratio) * 220);
+  const g = Math.round(ratio * 180);
   return `rgb(${r}, ${g}, 50)`;
 }
 
 function getUnitPriceRGBA(unitPrice, min, max, alpha) {
   if (max === min) return `rgba(243,156,18,${alpha})`;
   const ratio = (unitPrice - min) / (max - min);
-  const r = Math.round(ratio * 220);
-  const g = Math.round((1 - ratio) * 180);
+  const r = Math.round((1 - ratio) * 220);
+  const g = Math.round(ratio * 180);
   return `rgba(${r}, ${g}, 50, ${alpha})`;
 }
 
@@ -91,28 +92,28 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     const maxUP = Math.max(...unitPrices);
     const priceRange = maxUP - minUP;
 
-    // 按距离环分组，每环内最低 20% 单价阈值
-    const bottom20Set = new Set();
+    // 按距离环分组，单价≤6000 中取最低 10% 标红
+    const bottomSet = new Set();
     {
       const rings = [3, 5, 8, 10, 15];
       let prev = 0;
+      const affordable = enrichedStats.filter((s) => s.avgPrice <= 6000);
       for (const r of rings) {
-        const group = enrichedStats.filter((s) => s.dist > prev && s.dist <= r);
+        const group = affordable.filter((s) => s.dist > prev && s.dist <= r);
         if (group.length === 0) { prev = r; continue; }
         const sorted = [...group].sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
-        const cut = Math.max(1, Math.ceil(sorted.length * 0.2));
+        const cut = Math.max(1, Math.ceil(sorted.length * 0.1));
         for (let i = 0; i < cut && i < sorted.length; i++) {
-          bottom20Set.add(sorted[i].name);
+          bottomSet.add(sorted[i].name);
         }
         prev = r;
       }
-      // 超出 15km 的也按同样规则处理
-      const group = enrichedStats.filter((s) => s.dist > 15);
+      const group = affordable.filter((s) => s.dist > 15);
       if (group.length > 0) {
         const sorted = [...group].sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
-        const cut = Math.max(1, Math.ceil(sorted.length * 0.2));
+        const cut = Math.max(1, Math.ceil(sorted.length * 0.1));
         for (let i = 0; i < cut && i < sorted.length; i++) {
-          bottom20Set.add(sorted[i].name);
+          bottomSet.add(sorted[i].name);
         }
       }
     }
@@ -352,7 +353,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     for (const stat of sorted) {
       const x = toX(stat.lng);
       const y = toY(stat.lat);
-      const isLowPrice = bottom20Set.has(stat.name);
+      const isLowPrice = bottomSet.has(stat.name);
       const radius = isLowPrice ? Math.max(3, 7 * sf) : Math.max(2, 4 * sf);
       const color = getUnitPriceColor(stat.avgUnitPrice, minUP, maxUP);
 
@@ -442,7 +443,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
     }
 
     // 各环内最低 20% 单价小区标签 — 最上层，红色醒目
-    const bottom20Stats = enrichedStats.filter((s) => bottom20Set.has(s.name));
+    const bottom20Stats = enrichedStats.filter((s) => bottomSet.has(s.name));
     const sortedBottom20 = [...bottom20Stats].sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
     ctx.font = `bold ${Math.round(11 * sf)}px sans-serif`;
     for (const stat of sortedBottom20) {
@@ -453,14 +454,9 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       const tw2 = ctx.measureText(text).width;
       const lw = tw2 + 8 * sf;
       const lh = 16 * sf;
+
       const lx = x - lw / 2;
       const ly = y + 10 * sf;
-
-      // 碰撞检测 (复用 labelRects)
-      const overlaps = labelRects.some(
-        (r) => lx < r.x + r.w && lx + lw > r.x && ly < r.y + r.h && ly + lh > r.y
-      );
-      if (overlaps) continue;
 
       labelRects.push({ x: lx, y: ly, w: lw, h: lh });
       ctx.fillStyle = 'rgba(255,255,255,0.9)';
@@ -470,7 +466,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance })
       ctx.fillStyle = '#e74c3c';
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
-      ctx.fillText(text, x, ly + lh / 2);
+      ctx.fillText(text, lx + lw / 2, ly + lh / 2);
     }
 
     // 色阶条

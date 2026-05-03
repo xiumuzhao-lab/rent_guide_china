@@ -1,19 +1,22 @@
 import { AutoComplete, InputNumber, Space } from 'antd';
 import { EnvironmentOutlined } from '@ant-design/icons';
-import { useState, useRef, useCallback } from 'react';
-import { WORKPLACES } from '../utils/constants';
+import { useState, useRef, useCallback, useMemo, useEffect } from 'react';
 import useIsMobile from '../hooks/useIsMobile';
 
 const CUSTOM_KEY = '__custom__';
 
-const defaultOptions = WORKPLACES.map((wp) => ({ value: wp.key, label: wp.name, isPreset: true }));
-
-export default function WorkplaceSelector({ value, onChange }) {
+export default function WorkplaceSelector({ value, onChange, workplaces }) {
   const isMobile = useIsMobile();
+  const defaultOptions = useMemo(
+    () => workplaces.map((wp) => ({ value: wp.key, label: wp.name, isPreset: true })),
+    [workplaces],
+  );
   const [options, setOptions] = useState(defaultOptions);
   const [text, setText] = useState('');
   const [editing, setEditing] = useState(false);
   const timerRef = useRef(null);
+
+  useEffect(() => { setOptions(defaultOptions); }, [defaultOptions]);
 
   const searchTmap = useCallback(async (keyword) => {
     // 生产环境用远程代理, 开发环境用 Vite 代理
@@ -38,7 +41,7 @@ export default function WorkplaceSelector({ value, onChange }) {
       // fallback
     }
     setOptions(defaultOptions);
-  }, []);
+  }, [defaultOptions]);
 
   const handleSearch = (val) => {
     setText(val);
@@ -51,7 +54,7 @@ export default function WorkplaceSelector({ value, onChange }) {
 
   const handleSelect = (key) => {
     // 预定义工作地点
-    const wp = WORKPLACES.find((w) => w.key === key);
+    const wp = workplaces.find((w) => w.key === key);
     if (wp) {
       onChange(wp);
       setText('');

@@ -15,8 +15,8 @@
     "scraped_at": "2026-05-02 23:10:48",
     "region": "hancunhe1",
     "unit_price": 12.3,
-    "lat": null,
-    "lng": null
+    "lat": 39.60277,
+    "lng": 115.940789
   },
   {
     "title": "整租·韩村河西小区 2室1厅 南",
@@ -34,8 +34,8 @@
     "scraped_at": "2026-05-02 23:10:48",
     "region": "hancunhe1",
     "unit_price": 19.4,
-    "lat": null,
-    "lng": null
+    "lat": 39.602476,
+    "lng": 115.944639
   },
   {
     "title": "整租·韩村河西小区 2室1厅 南/北",
@@ -53,7 +53,7 @@
     "scraped_at": "2026-05-02 23:10:48",
     "region": "hancunhe1",
     "unit_price": 21.8,
-    "lat": null,
-    "lng": null
+    "lat": 39.602476,
+    "lng": 115.944639
   }
 ]

@@ -1,6 +1,6 @@
 import ReportPage from './components/ReportPage';
 import { useState, useEffect, useMemo, useRef, useCallback } from 'react';
-import { Layout, Typography, Spin, Slider, message, Alert, Tabs } from 'antd';
+import { Layout, Typography, Spin, Slider, message, Alert, Tabs, Select } from 'antd';
 import html2canvas from 'html2canvas';
 import WorkplaceSelector from './components/WorkplaceSelector';
 import OverviewCards from './components/OverviewCards';
@@ -15,7 +15,7 @@ import HeatmapCanvas from './components/HeatmapCanvas';
 import AnalysisReport from './components/AnalysisReport';
 import SmartPicks from './components/SmartPicks';
 import RegionDistanceText from './components/RegionDistanceText';
-import { WORKPLACES, CITY_CONFIG, CITY_LIST } from './utils/constants';
+import { CITY_CONFIG, CITY_LIST } from './utils/constants';
 import useIsMobile from './hooks/useIsMobile';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
 import { haversine } from './utils/haversine';
@@ -80,7 +80,7 @@ export default function App() {
   const cityConfig = CITY_CONFIG[city];
   const hasURLWorkplace = !!initial.workplace;
   const [workplace, setWorkplace] = useState(
-    initial.workplace || (initial.city === city ? CITY_CONFIG[initial.city].workplaces[0] : WORKPLACES[0]),
+    initial.workplace || CITY_CONFIG[initial.city].workplaces[0],
   );
   const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 3);
   const [view, setView] = useState('main');
@@ -239,31 +239,30 @@ export default function App() {
   return (
     <Layout style={{ minHeight: '100vh' }}>
       <Header component="header" role="banner" style={{ background: '#fff', borderBottom: '1px solid #f0f0f0', padding: isMobile ? '10px 12px' : '0 24px', display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', height: isMobile ? 'auto' : 64, gap: isMobile ? 8 : 0 }}>
-        <a href={window.location.origin} style={{ display: 'flex', alignItems: 'center', gap: 8, textDecoration: 'none', color: 'inherit' }}>
-          <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" width={28} height={28} />
-          <Title level={1} style={{ margin: 0, fontSize: isMobile ? 16 : 20, fontWeight: 700 }}>租房雷达</Title>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <a href={window.location.origin} style={{ display: 'flex', alignItems: 'center', gap: 8, textDecoration: 'none', color: 'inherit' }}>
+            <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" width={28} height={28} />
+            <Title level={1} style={{ margin: 0, fontSize: isMobile ? 16 : 20, fontWeight: 700 }}>租房雷达</Title>
+          </a>
           {CITY_LIST.length > 1 && (
-            <div style={{ display: 'flex', gap: 0, marginLeft: isMobile ? 0 : 8 }}>
-              {CITY_LIST.map((c) => (
-                <button key={c} onClick={() => {
-                  if (c === city) return;
-                  const cfg = CITY_CONFIG[c];
-                  setCity(c);
-                  setWorkplace(cfg.workplaces[0]);
-                  setMaxDistance(3);
-                }} style={{
-                  padding: '2px 10px', fontSize: 12, fontWeight: city === c ? 700 : 400,
-                  border: '1px solid #d9d9d9', cursor: 'pointer',
-                  background: city === c ? '#1677ff' : '#fff',
-                  color: city === c ? '#fff' : '#666',
-                  borderRadius: c === CITY_LIST[0] ? '4px 0 0 4px' : '0 4px 4px 0',
-                }}>{CITY_CONFIG[c].name}</button>
-              ))}
-            </div>
+            <Select
+              value={city}
+              onChange={(c) => {
+                if (c === city) return;
+                const cfg = CITY_CONFIG[c];
+                setCity(c);
+                setWorkplace(cfg.workplaces[0]);
+                setMaxDistance(3);
+              }}
+              options={CITY_LIST.map((c) => ({ value: c, label: CITY_CONFIG[c].name }))}
+              style={{ width: isMobile ? 80 : 90 }}
+              size="small"
+              popupMatchSelectWidth={false}
+            />
           )}
-        </a>
+        </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: isMobile ? 8 : 16, flexWrap: 'wrap', width: isMobile ? '100%' : 'auto' }}>
-          <WorkplaceSelector value={workplace} onChange={setWorkplace} />
+          <WorkplaceSelector value={workplace} onChange={setWorkplace} workplaces={cityConfig.workplaces} />
           <div style={{ width: isMobile ? '100%' : 160, flexShrink: 0 }}>
             <Slider min={3} max={30} value={maxDistance} onChange={setMaxDistance} step={1} marks={{ 3: '3km', 15: '15km', 30: '30km' }} />
           </div>
