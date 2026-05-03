@@ -77,13 +77,22 @@ def _load_regions_for_city(city: str) -> list:
     try:
         data = json.loads(config_path.read_text(encoding='utf-8'))
         districts = data.get('districts', {})
+        board_slugs = []
         for slug, info in districts.items():
             if slug not in REGIONS:
                 REGIONS[slug] = {
                     'name': info.get('name', slug),
                     'slug': slug,
                 }
-        return list(districts.keys())
+            for board in info.get('boards', []):
+                bslug = board.get('slug', '')
+                if bslug and bslug not in REGIONS:
+                    REGIONS[bslug] = {
+                        'name': board.get('name', bslug),
+                        'slug': bslug,
+                    }
+                board_slugs.append(bslug)
+        return board_slugs if board_slugs else list(districts.keys())
     except (json.JSONDecodeError, OSError):
         return ALL_REGIONS[:]
 

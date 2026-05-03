@@ -328,7 +328,7 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
             now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             for item in listings:
                 item['scraped_at'] = now
-                item['region'] = area_slug
+                item['region'] = REGIONS.get(area_slug, {}).get('name', area_slug)
                 add_unit_price(item)
 
             all_listings.extend(listings)
@@ -665,7 +665,7 @@ async def scrape_with_agent(areas: list, max_pages: int, model: str,
 
         listings = _parse_agent_result(result)
         for item in listings:
-            item['region'] = area_slug
+            item['region'] = REGIONS.get(area_slug, {}).get('name', area_slug)
         all_listings.extend(listings)
 
     return all_listings
