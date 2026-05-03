@@ -134,3 +134,9 @@ else
   echo "=== 部署完成（有警告）==="
   echo "  请检查缺失的文件"
 fi
+
+# Step 4: 百度主动推送（配置了 token 时自动执行）
+if grep -qE '^\s*BAIDU_PUSH_TOKEN\s*=\s*\S' "$PROJECT_DIR/.env" 2>/dev/null; then
+  echo ""
+  bash "$PROJECT_DIR/scripts/baidu-push.sh"
+fi

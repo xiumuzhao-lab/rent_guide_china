@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 95.6,
-      "lat": 31.109499,
-      "lng": 121.401425
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华大厦 1室1厅 南",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 106.3,
-      "lat": 31.211333,
-      "lng": 121.383121
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹城公寓 2室1厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 96.1,
-      "lat": 31.204886,
-      "lng": 121.39256
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华大厦 1室1厅 西",
@@ -74,8 +74,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 128.1,
-      "lat": 31.211333,
-      "lng": 121.383121
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室1厅 南",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 115.3,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台花苑 2室1厅 东",
@@ -112,8 +112,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 90.9,
-      "lat": 31.210978,
-      "lng": 121.392423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古北公寓 2室2厅 南/北",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 97.3,
-      "lat": 31.20706,
-      "lng": 121.400858
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹霞小区 3室1厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 118.5,
-      "lat": 31.204522,
-      "lng": 121.389618
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 1室1厅 南",
@@ -169,8 +169,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 115.5,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 1室1厅 南",
@@ -188,8 +188,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 123.1,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -207,8 +207,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 79.0,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 1室1厅 南",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 129.8,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华大厦 1室1厅 南",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 104.4,
-      "lat": 31.211333,
-      "lng": 121.383121
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·双流小区 2室1厅 南",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 96.7,
-      "lat": 31.230525,
-      "lng": 121.473667
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台花苑 2室1厅 西北",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 87.6,
-      "lat": 31.210978,
-      "lng": 121.392423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古宋小区 1室1厅 南",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 106.9,
-      "lat": 31.211258,
-      "lng": 121.389382
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新安小区 2室1厅 南",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 94.9,
-      "lat": 31.211253,
-      "lng": 121.386699
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威宁路291弄 2室1厅 南",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 87.1,
-      "lat": 31.211763,
-      "lng": 121.383593
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·捷登公寓式酒店 北新泾店 loft全复式温馨2居室2号线北新泾450m直达 1室1厅",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 113.0,
-      "lat": 31.204286,
-      "lng": 121.393029
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹古大楼 3室1厅 西南",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 95.0,
-      "lat": 31.204855,
-      "lng": 121.388099
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 96.4,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室1厅 南",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 119.4,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华大厦 2室1厅 南",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 106.9,
-      "lat": 31.211333,
-      "lng": 121.383121
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华大厦 2室1厅 南",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 114.1,
-      "lat": 31.211333,
-      "lng": 121.383121
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹桥华庭 4室2厅 南",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 13:16:13",
       "region": "xianxia",
       "unit_price": 121.5,
-      "lat": 31.207914,
-      "lng": 121.401502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台花苑 2室1厅 南",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 91.4,
-      "lat": 31.210978,
-      "lng": 121.392423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天申小区 2室1厅 南",
@@ -530,8 +530,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 85.9,
-      "lat": 31.213499,
-      "lng": 121.377401
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台东苑 2室1厅 南",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 94.9,
-      "lat": 31.21027,
-      "lng": 121.395062
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威宁小区 2室1厅 南",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 99.7,
-      "lat": 31.210186,
-      "lng": 121.38574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 109.0,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水仙苑 2室1厅 南",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 84.9,
-      "lat": 31.109499,
-      "lng": 121.401425
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华大厦 1室1厅 南",
@@ -625,8 +625,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 115.6,
-      "lat": 31.211333,
-      "lng": 121.383121
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹桥美爵酒店 1室1厅 南",
@@ -644,8 +644,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 96.5,
-      "lat": 31.206382,
-      "lng": 121.396581
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹古大楼 2室1厅 西南",
@@ -663,8 +663,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 100.3,
-      "lat": 31.204855,
-      "lng": 121.388099
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 2室1厅 南",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 104.1,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芙蓉小区 1室1厅 南",
@@ -701,8 +701,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 151.0,
-      "lat": 31.207947,
-      "lng": 121.396236
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室0厅 南",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 116.7,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安龙小区 1室1厅 南",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 146.0,
-      "lat": 31.212047,
-      "lng": 121.386148
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台花苑 2室1厅 东南/南",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 91.0,
-      "lat": 31.210978,
-      "lng": 121.392423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 90.5,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹桥美爵酒店 1室1厅 东",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 117.4,
-      "lat": 31.206382,
-      "lng": 121.396581
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹桥华庭 4室2厅 南",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 121.5,
-      "lat": 31.207914,
-      "lng": 121.401502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室1厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 134.6,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹霞小区 2室1厅 南/北",
@@ -853,8 +853,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 85.0,
-      "lat": 31.204522,
-      "lng": 121.389618
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙霞别墅 2室1厅 南",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 104.7,
-      "lat": 31.208432,
-      "lng": 121.386619
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芙二小区 2室1厅 南",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 122.0,
-      "lat": 31.207887,
-      "lng": 121.394102
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杜家宅小区 1室1厅 南",
@@ -910,8 +910,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 118.9,
-      "lat": 31.210776,
-      "lng": 121.394269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杜家宅小区 1室1厅 南",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 139.8,
-      "lat": 31.210776,
-      "lng": 121.394269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新安小区 2室1厅 南",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 109.2,
-      "lat": 31.211253,
-      "lng": 121.386699
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 2室1厅 南",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 121.2,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天台家园 4室2厅 南",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 97.2,
-      "lat": 31.212198,
-      "lng": 121.382564
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台花苑 2室1厅 南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 91.5,
-      "lat": 31.210978,
-      "lng": 121.392423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 1室0厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 124.3,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威宁大楼 1室1厅 东南/南",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 13:16:16",
       "region": "xianxia",
       "unit_price": 102.5,
-      "lat": 31.206603,
-      "lng": 121.38423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 1室1厅 南",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 107.1,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芙二小区 1室0厅 南",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 127.5,
-      "lat": 31.207887,
-      "lng": 121.394102
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室1厅 南",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 110.0,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹霞小区 2室1厅 南",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 116.7,
-      "lat": 31.204522,
-      "lng": 121.389618
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹城公寓 3室1厅 南",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 94.5,
-      "lat": 31.204886,
-      "lng": 121.39256
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 1室1厅 南",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 124.3,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芙蓉小区 2室1厅 南",
@@ -1176,8 +1176,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 103.2,
-      "lat": 31.207947,
-      "lng": 121.396236
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 2室0厅 南",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 126.3,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室1厅 南",
@@ -1214,8 +1214,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 141.8,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹霞小区 1室1厅 南",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 110.5,
-      "lat": 31.204522,
-      "lng": 121.389618
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杜家宅小区 2室1厅 南",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 135.0,
-      "lat": 31.210776,
-      "lng": 121.394269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 2室1厅 南",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 119.6,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古宋小区 1室1厅 南",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 116.8,
-      "lat": 31.211258,
-      "lng": 121.389382
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·燕归里 茅台路店 近地铁，2号线直达静安寺人广 商圈 开间",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 100.2,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙城小区 1室2厅 南/北",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 113.7,
-      "lat": 31.205387,
-      "lng": 121.391665
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华大厦 1室1厅 南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 136.4,
-      "lat": 31.211333,
-      "lng": 121.383121
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台花苑 2室1厅 东南",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 92.9,
-      "lat": 31.210978,
-      "lng": 121.392423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台雅苑 2室1厅 南",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 87.1,
-      "lat": 31.208587,
-      "lng": 121.389761
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安龙小区 1室0厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 135.1,
-      "lat": 31.212047,
-      "lng": 121.386148
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古宋小区 1室1厅 南",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 107.0,
-      "lat": 31.211258,
-      "lng": 121.389382
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水仙苑 2室1厅 南",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 97.1,
-      "lat": 31.109499,
-      "lng": 121.401425
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西郊紫薇花园 3室2厅 南",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 179.0,
-      "lat": 31.20859,
-      "lng": 121.382805
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威宁大楼 1室1厅 东南",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 126.7,
-      "lat": 31.206603,
-      "lng": 121.38423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙霞别墅 3室1厅 南",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 85.5,
-      "lat": 31.208432,
-      "lng": 121.386619
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 77.9,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台雅苑 2室1厅 南",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 13:16:19",
       "region": "xianxia",
       "unit_price": 88.6,
-      "lat": 31.208587,
-      "lng": 121.389761
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杜家宅小区 2室1厅 南/北",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 132.0,
-      "lat": 31.210776,
-      "lng": 121.394269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西郊紫薇花园 3室2厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 185.7,
-      "lat": 31.20859,
-      "lng": 121.382805
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 2室1厅 南",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 141.7,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹古大楼 2室1厅 南",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 92.2,
-      "lat": 31.204855,
-      "lng": 121.388099
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大金更小区 1室2厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 140.0,
-      "lat": 31.208957,
-      "lng": 121.398709
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹古大楼 2室1厅 西南",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 85.6,
-      "lat": 31.204855,
-      "lng": 121.388099
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大金更小区 1室1厅 南",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 185.9,
-      "lat": 31.208957,
-      "lng": 121.398709
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水霞小区 1室1厅 南",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 126.7,
-      "lat": 31.208653,
-      "lng": 121.389141
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水霞小区 2室1厅 南",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 115.8,
-      "lat": 31.208653,
-      "lng": 121.389141
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹景家苑 3室2厅 南",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 93.4,
-      "lat": 31.203895,
-      "lng": 121.398707
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威宁小区 2室1厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 126.5,
-      "lat": 31.210186,
-      "lng": 121.38574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天申综合小区 2室2厅 南",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 77.6,
-      "lat": 31.21125,
-      "lng": 121.385572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芙二小区 2室1厅 南/西",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 103.8,
-      "lat": 31.207887,
-      "lng": 121.394102
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水霞小区 2室0厅 东/南",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 114.8,
-      "lat": 31.208653,
-      "lng": 121.389141
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙霞别墅 2室1厅 南",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 109.4,
-      "lat": 31.208432,
-      "lng": 121.386619
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室0厅 南",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 138.4,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威宁小区 1室1厅 南",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 150.0,
-      "lat": 31.210186,
-      "lng": 121.38574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南/北",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 99.8,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 93.3,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·银鑫公寓 4室2厅 南",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 79.2,
-      "lat": 31.205718,
-      "lng": 121.388176
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水霞小区 1室1厅 南",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 144.2,
-      "lat": 31.208653,
-      "lng": 121.389141
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 2室1厅 南/西南",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 103.4,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室1厅 东",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 141.3,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大金更小区 1室0厅 南",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 190.0,
-      "lat": 31.208957,
-      "lng": 121.398709
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新乐小区 1室1厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 106.4,
-      "lat": 31.20683,
-      "lng": 121.38254
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威宁小区 1室1厅 南",
@@ -2050,8 +2050,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 141.0,
-      "lat": 31.210186,
-      "lng": 121.38574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·五洲大厦 2室2厅 南",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 89.2,
-      "lat": 31.244421,
-      "lng": 121.489951
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 2室1厅 南",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 112.0,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水霞小区 2室0厅 南",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 113.1,
-      "lat": 31.208653,
-      "lng": 121.389141
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台花苑 2室1厅 东南",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 13:16:21",
       "region": "xianxia",
       "unit_price": 125.5,
-      "lat": 31.210978,
-      "lng": 121.392423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台花苑 2室1厅 南",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 134.4,
-      "lat": 31.210978,
-      "lng": 121.392423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹景小区 1室1厅 南",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 141.3,
-      "lat": 31.204286,
-      "lng": 121.393029
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杜家宅小区 2室1厅 南/北",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 92.8,
-      "lat": 31.210776,
-      "lng": 121.394269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台雅苑 2室1厅 南",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 93.0,
-      "lat": 31.208587,
-      "lng": 121.389761
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威宁小区 2室1厅 南",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 99.2,
-      "lat": 31.210186,
-      "lng": 121.38574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杜家宅小区 1室0厅 南",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 122.6,
-      "lat": 31.210776,
-      "lng": 121.394269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大金更小区 2室0厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 118.0,
-      "lat": 31.208957,
-      "lng": 121.398709
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华大厦 1室1厅 南",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 104.7,
-      "lat": 31.211333,
-      "lng": 121.383121
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杜家宅小区 1室1厅 南/北",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 129.7,
-      "lat": 31.210776,
-      "lng": 121.394269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹霞小区 1室0厅 南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 117.8,
-      "lat": 31.204522,
-      "lng": 121.389618
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 1室1厅 南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 122.2,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹霞小区 1室1厅 南",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 132.4,
-      "lat": 31.204522,
-      "lng": 121.389618
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 111.0,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西郊紫薇花园 3室2厅 南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 209.7,
-      "lat": 31.20859,
-      "lng": 121.382805
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹霞小区 1室0厅 南",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 136.4,
-      "lat": 31.204522,
-      "lng": 121.389618
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 3室1厅 南",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 95.8,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室1厅 南",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 108.5,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 85.9,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天申小区 1室1厅 南",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 95.3,
-      "lat": 31.213499,
-      "lng": 121.377401
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大金更小区 2室1厅 南",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 136.7,
-      "lat": 31.208957,
-      "lng": 121.398709
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台雅苑 2室1厅 西南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 87.2,
-      "lat": 31.208587,
-      "lng": 121.389761
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹桥华庭 3室2厅 南",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 125.0,
-      "lat": 31.207914,
-      "lng": 121.401502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 90.6,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水霞小区 1室1厅 南",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 127.0,
-      "lat": 31.208653,
-      "lng": 121.389141
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹桥华庭 1室1厅 南",
@@ -2601,8 +2601,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 217.4,
-      "lat": 31.207914,
-      "lng": 121.401502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 1室1厅 南",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 95.0,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙城小区 2室1厅 南",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 96.5,
-      "lat": 31.205387,
-      "lng": 121.391665
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水霞小区 2室1厅 南",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 87.6,
-      "lat": 31.208653,
-      "lng": 121.389141
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹景小区 2室1厅 南",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 108.5,
-      "lat": 31.204286,
-      "lng": 121.393029
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天申小区 2室2厅 南",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 13:16:24",
       "region": "xianxia",
       "unit_price": 89.4,
-      "lat": 31.213499,
-      "lng": 121.377401
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安龙小区 1室1厅 南",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 141.3,
-      "lat": 31.212047,
-      "lng": 121.386148
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西郊紫薇花园 2室2厅 南",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 197.5,
-      "lat": 31.20859,
-      "lng": 121.382805
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹景小区 2室1厅 南/北",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 105.2,
-      "lat": 31.204286,
-      "lng": 121.393029
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 2室1厅 南",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 134.7,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室1厅 南",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 129.4,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 2室1厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 121.7,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙霞别墅 2室0厅 南",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 101.1,
-      "lat": 31.208432,
-      "lng": 121.386619
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芙江小区 1室1厅 南",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 158.0,
-      "lat": 31.205383,
-      "lng": 121.39481
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天台家园 1室1厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 128.5,
-      "lat": 31.212198,
-      "lng": 121.382564
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台新苑 2室1厅 南",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 112.8,
-      "lat": 31.209323,
-      "lng": 121.393813
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天申综合小区 2室2厅 南",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 79.1,
-      "lat": 31.21125,
-      "lng": 121.385572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台雅苑 2室1厅 东南/南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 84.5,
-      "lat": 31.208587,
-      "lng": 121.389761
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·茅台路455弄18,20号 4室2厅 复式 南/北",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 233.8,
-      "lat": 31.209111,
-      "lng": 121.393071
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙逸小区 1室1厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 168.0,
-      "lat": 31.207016,
-      "lng": 121.392762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·仙霞别墅 2室1厅 南",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 127.9,
-      "lat": 31.208432,
-      "lng": 121.386619
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华大厦 1室1厅 北",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 122.7,
-      "lat": 31.211333,
-      "lng": 121.383121
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水霞小区 1室1厅 南",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 116.0,
-      "lat": 31.208653,
-      "lng": 121.389141
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹景小区 2室0厅 南/北",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 113.4,
-      "lat": 31.204286,
-      "lng": 121.393029
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹景小区 2室1厅 南",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 99.7,
-      "lat": 31.204286,
-      "lng": 121.393029
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安龙小区 1室1厅 南",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 135.7,
-      "lat": 31.212047,
-      "lng": 121.386148
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古宋小区 1室1厅 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 138.0,
-      "lat": 31.211258,
-      "lng": 121.389382
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹霞小区 2室1厅 南/北",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 105.7,
-      "lat": 31.204522,
-      "lng": 121.389618
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天山五村 2室1厅 南/北",
@@ -3133,8 +3133,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 120.0,
-      "lat": 31.211267,
-      "lng": 121.399724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威宁大楼 2室1厅 西南",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 91.9,
-      "lat": 31.206603,
-      "lng": 121.38423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水霞小区 2室1厅 南",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 113.9,
-      "lat": 31.208653,
-      "lng": 121.389141
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仙小区 1室1厅 南",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 97.0,
-      "lat": 31.205165,
-      "lng": 121.384837
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹古大楼 2室1厅 南",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 81.6,
-      "lat": 31.204855,
-      "lng": 121.388099
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芙蓉小区 1室1厅 南",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 154.0,
-      "lat": 31.207947,
-      "lng": 121.396236
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹景小区 2室1厅 南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 104.4,
-      "lat": 31.204286,
-      "lng": 121.393029
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹桥华庭 1室2厅 南",
@@ -3266,8 +3266,8 @@
       "scraped_at": "2026-04-23 13:16:26",
       "region": "xianxia",
       "unit_price": 217.4,
-      "lat": 31.207914,
-      "lng": 121.401502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 13:16:29",
       "region": "xianxia",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 13:16:29",
       "region": "xianxia",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园(二期) 4室2厅 复式 南",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 13:16:29",
       "region": "xianxia",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 5室3厅 复式 南",

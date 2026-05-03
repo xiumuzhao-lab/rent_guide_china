@@ -114,7 +114,12 @@ function tmapProxyPlugin() {
 }
 
 // https://vite.dev/config/
+const commitDate = new Date().toISOString().replace(/[-:T]/g, '').slice(0, 12);
+
 export default defineConfig({
   plugins: [react(), tmapProxyPlugin()],
   base: process.env.VITE_BASE || '/',
+  define: {
+    __APP_VERSION__: JSON.stringify(commitDate),
+  },
 })

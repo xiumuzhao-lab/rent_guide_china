@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 32.0,
-      "lat": 31.379863,
-      "lng": 121.213163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵公馆 1室1厅 西南",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 17:12:23",
       "region": "juyuanxinqu",
       "unit_price": 45.2,
-      "lat": 31.391445,
-      "lng": 121.239292
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利海上五月花 3室2厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 37.0,
-      "lat": 31.406293,
-      "lng": 121.258038
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·柚米 建悦里菊园社区 嘉定菊园新区 光信通 11号线旁 保租房 押一付一 全户型带阳台 1室1厅",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 17:12:23",
       "region": "juyuanxinqu",
       "unit_price": 35.7,
-      "lat": 31.379732,
-      "lng": 121.211346
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室1厅 南",
@@ -112,8 +112,8 @@
       "scraped_at": "2026-04-23 17:12:23",
       "region": "juyuanxinqu",
       "unit_price": 40.9,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·住友嘉馨名园 3室2厅 南/北",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 17:12:23",
       "region": "juyuanxinqu",
       "unit_price": 34.2,
-      "lat": 31.400717,
-      "lng": 121.252879
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室1厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 17:12:23",
       "region": "juyuanxinqu",
       "unit_price": 44.1,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 南",
@@ -169,8 +169,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 41.3,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·隽寓 嘉定西门店 直租无中介 朝南阳台一居室 可办居住证 地铁站50米A 1室1厅",
@@ -207,8 +207,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 44.1,
-      "lat": 31.392962,
-      "lng": 121.228512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城枫景 3室2厅 南/北",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 28.8,
-      "lat": 31.398797,
-      "lng": 121.260312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·练祁佳城永泰嘉苑慈竹路608弄 2室1厅 南",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 33.0,
-      "lat": 31.377867,
-      "lng": 121.214295
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳湖景庭 2室2厅 南",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 17:12:23",
       "region": "juyuanxinqu",
       "unit_price": 44.6,
-      "lat": 31.40665,
-      "lng": 121.247391
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星怡苑慈竹路69弄 2室1厅 南",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 39.2,
-      "lat": 31.370405,
-      "lng": 121.218287
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝菊清水园 1室1厅 南",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 17:12:26",
       "region": "juyuanxinqu",
       "unit_price": 40.7,
-      "lat": 31.373891,
-      "lng": 121.226815
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城枫景 4室3厅 南",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 26.0,
-      "lat": 31.398797,
-      "lng": 121.260312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·练祁佳城阳光嘉苑(慈竹路450弄) 1室1厅 南",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 44.5,
-      "lat": 31.375553,
-      "lng": 121.21487
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·书香锦苑南区 2室2厅 南",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 17:12:26",
       "region": "juyuanxinqu",
       "unit_price": 41.8,
-      "lat": 31.376021,
-      "lng": 121.232573
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城枫景 2室1厅 南",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 17:12:26",
       "region": "juyuanxinqu",
       "unit_price": 41.7,
-      "lat": 31.398797,
-      "lng": 121.260312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 4室1厅 南/北",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 17:12:23",
       "region": "juyuanxinqu",
       "unit_price": 41.7,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地峯范 3室2厅 南/北",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 17:12:23",
       "region": "juyuanxinqu",
       "unit_price": 36.8,
-      "lat": 31.392962,
-      "lng": 121.228512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·书香嘉苑 3室1厅 南",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 17:12:26",
       "region": "juyuanxinqu",
       "unit_price": 40.9,
-      "lat": 31.39612,
-      "lng": 121.236334
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·励业公寓 励业公寓上海柳湖路店 免费网络！付三押一！免费公区使用！拎包入住 开间",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 33.7,
-      "lat": 31.377867,
-      "lng": 121.214295
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·雨宸公寓 菊园新区店 A户型：免租30天丨4倍收纳空间丨民用水电丨品质装修 1室1厅",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 41.7,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -530,8 +530,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 49.6,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·财智金岸人才公寓 菊园新区店 75平两居室 民水民电通燃气 可月付 可租用车位 2室1厅",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 46.7,
-      "lat": 31.381597,
-      "lng": 121.226267
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科悦城 3室2厅 南/北",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 41.1,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·秋竹坊 2室2厅 南",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 17:12:26",
       "region": "juyuanxinqu",
       "unit_price": 42.3,
-      "lat": 31.386412,
-      "lng": 121.218628
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·CCB建融家园 日月光社区一店 朝南飘窗独卫 4室0厅",
@@ -644,8 +644,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 37.0,
-      "lat": 31.368691,
-      "lng": 121.219155
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科金色领域 3室2厅 南",
@@ -663,8 +663,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 47.6,
-      "lat": 31.383099,
-      "lng": 121.219405
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·福莱馨苑 3室1厅 南",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 35.0,
-      "lat": 31.394243,
-      "lng": 121.255728
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室2厅 南",
@@ -701,8 +701,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 49.2,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 南",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 17:12:26",
       "region": "juyuanxinqu",
       "unit_price": 44.1,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝菊清水园 1室2厅 南",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 17:12:26",
       "region": "juyuanxinqu",
       "unit_price": 42.1,
-      "lat": 31.373891,
-      "lng": 121.226815
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉富小区 2室1厅 南",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 36.7,
-      "lat": 31.395835,
-      "lng": 121.255711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇丰凯苑 1室1厅 南",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 52.5,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉定蔷薇苑 1室1厅 南",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 51.8,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 2室1厅 南",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 46.3,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地天呈 4室2厅 南/北",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 47.4,
-      "lat": 31.399393,
-      "lng": 121.240396
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室2厅 南",
@@ -853,8 +853,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 49.2,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉富小区 2室1厅 南",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 38.8,
-      "lat": 31.395835,
-      "lng": 121.255711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室1厅 南",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 50.8,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉康坊 1室1厅 南",
@@ -910,8 +910,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 41.4,
-      "lat": 31.397279,
-      "lng": 121.252959
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地峯范 2室2厅 南",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 52.3,
-      "lat": 31.392962,
-      "lng": 121.228512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 4室2厅 南/北",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 40.4,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵公馆 1室1厅 南",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 51.1,
-      "lat": 31.391445,
-      "lng": 121.239292
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南/北",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 54.2,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉盛园慈竹路1088弄 2室1厅 南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 37.2,
-      "lat": 31.381984,
-      "lng": 121.208278
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝菊新家园 2室1厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 44.6,
-      "lat": 31.385414,
-      "lng": 121.224071
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉富小区 2室1厅 南",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 30.4,
-      "lat": 31.395835,
-      "lng": 121.255711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉华居(公寓) 3室2厅 南",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 33.0,
-      "lat": 31.401921,
-      "lng": 121.257753
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景叠翠峰二期 3室2厅 南",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 42.6,
-      "lat": 31.379974,
-      "lng": 121.220053
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝菊清水园 2室1厅 南",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 36.5,
-      "lat": 31.373891,
-      "lng": 121.226815
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城悠活城 2室2厅 南",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 43.4,
-      "lat": 31.378305,
-      "lng": 121.228585
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室2厅 北",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 61.5,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城枫景 3室2厅 南",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 30.0,
-      "lat": 31.398797,
-      "lng": 121.260312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝菊清水园 3室2厅 南",
@@ -1176,8 +1176,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 33.7,
-      "lat": 31.373891,
-      "lng": 121.226815
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉盛园慈竹路987弄 2室2厅 南/北",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 17:12:30",
       "region": "juyuanxinqu",
       "unit_price": 35.9,
-      "lat": 31.381984,
-      "lng": 121.208278
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉宁坊 3室2厅 南",
@@ -1214,8 +1214,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 27.3,
-      "lat": 31.397467,
-      "lng": 121.25622
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·旭辉锦庭 2室2厅 南",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 45.9,
-      "lat": 31.404979,
-      "lng": 121.269942
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·禹洲老城里 3室2厅 南",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 44.2,
-      "lat": 31.396122,
-      "lng": 121.250539
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉宝梦之湾 2室1厅 南",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 42.8,
-      "lat": 31.381597,
-      "lng": 121.226267
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇丰凯苑 3室2厅 南",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 36.0,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉华居(公寓) 3室2厅 南",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 36.0,
-      "lat": 31.401921,
-      "lng": 121.257753
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地峯范 3室2厅 东南",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 38.3,
-      "lat": 31.392962,
-      "lng": 121.228512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 2室2厅 南",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 43.1,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地峯范 3室2厅 南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 50.5,
-      "lat": 31.392962,
-      "lng": 121.228512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地嘉峯汇 3室2厅 南/北",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 54.4,
-      "lat": 31.394936,
-      "lng": 121.231372
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·练祁佳城永泰嘉苑慈竹路608弄 2室2厅 南",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 35.1,
-      "lat": 31.377867,
-      "lng": 121.214295
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·练祁佳城绿地家苑 2室1厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 37.4,
-      "lat": 31.372641,
-      "lng": 121.215989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·胜悦嘉苑 3室2厅 南",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 32.9,
-      "lat": 31.371479,
-      "lng": 121.226124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·路劲悦茂府 2室2厅 南",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 62.4,
-      "lat": 31.37635,
-      "lng": 121.230587
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城枫景 3室1厅 南",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 36.3,
-      "lat": 31.398797,
-      "lng": 121.260312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利五月花 2室1厅 南",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 43.9,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳湖景庭 2室1厅 南/北",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 34.4,
-      "lat": 31.40665,
-      "lng": 121.247391
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利海上五月花 2室2厅 南",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 46.5,
-      "lat": 31.406293,
-      "lng": 121.258038
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利海上五月花 1室2厅 南",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 48.9,
-      "lat": 31.406293,
-      "lng": 121.258038
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大成名庭三期 3室2厅 南",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 39.8,
-      "lat": 31.405249,
-      "lng": 121.264367
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 51.9,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科金色领域 3室2厅 南/北",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 44.1,
-      "lat": 31.383099,
-      "lng": 121.219405
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 南",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 46.0,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大成名庭三期 3室1厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 43.7,
-      "lat": 31.405249,
-      "lng": 121.264367
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室1厅 南",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 58.7,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室1厅 南",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 58.7,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利海上五月花 2室2厅 南",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 44.0,
-      "lat": 31.406293,
-      "lng": 121.258038
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城悠活城 3室2厅 南",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 17:12:32",
       "region": "juyuanxinqu",
       "unit_price": 44.3,
-      "lat": 31.378305,
-      "lng": 121.228585
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泰宸雅苑 4室3厅 南/北",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 25.9,
-      "lat": 31.404022,
-      "lng": 121.248754
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 39.4,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉宝梦之湾 3室2厅 南",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 38.4,
-      "lat": 31.381597,
-      "lng": 121.226267
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利海上五月花 4室2厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 59.4,
-      "lat": 31.406293,
-      "lng": 121.258038
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳湖景庭 2室1厅 南",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 41.7,
-      "lat": 31.40665,
-      "lng": 121.247391
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·胜悦嘉苑 2室2厅 南",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 35.5,
-      "lat": 31.371479,
-      "lng": 121.226124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城枫景 3室2厅 南",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 33.9,
-      "lat": 31.398797,
-      "lng": 121.260312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·书香锦苑南区 2室2厅 南",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 50.0,
-      "lat": 31.376021,
-      "lng": 121.232573
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 45.5,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·路劲悦茂府 2室2厅 南",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 53.0,
-      "lat": 31.37635,
-      "lng": 121.230587
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景叠翠峰二期 3室2厅 南/北",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 44.0,
-      "lat": 31.379974,
-      "lng": 121.220053
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室1厅 北",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 59.9,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星怡苑慈竹路70弄 3室1厅 南",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 36.5,
-      "lat": 31.370405,
-      "lng": 121.218287
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室1厅 南",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 45.7,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·练祁佳城梧桐坊霍城路1777弄 2室1厅 南",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 38.8,
-      "lat": 31.383981,
-      "lng": 121.213765
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉定蔷薇苑 1室1厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 29.0,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泰宸雅苑 2室2厅 南/北",
@@ -2050,8 +2050,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 36.6,
-      "lat": 31.404022,
-      "lng": 121.248754
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉盛园慈竹路987弄 2室1厅 南",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 45.4,
-      "lat": 31.381984,
-      "lng": 121.208278
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城悠活城 2室2厅 南",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 42.4,
-      "lat": 31.378305,
-      "lng": 121.228585
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星怡苑慈竹路175弄 2室1厅 南",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 33.8,
-      "lat": 31.370405,
-      "lng": 121.218287
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南山·嘉荟领峯 3室2厅 南",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 50.3,
-      "lat": 31.393845,
-      "lng": 121.254759
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉康坊 2室1厅 南/北",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 31.2,
-      "lat": 31.397279,
-      "lng": 121.252959
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·乾潇坊 2室2厅 南/北",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 36.3,
-      "lat": 31.397184,
-      "lng": 121.260658
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉盛园慈竹路987弄 2室1厅 南",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 38.5,
-      "lat": 31.381984,
-      "lng": 121.208278
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝菊清水园 3室1厅 南",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 34.4,
-      "lat": 31.373891,
-      "lng": 121.226815
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科金色领域 3室1厅 南",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 45.9,
-      "lat": 31.383099,
-      "lng": 121.219405
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地天呈 4室2厅 复式 南/北",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 21.9,
-      "lat": 31.399393,
-      "lng": 121.240396
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城悠活城 2室1厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 41.8,
-      "lat": 31.378305,
-      "lng": 121.228585
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地嘉峯汇 3室2厅 南",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 17:12:35",
       "region": "juyuanxinqu",
       "unit_price": 54.4,
-      "lat": 31.394936,
-      "lng": 121.231372
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·旭辉锦庭 3室2厅 南",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 32.7,
-      "lat": 31.404979,
-      "lng": 121.269942
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大成名庭三期 2室1厅 南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 38.2,
-      "lat": 31.405249,
-      "lng": 121.264367
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉邦小区 2室1厅 南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 34.6,
-      "lat": 31.395112,
-      "lng": 121.252846
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·路劲悦茂府 2室1厅 南",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 58.9,
-      "lat": 31.37635,
-      "lng": 121.230587
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室1厅 南",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 53.6,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉宝梦之湾(别墅) 5室2厅 南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 32.6,
-      "lat": 31.381597,
-      "lng": 121.226267
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉华居(公寓) 3室2厅 南",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 33.9,
-      "lat": 31.401921,
-      "lng": 121.257753
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉富小区 2室1厅 南",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 32.9,
-      "lat": 31.395835,
-      "lng": 121.255711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星怡苑慈竹路70弄 3室2厅 南",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 28.6,
-      "lat": 31.370405,
-      "lng": 121.218287
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 北",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 54.2,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 南",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 29.8,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·乾潇坊 3室2厅 南/北",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 17.3,
-      "lat": 31.397184,
-      "lng": 121.260658
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·同盛园慈竹路836弄 1室1厅 南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 35.1,
-      "lat": 31.379863,
-      "lng": 121.213163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大成名庭 4室2厅 东南",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 69.6,
-      "lat": 31.405249,
-      "lng": 121.264367
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·练祁佳城阳光嘉苑(慈竹路450弄) 3室1厅 南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 21.9,
-      "lat": 31.375553,
-      "lng": 121.21487
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳湖景庭 1室1厅 南",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 46.7,
-      "lat": 31.40665,
-      "lng": 121.247391
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城悠活城 3室2厅 南",
@@ -2601,8 +2601,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 50.0,
-      "lat": 31.378305,
-      "lng": 121.228585
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 48.4,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·禹洲老城里 3室2厅 南",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 48.1,
-      "lat": 31.396122,
-      "lng": 121.250539
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星怡苑慈竹路69弄 3室1厅 南",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 35.3,
-      "lat": 31.370405,
-      "lng": 121.218287
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·竹园小区(嘉定) 2室1厅 南",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 35.7,
-      "lat": 31.377779,
-      "lng": 121.234998
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 47.4,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地峯范 3室2厅 南",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 50.5,
-      "lat": 31.392962,
-      "lng": 121.228512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利海上五月花 1室1厅 南",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 50.0,
-      "lat": 31.406293,
-      "lng": 121.258038
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝菊新家园 3室1厅 南",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 35.6,
-      "lat": 31.385414,
-      "lng": 121.224071
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇丰荷苑 3室2厅 南/北",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 33.3,
-      "lat": 31.402004,
-      "lng": 121.245586
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳湖景庭 3室2厅 南",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 28.2,
-      "lat": 31.40665,
-      "lng": 121.247391
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大成名庭 3室2厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 41.3,
-      "lat": 31.405249,
-      "lng": 121.264367
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 56.2,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉盛园慈竹路987弄 1室1厅 南",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 17:12:38",
       "region": "juyuanxinqu",
       "unit_price": 43.5,
-      "lat": 31.381984,
-      "lng": 121.208278
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 39.6,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室1厅 南",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 51.1,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科悦城 3室2厅 南/北",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 43.4,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 43.2,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵公馆 1室1厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 41.4,
-      "lat": 31.391445,
-      "lng": 121.239292
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室1厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 50.0,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 37.5,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·胜悦嘉苑 2室2厅 南",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 37.9,
-      "lat": 31.371479,
-      "lng": 121.226124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉乐园商务大厦 1室1厅 东",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 50.4,
-      "lat": 31.386132,
-      "lng": 121.239863
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地峯范 3室2厅 南",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 65.7,
-      "lat": 31.392962,
-      "lng": 121.228512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星怡苑慈竹路175弄 2室1厅 南",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 40.0,
-      "lat": 31.370405,
-      "lng": 121.218287
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科金色领域 2室2厅 南",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 42.6,
-      "lat": 31.383099,
-      "lng": 121.219405
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·竹园小区(嘉定) 2室1厅 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 43.1,
-      "lat": 31.377779,
-      "lng": 121.234998
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星怡苑慈竹路175弄 1室1厅 南",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 47.2,
-      "lat": 31.370405,
-      "lng": 121.218287
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉定蔷薇苑 1室1厅 南",
@@ -3133,8 +3133,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 27.7,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 17:12:40",
       "region": "juyuanxinqu",
       "unit_price": 46.8,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·路劲悦茂府 3室1厅 南",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 48.2,
-      "lat": 31.37635,
-      "lng": 121.230587
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·怡华家园 2室1厅 南",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 32.1,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·胜悦嘉苑 1室1厅 南/北",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 39.3,
-      "lat": 31.371479,
-      "lng": 121.226124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉宁坊 3室2厅 南/北",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 34.1,
-      "lat": 31.397467,
-      "lng": 121.25622
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·旭辉锦庭 3室1厅 南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 42.9,
-      "lat": 31.404979,
-      "lng": 121.269942
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -3266,8 +3266,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 41.6,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室1厅 南",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 56.8,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉华居(公寓) 4室2厅 东南",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 23.7,
-      "lat": 31.401921,
-      "lng": 121.257753
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉邦小区 2室2厅 南",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 34.8,
-      "lat": 31.395112,
-      "lng": 121.252846
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -3342,8 +3342,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 43.7,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·魔方社区 2室1厅 南",
@@ -3361,8 +3361,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 47.9,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城悠活城 2室2厅 南",
@@ -3380,8 +3380,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 43.1,
-      "lat": 31.378305,
-      "lng": 121.228585
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·福莱锦苑 1室1厅 南",
@@ -3399,8 +3399,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 43.2,
-      "lat": 31.379732,
-      "lng": 121.211346
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·练祁佳城绿地家苑 2室1厅 南/北",
@@ -3418,8 +3418,8 @@
       "scraped_at": "2026-04-23 17:12:44",
       "region": "juyuanxinqu",
       "unit_price": 39.0,
-      "lat": 31.372641,
-      "lng": 121.215989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·财智金岸 8室5厅 南",
@@ -3437,8 +3437,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 25.8,
-      "lat": 31.409185,
-      "lng": 121.258472
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利海上五月花 1室1厅 南",
@@ -3456,8 +3456,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 51.8,
-      "lat": 31.406293,
-      "lng": 121.258038
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·练祁佳城盛蔷坊秋竹路1001弄 1室1厅 南",
@@ -3475,8 +3475,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 47.1,
-      "lat": 31.385379,
-      "lng": 121.216194
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉乐园商务大厦 3室1厅 南",
@@ -3494,8 +3494,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 36.7,
-      "lat": 31.386132,
-      "lng": 121.239863
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·路劲悦茂府 2室1厅 南",
@@ -3513,8 +3513,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 48.2,
-      "lat": 31.37635,
-      "lng": 121.230587
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 北",
@@ -3532,8 +3532,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 42.3,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 南",
@@ -3551,8 +3551,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 50.0,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·柳梁路55弄 1室1厅 北",
@@ -3570,8 +3570,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 44.0,
-      "lat": 31.392678,
-      "lng": 121.245576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵天地 3室2厅 南",
@@ -3589,8 +3589,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 45.7,
-      "lat": 31.397162,
-      "lng": 121.243125
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·练祁佳城绿地家苑 2室1厅 南",
@@ -3608,8 +3608,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 33.5,
-      "lat": 31.372641,
-      "lng": 121.215989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·胜悦嘉苑 3室1厅 南",
@@ -3627,8 +3627,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 31.6,
-      "lat": 31.371479,
-      "lng": 121.226124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉定颐景园 3室2厅 南",
@@ -3646,8 +3646,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 30.8,
-      "lat": 31.39948,
-      "lng": 121.250256
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光伯爵公馆 1室1厅 西南",
@@ -3665,8 +3665,8 @@
       "scraped_at": "2026-04-23 17:12:47",
       "region": "juyuanxinqu",
       "unit_price": 47.3,
-      "lat": 31.391445,
-      "lng": 121.239292
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -3684,8 +3684,8 @@
       "scraped_at": "2026-04-23 17:13:16",
       "region": "juyuanxinqu",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -3703,8 +3703,8 @@
       "scraped_at": "2026-04-23 17:13:16",
       "region": "juyuanxinqu",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·东郊紫园 4室2厅 复式 南",
@@ -3741,8 +3741,8 @@
       "scraped_at": "2026-04-23 17:13:16",
       "region": "juyuanxinqu",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 5室3厅 复式 南",

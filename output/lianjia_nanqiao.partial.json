@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 35.1,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金水和璟园 3室2厅 南",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 17:36:34",
       "region": "nanqiao",
       "unit_price": 25.4,
-      "lat": 30.964247,
-      "lng": 121.496317
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 28.9,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·冠寓 上海奉贤天街店 奉贤南桥正中心 龙湖品牌公寓直租 独厨独卫 近地铁 24h在线 管家服务更省心 1室1厅",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 36.8,
-      "lat": 30.91006,
-      "lng": 121.458044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·南方青年社区 奉贤店 实拍落地窗loft独立厨卫 包电费 可免费停车 1室1厅",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 17:36:34",
       "region": "nanqiao",
       "unit_price": 35.9,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·众旺苑 2室2厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 26.7,
-      "lat": 30.91351,
-      "lng": 121.442601
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 1室1厅 南",
@@ -169,8 +169,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 40.4,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光春城 2室2厅 南",
@@ -188,8 +188,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 31.5,
-      "lat": 30.902521,
-      "lng": 121.447346
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·冠寓 奉贤天街观萃店 开业早鸟优惠！步行3分钟到5号线！龙湖高品质公寓！配24H豪华健身房 1室1厅",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 35.9,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海花园 2室2厅 南",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 17:36:38",
       "region": "nanqiao",
       "unit_price": 22.9,
-      "lat": 30.902771,
-      "lng": 121.463083
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港北区（一区） 3室1厅 南",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 17:36:38",
       "region": "nanqiao",
       "unit_price": 24.7,
-      "lat": 30.915387,
-      "lng": 121.443954
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·招商南桥雅苑 2室1厅 南",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 35.6,
-      "lat": 30.903872,
-      "lng": 121.451953
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 2室1厅 南",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 49.8,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地无双 4室2厅 南/北",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 17:36:34",
       "region": "nanqiao",
       "unit_price": 40.4,
-      "lat": 30.938212,
-      "lng": 121.497502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金水苑 3室2厅 南/北",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 22.1,
-      "lat": 30.955985,
-      "lng": 121.497627
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 北",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 34.8,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 北",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 30.8,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊一品 1室1厅 北",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 46.0,
-      "lat": 30.925599,
-      "lng": 121.492052
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金昊雅苑 3室2厅 南",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 26.0,
-      "lat": 30.918006,
-      "lng": 121.503193
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭南区 2室2厅 南",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 17:36:34",
       "region": "nanqiao",
       "unit_price": 22.3,
-      "lat": 30.927913,
-      "lng": 121.490309
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·运河新村(南桥) 2室2厅 南",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 17:36:38",
       "region": "nanqiao",
       "unit_price": 19.2,
-      "lat": 30.919062,
-      "lng": 121.461921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金水丽苑 2室2厅 南/北",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 17:36:38",
       "region": "nanqiao",
       "unit_price": 21.4,
-      "lat": 30.960453,
-      "lng": 121.492007
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 3室2厅 南",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 25.6,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 北",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 17:36:38",
       "region": "nanqiao",
       "unit_price": 35.0,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 3室1厅 南",
@@ -530,8 +530,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 23.3,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中心公馆 2室1厅 南",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 17:36:38",
       "region": "nanqiao",
       "unit_price": 36.5,
-      "lat": 30.91006,
-      "lng": 121.458044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科南桥传奇 3室2厅 南/北",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 42.1,
-      "lat": 30.931083,
-      "lng": 121.453999
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 35.9,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利象屿公园悦府 2室2厅 南",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 36.9,
-      "lat": 30.952391,
-      "lng": 121.489296
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新民旺苑(二期) 2室2厅 南",
@@ -625,8 +625,8 @@
       "scraped_at": "2026-04-23 17:36:38",
       "region": "nanqiao",
       "unit_price": 28.9,
-      "lat": 30.920023,
-      "lng": 121.438933
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·悦家公寓 南桥店 奉贤新城地铁旁押一付一精装修拎包入住朝南带阳台一室一厅 1室1厅",
@@ -663,8 +663,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 23.5,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·立新南路20号 3室2厅 南",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 32.8,
-      "lat": 30.914416,
-      "lng": 121.460151
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（第二居民区） 1室1厅 南",
@@ -701,8 +701,8 @@
       "scraped_at": "2026-04-23 17:36:38",
       "region": "nanqiao",
       "unit_price": 32.3,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·景怡佳苑 3室2厅 南/北",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 17:36:38",
       "region": "nanqiao",
       "unit_price": 25.2,
-      "lat": 30.941868,
-      "lng": 121.462116
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦丰新苑 3室2厅 南",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 22.9,
-      "lat": 30.925316,
-      "lng": 121.449465
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室0厅 南",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 36.2,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·浦南园 2室2厅 南",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 26.0,
-      "lat": 30.904788,
-      "lng": 121.473262
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 2室2厅 南",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 48.4,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 2室1厅 南",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 48.8,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 2室2厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 44.2,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金水和璟园 3室2厅 南/北",
@@ -853,8 +853,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 26.2,
-      "lat": 30.964247,
-      "lng": 121.496317
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝龙城市广场(奉贤) 1室1厅 南",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 48.8,
-      "lat": 30.929094,
-      "lng": 121.463175
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·人民北路77号 1室1厅 南/北",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 32.5,
-      "lat": 30.924416,
-      "lng": 121.468867
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南方国际广场 1室1厅 南",
@@ -910,8 +910,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 32.4,
-      "lat": 30.915808,
-      "lng": 121.486326
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 1室1厅 南",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 42.0,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·寓贤公寓 万景峰 租金折扣，免租期半个月，拎包入住，随时看房 1室1厅",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 35.4,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金海苑北区 3室2厅 南",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 24.0,
-      "lat": 30.91856,
-      "lng": 121.498876
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（八区） 1室1厅 南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 42.5,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城莱茵之恋 3室2厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 28.3,
-      "lat": 30.90934,
-      "lng": 121.474215
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中心公馆 2室1厅 东",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 49.6,
-      "lat": 30.91006,
-      "lng": 121.458044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 1室1厅 南",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 35.0,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·五星花园别墅(奉贤) 6室3厅 复式 南",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 27.2,
-      "lat": 30.896397,
-      "lng": 121.433539
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏宁荣悦 2室1厅 南",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 40.9,
-      "lat": 30.920265,
-      "lng": 121.488217
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中心公馆 2室2厅 东",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 17:36:40",
       "region": "nanqiao",
       "unit_price": 46.7,
-      "lat": 30.91006,
-      "lng": 121.458044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室2厅 南",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 21.0,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 东",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 27.3,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光园(四期) 3室2厅 南",
@@ -1176,8 +1176,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 22.3,
-      "lat": 30.903388,
-      "lng": 121.444277
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（八区） 2室1厅 南",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 25.6,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放西路后门26号 2室1厅 南",
@@ -1214,8 +1214,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 33.2,
-      "lat": 30.924416,
-      "lng": 121.468867
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海花园 2室2厅 南",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 22.2,
-      "lat": 30.902771,
-      "lng": 121.463083
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金海苑南区 3室2厅 南",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 23.1,
-      "lat": 30.91704,
-      "lng": 121.499953
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣臻园 2室2厅 南",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 45.1,
-      "lat": 30.92853,
-      "lng": 121.480235
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·体育场路28号 2室1厅 南",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 27.1,
-      "lat": 30.924416,
-      "lng": 121.468867
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光明九胤 3室2厅 南",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 43.5,
-      "lat": 30.957308,
-      "lng": 121.487858
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华新村南南区 3室1厅 南",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 27.8,
-      "lat": 30.915843,
-      "lng": 121.466698
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊御墅 1室1厅 南",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 40.9,
-      "lat": 30.926351,
-      "lng": 121.479733
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊御墅 2室1厅 南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 37.1,
-      "lat": 30.926351,
-      "lng": 121.479733
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀五区 3室2厅 南",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 21.7,
-      "lat": 30.906598,
-      "lng": 121.460369
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 2室1厅 南",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 29.6,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新民旺苑(二期) 3室2厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 23.2,
-      "lat": 30.920023,
-      "lng": 121.438933
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒龙尚品嘉苑 3室2厅 南",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 36.6,
-      "lat": 30.935715,
-      "lng": 121.455072
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊一品 1室1厅 北",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 56.0,
-      "lat": 30.925599,
-      "lng": 121.492052
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·浦泾苑 1室1厅 南",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 30.9,
-      "lat": 30.923439,
-      "lng": 121.50399
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭南区 2室2厅 南",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 42.7,
-      "lat": 30.927913,
-      "lng": 121.490309
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海花园 3室2厅 南/西南",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 24.5,
-      "lat": 30.902771,
-      "lng": 121.463083
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 3室2厅 南",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 40.0,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利象屿公园悦府 3室2厅 南",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 42.8,
-      "lat": 30.952391,
-      "lng": 121.489296
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·人民北路81号 3室1厅 南",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 23.9,
-      "lat": 30.924416,
-      "lng": 121.468867
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊御墅 2室1厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 41.9,
-      "lat": 30.926351,
-      "lng": 121.479733
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·酩悦都会 4室2厅 复式 南",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 21.7,
-      "lat": 30.899035,
-      "lng": 121.508688
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新建西路299号 3室2厅 南/北",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 20.0,
-      "lat": 30.916638,
-      "lng": 121.453693
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 31.2,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科南桥传奇 3室2厅 南/北",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 17:36:44",
       "region": "nanqiao",
       "unit_price": 42.9,
-      "lat": 30.931083,
-      "lng": 121.453999
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀五区 3室1厅 南",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 23.3,
-      "lat": 30.906598,
-      "lng": 121.460369
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀四区 2室2厅 南",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 24.4,
-      "lat": 30.911971,
-      "lng": 121.471208
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀二区 3室1厅 南",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 23.0,
-      "lat": 30.909948,
-      "lng": 121.465048
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金海苑北区 2室1厅 南",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 33.8,
-      "lat": 30.91856,
-      "lng": 121.498876
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 30.8,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西民旺苑 2室2厅 南",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 31.0,
-      "lat": 30.920023,
-      "lng": 121.438933
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 34.5,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·众旺苑 2室2厅 南",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 35.5,
-      "lat": 30.91351,
-      "lng": 121.442601
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝龙城市广场(奉贤) 1室1厅 北",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 54.5,
-      "lat": 30.929094,
-      "lng": 121.463175
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绣南雅苑 3室2厅 南",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 17.6,
-      "lat": 30.903896,
-      "lng": 121.452536
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦丰新苑 2室2厅 南",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 17.2,
-      "lat": 30.925316,
-      "lng": 121.449465
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室1厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 21.0,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 34.5,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀九区 2室1厅 南",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 26.6,
-      "lat": 30.907769,
-      "lng": 121.469944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·立新新村(奉贤) 3室2厅 南",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 20.2,
-      "lat": 30.916352,
-      "lng": 121.459791
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·望园晶典 2室2厅 南/北",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 45.7,
-      "lat": 30.928051,
-      "lng": 121.484681
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·玫瑰苑 3室2厅 复式 南",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 35.0,
-      "lat": 30.938154,
-      "lng": 121.463715
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝龙城市广场(奉贤) 1室1厅 南",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 75.4,
-      "lat": 30.929094,
-      "lng": 121.463175
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绣南雅苑 3室2厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 34.1,
-      "lat": 30.903896,
-      "lng": 121.452536
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊御墅 2室1厅 南/北",
@@ -2050,8 +2050,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 32.2,
-      "lat": 30.926351,
-      "lng": 121.479733
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·五星花园别墅(奉贤) 4室2厅 南/北",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 29.5,
-      "lat": 30.896397,
-      "lng": 121.433539
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（第二居民区） 3室1厅 南",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 27.2,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（六区，新村南区） 1室1厅 南",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 33.4,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭南区 2室2厅 南",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 37.5,
-      "lat": 30.927913,
-      "lng": 121.490309
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀五区 3室1厅 南",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 24.9,
-      "lat": 30.906598,
-      "lng": 121.460369
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室1厅 南",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 17:36:46",
       "region": "nanqiao",
       "unit_price": 20.5,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南方国际广场 1室1厅 南",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 47.4,
-      "lat": 30.915808,
-      "lng": 121.486326
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·望园晶典 2室1厅 南/北",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 43.8,
-      "lat": 30.928051,
-      "lng": 121.484681
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝龙城市广场(奉贤) 1室1厅 西",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 51.5,
-      "lat": 30.929094,
-      "lng": 121.463175
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀二区 2室1厅 南/北",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 27.7,
-      "lat": 30.909948,
-      "lng": 121.465048
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀十一区 2室2厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 25.3,
-      "lat": 30.908595,
-      "lng": 121.472256
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒龙尚品嘉苑 2室2厅 南/北",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 20.5,
-      "lat": 30.935715,
-      "lng": 121.455072
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新建中路558弄 2室1厅 南",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 34.0,
-      "lat": 30.916864,
-      "lng": 121.457481
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华新村东区 2室1厅 南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 28.1,
-      "lat": 30.915843,
-      "lng": 121.466698
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科南桥传奇 2室2厅 南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 45.2,
-      "lat": 30.931083,
-      "lng": 121.453999
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城行知苑 3室2厅 南",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 27.5,
-      "lat": 30.91275,
-      "lng": 121.475122
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城丽骏湾 2室1厅 南",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 26.4,
-      "lat": 30.909619,
-      "lng": 121.477018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 1室0厅 南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 27.7,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 3室1厅 南",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 30.1,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 22.4,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地翡翠公馆 2室1厅 南",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 35.8,
-      "lat": 30.91831,
-      "lng": 121.47183
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·树园新里 2室2厅 南",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 24.8,
-      "lat": 30.924228,
-      "lng": 121.471842
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 1室1厅 南",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 39.8,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊御墅 1室1厅 南",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 38.0,
-      "lat": 30.926351,
-      "lng": 121.479733
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭南区 2室1厅 南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 17.0,
-      "lat": 30.927913,
-      "lng": 121.490309
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室1厅 南/北",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 35.8,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚贤煌都 3室2厅 南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 20.0,
-      "lat": 30.943624,
-      "lng": 121.464403
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 2室1厅 南",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 24.1,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城芳邻苑 3室1厅 南",
@@ -2601,8 +2601,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 31.9,
-      "lat": 30.91418,
-      "lng": 121.478357
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城居礼苑 3室2厅 南/北",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 34.8,
-      "lat": 30.912363,
-      "lng": 121.478839
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·横泾新村 2室2厅 南",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 30.8,
-      "lat": 30.918793,
-      "lng": 121.460201
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桐南美麓 3室1厅 南",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 37.6,
-      "lat": 30.954935,
-      "lng": 121.489046
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 33.3,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南方国际广场 2室1厅 南",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 42.3,
-      "lat": 30.915808,
-      "lng": 121.486326
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀六区 3室1厅 南",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 21.5,
-      "lat": 30.906481,
-      "lng": 121.463559
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地观邸 2室1厅 南",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 37.1,
-      "lat": 30.917403,
-      "lng": 121.450774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 17:36:50",
       "region": "nanqiao",
       "unit_price": 23.3,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·运河新村(南桥) 2室1厅 南",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 26.6,
-      "lat": 30.919062,
-      "lng": 121.461921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金海壹品 2室1厅 南",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 49.4,
-      "lat": 30.916688,
-      "lng": 121.497137
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上江南璟荟名庭 3室2厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 25.2,
-      "lat": 30.924416,
-      "lng": 121.468867
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 3室2厅 南",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 46.3,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金水和璟园 3室2厅 南",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 26.2,
-      "lat": 30.964247,
-      "lng": 121.496317
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 4室1厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 28.3,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊美墅 4室3厅 南/北",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 49.7,
-      "lat": 30.925627,
-      "lng": 121.488941
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 1室1厅 南",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 36.2,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭南区 2室2厅 南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 35.4,
-      "lat": 30.927913,
-      "lng": 121.490309
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泰和名都 2室2厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 31.2,
-      "lat": 30.92683,
-      "lng": 121.483027
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光四季园 3室2厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 25.2,
-      "lat": 30.905993,
-      "lng": 121.448823
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦丰新苑 3室1厅 南",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 23.7,
-      "lat": 30.925316,
-      "lng": 121.449465
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奉发·云境 2室1厅 南",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 47.9,
-      "lat": 30.91662,
-      "lng": 121.456292
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金海壹品 3室1厅 南",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 45.4,
-      "lat": 30.916688,
-      "lng": 121.497137
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 34.6,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 2室1厅 南",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 48.0,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭东区 3室2厅 南",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 45.5,
-      "lat": 30.931009,
-      "lng": 121.489313
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏宁荣悦 2室2厅 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 44.2,
-      "lat": 30.920265,
-      "lng": 121.488217
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光园(二期)(三期) 3室2厅 南",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 22.2,
-      "lat": 30.898558,
-      "lng": 121.446534
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -3133,8 +3133,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 27.9,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 1室1厅 南",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 34.8,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 1室1厅 南",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 25.9,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 3室2厅 南",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 44.6,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城英伦风情 3室2厅 南",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 27.7,
-      "lat": 30.909619,
-      "lng": 121.477018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金海苑南区 3室2厅 南",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 17:36:53",
       "region": "nanqiao",
       "unit_price": 34.6,
-      "lat": 30.91704,
-      "lng": 121.499953
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 34.0,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 北",
@@ -3266,8 +3266,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 35.7,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝龙城市广场(奉贤) 1室1厅 南",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 53.3,
-      "lat": 30.929094,
-      "lng": 121.463175
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 34.5,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀十一区 2室1厅 南",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 22.3,
-      "lat": 30.908595,
-      "lng": 121.472256
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海花园 3室1厅 南",
@@ -3342,8 +3342,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 25.3,
-      "lat": 30.902771,
-      "lng": 121.463083
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 2室1厅 南",
@@ -3361,8 +3361,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 51.1,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 2室2厅 南",
@@ -3380,8 +3380,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 40.4,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 3室2厅 南",
@@ -3399,8 +3399,8 @@
       "scraped_at": "2026-04-23 17:36:57",
       "region": "nanqiao",
       "unit_price": 20.4,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室1厅 南",
@@ -3418,8 +3418,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 23.8,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金水苑 2室1厅 南/北",
@@ -3437,8 +3437,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 21.8,
-      "lat": 30.955985,
-      "lng": 121.497627
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绣南雅苑 2室2厅 南",
@@ -3456,8 +3456,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 29.0,
-      "lat": 30.903896,
-      "lng": 121.452536
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中心公馆 2室1厅 南",
@@ -3475,8 +3475,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 47.9,
-      "lat": 30.91006,
-      "lng": 121.458044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 3室2厅 南",
@@ -3494,8 +3494,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 27.8,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -3513,8 +3513,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 38.6,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 4室2厅 南",
@@ -3532,8 +3532,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 34.1,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华A区南区 2室2厅 南",
@@ -3551,8 +3551,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 21.2,
-      "lat": 30.917558,
-      "lng": 121.469266
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·运河新村(南桥) 2室1厅 南",
@@ -3570,8 +3570,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 29.0,
-      "lat": 30.919062,
-      "lng": 121.461921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海花园 3室2厅 南",
@@ -3589,8 +3589,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 22.5,
-      "lat": 30.902771,
-      "lng": 121.463083
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地翡翠公馆 2室1厅 南",
@@ -3608,8 +3608,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 50.9,
-      "lat": 30.91831,
-      "lng": 121.47183
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新泰馨苑 2室2厅 南",
@@ -3627,8 +3627,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 21.5,
-      "lat": 30.915521,
-      "lng": 121.451882
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西民旺苑 2室1厅 南",
@@ -3646,8 +3646,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 30.6,
-      "lat": 30.920023,
-      "lng": 121.438933
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·人民中路31支弄 2室1厅 南/北",
@@ -3665,8 +3665,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 24.3,
-      "lat": 30.911756,
-      "lng": 121.459718
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀九区 2室1厅 南",
@@ -3684,8 +3684,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 27.6,
-      "lat": 30.907769,
-      "lng": 121.469944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -3703,8 +3703,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 33.3,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港北区（二区） 2室1厅 南",
@@ -3722,8 +3722,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 30.7,
-      "lat": 30.915387,
-      "lng": 121.443954
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -3741,8 +3741,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 35.0,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光家园 3室2厅 南",
@@ -3760,8 +3760,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 28.8,
-      "lat": 30.905379,
-      "lng": 121.447136
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华新村南南区 2室1厅 南",
@@ -3779,8 +3779,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 32.4,
-      "lat": 30.915843,
-      "lng": 121.466698
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·教苑新村(奉贤) 3室2厅 南",
@@ -3798,8 +3798,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 19.2,
-      "lat": 30.909034,
-      "lng": 121.462343
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地望海新都 3室2厅 南",
@@ -3817,8 +3817,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 38.9,
-      "lat": 30.916072,
-      "lng": 121.491281
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -3836,8 +3836,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 28.9,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·蓝天苑 2室2厅 复式 南",
@@ -3855,8 +3855,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 17.4,
-      "lat": 30.919711,
-      "lng": 121.477923
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·秀枫苑 2室2厅 南",
@@ -3874,8 +3874,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 28.0,
-      "lat": 30.933382,
-      "lng": 121.453646
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 1室1厅 南",
@@ -3893,8 +3893,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 42.5,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·招商南桥雅苑 2室2厅 南",
@@ -3912,8 +3912,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 35.7,
-      "lat": 30.903872,
-      "lng": 121.451953
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 3室2厅 南",
@@ -3931,8 +3931,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 29.7,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·树园新苑 3室2厅 南",
@@ -3950,8 +3950,8 @@
       "scraped_at": "2026-04-23 17:37:00",
       "region": "nanqiao",
       "unit_price": 25.0,
-      "lat": 30.923963,
-      "lng": 121.469443
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地无双 3室2厅 南/北",
@@ -3969,8 +3969,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 33.0,
-      "lat": 30.938212,
-      "lng": 121.497502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奉苑新村 3室2厅 南",
@@ -3988,8 +3988,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 22.3,
-      "lat": 30.920173,
-      "lng": 121.466204
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·景怡佳苑 3室2厅 南/北",
@@ -4007,8 +4007,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 30.0,
-      "lat": 30.941868,
-      "lng": 121.462116
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中心公馆 2室2厅 南",
@@ -4026,8 +4026,8 @@
       "scraped_at": "2026-04-23 17:38:08",
       "region": "nanqiao",
       "unit_price": 39.7,
-      "lat": 30.91006,
-      "lng": 121.458044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新建中路470弄 2室1厅 东",
@@ -4045,8 +4045,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 25.2,
-      "lat": 30.916864,
-      "lng": 121.457481
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·九华苑 3室2厅 南",
@@ -4064,8 +4064,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 21.0,
-      "lat": 30.932868,
-      "lng": 121.458153
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·秀枫苑 2室2厅 南",
@@ -4083,8 +4083,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 36.1,
-      "lat": 30.933382,
-      "lng": 121.453646
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华龙公寓(曙光新村) 3室2厅 南",
@@ -4102,8 +4102,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 29.3,
-      "lat": 30.916989,
-      "lng": 121.479489
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金水新苑 2室2厅 南",
@@ -4121,8 +4121,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 36.5,
-      "lat": 30.954164,
-      "lng": 121.492606
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城丽骏湾 2室2厅 南",
@@ -4140,8 +4140,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 32.9,
-      "lat": 30.909619,
-      "lng": 121.477018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泰和名都 2室2厅 南",
@@ -4159,8 +4159,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 39.8,
-      "lat": 30.92683,
-      "lng": 121.483027
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 2室1厅 南",
@@ -4178,8 +4178,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 40.4,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·景怡佳苑 4室2厅 复式 南",
@@ -4197,8 +4197,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 34.5,
-      "lat": 30.941868,
-      "lng": 121.462116
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 3室1厅 南",
@@ -4216,8 +4216,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 21.8,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·树园新里 3室1厅 南/北",
@@ -4235,8 +4235,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 31.1,
-      "lat": 30.924228,
-      "lng": 121.471842
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绣南雅苑 2室2厅 南",
@@ -4254,8 +4254,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 18.1,
-      "lat": 30.903896,
-      "lng": 121.452536
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·馨雅名庭东区 2室2厅 南",
@@ -4273,8 +4273,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 33.8,
-      "lat": 30.920592,
-      "lng": 121.484364
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·立新新村(奉贤) 2室1厅 南",
@@ -4292,8 +4292,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 20.4,
-      "lat": 30.916352,
-      "lng": 121.459791
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·招商南桥雅苑 2室1厅 南",
@@ -4311,8 +4311,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 31.5,
-      "lat": 30.903872,
-      "lng": 121.451953
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -4330,8 +4330,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 27.5,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 2室1厅 南",
@@ -4349,8 +4349,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 42.0,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭西区 3室2厅 南",
@@ -4368,8 +4368,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 33.3,
-      "lat": 30.930085,
-      "lng": 121.48601
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（八区） 2室1厅 南",
@@ -4387,8 +4387,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 24.9,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利象屿公园悦府 3室2厅 南",
@@ -4406,8 +4406,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 42.7,
-      "lat": 30.952391,
-      "lng": 121.489296
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绣南雅苑 2室2厅 南",
@@ -4425,8 +4425,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 30.0,
-      "lat": 30.903896,
-      "lng": 121.452536
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚贤煌都 4室2厅 南",
@@ -4444,8 +4444,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 33.8,
-      "lat": 30.943624,
-      "lng": 121.464403
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金海苑北区 1室1厅 南",
@@ -4463,8 +4463,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 31.4,
-      "lat": 30.91856,
-      "lng": 121.498876
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 2室2厅 南",
@@ -4482,8 +4482,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 51.1,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀二区 2室1厅 南",
@@ -4501,8 +4501,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 25.6,
-      "lat": 30.909948,
-      "lng": 121.465048
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新民旺苑(二期) 3室1厅 南",
@@ -4520,8 +4520,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 25.1,
-      "lat": 30.920023,
-      "lng": 121.438933
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -4539,8 +4539,8 @@
       "scraped_at": "2026-04-23 17:38:19",
       "region": "nanqiao",
       "unit_price": 36.0,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海花园 4室2厅 南/北",
@@ -4558,8 +4558,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 16.9,
-      "lat": 30.902771,
-      "lng": 121.463083
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·秋月朗庭 2室2厅 南",
@@ -4577,8 +4577,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 41.8,
-      "lat": 30.927938,
-      "lng": 121.461065
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华新村南南区 2室1厅 南",
@@ -4596,8 +4596,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 27.7,
-      "lat": 30.915843,
-      "lng": 121.466698
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上江南璟荟名庭 3室2厅 南",
@@ -4615,8 +4615,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 20.8,
-      "lat": 30.924416,
-      "lng": 121.468867
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华B区 3室1厅 南",
@@ -4634,8 +4634,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 21.7,
-      "lat": 30.917558,
-      "lng": 121.469266
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光园(二期)(三期) 3室2厅 南",
@@ -4653,8 +4653,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 29.8,
-      "lat": 30.898558,
-      "lng": 121.446534
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚贤煌都 3室3厅 南",
@@ -4672,8 +4672,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 24.5,
-      "lat": 30.943624,
-      "lng": 121.464403
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（六区，新村南区） 2室1厅 南",
@@ -4691,8 +4691,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 28.6,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金水和璟园 3室1厅 南",
@@ -4710,8 +4710,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 25.3,
-      "lat": 30.964247,
-      "lng": 121.496317
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 1室1厅 南",
@@ -4729,8 +4729,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 44.4,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀六区 3室1厅 南",
@@ -4748,8 +4748,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 21.3,
-      "lat": 30.906481,
-      "lng": 121.463559
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新民旺苑(一期) 3室1厅 南",
@@ -4767,8 +4767,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 26.8,
-      "lat": 30.920023,
-      "lng": 121.438933
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中粮南桥锦云 3室2厅 南/北",
@@ -4786,8 +4786,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 40.4,
-      "lat": 30.921934,
-      "lng": 121.485595
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 2室1厅 南",
@@ -4805,8 +4805,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 45.7,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中心公馆 2室1厅 东",
@@ -4824,8 +4824,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 43.8,
-      "lat": 30.91006,
-      "lng": 121.458044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金昊丽苑 1室1厅 南",
@@ -4843,8 +4843,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 39.0,
-      "lat": 30.909442,
-      "lng": 121.494058
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金水丽苑 1室1厅 南",
@@ -4862,8 +4862,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 28.4,
-      "lat": 30.960453,
-      "lng": 121.492007
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海二村(奉贤) 3室2厅 南",
@@ -4881,8 +4881,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 22.1,
-      "lat": 30.925533,
-      "lng": 121.441939
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 2室1厅 东南/南",
@@ -4900,8 +4900,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 55.8,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 3室2厅 南",
@@ -4919,8 +4919,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 29.0,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀七区 3室1厅 南",
@@ -4938,8 +4938,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 29.8,
-      "lat": 30.907826,
-      "lng": 121.466136
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 2室1厅 南",
@@ -4957,8 +4957,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 34.3,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀三区 2室2厅 南",
@@ -4976,8 +4976,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 28.7,
-      "lat": 30.91053,
-      "lng": 121.470292
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒龙尚品嘉苑 2室2厅 南",
@@ -4995,8 +4995,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 37.7,
-      "lat": 30.935715,
-      "lng": 121.455072
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（第二居民区） 2室2厅 东南",
@@ -5014,8 +5014,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 27.9,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地无双 4室2厅 南",
@@ -5033,8 +5033,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 44.3,
-      "lat": 30.938212,
-      "lng": 121.497502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦丰新苑 2室1厅 南",
@@ -5052,8 +5052,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 31.0,
-      "lat": 30.925316,
-      "lng": 121.449465
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上院(北区) 4室2厅 南",
@@ -5071,8 +5071,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 33.0,
-      "lat": 30.939648,
-      "lng": 121.451988
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中粮南桥锦云 3室2厅 南",
@@ -5090,8 +5090,8 @@
       "scraped_at": "2026-04-23 17:38:23",
       "region": "nanqiao",
       "unit_price": 32.3,
-      "lat": 30.921934,
-      "lng": 121.485595
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（三区） 3室1厅 南",
@@ -5109,8 +5109,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 21.2,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭东区 2室2厅 复式 南/北",
@@ -5128,8 +5128,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 25.5,
-      "lat": 30.931009,
-      "lng": 121.489313
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新建中路644弄 2室2厅 南",
@@ -5147,8 +5147,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 23.3,
-      "lat": 30.916864,
-      "lng": 121.457481
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（第二居民区） 1室1厅 南",
@@ -5166,8 +5166,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 41.6,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 3室2厅 南",
@@ -5185,8 +5185,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 35.4,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地望海新都 3室1厅 南",
@@ -5204,8 +5204,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 37.4,
-      "lat": 30.916072,
-      "lng": 121.491281
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地无双 1室2厅 南",
@@ -5223,8 +5223,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 42.5,
-      "lat": 30.938212,
-      "lng": 121.497502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·秋月朗庭 3室2厅 南",
@@ -5242,8 +5242,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 72.7,
-      "lat": 30.927938,
-      "lng": 121.461065
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀六区 3室2厅 南",
@@ -5261,8 +5261,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 24.5,
-      "lat": 30.906481,
-      "lng": 121.463559
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 3室2厅 南",
@@ -5280,8 +5280,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 32.5,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奥克苑 2室2厅 南",
@@ -5299,8 +5299,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 25.0,
-      "lat": 30.927181,
-      "lng": 121.463963
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室2厅 南",
@@ -5318,8 +5318,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 29.0,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀一区 3室1厅 南",
@@ -5337,8 +5337,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 25.2,
-      "lat": 30.909585,
-      "lng": 121.462261
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华A区南区 3室1厅 南/北",
@@ -5356,8 +5356,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 27.5,
-      "lat": 30.917558,
-      "lng": 121.469266
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上院(南区) 2室1厅 东南",
@@ -5375,8 +5375,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 42.5,
-      "lat": 30.937407,
-      "lng": 121.452621
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奉浦苑 5室2厅 南",
@@ -5394,8 +5394,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 23.7,
-      "lat": 30.935526,
-      "lng": 121.464338
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·景怡佳苑 3室2厅 南",
@@ -5413,8 +5413,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 29.2,
-      "lat": 30.941868,
-      "lng": 121.462116
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚贤煌都 5室2厅 南",
@@ -5432,8 +5432,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 26.3,
-      "lat": 30.943624,
-      "lng": 121.464403
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·秀枫苑 2室2厅 南",
@@ -5451,8 +5451,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 34.7,
-      "lat": 30.933382,
-      "lng": 121.453646
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泰和名都 2室2厅 南",
@@ -5470,8 +5470,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 41.6,
-      "lat": 30.92683,
-      "lng": 121.483027
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（三区） 2室1厅 南",
@@ -5489,8 +5489,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 26.2,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝龙城市广场(奉贤) 1室1厅 北",
@@ -5508,8 +5508,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 43.1,
-      "lat": 30.929094,
-      "lng": 121.463175
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊御墅 2室2厅 南",
@@ -5527,8 +5527,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 31.1,
-      "lat": 30.926351,
-      "lng": 121.479733
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地无双 2室2厅 南",
@@ -5546,8 +5546,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 42.5,
-      "lat": 30.938212,
-      "lng": 121.497502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒龙尚品嘉苑 2室2厅 南/北",
@@ -5565,8 +5565,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 31.5,
-      "lat": 30.935715,
-      "lng": 121.455072
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·人民北路10弄 3室2厅 南",
@@ -5584,8 +5584,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 23.3,
-      "lat": 30.924416,
-      "lng": 121.468867
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭南区 2室1厅 南",
@@ -5603,8 +5603,8 @@
       "scraped_at": "2026-04-23 17:38:28",
       "region": "nanqiao",
       "unit_price": 30.6,
-      "lat": 30.927913,
-      "lng": 121.490309
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·良友新村 4室2厅 南",
@@ -5622,8 +5622,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 18.7,
-      "lat": 30.918487,
-      "lng": 121.46914
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·同盛南桥花园 3室0厅 南",
@@ -5641,8 +5641,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 35.9,
-      "lat": 30.927731,
-      "lng": 121.458191
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭南区 2室2厅 南/北",
@@ -5660,8 +5660,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 34.1,
-      "lat": 30.927913,
-      "lng": 121.490309
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室1厅 南",
@@ -5679,8 +5679,8 @@
       "scraped_at": "2026-04-23 17:38:34",
       "region": "nanqiao",
       "unit_price": 34.7,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -5698,8 +5698,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 29.8,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城(绅鸿苑) 3室2厅 南",
@@ -5717,8 +5717,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 23.8,
-      "lat": 30.913143,
-      "lng": 121.480583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀九区 2室2厅 南",
@@ -5736,8 +5736,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 24.4,
-      "lat": 30.907769,
-      "lng": 121.469944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·馨雅名筑 2室1厅 东南",
@@ -5755,8 +5755,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 38.8,
-      "lat": 30.917551,
-      "lng": 121.482176
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀九区 2室1厅 南",
@@ -5774,8 +5774,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 27.3,
-      "lat": 30.907769,
-      "lng": 121.469944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港花苑 3室2厅 南",
@@ -5793,8 +5793,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 22.3,
-      "lat": 30.908356,
-      "lng": 121.443055
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·景怡佳苑 5室2厅 南",
@@ -5812,8 +5812,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 25.9,
-      "lat": 30.941868,
-      "lng": 121.462116
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奉浦二村 1室1厅 南",
@@ -5831,8 +5831,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 35.5,
-      "lat": 30.939649,
-      "lng": 121.462484
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·曙光新苑 3室2厅 南",
@@ -5850,8 +5850,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 20.3,
-      "lat": 30.915702,
-      "lng": 121.475296
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -5869,8 +5869,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 30.1,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海花园 2室2厅 南/北",
@@ -5888,8 +5888,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 26.8,
-      "lat": 30.902771,
-      "lng": 121.463083
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·水上新村(奉贤) 2室1厅 南",
@@ -5907,8 +5907,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 38.8,
-      "lat": 30.919442,
-      "lng": 121.462371
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（七区） 1室1厅 南",
@@ -5926,8 +5926,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 43.2,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 3室2厅 南",
@@ -5945,8 +5945,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 28.9,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地无双 3室2厅 南",
@@ -5964,8 +5964,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 37.2,
-      "lat": 30.938212,
-      "lng": 121.497502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 2室1厅 南",
@@ -5983,8 +5983,8 @@
       "scraped_at": "2026-04-23 17:38:39",
       "region": "nanqiao",
       "unit_price": 42.5,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -6002,8 +6002,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 33.3,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -6021,8 +6021,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 35.0,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海二村(奉贤) 2室2厅 南",
@@ -6040,8 +6040,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 23.5,
-      "lat": 30.925533,
-      "lng": 121.441939
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西民旺苑 3室1厅 南",
@@ -6059,8 +6059,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 24.4,
-      "lat": 30.920023,
-      "lng": 121.438933
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地无双 3室2厅 南/北",
@@ -6078,8 +6078,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 35.5,
-      "lat": 30.938212,
-      "lng": 121.497502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华A区南区 1室1厅 南",
@@ -6097,8 +6097,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 46.3,
-      "lat": 30.917558,
-      "lng": 121.469266
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室2厅 南",
@@ -6116,8 +6116,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 18.7,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 2室1厅 北",
@@ -6135,8 +6135,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 28.6,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（第二居民区） 2室1厅 南",
@@ -6154,8 +6154,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 37.1,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·化工新村 3室2厅 南",
@@ -6173,8 +6173,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 22.6,
-      "lat": 30.917693,
-      "lng": 121.453309
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝龙城市广场(奉贤) 1室1厅 南",
@@ -6192,8 +6192,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 47.7,
-      "lat": 30.929094,
-      "lng": 121.463175
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科南桥传奇 2室1厅 南",
@@ -6211,8 +6211,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 39.2,
-      "lat": 30.931083,
-      "lng": 121.453999
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -6230,8 +6230,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 30.3,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光园(一期) 3室2厅 南",
@@ -6249,8 +6249,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 21.8,
-      "lat": 30.904214,
-      "lng": 121.445339
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城文华苑 2室2厅 南/北",
@@ -6268,8 +6268,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 32.6,
-      "lat": 30.912073,
-      "lng": 121.473467
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室1厅 南",
@@ -6287,8 +6287,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 24.7,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港北区（一区） 2室1厅 南",
@@ -6306,8 +6306,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 23.7,
-      "lat": 30.915387,
-      "lng": 121.443954
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室0厅 南",
@@ -6325,8 +6325,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 34.9,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华新村南南区 2室1厅 南",
@@ -6344,8 +6344,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 30.0,
-      "lat": 30.915843,
-      "lng": 121.466698
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港新村西区 2室2厅 南",
@@ -6363,8 +6363,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 23.1,
-      "lat": 30.911002,
-      "lng": 121.443381
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -6382,8 +6382,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 34.2,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·运河新村(南桥) 2室2厅 南",
@@ -6401,8 +6401,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 25.0,
-      "lat": 30.919062,
-      "lng": 121.461921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南/北",
@@ -6420,8 +6420,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 33.3,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -6439,8 +6439,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 37.7,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 2室1厅 南",
@@ -6458,8 +6458,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 29.9,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中粮南桥半岛西区 3室2厅 南",
@@ -6477,8 +6477,8 @@
       "scraped_at": "2026-04-23 17:38:44",
       "region": "nanqiao",
       "unit_price": 33.0,
-      "lat": 30.921197,
-      "lng": 121.480861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·横泾新村 2室1厅 南",
@@ -6496,8 +6496,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 26.6,
-      "lat": 30.918793,
-      "lng": 121.460201
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（第二居民区） 3室1厅 南",
@@ -6515,8 +6515,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 21.3,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 3室1厅 南",
@@ -6534,8 +6534,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 22.2,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 1室1厅 南",
@@ -6553,8 +6553,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 32.4,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港花苑 3室2厅 南",
@@ -6572,8 +6572,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 20.3,
-      "lat": 30.908356,
-      "lng": 121.443055
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀八区 3室1厅 南",
@@ -6591,8 +6591,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 27.1,
-      "lat": 30.90852,
-      "lng": 121.46824
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中心公馆 1室1厅 西",
@@ -6610,8 +6610,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 42.0,
-      "lat": 30.91006,
-      "lng": 121.458044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华A区南区 2室1厅 南",
@@ -6629,8 +6629,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 33.8,
-      "lat": 30.917558,
-      "lng": 121.469266
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室2厅 南",
@@ -6648,8 +6648,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 23.2,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地翡翠国际广场 2室1厅 南",
@@ -6667,8 +6667,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 36.8,
-      "lat": 30.918104,
-      "lng": 121.472078
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 1室1厅 南",
@@ -6686,8 +6686,8 @@
       "scraped_at": "2026-04-23 17:38:50",
       "region": "nanqiao",
       "unit_price": 33.4,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 北",
@@ -6705,8 +6705,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 36.0,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 北",
@@ -6724,8 +6724,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 38.0,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀五区 2室2厅 南",
@@ -6743,8 +6743,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 28.1,
-      "lat": 30.906598,
-      "lng": 121.460369
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南/北",
@@ -6762,8 +6762,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 37.7,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光明九胤 3室2厅 南/北",
@@ -6781,8 +6781,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 36.8,
-      "lat": 30.957308,
-      "lng": 121.487858
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泰和名都 2室1厅 南",
@@ -6800,8 +6800,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 33.7,
-      "lat": 30.92683,
-      "lng": 121.483027
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 3室2厅 南",
@@ -6819,8 +6819,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 23.9,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泰和名都 2室1厅 南",
@@ -6838,8 +6838,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 40.4,
-      "lat": 30.92683,
-      "lng": 121.483027
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -6857,8 +6857,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 37.7,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南新新村 2室1厅 南",
@@ -6876,8 +6876,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 37.0,
-      "lat": 30.914152,
-      "lng": 121.4585
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭南区 2室2厅 南",
@@ -6895,8 +6895,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 29.1,
-      "lat": 30.927913,
-      "lng": 121.490309
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（第二居民区） 1室1厅 南",
@@ -6914,8 +6914,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 35.3,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -6933,8 +6933,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 37.6,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -6952,8 +6952,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 33.1,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -6971,8 +6971,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 31.5,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 2室1厅 南",
@@ -6990,8 +6990,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 28.8,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室0厅 南",
@@ -7009,8 +7009,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 32.1,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀三区 2室1厅 南",
@@ -7028,8 +7028,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 22.8,
-      "lat": 30.91053,
-      "lng": 121.470292
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桐南美麓 3室2厅 南",
@@ -7047,8 +7047,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 31.5,
-      "lat": 30.954935,
-      "lng": 121.489046
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·普康苑 3室2厅 南/北",
@@ -7066,8 +7066,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 19.9,
-      "lat": 30.904287,
-      "lng": 121.471189
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万龙新村 3室2厅 南",
@@ -7085,8 +7085,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 17.8,
-      "lat": 30.921126,
-      "lng": 121.473096
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（七区） 2室1厅 南",
@@ -7104,8 +7104,8 @@
       "scraped_at": "2026-04-23 17:39:47",
       "region": "nanqiao",
       "unit_price": 25.0,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新发展公寓 2室2厅 南/北",
@@ -7123,8 +7123,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 18.3,
-      "lat": 30.911402,
-      "lng": 121.457959
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 2室2厅 南",
@@ -7142,8 +7142,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 25.5,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·正阳世纪星城(绅鸿苑) 2室1厅 南",
@@ -7161,8 +7161,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 30.1,
-      "lat": 30.913143,
-      "lng": 121.480583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 2室2厅 东",
@@ -7180,8 +7180,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 37.1,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古华新村东区 2室1厅 南",
@@ -7199,8 +7199,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 25.7,
-      "lat": 30.915843,
-      "lng": 121.466698
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桐南美麓 2室1厅 南",
@@ -7218,8 +7218,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 39.6,
-      "lat": 30.954935,
-      "lng": 121.489046
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭东区 2室1厅 南",
@@ -7237,8 +7237,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 29.7,
-      "lat": 30.931009,
-      "lng": 121.489313
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 北",
@@ -7256,8 +7256,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 36.8,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·解放新村 1室1厅 南",
@@ -7275,8 +7275,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 36.9,
-      "lat": 30.914195,
-      "lng": 121.450354
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海二村(奉贤) 2室2厅 南",
@@ -7294,8 +7294,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 21.2,
-      "lat": 30.925533,
-      "lng": 121.441939
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地无双 3室2厅 南",
@@ -7313,8 +7313,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 32.8,
-      "lat": 30.938212,
-      "lng": 121.497502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭东区 2室2厅 南",
@@ -7332,8 +7332,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 32.4,
-      "lat": 30.931009,
-      "lng": 121.489313
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 1室1厅 南",
@@ -7351,8 +7351,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 42.5,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万隆花苑 2室2厅 南",
@@ -7370,8 +7370,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 21.9,
-      "lat": 30.920434,
-      "lng": 121.468453
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 3室1厅 南",
@@ -7389,8 +7389,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 21.5,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万龙新村 3室2厅 南",
@@ -7408,8 +7408,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 20.6,
-      "lat": 30.921126,
-      "lng": 121.473096
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光园(一期) 3室2厅 南",
@@ -7427,8 +7427,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 19.2,
-      "lat": 30.904214,
-      "lng": 121.445339
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭东区 2室2厅 南",
@@ -7446,8 +7446,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 31.5,
-      "lat": 30.931009,
-      "lng": 121.489313
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新发展公寓 3室2厅 南",
@@ -7465,8 +7465,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 21.4,
-      "lat": 30.911402,
-      "lng": 121.457959
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港北区（一区） 2室1厅 南",
@@ -7484,8 +7484,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 26.0,
-      "lat": 30.915387,
-      "lng": 121.443954
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 北",
@@ -7503,8 +7503,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 33.3,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利象屿公园悦府 2室1厅 南",
@@ -7522,8 +7522,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 35.7,
-      "lat": 30.952391,
-      "lng": 121.489296
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓越世纪中心(奉贤) 2室1厅 南",
@@ -7541,8 +7541,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 46.8,
-      "lat": 30.91301,
-      "lng": 121.490163
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中心公馆 2室2厅 复式 南",
@@ -7560,8 +7560,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 37.1,
-      "lat": 30.91006,
-      "lng": 121.458044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港北区（二区） 2室1厅 南/北",
@@ -7579,8 +7579,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 25.9,
-      "lat": 30.915387,
-      "lng": 121.443954
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室2厅 南",
@@ -7598,8 +7598,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 25.4,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·蓝天苑 3室2厅 南",
@@ -7617,8 +7617,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 21.1,
-      "lat": 30.919711,
-      "lng": 121.477923
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 2室2厅 北",
@@ -7636,8 +7636,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 30.3,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（三区） 2室2厅 东南",
@@ -7655,8 +7655,8 @@
       "scraped_at": "2026-04-23 17:39:56",
       "region": "nanqiao",
       "unit_price": 27.9,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -7674,8 +7674,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 37.2,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光星期8馨雅名邸 2室2厅 南/北",
@@ -7693,8 +7693,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 34.9,
-      "lat": 30.901081,
-      "lng": 121.448171
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（第二居民区） 2室1厅 南",
@@ -7712,8 +7712,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 24.2,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·育秀二区 2室1厅 南",
@@ -7731,8 +7731,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 21.5,
-      "lat": 30.909948,
-      "lng": 121.465048
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -7750,8 +7750,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 33.2,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝龙城市广场(奉贤) 1室1厅 南",
@@ -7769,8 +7769,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 50.1,
-      "lat": 30.929094,
-      "lng": 121.463175
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合景万景峰 1室1厅 南",
@@ -7788,8 +7788,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 39.0,
-      "lat": 30.935129,
-      "lng": 121.493264
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·贝港南区（三区） 2室1厅 南/北",
@@ -7807,8 +7807,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 27.0,
-      "lat": 30.913223,
-      "lng": 121.448293
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室0厅 南",
@@ -7826,8 +7826,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 37.3,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地南桥新苑 3室2厅 南",
@@ -7845,8 +7845,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 23.7,
-      "lat": 30.926404,
-      "lng": 121.46566
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -7864,8 +7864,8 @@
       "scraped_at": "2026-04-23 17:40:02",
       "region": "nanqiao",
       "unit_price": 33.9,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·悦达南郊华都 1室1厅 南",
@@ -7883,8 +7883,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 36.2,
-      "lat": 30.972978,
-      "lng": 121.466938
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地无双 2室1厅 南",
@@ -7902,8 +7902,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 30.5,
-      "lat": 30.938212,
-      "lng": 121.497502
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室1厅 南",
@@ -7921,8 +7921,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 32.3,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·江海新村 2室2厅 南",
@@ -7940,8 +7940,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 23.6,
-      "lat": 30.905814,
-      "lng": 121.455574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛湖畔豪庭西区 2室2厅 南",
@@ -7959,8 +7959,8 @@
       "scraped_at": "2026-04-23 17:40:13",
       "region": "nanqiao",
       "unit_price": 22.3,
-      "lat": 30.930085,
-      "lng": 121.48601
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -7978,8 +7978,8 @@
       "scraped_at": "2026-04-23 17:40:19",
       "region": "nanqiao",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -7997,8 +7997,8 @@
       "scraped_at": "2026-04-23 17:40:19",
       "region": "nanqiao",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·东郊紫园 4室2厅 复式 南",
@@ -8035,8 +8035,8 @@
       "scraped_at": "2026-04-23 17:40:19",
       "region": "nanqiao",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 5室3厅 复式 南",

@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 66.1,
-      "lat": 31.270712,
-      "lng": 121.489242
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中原证券大厦 5室0厅 南",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 95.2,
-      "lat": 31.276262,
-      "lng": 121.487184
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒通公寓 2室2厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 74.3,
-      "lat": 31.265957,
-      "lng": 121.47229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·中原公寓 中原大厦店 8号线曲阳路地铁口，直达人民广场，过道窗特惠户型 开间",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 89.5,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·友间公寓 四平路社区 春季特惠/央企直营/海归驿站/龙之梦/太阳宫/海归驿站 1室1厅",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 103.6,
-      "lat": 31.269785,
-      "lng": 121.477996
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·玉龙大厦 2室1厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 70.3,
-      "lat": 31.275847,
-      "lng": 121.488576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉宏紫薇园 4室2厅 南",
@@ -169,8 +169,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 66.5,
-      "lat": 31.265743,
-      "lng": 121.478433
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧阳花苑 2室1厅 东/东南",
@@ -188,8 +188,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 72.6,
-      "lat": 31.272575,
-      "lng": 121.490327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·四平路421弄 2室1厅 南",
@@ -207,8 +207,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 82.8,
-      "lat": 31.272009,
-      "lng": 121.481814
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒业公寓 2室1厅 南",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 93.8,
-      "lat": 31.265001,
-      "lng": 121.473401
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·四达路210弄 1室0厅 南",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 105.9,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴业公寓(虹口) 3室2厅 南",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 71.0,
-      "lat": 31.275204,
-      "lng": 121.48894
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·戎遇公寓 戎遇公寓 阳光明亮双窗户型 1室1厅",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 75.5,
-      "lat": 31.272575,
-      "lng": 121.490327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德路119号 1室1厅 南",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 92.5,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·青云路城建大厦 青云路城建大厦人才公寓店 西藏北路舒适loft 近地铁双商圈 保障性租房 采光好 1室1厅",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 120.1,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宏凯公寓 2室1厅 南",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 66.0,
-      "lat": 31.27656,
-      "lng": 121.476452
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹口花苑 1室2厅 南",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 104.0,
-      "lat": 31.264667,
-      "lng": 121.476012
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·怡景大厦 2室1厅 南",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 87.8,
-      "lat": 31.273188,
-      "lng": 121.478005
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·怡景大厦 2室1厅 南",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 107.5,
-      "lat": 31.273188,
-      "lng": 121.478005
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·玉龙大厦 3室2厅 复式 南",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 15:41:00",
       "region": "luxungongyuan",
       "unit_price": 81.6,
-      "lat": 31.275847,
-      "lng": 121.488576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·建设新村 1室0厅 北",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 74.5,
-      "lat": 31.270464,
-      "lng": 121.486478
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·北城公寓 3室2厅 南",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 72.6,
-      "lat": 31.268049,
-      "lng": 121.479003
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·四达路25弄 1室1厅 南",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 105.4,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·华尔福服务式公寓 北外滩店 拎包入住地铁口直达市区朝南一居押一付一可办居住证 1室1厅",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 99.2,
-      "lat": 31.270712,
-      "lng": 121.489242
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·融创·青雲壹号 2室2厅 南",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 163.8,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·久乐大厦 1室1厅 南",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 81.8,
-      "lat": 31.272785,
-      "lng": 121.477903
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒业路118弄 1室1厅 南",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 103.5,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德新苑 2室1厅 南",
@@ -625,8 +625,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 76.3,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室1厅 南",
@@ -644,8 +644,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 107.8,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 东",
@@ -663,8 +663,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 126.7,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 1室1厅 南",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 100.0,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·北郊小区 1室1厅 南",
@@ -701,8 +701,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 128.6,
-      "lat": 31.274354,
-      "lng": 121.490021
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧阳花苑 2室1厅 西",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 80.8,
-      "lat": 31.272575,
-      "lng": 121.490327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒通公寓 3室2厅 南",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 86.9,
-      "lat": 31.265957,
-      "lng": 121.47229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 南",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 98.8,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 2室1厅 南",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 121.2,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 1室0厅 西北",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 127.9,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 2室1厅 南",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 114.8,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧阳花苑 2室1厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 82.4,
-      "lat": 31.272575,
-      "lng": 121.490327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉和国际大厦 1室1厅 北",
@@ -853,8 +853,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 127.5,
-      "lat": 31.269785,
-      "lng": 121.477996
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉宏紫薇园 2室2厅 南",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 95.3,
-      "lat": 31.265743,
-      "lng": 121.478433
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德新苑 2室1厅 东南",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 15:41:04",
       "region": "luxungongyuan",
       "unit_price": 83.1,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 南",
@@ -910,8 +910,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 114.0,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉宏紫薇园 3室2厅 南",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 112.9,
-      "lat": 31.265743,
-      "lng": 121.478433
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德路331号 1室0厅 南",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 88.4,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·同乐村 1室1厅 南",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 100.5,
-      "lat": 31.272009,
-      "lng": 121.481814
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·同华苑 2室2厅 南",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 67.8,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宏凯公寓 2室2厅 南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 69.0,
-      "lat": 31.27656,
-      "lng": 121.476452
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仪小区 2室1厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 75.5,
-      "lat": 31.270362,
-      "lng": 121.487984
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹仪小区 1室1厅 南",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 107.2,
-      "lat": 31.270362,
-      "lng": 121.487984
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德路139弄 1室0厅 东",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 97.9,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中山北一路140弄 1室0厅 南",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 125.2,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 1室1厅 南",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 115.8,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宏城公寓 3室2厅 南/北",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 84.0,
-      "lat": 31.27034,
-      "lng": 121.492462
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧五小区 2室1厅 南",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 108.1,
-      "lat": 31.273312,
-      "lng": 121.486888
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东体育会路70弄 3室1厅 南",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 93.6,
-      "lat": 31.272009,
-      "lng": 121.481814
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲紫荆花园 2室1厅 南",
@@ -1176,8 +1176,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 85.8,
-      "lat": 31.268588,
-      "lng": 121.489398
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 1室0厅 北",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 101.0,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧九小区 2室1厅 南",
@@ -1214,8 +1214,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 114.1,
-      "lat": 31.275012,
-      "lng": 121.487058
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧九小区 1室0厅 南",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 101.3,
-      "lat": 31.275012,
-      "lng": 121.487058
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·溧阳华府 2室1厅 东",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 110.9,
-      "lat": 31.263593,
-      "lng": 121.489142
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·庐迅大厦 3室1厅 西北/北",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 96.2,
-      "lat": 31.273722,
-      "lng": 121.486213
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德路339号 2室1厅 南",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 100.3,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室1厅 南",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 121.5,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒业路313弄 1室1厅 南",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 15:41:08",
       "region": "luxungongyuan",
       "unit_price": 137.2,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·积善里(虹口) 2室1厅 南/北",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 84.4,
-      "lat": 31.269229,
-      "lng": 121.484732
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宏凯公寓 2室1厅 南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 77.0,
-      "lat": 31.27656,
-      "lng": 121.476452
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德新苑 1室1厅 南",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 109.9,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西江湾路101-115号小区 1室1厅 南",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 123.3,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧阳花苑 2室1厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 87.4,
-      "lat": 31.272575,
-      "lng": 121.490327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 1室1厅 北",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 116.3,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲紫荆花园 3室2厅 南/北",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 80.8,
-      "lat": 31.268588,
-      "lng": 121.489398
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒城花苑 3室2厅 南",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 94.1,
-      "lat": 31.265154,
-      "lng": 121.490695
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲紫荆花园 3室2厅 南",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 100.6,
-      "lat": 31.268588,
-      "lng": 121.489398
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德新苑 2室1厅 南",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 99.3,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·融创·青雲壹号 2室2厅 南",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 188.9,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·晶钻博华大厦 1室1厅 北",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 83.0,
-      "lat": 31.267957,
-      "lng": 121.48326
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·谭家桥小区 1室1厅 南",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 122.0,
-      "lat": 31.270212,
-      "lng": 121.490729
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·四川北路2339弄 1室1厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 209.4,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德新苑 1室1厅 南",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 76.2,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德新苑 2室0厅 南",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 99.7,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹临花园 2室2厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 111.2,
-      "lat": 31.263449,
-      "lng": 121.489943
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德新苑 1室1厅 南",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 119.8,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·德华苑 2室2厅 南",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 94.2,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·溧阳华府 2室1厅 南",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 122.8,
-      "lat": 31.263593,
-      "lng": 121.489142
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 南",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 134.5,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·谭家桥小区 2室1厅 南",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 92.5,
-      "lat": 31.270212,
-      "lng": 121.490729
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室1厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 116.0,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大陆新邨 2室1厅 南",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 109.7,
-      "lat": 31.266596,
-      "lng": 121.484515
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧阳小区 2室1厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 103.2,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室1厅 南/北",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 101.6,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧九小区 2室1厅 南/北",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 101.7,
-      "lat": 31.275012,
-      "lng": 121.487058
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·甜爱路301号 2室0厅 南",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 124.0,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 南/北",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 117.4,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉兰大厦 5室2厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 15:41:11",
       "region": "luxungongyuan",
       "unit_price": 90.0,
-      "lat": 31.268538,
-      "lng": 121.481469
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·吉联大厦 3室2厅 南",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 70.5,
-      "lat": 31.276793,
-      "lng": 121.475641
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 2室1厅 南",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 109.0,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒业公寓 2室1厅 南",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 110.9,
-      "lat": 31.265001,
-      "lng": 121.473401
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧五小区 2室1厅 南",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 80.1,
-      "lat": 31.273312,
-      "lng": 121.486888
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉兰大厦 5室2厅 南/北",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 90.0,
-      "lat": 31.268538,
-      "lng": 121.481469
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉宏紫薇园 2室2厅 南",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 131.5,
-      "lat": 31.265743,
-      "lng": 121.478433
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧九小区 2室1厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 103.8,
-      "lat": 31.275012,
-      "lng": 121.487058
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·同心路93弄 2室1厅 南",
@@ -2050,8 +2050,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 113.7,
-      "lat": 31.2688,
-      "lng": 121.481591
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧五小区 2室1厅 南",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 104.0,
-      "lat": 31.273312,
-      "lng": 121.486888
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·怡景大厦 2室1厅 南",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 123.6,
-      "lat": 31.273188,
-      "lng": 121.478005
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 南",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 134.1,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·融创·青雲壹号 4室2厅 南/北",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 196.9,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中原证券大厦 4室2厅 南",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 54.6,
-      "lat": 31.276262,
-      "lng": 121.487184
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 1室1厅 南",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 106.9,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧阳花苑 2室1厅 西",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 83.2,
-      "lat": 31.272575,
-      "lng": 121.490327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·甜爱路32号 2室1厅 南/北",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 118.5,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德路143弄 2室1厅 南",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 105.1,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·德阳花苑 3室2厅 东南/南",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 77.3,
-      "lat": 31.271535,
-      "lng": 121.491496
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·建玮公寓 2室2厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 100.9,
-      "lat": 31.267878,
-      "lng": 121.478291
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·四达路210弄 1室1厅 南",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 110.4,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·四达路25弄 1室1厅 南",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 120.3,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 1室1厅 南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 100.5,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·曲阳新村 2室1厅 南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 87.3,
-      "lat": 31.277615,
-      "lng": 121.48614
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·建设新村 1室0厅 东",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 95.7,
-      "lat": 31.270464,
-      "lng": 121.486478
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西江湾路264弄 2室1厅 南/北",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 112.0,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧阳路364弄 1室1厅 东南/南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 100.3,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹临花园 2室1厅 南",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 98.4,
-      "lat": 31.263449,
-      "lng": 121.489943
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧阳花苑 2室1厅 南",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 80.2,
-      "lat": 31.272575,
-      "lng": 121.490327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·山阴路335号 2室1厅 南",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 112.6,
-      "lat": 31.2688,
-      "lng": 121.481591
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒城花苑 2室2厅 东南",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 15:41:14",
       "region": "luxungongyuan",
       "unit_price": 83.9,
-      "lat": 31.265154,
-      "lng": 121.490695
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·同乐村 1室1厅 南",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 119.2,
-      "lat": 31.272009,
-      "lng": 121.481814
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒丰里 1室1厅 南",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 131.6,
-      "lat": 31.265212,
-      "lng": 121.486219
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西江湾路101-115号小区 2室1厅 南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 117.0,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德新苑 1室1厅 南",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 81.2,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·建设新村 4室2厅 西南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 76.6,
-      "lat": 31.270464,
-      "lng": 121.486478
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东体育会路75号 1室1厅 南",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 94.3,
-      "lat": 31.272009,
-      "lng": 121.481814
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 2室0厅 南",
@@ -2601,8 +2601,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 100.7,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿寓 3室2厅 南",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 97.1,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·普江苑 3室2厅 南",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 104.5,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒盛里 1室0厅 南",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 137.4,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 南",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 119.4,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉兰大厦 4室2厅 南",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 90.0,
-      "lat": 31.268538,
-      "lng": 121.481469
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴业公寓(虹口) 3室2厅 南",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 78.0,
-      "lat": 31.275204,
-      "lng": 121.48894
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西江湾路235弄 1室0厅 南",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 99.9,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·甜爱别墅(别墅) 5室2厅 复式 南",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 186.7,
-      "lat": 31.272157,
-      "lng": 121.485808
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·同心路93弄 3室2厅 南",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 121.6,
-      "lat": 31.2688,
-      "lng": 121.481591
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 南",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 138.4,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德路48弄 1室1厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 73.7,
-      "lat": 31.270292,
-      "lng": 121.484944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥德新苑 2室2厅 南/北",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 89.8,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 1室1厅 北",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 106.7,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中原证券大厦 3室2厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 72.2,
-      "lat": 31.276262,
-      "lng": 121.487184
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·庐迅大厦 2室1厅 南",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 76.7,
-      "lat": 31.273722,
-      "lng": 121.486213
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒业路313弄 2室0厅 南",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 91.1,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿寓 2室1厅 南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 84.5,
-      "lat": 31.271751,
-      "lng": 121.48353
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 1室1厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 94.1,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 122.6,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·何家宅小区 1室0厅 南",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 110.1,
-      "lat": 31.273883,
-      "lng": 121.475572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·商业一村 2室1厅 南",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 80.9,
-      "lat": 31.264917,
-      "lng": 121.504994
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东照里 4室2厅 南",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 103.7,
-      "lat": 31.230525,
-      "lng": 121.473667
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·建设新村 2室1厅 西北",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 15:41:17",
       "region": "luxungongyuan",
       "unit_price": 95.2,
-      "lat": 31.270464,
-      "lng": 121.486478
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 15:41:21",
       "region": "luxungongyuan",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 15:41:21",
       "region": "luxungongyuan",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园(二期) 4室2厅 复式 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 15:41:21",
       "region": "luxungongyuan",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 5室3厅 复式 南",

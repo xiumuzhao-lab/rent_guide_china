@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 100.6,
-      "lat": 31.221105,
-      "lng": 121.491448
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·太阳都市花园二期 3室2厅 南",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 99.3,
-      "lat": 31.224005,
-      "lng": 121.488384
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞福小区 1室1厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 122.2,
-      "lat": 31.229108,
-      "lng": 121.480871
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·璞玉ONE 3室1厅 南",
@@ -74,8 +74,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 185.4,
-      "lat": 31.223184,
-      "lng": 121.489685
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞福小区 1室1厅 西",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 120.8,
-      "lat": 31.229108,
-      "lng": 121.480871
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·河南南路790弄 1室1厅 南",
@@ -112,8 +112,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 133.8,
-      "lat": 31.222985,
-      "lng": 121.488185
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞福小区 1室1厅 南",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 141.5,
-      "lat": 31.229108,
-      "lng": 121.480871
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·士林华苑 4室2厅 南/西南/西/西北/北",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 105.8,
-      "lat": 31.221105,
-      "lng": 121.491448
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞福小区 1室1厅 南",
@@ -169,8 +169,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 127.0,
-      "lat": 31.229108,
-      "lng": 121.480871
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞福小区 1室1厅 西",
@@ -188,8 +188,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 149.2,
-      "lat": 31.229108,
-      "lng": 121.480871
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞福小区 1室1厅 西",
@@ -207,8 +207,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 142.4,
-      "lat": 31.229108,
-      "lng": 121.480871
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·璞玉ONE 3室1厅 南",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 195.8,
-      "lat": 31.223184,
-      "lng": 121.489685
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光启路135号 1室0厅 东",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 153.5,
-      "lat": 31.223946,
-      "lng": 121.494274
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光启路135号 1室1厅 东",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 160.0,
-      "lat": 31.223946,
-      "lng": 121.494274
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西姚小区 2室0厅 南",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 151.1,
-      "lat": 31.222367,
-      "lng": 121.496219
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·璞玉ONE 3室1厅 西",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 169.5,
-      "lat": 31.223184,
-      "lng": 121.489685
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·县左街20弄 1室1厅 南",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 198.5,
-      "lat": 31.231661,
-      "lng": 121.48442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复地雅园公馆 4室2厅 南",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 214.2,
-      "lat": 31.223275,
-      "lng": 121.490908
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复地雅园公馆 3室2厅 南",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 152.2,
-      "lat": 31.223275,
-      "lng": 121.490908
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·璞玉ONE 4室2厅 东南/南/西",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 208.7,
-      "lat": 31.223184,
-      "lng": 121.489685
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·县左街20弄 1室0厅 南",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 139.5,
-      "lat": 31.231661,
-      "lng": 121.48442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·露香园云宸(露香园路89弄) 3室2厅 南/北",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 234.4,
-      "lat": 31.222299,
-      "lng": 121.504101
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞福小区 1室1厅 南",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 140.0,
-      "lat": 31.229108,
-      "lng": 121.480871
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞福小区 1室1厅 南",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 122.6,
-      "lat": 31.229108,
-      "lng": 121.480871
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞福小区 1室1厅 西南",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 135.1,
-      "lat": 31.229108,
-      "lng": 121.480871
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·露香园 3室2厅 南",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 190.1,
-      "lat": 31.225589,
-      "lng": 121.483996
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东淮海公寓 3室2厅 南",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 173.7,
-      "lat": 31.227375,
-      "lng": 121.485468
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复地雅园公馆 2室2厅 东/南",
@@ -530,8 +530,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 103.1,
-      "lat": 31.223275,
-      "lng": 121.490908
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·太阳都市花园一期 2室1厅 东/南",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 125.8,
-      "lat": 31.223271,
-      "lng": 121.488357
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·露香园云宸(露香园路89弄) 3室2厅 南",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 15:24:32",
       "region": "yuyuan",
       "unit_price": 271.3,
-      "lat": 31.222299,
-      "lng": 121.504101
+      "lat": null,
+      "lng": null
     }
   ],
   "completed": true

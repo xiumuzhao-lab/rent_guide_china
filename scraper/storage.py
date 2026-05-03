@@ -10,7 +10,15 @@ import logging
 from datetime import datetime
 from pathlib import Path
 
-from scraper.config import CSV_FIELDS, OUTPUT_DIR, SAVE_INTERVAL
+from scraper.config import (
+    CITY,
+    CSV_FIELDS,
+    OUTPUT_DIR,
+    SAVE_INTERVAL,
+    get_city_dir,
+    get_geo_cache_file,
+    get_output_dir,
+)
 from scraper.utils import deduplicate, add_unit_price, get_area_url
 
 logger = logging.getLogger('lianjia')
@@ -20,30 +28,38 @@ logger = logging.getLogger('lianjia')
 # 中间结果保存
 # ============================================================
 
-def partial_path(area_slug: str) -> Path:
+def partial_path(area_slug: str, city: str = None) -> Path:
     """
     断点续爬文件路径.
 
     Args:
         area_slug: 区域标识
+        city: 城市标识，None 则使用全局 CITY
 
     Returns:
         Path: 断点文件路径
     """
-    return OUTPUT_DIR / f"lianjia_{area_slug}.partial.json"
+    out_dir = get_output_dir(city)
+    return out_dir / f"lianjia_{area_slug}.partial.json"
 
 
-def load_resume(area_slug: str):
+def load_resume(area_slug: str, city: str = None):
     """
     加载断点续爬数据.
 
+    优先从新目录查找，fallback 到旧目录。
+
     Args:
         area_slug: 区域标识
+        city: 城市标识，None 则使用全局 CITY
 
     Returns:
         tuple: (existing_data, start_page, completed) — 已有数据、起始页码、是否已完成
     """
-    pfile = partial_path(area_slug)
+    pfile = partial_path(area_slug, city)
+    # fallback: 旧路径 output/lianjia_{slug}.partial.json
+    if not pfile.exists():
+        pfile = OUTPUT_DIR / f"lianjia_{area_slug}.partial.json"
     if not pfile.exists():
         return [], 1, False
     try:
@@ -61,7 +77,7 @@ def load_resume(area_slug: str):
 
 
 def save_partial(area_slug: str, data: list, last_page: int,
-                 completed: bool = False):
+                 completed: bool = False, city: str = None):
     """
     保存断点文件.
 
@@ -70,8 +86,9 @@ def save_partial(area_slug: str, data: list, last_page: int,
         data: 当前已爬取的数据
         last_page: 最后完成的页码
         completed: 该区域是否已完整爬完
+        city: 城市标识，None 则使用全局 CITY
     """
-    pfile = partial_path(area_slug)
+    pfile = partial_path(area_slug, city)
     pfile.parent.mkdir(parents=True, exist_ok=True)
     pfile.write_text(
         json.dumps({'last_page': last_page, 'data': data,
@@ -82,7 +99,7 @@ def save_partial(area_slug: str, data: list, last_page: int,
 
 
 def save_periodic(area_slug: str, data: list, page_num: int,
-                  last_save_count: int) -> int:
+                  last_save_count: int, city: str = None) -> int:
     """
     每 SAVE_INTERVAL 条保存一次中间结果.
 
@@ -91,33 +108,52 @@ def save_periodic(area_slug: str, data: list, page_num: int,
         data: 当前累计数据
         page_num: 当前页码
         last_save_count: 上次保存时的数据条数
+        city: 城市标识，None 则使用全局 CITY
 
     Returns:
         int: 更新后的 last_save_count
     """
     current_count = len(data)
     if current_count - last_save_count >= SAVE_INTERVAL:
-        save_partial(area_slug, deduplicate(data), page_num)
+        save_partial(area_slug, deduplicate(data), page_num, city=city)
         logger.info(f"  [自动保存] 已保存 {current_count} 条中间数据")
         return current_count
     return last_save_count
 
 
-def clear_partial(area_slug: str):
+def clear_partial(area_slug: str, city: str = None):
     """
     清除断点文件 (区域完成后调用).
 
+    同时清理新路径和旧路径。
+
     Args:
         area_slug: 区域标识
+        city: 城市标识，None 则使用全局 CITY
     """
-    pfile = partial_path(area_slug)
-    if pfile.exists():
-        pfile.unlink()
+    for pfile in [partial_path(area_slug, city),
+                  OUTPUT_DIR / f"lianjia_{area_slug}.partial.json"]:
+        if pfile.exists():
+            pfile.unlink()
 
 
-def clear_all_partials():
-    """清除所有断点文件 (--fresh 时调用)."""
+def clear_all_partials(city: str = None):
+    """
+    清除所有断点文件 (--fresh 时调用).
+
+    同时清理新路径和旧路径。
+
+    Args:
+        city: 城市标识，None 则使用全局 CITY
+    """
     count = 0
+    # 新路径: output/{city}/{YYYY-MM}/*.partial.json
+    city_dir = get_city_dir(city)
+    if city_dir.exists():
+        for pfile in city_dir.rglob('lianjia_*.partial.json'):
+            pfile.unlink()
+            count += 1
+    # 旧路径: output/lianjia_*.partial.json
     for pfile in OUTPUT_DIR.glob('lianjia_*.partial.json'):
         pfile.unlink()
         count += 1
@@ -157,7 +193,7 @@ def save_to_json(data: list, filepath: Path):
     logger.info(f"JSON 已保存: {filepath}")
 
 
-def enrich_with_geo(data: list):
+def enrich_with_geo(data: list, city: str = None):
     """
     为每条房源添加经纬度 (基于小区名批量地理编码).
 
@@ -166,10 +202,12 @@ def enrich_with_geo(data: list):
 
     Args:
         data: 房源数据列表，原地修改添加 lat/lng 字段
+        city: 城市标识，None 则使用全局 CITY
     """
+    from scraper.config import CITY
     from scraper.geo import get_geocoder
 
-    geocoder = get_geocoder()
+    geocoder = get_geocoder(city or CITY)
 
     # 先标记独栋房源，跳过地理编码
     dudong_comms = set()
@@ -225,7 +263,8 @@ def enrich_with_geo(data: list):
                 f" (跳过 {len(dudong_comms)} 个独栋社区)")
 
 
-def save_results(all_listings: list, selected_areas: list, fmt: str = 'both'):
+def save_results(all_listings: list, selected_areas: list, fmt: str = 'both',
+                 city: str = None):
     """
     统一保存: 去重 + 按实际区域 + 合并文件.
 
@@ -237,18 +276,20 @@ def save_results(all_listings: list, selected_areas: list, fmt: str = 'both'):
         all_listings: 全部房源数据
         selected_areas: 选中的区域列表 (可能被展开)
         fmt: 输出格式 (csv/json/both)
+        city: 城市标识，None 则使用全局 CITY
 
     Returns:
         Path or None: 合并 JSON 的路径
     """
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    OUTPUT_DIR.mkdir(exist_ok=True)
+    out_dir = get_output_dir(city)
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     all_listings = deduplicate(all_listings)
     logger.info(f"去重后: {len(all_listings)} 条")
 
     # 添加经纬度
-    enrich_with_geo(all_listings)
+    enrich_with_geo(all_listings, city)
 
     latest_json = None
 
@@ -260,10 +301,9 @@ def save_results(all_listings: list, selected_areas: list, fmt: str = 'both'):
         if not region_data:
             continue
         if fmt in ('csv', 'both'):
-            save_to_csv(region_data,
-                        OUTPUT_DIR / f"lianjia_{slug}_{timestamp}.csv")
+            save_to_csv(region_data, out_dir / f"lianjia_{slug}_{timestamp}.csv")
         if fmt in ('json', 'both'):
-            p = OUTPUT_DIR / f"lianjia_{slug}_{timestamp}.json"
+            p = out_dir / f"lianjia_{slug}_{timestamp}.json"
             save_to_json(region_data, p)
             if not latest_json:
                 latest_json = p
@@ -272,9 +312,9 @@ def save_results(all_listings: list, selected_areas: list, fmt: str = 'both'):
     if len(actual_regions) > 1:
         if fmt in ('csv', 'both'):
             save_to_csv(all_listings,
-                        OUTPUT_DIR / f"lianjia_all_{timestamp}.csv")
+                        out_dir / f"lianjia_all_{timestamp}.csv")
         if fmt in ('json', 'both'):
-            p = OUTPUT_DIR / f"lianjia_all_{timestamp}.json"
+            p = out_dir / f"lianjia_all_{timestamp}.json"
             save_to_json(all_listings, p)
             latest_json = p
 
@@ -471,7 +511,7 @@ def _update_csv_geo(filepath, geo_coords):
     return updated
 
 
-def refresh_geo_in_files(force=False):
+def refresh_geo_in_files(force=False, city: str = None):
     """
     刷新地理位置缓存，并更新 output/ 下所有数据文件的 lat/lng。
 
@@ -480,23 +520,40 @@ def refresh_geo_in_files(force=False):
         2. 调用 batch_refresh 更新主缓存 (含坐标校验)
         3. 用新缓存更新每个文件的 lat/lng 字段
 
+    搜索范围: output/{city}/ 下递归 + output/ 根目录 (向后兼容)。
+
     Args:
         force: 是否强制重查所有条目 (包括已有腾讯API结果的)
+        city: 城市标识，None 则使用全局 CITY
 
     Returns:
         dict: 刷新统计 { refreshed, upgraded, files_updated, records_updated }
     """
     from scraper.geo import get_geocoder
 
-    geocoder = get_geocoder()
-
-    # 1. 收集所有文件中的小区名 (含 location 用于坐标校验)
+    geocoder = get_geocoder(city)
     all_communities = {}
     file_list = []
 
+    # 新路径: output/{city}/ 下递归搜索
+    city_dir = get_city_dir(city)
+    if city_dir.exists():
+        for pattern in ['lianjia_*.json', 'lianjia_*.csv']:
+            for fp in sorted(city_dir.rglob(pattern)):
+                if fp.name == 'community_geo_cache.json':
+                    continue
+                file_list.append(fp)
+                comms = _collect_community_info(fp)
+                for name, info in comms.items():
+                    if name not in all_communities:
+                        all_communities[name] = info
+
+    # 旧路径: output/ 根目录 (向后兼容)
     for pattern in ['lianjia_*.json', 'lianjia_*.csv']:
         for fp in sorted(OUTPUT_DIR.glob(pattern)):
             if fp.name == 'community_geo_cache.json':
+                continue
+            if fp in file_list:
                 continue
             file_list.append(fp)
             comms = _collect_community_info(fp)
@@ -549,26 +606,45 @@ def refresh_geo_in_files(force=False):
 # 数据聚合
 # ============================================================
 
-def merge_all_partials(fmt='both'):
+def merge_all_partials(fmt='both', city: str = None):
     """
     聚合所有 partial 断点文件，去重后输出合并 JSON/CSV。
 
     同时保存一份 lianjia_merged_latest.json 供前端和后续流程使用。
 
+    搜索范围: output/{city}/ 下递归 + output/ 根目录 (向后兼容)。
+
     Args:
         fmt: 输出格式 (csv/json/both)
+        city: 城市标识，None 则使用全局 CITY
 
     Returns:
         Path or None: 合并 JSON 的路径
     """
+    city = city or CITY
     all_listings = []
-    partial_files = sorted(OUTPUT_DIR.glob('lianjia_*.partial.json'))
+    seen_names = set()
 
-    if not partial_files:
-        logger.warning("未找到任何 partial 文件")
-        return None
+    # 新路径: output/{city}/ 下递归搜索
+    city_dir = get_city_dir(city)
+    if city_dir.exists():
+        for pf in sorted(city_dir.rglob('lianjia_*.partial.json')):
+            seen_names.add(pf.name)
+            try:
+                data = json.loads(pf.read_text(encoding='utf-8'))
+                records = data.get('data', [])
+                completed = data.get('completed', False)
+                status = "完成" if completed else "未完成"
+                logger.info(f"  {pf.relative_to(city_dir)}: "
+                            f"{len(records)} 条 [{status}]")
+                all_listings.extend(records)
+            except (json.JSONDecodeError, OSError) as e:
+                logger.warning(f"  {pf.name}: 读取失败 ({e})")
 
-    for pf in partial_files:
+    # 旧路径: output/ 根目录 (向后兼容)
+    for pf in sorted(OUTPUT_DIR.glob('lianjia_*.partial.json')):
+        if pf.name in seen_names:
+            continue
         try:
             data = json.loads(pf.read_text(encoding='utf-8'))
             records = data.get('data', [])
@@ -580,7 +656,7 @@ def merge_all_partials(fmt='both'):
             logger.warning(f"  {pf.name}: 读取失败 ({e})")
 
     if not all_listings:
-        logger.warning("所有 partial 文件均为空")
+        logger.warning("未找到任何 partial 文件")
         return None
 
     logger.info(f"读取总计: {len(all_listings)} 条")
@@ -591,10 +667,11 @@ def merge_all_partials(fmt='both'):
     # 补全单价和经纬度
     for item in all_listings:
         add_unit_price(item)
-    enrich_with_geo(all_listings)
+    enrich_with_geo(all_listings, city)
 
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    OUTPUT_DIR.mkdir(exist_ok=True)
+    out_dir = get_output_dir(city)
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     latest_json = None
 
@@ -607,9 +684,9 @@ def merge_all_partials(fmt='both'):
             continue
         if fmt in ('csv', 'both'):
             save_to_csv(region_data,
-                        OUTPUT_DIR / f"lianjia_{slug}_{timestamp}.csv")
+                        out_dir / f"lianjia_{slug}_{timestamp}.csv")
         if fmt in ('json', 'both'):
-            p = OUTPUT_DIR / f"lianjia_{slug}_{timestamp}.json"
+            p = out_dir / f"lianjia_{slug}_{timestamp}.json"
             save_to_json(region_data, p)
             if not latest_json:
                 latest_json = p
@@ -617,14 +694,15 @@ def merge_all_partials(fmt='both'):
     # 合并文件 (all)
     if fmt in ('csv', 'both'):
         save_to_csv(all_listings,
-                    OUTPUT_DIR / f"lianjia_all_{timestamp}.csv")
+                    out_dir / f"lianjia_all_{timestamp}.csv")
     if fmt in ('json', 'both'):
-        p = OUTPUT_DIR / f"lianjia_all_{timestamp}.json"
+        p = out_dir / f"lianjia_all_{timestamp}.json"
         save_to_json(all_listings, p)
         latest_json = p
 
-    # always 写一份 latest 快捷引用
-    latest_path = OUTPUT_DIR / "lianjia_merged_latest.json"
+    # always 写一份 latest 快捷引用 (城市根目录)
+    latest_path = get_city_dir(city) / "lianjia_merged_latest.json"
+    latest_path.parent.mkdir(parents=True, exist_ok=True)
     save_to_json(all_listings, latest_path)
 
     # 统计
@@ -639,3 +717,47 @@ def merge_all_partials(fmt='both'):
         logger.info(f"  ... 共 {len(region_stats)} 个区域")
 
     return latest_json
+
+
+# ============================================================
+# 数据查找
+# ============================================================
+
+def find_latest_data(city: str = None) -> Path:
+    """
+    在 output/ 下递归查找最新爬取数据.
+
+    搜索范围: output/{city}/ 递归 + output/ 根目录 (向后兼容)。
+
+    Args:
+        city: 城市标识，None 则使用全局 CITY
+
+    Returns:
+        Path: 最新数据文件路径
+
+    Raises:
+        FileNotFoundError: 未找到数据文件
+    """
+    candidates = []
+
+    # 新路径: output/{city}/ 下递归搜索
+    city_dir = get_city_dir(city)
+    if city_dir.exists():
+        for pattern in ['lianjia_all_*.json', 'lianjia_*_*.json']:
+            candidates.extend(city_dir.rglob(pattern))
+
+    # 旧路径: output/ 根目录
+    for pattern in ['lianjia_all_*.json', 'lianjia_*_*.json']:
+        for fp in OUTPUT_DIR.glob(pattern):
+            if fp not in candidates:
+                candidates.append(fp)
+
+    # 按文件名中的时间戳排序
+    if candidates:
+        candidates.sort(key=lambda p: p.name, reverse=True)
+        # 跳过 partial 和 merged_latest
+        for fp in candidates:
+            if '.partial.' not in fp.name and 'merged_latest' not in fp.name:
+                return fp
+
+    raise FileNotFoundError("未找到数据文件，请先运行爬虫")

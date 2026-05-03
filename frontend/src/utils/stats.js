@@ -11,9 +11,16 @@ const DISTRICT_CENTERS = {
   '宝山': [31.35, 121.45], '嘉定': [31.38, 121.25],
   '金山': [30.74, 121.34], '崇明': [31.63, 121.40],
   '奉贤': [30.92, 121.47], '青浦': [31.15, 121.12],
+  // 北京
+  '东城区': [39.93, 116.42], '西城区': [39.91, 116.37],
+  '朝阳区': [39.92, 116.49], '丰台区': [39.86, 116.29],
+  '石景山区': [39.91, 116.22], '海淀区': [39.96, 116.30],
+  '门头沟区': [39.94, 116.10], '房山区': [39.75, 116.14],
+  '通州区': [39.90, 116.66], '顺义区': [40.13, 116.65],
+  '昌平区': [40.22, 116.23], '大兴区': [39.73, 116.34],
+  '怀柔区': [40.32, 116.63], '平谷区': [40.14, 117.12],
+  '密云区': [40.38, 116.84], '延庆区': [40.47, 115.97],
 };
-// 浦东因面积大 (含临港) 放宽容忍度
-const DISTRICT_TOLERANCE_KM = 50;
 
 // 板块中心坐标 (region slug -> [lat, lng]), 用于 region 级坐标校验
 // 从 listings 中位数坐标生成, 覆盖所有 206 个板块
@@ -219,7 +226,7 @@ function isValidCoord(lat, lng, location, region) {
     const center = DISTRICT_CENTERS[district];
     if (center) {
       const dist = haversine(lat, lng, center[0], center[1]);
-      const tolerance = district === '浦东' ? DISTRICT_TOLERANCE_KM : 25;
+      const tolerance = (district === '浦东' || district.endsWith('区')) ? 50 : 25;
       if (dist > tolerance) return false;
     }
   }

@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 39.2,
-      "lat": 31.315693,
-      "lng": 121.348028
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 2室1厅 南",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 73.3,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利熙悦 3室2厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 63.3,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·保利和寓 熙悦青年社区 7/15号地铁·上大商圈·民用水电·朝南 开间",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 75.1,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·大华享寓 锦秋路店10号楼店 樱红柳绿梦享95折-无中介小两房民用水电煤有停车位！ 2室1厅",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 72.0,
-      "lat": 31.322695,
-      "lng": 121.370832
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇枫景苑 2室1厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 16:03:00",
       "region": "shangda",
       "unit_price": 61.7,
-      "lat": 31.322695,
-      "lng": 121.370832
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学府涵青花园(二期) 2室2厅 南/北",
@@ -169,8 +169,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 49.4,
-      "lat": 31.33285,
-      "lng": 121.397406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·大华享寓 锦秋路8号楼店 五一敬耕耘·享福利9.5折起！无中介民用水电煤有停车位,可用公积金可办居住证！ 2室1厅",
@@ -207,8 +207,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 62.8,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·金地草莓社区 上海大学店 【顶配公区】新开保租房大社区 自有物业 免费1500平公区 开间",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 65.3,
-      "lat": 31.325981,
-      "lng": 121.396583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·金地草莓社区 南大店 【提取公积金】保租房 朝南一室户 南北通透 开间",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 52.5,
-      "lat": 31.309135,
-      "lng": 121.404648
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·金地草莓社区 南大旗舰店 【品牌公寓】金地草莓社区 精装一室户 可办理居住证 免费班车接驳 开间",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 56.5,
-      "lat": 31.330449,
-      "lng": 121.403645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连四村 1室1厅 南",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 16:03:00",
       "region": "shangda",
       "unit_price": 44.1,
-      "lat": 31.316938,
-      "lng": 121.382664
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦龙苑 2室2厅 南",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 48.0,
-      "lat": 31.312662,
-      "lng": 121.378625
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利熙悦 3室2厅 南/北",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 16:03:00",
       "region": "shangda",
       "unit_price": 69.4,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·信宝公寓 丰翔路店 年租减免一个月房租/独立一居室/南北通透/拎包入住 /押一付一 开间",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 74.2,
-      "lat": 31.308592,
-      "lng": 121.399418
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·楠棠公寓 旭东锦社区上大店 ins风精装大一室，双地铁，可办居住证，可提公积金，民水民电 1室1厅",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 53.6,
-      "lat": 31.313913,
-      "lng": 121.384375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大华朗香花园(三期) 3室2厅 南/北",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 16:03:00",
       "region": "shangda",
       "unit_price": 70.9,
-      "lat": 31.320444,
-      "lng": 121.378365
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大华朗香花园(四期) 2室2厅 南/北",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 16:03:00",
       "region": "shangda",
       "unit_price": 76.8,
-      "lat": 31.321666,
-      "lng": 121.380696
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋路1188弄 6室2厅 南",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 89.1,
-      "lat": 31.318808,
-      "lng": 121.379959
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬观澜弘郡家园(三期) 1室1厅 南",
@@ -530,8 +530,8 @@
       "scraped_at": "2026-04-23 16:03:00",
       "region": "shangda",
       "unit_price": 69.5,
-      "lat": 31.325981,
-      "lng": 121.396583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·珈朵花园公寓 园新路店 舒适一室 边套落地窗正朝南 1室1厅",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 58.6,
-      "lat": 31.330449,
-      "lng": 121.403645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·滨江公园壹号 3室2厅 南/北",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 16:03:03",
       "region": "shangda",
       "unit_price": 87.6,
-      "lat": 31.326647,
-      "lng": 121.381481
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇枫景苑 1室1厅 南",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 70.0,
-      "lat": 31.322695,
-      "lng": 121.370832
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大阳光乾泽园 3室2厅 南",
@@ -625,8 +625,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 55.8,
-      "lat": 31.312475,
-      "lng": 121.406724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝祁雅苑(北区) 2室1厅 南",
@@ -644,8 +644,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 64.3,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大华朗香公园里 3室2厅 南/北",
@@ -663,8 +663,8 @@
       "scraped_at": "2026-04-23 16:03:03",
       "region": "shangda",
       "unit_price": 87.3,
-      "lat": 31.319797,
-      "lng": 121.40549
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 2室2厅 南/北",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 64.4,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬弘汇地标家园 2室2厅 南/北",
@@ -701,8 +701,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 67.9,
-      "lat": 31.325269,
-      "lng": 121.398161
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧华苑 3室2厅 南",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 53.8,
-      "lat": 31.308949,
-      "lng": 121.396989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利熙悦 4室2厅 南/北",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 58.5,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·禾怡公寓 锦秋路店 保障房，民水民电，外窗单间 开间",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 57.0,
-      "lat": 31.313913,
-      "lng": 121.384375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 2室2厅 东/南",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 16:03:03",
       "region": "shangda",
       "unit_price": 58.3,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·成事高邸 2室2厅 南",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 56.7,
-      "lat": 31.311793,
-      "lng": 121.405404
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 1室2厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 16:03:03",
       "region": "shangda",
       "unit_price": 64.6,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·中铁建恒寓 上海大学店 租期灵活!精装修独卫一居室 毗邻7号线 15号线 南大公园 开间",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 49.6,
-      "lat": 31.309529,
-      "lng": 121.385184
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝祁雅苑(北区) 2室2厅 南",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 61.4,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·大华享寓 锦秋路店 莺时·开发商直租/无中介/民用水电通燃气/地下车位/可提取公积金 1室1厅",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 54.7,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞丰园 3室1厅 南",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 59.9,
-      "lat": 31.317263,
-      "lng": 121.377331
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 1室1厅 南",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 16:03:03",
       "region": "shangda",
       "unit_price": 81.9,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 2室1厅 南",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 16:03:03",
       "region": "shangda",
       "unit_price": 63.6,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝祁雅苑(北区) 2室1厅 南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 78.1,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大华朗香花园(二期) 2室2厅 南/北",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 73.3,
-      "lat": 31.321295,
-      "lng": 121.377929
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连家园 4室1厅 南/北",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 49.1,
-      "lat": 31.31274,
-      "lng": 121.382711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·LIN舍 临港南大人才社区 新开免租3个月/15号线地铁口/精装朝南/民水民电/可办居住证 开间",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 59.5,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利叶之林(三期) 3室2厅 南/北",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 68.0,
-      "lat": 31.324512,
-      "lng": 121.37411
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连二村 2室1厅 南",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 53.8,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连二村 2室1厅 南",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 59.9,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利熙悦 3室1厅 南",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 69.3,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚丰景都 2室2厅 南",
@@ -1176,8 +1176,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 56.8,
-      "lat": 31.311023,
-      "lng": 121.374373
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬城市绿洲 2室1厅 南",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 57.1,
-      "lat": 31.330449,
-      "lng": 121.403645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连二村 1室1厅 南",
@@ -1214,8 +1214,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 81.1,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇枫景苑 2室1厅 南",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 71.2,
-      "lat": 31.322695,
-      "lng": 121.370832
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(商业类) 1室1厅 北",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 56.1,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 3室2厅 南/北",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 57.1,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大阳光乾清园 2室2厅 南/北",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 60.2,
-      "lat": 31.312475,
-      "lng": 121.406724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·远东君悦庭 2室1厅 南",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 74.1,
-      "lat": 31.322689,
-      "lng": 121.394303
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学府涵青花园(二期) 2室2厅 南/北",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 54.5,
-      "lat": 31.33285,
-      "lng": 121.397406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·滨江公园壹号 3室2厅 南",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 67.4,
-      "lat": 31.326647,
-      "lng": 121.381481
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大阳光乾静园 2室2厅 南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 61.9,
-      "lat": 31.312475,
-      "lng": 121.406724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 1室2厅 南",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 63.6,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利熙悦 3室2厅 南/北",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 65.2,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利叶之林(一期) 3室2厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 16:03:06",
       "region": "shangda",
       "unit_price": 56.7,
-      "lat": 31.324886,
-      "lng": 121.378703
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学府涵青花园(二期) 2室1厅 南",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 59.1,
-      "lat": 31.33285,
-      "lng": 121.397406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·学林苑 3室1厅 南/北",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 60.4,
-      "lat": 31.313913,
-      "lng": 121.384375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 3室1厅 东/西北/北",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 65.5,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学府涵青花园(二期) 2室2厅 南/北",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 56.0,
-      "lat": 31.33285,
-      "lng": 121.397406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 3室2厅 南",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 57.6,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大华朗香花园(四期) 2室1厅 南/北",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 75.5,
-      "lat": 31.321666,
-      "lng": 121.380696
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧华苑 3室2厅 南",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 62.8,
-      "lat": 31.308949,
-      "lng": 121.396989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰宝苑 1室1厅 南",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 87.9,
-      "lat": 31.316365,
-      "lng": 121.373435
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦龙苑 1室1厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 60.5,
-      "lat": 31.312662,
-      "lng": 121.378625
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·乾溪三村 1室1厅 南",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 69.1,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬观澜弘郡家园(三期) 3室2厅 南/北",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 61.5,
-      "lat": 31.325981,
-      "lng": 121.396583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝祁雅苑(北区) 2室2厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 67.5,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学府涵青花园(二期) 3室2厅 南/北",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 44.2,
-      "lat": 31.33285,
-      "lng": 121.397406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连一村 2室1厅 南/北",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 50.7,
-      "lat": 31.312195,
-      "lng": 121.38012
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·乾溪三村 2室1厅 南",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 82.8,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·远东君悦庭 2室2厅 南/北",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 82.2,
-      "lat": 31.322689,
-      "lng": 121.394303
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(商业类) 2室1厅 南",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 59.7,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连四村 3室2厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 40.1,
-      "lat": 31.316938,
-      "lng": 121.382664
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 2室2厅 南",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 16:03:10",
       "region": "shangda",
       "unit_price": 64.5,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬阳光水岸家园(一期) 1室1厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 66.5,
-      "lat": 31.328715,
-      "lng": 121.403735
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·大华朗香公园里 3室2厅 南/北",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 94.8,
-      "lat": 31.319797,
-      "lng": 121.40549
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰秀雅苑 1室1厅 南",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 81.8,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(商业类) 2室1厅 南",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 71.1,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利叶之林(一期) 3室2厅 南",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 60.9,
-      "lat": 31.324886,
-      "lng": 121.378703
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学府涵青花园(二期) 2室2厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 51.9,
-      "lat": 31.33285,
-      "lng": 121.397406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦龙苑 3室2厅 南/北",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 58.3,
-      "lat": 31.312662,
-      "lng": 121.378625
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬观澜弘郡家园(三期) 3室2厅 南/北",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 68.7,
-      "lat": 31.325981,
-      "lng": 121.396583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·葑润华庭 1室1厅 南",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 83.3,
-      "lat": 31.323777,
-      "lng": 121.380965
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连一村 2室1厅 南",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 78.1,
-      "lat": 31.312195,
-      "lng": 121.38012
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连三村 2室1厅 南",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 68.7,
-      "lat": 31.311625,
-      "lng": 121.382869
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利熙悦 3室2厅 南",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 69.4,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大聚丰园 3室2厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 53.8,
-      "lat": 31.309529,
-      "lng": 121.385184
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利叶之林(一期) 3室1厅 南/北",
@@ -2050,8 +2050,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 55.3,
-      "lat": 31.324886,
-      "lng": 121.378703
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大阳光乾静园 2室2厅 南/北",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 70.0,
-      "lat": 31.312475,
-      "lng": 121.406724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·学林苑 3室2厅 南",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 61.0,
-      "lat": 31.313913,
-      "lng": 121.384375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇枫景苑 2室1厅 南",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 65.1,
-      "lat": 31.322695,
-      "lng": 121.370832
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·涵秋雅苑 3室2厅 南/北",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 49.6,
-      "lat": 31.087538,
-      "lng": 121.162133
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬阳光水岸家园(一期) 2室2厅 南/北",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 62.5,
-      "lat": 31.328715,
-      "lng": 121.403735
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连一村 2室1厅 南",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 66.8,
-      "lat": 31.312195,
-      "lng": 121.38012
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(商业类) 2室2厅 北",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 71.1,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·远东君悦庭 2室2厅 南",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 16:03:13",
       "region": "shangda",
       "unit_price": 77.7,
-      "lat": 31.322689,
-      "lng": 121.394303
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬阳光水岸家园(一期) 1室1厅 南",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 66.5,
-      "lat": 31.328715,
-      "lng": 121.403735
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连二村 2室1厅 南",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 58.1,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连四村 2室1厅 南/北",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 67.5,
-      "lat": 31.316938,
-      "lng": 121.382664
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(别墅) 4室2厅 南",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 58.8,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·学林苑 3室2厅 南",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 61.6,
-      "lat": 31.313913,
-      "lng": 121.384375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利叶之林(一期) 3室2厅 南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 72.1,
-      "lat": 31.324886,
-      "lng": 121.378703
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰翔新城 3室1厅 南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 54.2,
-      "lat": 31.315693,
-      "lng": 121.348028
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 3室2厅 南/北",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 61.2,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利海上瑧悦 3室2厅 南",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 78.8,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(商业类) 2室2厅 南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 74.5,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利叶之林(一期) 3室2厅 南/北",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 68.8,
-      "lat": 31.324886,
-      "lng": 121.378703
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·葑润华庭 4室0厅 南/北",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 51.8,
-      "lat": 31.323777,
-      "lng": 121.380965
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(宝山) 2室2厅 南",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 60.2,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(商业类) 2室1厅 北",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 39.2,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 2室2厅 南/北",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 63.9,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连三村 2室1厅 南",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 54.2,
-      "lat": 31.311625,
-      "lng": 121.382869
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连二村 2室1厅 南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 89.2,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬观澜弘郡家园(三期) 1室1厅 南/北",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 73.2,
-      "lat": 31.325981,
-      "lng": 121.396583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利熙悦 3室2厅 南/北",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 73.5,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 2室1厅 北",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 110.2,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 1室1厅 南",
@@ -2601,8 +2601,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 75.0,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦龙苑 3室2厅 南/北",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 46.0,
-      "lat": 31.312662,
-      "lng": 121.378625
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大阳光乾静园 5室1厅 南/北",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 54.7,
-      "lat": 31.312475,
-      "lng": 121.406724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连三村 2室1厅 南/北",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 58.9,
-      "lat": 31.311625,
-      "lng": 121.382869
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连二村 2室1厅 南/北",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 65.2,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·涵秋雅苑 2室1厅 南/北",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 63.3,
-      "lat": 31.087538,
-      "lng": 121.162133
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·葑润华庭 2室0厅 南",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 71.4,
-      "lat": 31.323777,
-      "lng": 121.380965
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰宝苑 2室2厅 南/北",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 42.2,
-      "lat": 31.316365,
-      "lng": 121.373435
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬观澜弘郡家园(三期) 5室2厅 南/北",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 98.8,
-      "lat": 31.325981,
-      "lng": 121.396583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·乾溪三村 1室1厅 南",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 16:03:16",
       "region": "shangda",
       "unit_price": 83.4,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚丰景都 2室2厅 南/北",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 59.8,
-      "lat": 31.311023,
-      "lng": 121.374373
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大聚丰园 2室2厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 50.1,
-      "lat": 31.309529,
-      "lng": 121.385184
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 4室0厅 南",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 76.3,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·涵秋雅苑 2室1厅 南",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 72.1,
-      "lat": 31.087538,
-      "lng": 121.162133
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连二村 1室1厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 93.7,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝祁雅苑 1室1厅 南",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 75.0,
-      "lat": 31.320991,
-      "lng": 121.372014
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬观澜弘郡家园(三期) 4室2厅 南",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 76.0,
-      "lat": 31.325981,
-      "lng": 121.396583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬观澜弘郡家园(三期) 1室1厅 南/北",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 75.0,
-      "lat": 31.325981,
-      "lng": 121.396583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(宝山) 3室2厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 65.0,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·涵秋雅苑 3室1厅 南/西南/北",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 63.7,
-      "lat": 31.087538,
-      "lng": 121.162133
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泓尚新苑 1室1厅 南",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 79.6,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·学林苑 2室2厅 南/北",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 86.2,
-      "lat": 31.313913,
-      "lng": 121.384375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬观澜弘郡家园(三期) 4室2厅 东",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 56.6,
-      "lat": 31.325981,
-      "lng": 121.396583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利叶之林(二期) 3室2厅 南/北",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 64.6,
-      "lat": 31.324914,
-      "lng": 121.376575
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬城市绿洲 2室1厅 南/北",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 52.9,
-      "lat": 31.330449,
-      "lng": 121.403645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝祁雅苑(北区) 2室1厅 南",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 65.6,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学府涵青花园(二期) 2室2厅 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 58.0,
-      "lat": 31.33285,
-      "lng": 121.397406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大阳光乾泽园 2室2厅 南/北",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 53.2,
-      "lat": 31.312475,
-      "lng": 121.406724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·学林苑 2室2厅 南",
@@ -3133,8 +3133,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 61.0,
-      "lat": 31.313913,
-      "lng": 121.384375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(公寓) 2室2厅 南",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 58.0,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泓尚新苑 2室2厅 南",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 65.8,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧华苑 2室2厅 南/北",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 65.4,
-      "lat": 31.308949,
-      "lng": 121.396989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大阳光乾泽园 2室2厅 南",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 57.5,
-      "lat": 31.312475,
-      "lng": 121.406724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连四村 1室1厅 南",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 68.3,
-      "lat": 31.316938,
-      "lng": 121.382664
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬城市绿洲 2室2厅 南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 87.6,
-      "lat": 31.330449,
-      "lng": 121.403645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 2室1厅 南/西北",
@@ -3266,8 +3266,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 53.1,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连一村 3室1厅 南/北",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 89.3,
-      "lat": 31.312195,
-      "lng": 121.38012
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝祁雅苑(北区) 4室0厅 南",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 59.7,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦秋花园(别墅) 4室2厅 南",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 95.2,
-      "lat": 31.32637,
-      "lng": 121.387701
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连一村 2室1厅 南",
@@ -3342,8 +3342,8 @@
       "scraped_at": "2026-04-23 16:03:19",
       "region": "shangda",
       "unit_price": 69.9,
-      "lat": 31.312195,
-      "lng": 121.38012
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬城市绿洲 2室2厅 南/北",
@@ -3361,8 +3361,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 64.2,
-      "lat": 31.330449,
-      "lng": 121.403645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·学林苑 1室1厅 南",
@@ -3380,8 +3380,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 75.0,
-      "lat": 31.313913,
-      "lng": 121.384375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·乾溪三村 1室1厅 南",
@@ -3399,8 +3399,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 102.4,
-      "lat": 31.405242,
-      "lng": 121.489431
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大聚丰园 2室2厅 南",
@@ -3418,8 +3418,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 50.7,
-      "lat": 31.309529,
-      "lng": 121.385184
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬城市绿洲 3室1厅 南",
@@ -3437,8 +3437,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 56.3,
-      "lat": 31.330449,
-      "lng": 121.403645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大阳光乾清园 3室2厅 南/北",
@@ -3456,8 +3456,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 75.8,
-      "lat": 31.312475,
-      "lng": 121.406724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(商业类) 1室1厅 南",
@@ -3475,8 +3475,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 57.5,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧华苑 3室2厅 南",
@@ -3494,8 +3494,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 67.3,
-      "lat": 31.308949,
-      "lng": 121.396989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连欣苑 3室2厅 复式 南",
@@ -3513,8 +3513,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 63.5,
-      "lat": 31.311224,
-      "lng": 121.377318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金地艺境(商业类) 1室1厅 东南",
@@ -3532,8 +3532,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 58.4,
-      "lat": 31.318287,
-      "lng": 121.34861
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连欣苑 1室1厅 南",
@@ -3551,8 +3551,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 62.2,
-      "lat": 31.311224,
-      "lng": 121.377318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学士逸居家园(五期) 3室1厅 南",
@@ -3570,8 +3570,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 60.0,
-      "lat": 31.325008,
-      "lng": 121.404901
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连四村 2室2厅 南",
@@ -3589,8 +3589,8 @@
       "scraped_at": "2026-04-23 16:03:22",
       "region": "shangda",
       "unit_price": 45.9,
-      "lat": 31.316938,
-      "lng": 121.382664
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝祁雅苑(北区) 3室1厅 南",
@@ -3608,8 +3608,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 57.2,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·学林苑 2室1厅 南",
@@ -3627,8 +3627,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 58.6,
-      "lat": 31.313913,
-      "lng": 121.384375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连家园 2室2厅 南",
@@ -3646,8 +3646,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 63.9,
-      "lat": 31.31274,
-      "lng": 121.382711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 2室1厅 南",
@@ -3665,8 +3665,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 49.9,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦泰苑 2室2厅 南/北",
@@ -3684,8 +3684,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 53.3,
-      "lat": 31.317195,
-      "lng": 121.38044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬阳光水岸家园(一期) 2室1厅 南/北",
@@ -3703,8 +3703,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 65.5,
-      "lat": 31.328715,
-      "lng": 121.403735
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连二村 2室1厅 南/北",
@@ -3722,8 +3722,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 63.0,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 2室1厅 西北/北",
@@ -3741,8 +3741,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 59.6,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰宝苑 1室1厅 南",
@@ -3760,8 +3760,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 70.3,
-      "lat": 31.316365,
-      "lng": 121.373435
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学府涵青花园(二期) 2室2厅 南",
@@ -3779,8 +3779,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 57.5,
-      "lat": 31.33285,
-      "lng": 121.397406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧华苑 1室1厅 南",
@@ -3798,8 +3798,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 70.0,
-      "lat": 31.308949,
-      "lng": 121.396989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚丰景都 3室2厅 南",
@@ -3817,8 +3817,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 51.8,
-      "lat": 31.311023,
-      "lng": 121.374373
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧华苑 1室1厅 南",
@@ -3836,8 +3836,8 @@
       "scraped_at": "2026-04-23 16:03:26",
       "region": "shangda",
       "unit_price": 67.7,
-      "lat": 31.308949,
-      "lng": 121.396989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连二村 2室1厅 南/北",
@@ -3855,8 +3855,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 58.1,
-      "lat": 31.316248,
-      "lng": 121.37932
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧华苑 2室2厅 南/北",
@@ -3874,8 +3874,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 56.3,
-      "lat": 31.308949,
-      "lng": 121.396989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰宝苑 2室1厅 南/北",
@@ -3893,8 +3893,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 67.2,
-      "lat": 31.316365,
-      "lng": 121.373435
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚丰景都 2室1厅 南/北",
@@ -3912,8 +3912,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 56.1,
-      "lat": 31.311023,
-      "lng": 121.374373
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·经纬学府涵青花园(二期) 2室2厅 南/北",
@@ -3931,8 +3931,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 61.1,
-      "lat": 31.33285,
-      "lng": 121.397406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝祁雅苑(北区) 2室1厅 南",
@@ -3950,8 +3950,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 55.6,
-      "lat": 31.319694,
-      "lng": 121.371341
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧华苑 3室1厅 南",
@@ -3969,8 +3969,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 54.5,
-      "lat": 31.308949,
-      "lng": 121.396989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧华苑 2室1厅 南",
@@ -3988,8 +3988,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 83.0,
-      "lat": 31.308949,
-      "lng": 121.396989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连一村 2室1厅 南",
@@ -4007,8 +4007,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 61.7,
-      "lat": 31.312195,
-      "lng": 121.38012
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地领海(商业类) 2室1厅 南",
@@ -4026,8 +4026,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 58.4,
-      "lat": 31.315053,
-      "lng": 121.34968
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上大阳光乾泽园 3室2厅 南",
@@ -4045,8 +4045,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 51.4,
-      "lat": 31.312475,
-      "lng": 121.406724
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连一村 2室1厅 南",
@@ -4064,8 +4064,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 69.4,
-      "lat": 31.312195,
-      "lng": 121.38012
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·葑润华庭 1室1厅 南",
@@ -4083,8 +4083,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 86.2,
-      "lat": 31.323777,
-      "lng": 121.380965
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利叶之林(一期) 3室2厅 南/北",
@@ -4102,8 +4102,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 47.5,
-      "lat": 31.324886,
-      "lng": 121.378703
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利叶之林(二期) 3室2厅 南",
@@ -4121,8 +4121,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 52.0,
-      "lat": 31.324914,
-      "lng": 121.376575
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连四村 2室1厅 南",
@@ -4140,8 +4140,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 58.4,
-      "lat": 31.316938,
-      "lng": 121.382664
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连一村 1室1厅 南",
@@ -4159,8 +4159,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 70.1,
-      "lat": 31.312195,
-      "lng": 121.38012
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祁连四村 1室2厅 南",
@@ -4178,8 +4178,8 @@
       "scraped_at": "2026-04-23 16:04:09",
       "region": "shangda",
       "unit_price": 53.9,
-      "lat": 31.316938,
-      "lng": 121.382664
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -4197,8 +4197,8 @@
       "scraped_at": "2026-04-23 16:04:19",
       "region": "shangda",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -4216,8 +4216,8 @@
       "scraped_at": "2026-04-23 16:04:19",
       "region": "shangda",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园(二期) 4室2厅 复式 南",
@@ -4235,8 +4235,8 @@
       "scraped_at": "2026-04-23 16:04:19",
       "region": "shangda",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 5室3厅 复式 南",

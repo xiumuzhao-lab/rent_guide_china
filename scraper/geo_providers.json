@@ -1,0 +1,21 @@
+{
+  "providers": [
+    {
+      "type": "tencent",
+      "enabled": true,
+      "priority": 1,
+      "keys": [
+        {"key": "4ZCBZ-PZDCC-N6Z2O-A5DJW-67RSF-LRFJ2", "sk": "u758t5ZeP1ynojtp37wookEMHRw2zPLo"},
+        {"key": "Z4KBZ-QHM67-5KMXB-PRNQA-5PMTZ-PLFEP", "sk": "kgjdjnYPWaMudtcxveTarvvAE4VSyTjz"}
+      ]
+    },
+    {
+      "type": "tianditu",
+      "enabled": true,
+      "priority": 2,
+      "keys": [
+        {"token": "fa67e47eee7dba69ad0e3e418fe3b977"}
+      ]
+    }
+  ]
+}

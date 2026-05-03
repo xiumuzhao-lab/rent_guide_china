@@ -448,3 +448,73 @@ Call log:
   File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
     self.result = await self.func(*args, **kwargs)
 
+2026-05-02 10:31:38 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-05-02 10:31:41 [ERROR] 分析 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-05-02 19:48:08 [ERROR] 爬取 | RuntimeError: 浦东 (pudong) 不在区域配置文件中
+请运行 python3.10 scrape_regions.py 更新配置，或检查区域名称是否正确 | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 170, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages, city=city)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 499, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-05-02 19:48:13 [ERROR] 爬取 | RuntimeError: 浦东 (pudong) 不在区域配置文件中
+请运行 python3.10 scrape_regions.py 更新配置，或检查区域名称是否正确 | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 170, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages, city=city)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 499, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-05-02 19:48:22 [ERROR] 爬取 | RuntimeError: 浦东 (pudong) 不在区域配置文件中
+请运行 python3.10 scrape_regions.py 更新配置，或检查区域名称是否正确 | 重试第 3 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 170, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages, city=city)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 499, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-05-02 19:48:23 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-05-02 19:48:25 [ERROR] 地图 | TypeError: object NoneType can't be used in 'await' expression | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    self.result = await self.func(*args, **kwargs)
+
+2026-05-03 05:15:39 [ERROR] 爬取 | RuntimeError: al (al) 不在区域配置文件中
+请运行 python3.10 scrape_regions.py 更新配置，或检查区域名称是否正确 | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 251, in execute
+    result = await result
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 204, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages, city=city)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 499, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-05-03 05:15:43 [ERROR] 爬取 | RuntimeError: al (al) 不在区域配置文件中
+请运行 python3.10 scrape_regions.py 更新配置，或检查区域名称是否正确 | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 251, in execute
+    result = await result
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 204, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages, city=city)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 499, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+
+2026-05-03 05:15:51 [ERROR] 爬取 | RuntimeError: al (al) 不在区域配置文件中
+请运行 python3.10 scrape_regions.py 更新配置，或检查区域名称是否正确 | 重试第 3 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 251, in execute
+    result = await result
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 204, in _step_scrape
+    return await scrape_with_browser(selected_areas, max_pages, city=city)
+  File "/Users/admin/lianjia/scraper/scraper_core.py", line 499, in scrape_with_browser
+    subareas = await _detect_subareas(page, area_slug)
+

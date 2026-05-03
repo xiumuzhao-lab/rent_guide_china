@@ -4,6 +4,7 @@
 集中管理爬虫、地图、存储等所有配置项。
 """
 
+from datetime import datetime
 from pathlib import Path
 
 # ============================================================
@@ -13,8 +14,92 @@ from pathlib import Path
 PROJECT_DIR = Path(__file__).parent.parent
 OUTPUT_DIR = PROJECT_DIR / "output"
 USER_DATA_DIR = PROJECT_DIR / ".browser_data"
-GEO_CACHE_FILE = OUTPUT_DIR / "community_geo_cache.json"
 ERROR_LOG_FILE = OUTPUT_DIR / "error.log"
+
+# ============================================================
+# 城市配置
+# ============================================================
+
+# 当前城市 (可通过 --city 参数覆盖)
+CITY = 'shanghai'
+
+# 城市中文名
+CITY_NAMES = {
+    'shanghai': '上海',
+    'beijing': '北京',
+    'guangzhou': '广州',
+    'shenzhen': '深圳',
+    'hangzhou': '杭州',
+    'chengdu': '成都',
+    'nanjing': '南京',
+}
+
+# 城市对应的链家 URL 前缀
+CITY_URL_PREFIX = {
+    'shanghai': 'sh',
+    'beijing': 'bj',
+    'guangzhou': 'gz',
+    'shenzhen': 'sz',
+    'hangzhou': 'hz',
+    'chengdu': 'cd',
+    'nanjing': 'nj',
+}
+
+
+def get_city_dir(city: str = None) -> Path:
+    """
+    获取城市根目录.
+
+    Args:
+        city: 城市标识，None 则使用全局 CITY
+
+    Returns:
+        Path: output/{city}/
+    """
+    city = city or CITY
+    return OUTPUT_DIR / city
+
+
+def get_output_dir(city: str = None, month: str = None) -> Path:
+    """
+    获取当前月份的输出目录.
+
+    Args:
+        city: 城市标识，None 则使用全局 CITY
+        month: 月份字符串 (如 '2026-05')，None 则使用当前月份
+
+    Returns:
+        Path: output/{city}/{YYYY-MM}/
+    """
+    city = city or CITY
+    if month is None:
+        month = datetime.now().strftime('%Y-%m')
+    return OUTPUT_DIR / city / month
+
+
+def get_geo_cache_file(city: str = None) -> Path:
+    """
+    获取城市的地理编码缓存文件路径.
+
+    优先使用新路径 output/{city}/community_geo_cache.json，
+    若不存在则 fallback 到旧路径 output/community_geo_cache.json。
+
+    Args:
+        city: 城市标识，None 则使用全局 CITY
+
+    Returns:
+        Path: 缓存文件路径
+    """
+    city = city or CITY
+    new_path = get_city_dir(city) / "community_geo_cache.json"
+    old_path = OUTPUT_DIR / "community_geo_cache.json"
+    if new_path.exists():
+        return new_path
+    if old_path.exists():
+        return old_path
+    # 都不存在则返回新路径 (用于创建)
+    return new_path
+
 
 # ============================================================
 # 爬虫配置

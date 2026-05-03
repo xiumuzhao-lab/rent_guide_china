@@ -246,7 +246,10 @@ class PipelineStep:
         last_error = None
         for attempt in range(1, self.max_attempts + 1):
             try:
-                self.result = await self.func(*args, **kwargs)
+                result = self.func(*args, **kwargs)
+                if asyncio.iscoroutine(result):
+                    result = await result
+                self.result = result
                 self.error = None
                 return self.result
             except Exception as e:

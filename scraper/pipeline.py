@@ -6,16 +6,20 @@
 
 import argparse
 import asyncio
+import json
 import logging
 import sys
 from pathlib import Path
 
 from scraper.config import (
     ALL_REGIONS,
+    CITY,
+    CITY_NAMES,
     OUTPUT_DIR,
     PROJECT_DIR,
     REGIONS,
     WORKPLACES,
+    get_output_dir,
 )
 from scraper.utils import (
     deduplicate,
@@ -32,6 +36,7 @@ from scraper.scraper_core import (
 from scraper.storage import (
     clear_partial,
     enrich_with_geo,
+    find_latest_data,
     merge_all_partials,
     refresh_geo_in_files,
     save_results,
@@ -49,6 +54,39 @@ from scraper.geo import get_geocoder
 # ============================================================
 # 辅助函数
 # ============================================================
+
+def _load_regions_for_city(city: str) -> list:
+    """
+    从城市专属 regions_config_{city}.json 加载区域列表.
+
+    优先加载城市专属配置，fallback 到通用配置或 ALL_REGIONS。
+    同时将区域信息注册到全局 REGIONS 字典中。
+
+    Args:
+        city: 城市标识
+
+    Returns:
+        list: 区域 slug 列表
+    """
+    config_path = PROJECT_DIR / 'scraper' / f'regions_config_{city}.json'
+    if not config_path.exists():
+        config_path = PROJECT_DIR / 'scraper' / 'regions_config.json'
+    if not config_path.exists():
+        return ALL_REGIONS[:]
+
+    try:
+        data = json.loads(config_path.read_text(encoding='utf-8'))
+        districts = data.get('districts', {})
+        for slug, info in districts.items():
+            if slug not in REGIONS:
+                REGIONS[slug] = {
+                    'name': info.get('name', slug),
+                    'slug': slug,
+                }
+        return list(districts.keys())
+    except (json.JSONDecodeError, OSError):
+        return ALL_REGIONS[:]
+
 
 def get_workplace(key: str) -> dict:
     """
@@ -91,9 +129,12 @@ def get_workplace(key: str) -> dict:
     sys.exit(1)
 
 
-def find_latest_data() -> Path:
+def find_latest_data_or_exit(city: str = None) -> Path:
     """
-    在 output/ 下查找最新爬取数据.
+    在 output/ 下递归查找最新爬取数据，未找到则退出.
+
+    Args:
+        city: 城市标识，None 则使用全局 CITY
 
     Returns:
         Path: 最新数据文件路径
@@ -101,19 +142,11 @@ def find_latest_data() -> Path:
     Raises:
         SystemExit: 未找到数据文件
     """
-    output_dir = OUTPUT_DIR
-    if not output_dir.exists():
-        logger.error(f"output 目录不存在 — {output_dir}")
-        logger.info("请先运行: python -m scraper.pipeline --areas all")
+    try:
+        return find_latest_data(city)
+    except FileNotFoundError:
+        logger.error("未找到数据文件，请先运行爬虫")
         sys.exit(1)
-
-    for pattern in ["lianjia_all_*.json", "lianjia_*_*.json"]:
-        files = sorted(output_dir.glob(pattern), reverse=True)
-        if files:
-            return files[0]
-
-    logger.error("未找到数据文件，请先运行爬虫")
-    sys.exit(1)
 
 
 def load_data(filepath: str) -> list:
@@ -153,7 +186,7 @@ def load_data(filepath: str) -> list:
 # 流水线步骤函数
 # ============================================================
 
-async def _step_scrape(selected_areas, max_pages, mode, model):
+async def _step_scrape(selected_areas, max_pages, mode, model, city=None):
     """
     爬取步骤.
 
@@ -162,17 +195,19 @@ async def _step_scrape(selected_areas, max_pages, mode, model):
         max_pages: 最大页数
         mode: 爬取模式 (browser/agent)
         model: Agent 模式 LLM
+        city: 城市标识
 
     Returns:
         list: 爬取结果
     """
     if mode == 'browser':
-        return await scrape_with_browser(selected_areas, max_pages)
+        return await scrape_with_browser(selected_areas, max_pages, city=city)
     else:
-        return await scrape_with_agent(selected_areas, max_pages, model)
+        return await scrape_with_agent(selected_areas, max_pages, model,
+                                       city=city)
 
 
-async def _step_save(listings, selected_areas, fmt):
+async def _step_save(listings, selected_areas, fmt, city=None):
     """
     保存步骤.
 
@@ -180,6 +215,7 @@ async def _step_save(listings, selected_areas, fmt):
         listings: 房源数据
         selected_areas: 区域列表
         fmt: 输出格式
+        city: 城市标识
 
     Returns:
         Path or None: 保存的 JSON 文件路径
@@ -188,7 +224,7 @@ async def _step_save(listings, selected_areas, fmt):
         logger.warning("未爬取到任何数据，跳过保存")
         return None
     logger.info(f"\n共爬取 {len(listings)} 条房源数据")
-    return save_results(listings, selected_areas, fmt)
+    return save_results(listings, selected_areas, fmt, city=city)
 
 
 def _step_analyze(listings):
@@ -203,7 +239,7 @@ def _step_analyze(listings):
     analyze_listings(listings)
 
 
-def _step_map(data_path, workplace, max_distance, max_labels):
+def _step_map(data_path, workplace, max_distance, max_labels, city=None):
     """
     地图生成步骤.
 
@@ -227,7 +263,7 @@ def _step_map(data_path, workplace, max_distance, max_labels):
     generate_static_map(community_stats, workplace, max_distance, max_labels)
     generate_html_map(community_stats, workplace, max_distance)
 
-    get_geocoder()._save_cache()
+    get_geocoder(city)._save_cache()
     logger.info("\n地图生成完成!")
 
 
@@ -245,7 +281,9 @@ async def run_pipeline(args):
         args: 解析后的命令行参数
     """
     logger.info("=" * 60)
-    logger.info(f"链家租房数据流水线 | 模式: {args.mode}")
+    city = getattr(args, 'city', CITY)
+    city_name = CITY_NAMES.get(city, city)
+    logger.info(f"链家租房数据流水线 | 城市: {city_name} | 模式: {args.mode}")
     logger.info("=" * 60)
 
     latest_json = None
@@ -259,7 +297,7 @@ async def run_pipeline(args):
         force = getattr(args, 'refresh_geo_force', False)
         mode = "全部重查" if force else "仅刷新hash伪坐标"
         logger.info(f"刷新模式: {mode}")
-        refresh_geo_in_files(force=force)
+        refresh_geo_in_files(force=force, city=city)
         logger.info(error_log.summary())
         notify("链家爬虫", "地理位置刷新完成!")
         if args.skip_scrape and args.skip_map:
@@ -270,7 +308,7 @@ async def run_pipeline(args):
         logger.info(f"\n{'=' * 60}")
         logger.info("数据聚合")
         logger.info(f"{'=' * 60}")
-        latest_json = merge_all_partials(fmt=args.format)
+        latest_json = merge_all_partials(fmt=args.format, city=city)
         if latest_json:
             logger.info(f"合并文件: {latest_json}")
             notify("链家爬虫", f"数据聚合完成: {latest_json.name}")
@@ -282,16 +320,17 @@ async def run_pipeline(args):
     if not args.skip_scrape:
         if args.fresh:
             for slug in args.selected_areas:
-                clear_partial(slug)
+                clear_partial(slug, city=city)
             logger.info(f"已清除 {len(args.selected_areas)} 个区域的断点数据")
 
-        area_names = [REGIONS[a]['name'] for a in args.selected_areas]
+        area_names = [REGIONS.get(a, {}).get('name', a) for a in args.selected_areas]
         logger.info(f"区域: {', '.join(area_names)}")
 
         step_scrape = PipelineStep(
             name="爬取",
             func=lambda: _step_scrape(
-                args.selected_areas, args.max_pages, args.mode, args.model),
+                args.selected_areas, args.max_pages, args.mode, args.model,
+                city=city),
             max_attempts=3,
             backoff_base=5.0,
         )
@@ -308,7 +347,7 @@ async def run_pipeline(args):
         step_save = PipelineStep(
             name="保存",
             func=lambda: _step_save(
-                all_listings, args.selected_areas, args.format),
+                all_listings, args.selected_areas, args.format, city=city),
             max_attempts=3,
             backoff_base=2.0,
         )
@@ -321,8 +360,8 @@ async def run_pipeline(args):
                 import json as json_mod
                 from datetime import datetime
                 ts = datetime.now().strftime('%Y%m%d_%H%M%S')
-                fallback = OUTPUT_DIR / f"lianjia_fallback_{ts}.json"
-                OUTPUT_DIR.mkdir(exist_ok=True)
+                fallback = get_output_dir(city) / f"lianjia_fallback_{ts}.json"
+                fallback.parent.mkdir(parents=True, exist_ok=True)
                 fallback.write_text(
                     json_mod.dumps(all_listings, ensure_ascii=False, indent=2),
                     encoding='utf-8')
@@ -359,7 +398,7 @@ async def run_pipeline(args):
         elif latest_json:
             data_path = latest_json
         else:
-            data_path = find_latest_data()
+            data_path = find_latest_data_or_exit(city)
 
         logger.info(f"\n{'=' * 60}")
         logger.info(f"地图生成 | 工作地点: {workplace['name']} "
@@ -372,7 +411,8 @@ async def run_pipeline(args):
         step_map = PipelineStep(
             name="地图",
             func=lambda: _step_map(
-                data_path, workplace, args.max_distance, max_labels),
+                data_path, workplace, args.max_distance, max_labels,
+                city=city),
             max_attempts=2,
             backoff_base=1.0,
             optional=True,
@@ -409,18 +449,20 @@ def parse_args(argv=None):
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 示例:
-  python -m scraper.pipeline --areas all
+  python -m scraper.pipeline --city shanghai --areas all
+  python -m scraper.pipeline --city beijing --areas all
   python -m scraper.pipeline --areas zhangjiang,jinqiao --max-pages 20
   python -m scraper.pipeline --skip-scrape --workplace 金桥
-  python -m scraper.pipeline --analyze output/lianjia_all_xxx.json
   python -m scraper.pipeline --merge --skip-scrape --skip-map
   python -m scraper.pipeline --refresh-geo --skip-scrape --skip-map
-  python -m scraper.pipeline --refresh-geo --refresh-geo-force --skip-scrape --skip-map
         """,
     )
 
     # 爬虫参数
     scrape_group = parser.add_argument_group('爬虫参数')
+    scrape_group.add_argument('--city', type=str, default='shanghai',
+                              help='城市: shanghai, beijing, guangzhou, shenzhen, '
+                                   'hangzhou, chengdu, nanjing')
     scrape_group.add_argument('--mode', choices=['browser', 'agent'],
                               default='browser', help='爬取模式')
     scrape_group.add_argument('--areas', type=str, default='all',
@@ -464,6 +506,10 @@ def parse_args(argv=None):
 
     args = parser.parse_args(argv)
 
+    # 设置全局城市
+    from scraper import config
+    config.CITY = args.city
+
     # 解析区域
     if args.analyze:
         args.skip_scrape = True
@@ -474,7 +520,7 @@ def parse_args(argv=None):
         args.skip_scrape = True
 
     if args.areas == 'all':
-        args.selected_areas = ALL_REGIONS[:]
+        args.selected_areas = _load_regions_for_city(args.city)
     else:
         args.selected_areas = [a.strip() for a in args.areas.split(',')]
 

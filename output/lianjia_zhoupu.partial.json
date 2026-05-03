@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 54.1,
-      "lat": 31.111543,
-      "lng": 121.626332
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 2室2厅 南/北",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 10:36:51",
       "region": "zhoupu",
       "unit_price": 41.7,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金桥碧云澧悦 3室1厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 10:36:51",
       "region": "zhoupu",
       "unit_price": 72.7,
-      "lat": 31.253862,
-      "lng": 121.600929
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·星灿里 浦东周浦店 原生态裸心风格 开间",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 10:36:51",
       "region": "zhoupu",
       "unit_price": 75.3,
-      "lat": 31.253862,
-      "lng": 121.600929
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 东",
@@ -112,8 +112,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 54.8,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·御沁园东区 4室2厅 南",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 10:36:51",
       "region": "zhoupu",
       "unit_price": 45.5,
-      "lat": 31.10217,
-      "lng": 121.575982
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·立雪苑小区 3室2厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 10:36:51",
       "region": "zhoupu",
       "unit_price": 41.6,
-      "lat": 31.117309,
-      "lng": 121.576931
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·窝趣轻社区 周浦地铁站轻社区 明窗一室户开春特惠公寓直租 1室1厅",
@@ -188,8 +188,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 67.5,
-      "lat": 31.115251,
-      "lng": 121.593352
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·张江医谷酒店式公寓 医谷公寓 近医学园区 一室一厅 带健身房 电梯房 单人间 1室1厅",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 48.3,
-      "lat": 31.092052,
-      "lng": 121.603296
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园健康里 2室1厅 南",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 45.5,
-      "lat": 31.087933,
-      "lng": 121.602886
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明天华城 2室2厅 南",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 54.4,
-      "lat": 31.102434,
-      "lng": 121.579127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沈西小区 9室3厅 南/北",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 10:36:51",
       "region": "zhoupu",
       "unit_price": 77.8,
-      "lat": 31.094092,
-      "lng": 121.580712
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·118空间 周浦店 18号线沈梅路、特价外窗、带独卫、朝南采光好 开间",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 70.6,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室0厅 南",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 10:36:51",
       "region": "zhoupu",
       "unit_price": 58.2,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·贤诺公寓 沈梅路店 露天阳台小户型 可随时看房 1室1厅",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 58.3,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·德浦锦庭 3室2厅 南/北",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 59.8,
-      "lat": 31.110168,
-      "lng": 121.484127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·逸亭佳苑 3室2厅 南/北",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 10:36:51",
       "region": "zhoupu",
       "unit_price": 31.5,
-      "lat": 31.114974,
-      "lng": 121.585923
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 北",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 55.7,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊花园(公寓) 3室2厅 南",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 52.0,
-      "lat": 31.109225,
-      "lng": 121.570992
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·龙威茗庭 2室2厅 南",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 54.2,
-      "lat": 31.109465,
-      "lng": 121.574026
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·浦峻澜庭 周浦店 支持3个月短租，新年火爆活动价，免费班车，地铁18号线免费班车接送，电梯高层 1室1厅",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 51.7,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 2室2厅 南",
@@ -530,8 +530,8 @@
       "scraped_at": "2026-04-23 10:36:54",
       "region": "zhoupu",
       "unit_price": 50.9,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣安居 2室2厅 南/北",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 52.4,
-      "lat": 31.107761,
-      "lng": 121.585944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·微居公寓 周浦店 地铁口整租特价精装一室户 开间",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 59.3,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 东",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 10:36:54",
       "region": "zhoupu",
       "unit_price": 57.4,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金龙新苑 2室2厅 南",
@@ -625,8 +625,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 41.4,
-      "lat": 31.117575,
-      "lng": 121.578386
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·小上海精品酒店式公寓 小上海店 周浦站小上海步行街一居室 1室1厅",
@@ -663,8 +663,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 65.2,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞浦嘉苑 2室1厅 南",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 53.1,
-      "lat": 31.086226,
-      "lng": 121.587087
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·贤诺公寓 周浦店 带小院平层外窗 1室1厅",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 50.0,
-      "lat": 31.113538,
-      "lng": 121.583025
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 南",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 10:36:54",
       "region": "zhoupu",
       "unit_price": 75.9,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧风家园南区 3室2厅 南/北",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 10:36:54",
       "region": "zhoupu",
       "unit_price": 53.7,
-      "lat": 31.09567,
-      "lng": 121.587672
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 2室1厅 南",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 57.1,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 1室1厅 南",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 10:36:54",
       "region": "zhoupu",
       "unit_price": 61.8,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园德康里 3室1厅 南",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 45.8,
-      "lat": 31.090107,
-      "lng": 121.604274
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安阁苑 2室1厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 49.9,
-      "lat": 31.08969,
-      "lng": 121.59047
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东南三村 2室1厅 南",
@@ -853,8 +853,8 @@
       "scraped_at": "2026-04-23 10:36:54",
       "region": "zhoupu",
       "unit_price": 69.2,
-      "lat": 31.110656,
-      "lng": 121.583852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾（二期） 3室2厅 南/北",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 10:36:54",
       "region": "zhoupu",
       "unit_price": 45.5,
-      "lat": 31.094964,
-      "lng": 121.593752
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 2室1厅 南/北",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 10:36:54",
       "region": "zhoupu",
       "unit_price": 54.7,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象生活广场 1室1厅 东",
@@ -910,8 +910,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 72.9,
-      "lat": 31.115251,
-      "lng": 121.593352
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桃园新城中虹佳园东区 2室1厅 南/北",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 58.3,
-      "lat": 31.094923,
-      "lng": 121.585677
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明天华城 2室2厅 南/北",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 61.1,
-      "lat": 31.102434,
-      "lng": 121.579127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣华庭 2室1厅 南",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 64.0,
-      "lat": 31.105526,
-      "lng": 121.571868
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊花园(公寓) 1室1厅 东",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 74.0,
-      "lat": 31.109225,
-      "lng": 121.570992
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明天华城 3室2厅 南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 60.5,
-      "lat": 31.102434,
-      "lng": 121.579127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·小上海新城 1室1厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 73.3,
-      "lat": 31.122144,
-      "lng": 121.579967
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东南三村 2室1厅 南",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 55.9,
-      "lat": 31.110656,
-      "lng": 121.583852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元新村 2室1厅 南",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 78.2,
-      "lat": 31.121299,
-      "lng": 121.57748
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元新村 1室1厅 南",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 74.9,
-      "lat": 31.121299,
-      "lng": 121.57748
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·景戎公寓 周浦店 周浦万达LOFT一居室 1室1厅",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 54.9,
-      "lat": 31.08969,
-      "lng": 121.59047
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明天华城 1室1厅 南/北",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 67.8,
-      "lat": 31.102434,
-      "lng": 121.579127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·周东一村 2室1厅 南/北",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 69.1,
-      "lat": 31.121692,
-      "lng": 121.583658
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·圣鑫苑 2室2厅 南",
@@ -1176,8 +1176,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 55.0,
-      "lat": 31.127585,
-      "lng": 121.585059
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·梓潼新村 2室1厅 南",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 69.6,
-      "lat": 31.121529,
-      "lng": 121.574692
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桃园新城中城苑 2室1厅 南/北",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 68.7,
-      "lat": 31.102755,
-      "lng": 121.585044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室0厅 西",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 69.0,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾(一期) 4室2厅 复式 南/北",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 41.3,
-      "lat": 31.098457,
-      "lng": 121.592323
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·九龙仓兰廷 3室1厅 南",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 87.5,
-      "lat": 31.111563,
-      "lng": 121.591898
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 东/西",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 10:36:56",
       "region": "zhoupu",
       "unit_price": 60.0,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城西岸公园 4室2厅 南/北",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 108.7,
-      "lat": 31.124654,
-      "lng": 121.576466
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明天华城 3室2厅 南",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 52.6,
-      "lat": 31.102434,
-      "lng": 121.579127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·加盟圣蓝 2室2厅 南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 47.2,
-      "lat": 31.118786,
-      "lng": 121.576396
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元三村 3室1厅 南",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 44.7,
-      "lat": 31.121824,
-      "lng": 121.571686
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安阁苑 2室1厅 南",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 44.9,
-      "lat": 31.08969,
-      "lng": 121.59047
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东方晶华园 2室2厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 78.2,
-      "lat": 31.113375,
-      "lng": 121.577718
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新育公寓 3室2厅 南",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 47.8,
-      "lat": 31.116015,
-      "lng": 121.582361
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地东海岸时尚广场 2室1厅 南",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 55.0,
-      "lat": 31.147319,
-      "lng": 121.757064
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾（二期） 4室1厅 南/北",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 50.9,
-      "lat": 31.094964,
-      "lng": 121.593752
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 南",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 70.2,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 2室2厅 南",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 60.0,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 南/北",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 56.9,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光城丽景湾 3室2厅 南/北",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 58.1,
-      "lat": 31.117876,
-      "lng": 121.549913
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明天华城 2室2厅 南",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 68.9,
-      "lat": 31.102434,
-      "lng": 121.579127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣馨苑 2室2厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 48.4,
-      "lat": 31.106038,
-      "lng": 121.587982
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·御沁园西区 5室3厅 复式 南/北",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 76.1,
-      "lat": 31.101433,
-      "lng": 121.57303
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊花园(别墅) 4室2厅 南/北",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 64.0,
-      "lat": 31.109225,
-      "lng": 121.570992
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·圣鑫苑 2室2厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 51.4,
-      "lat": 31.127585,
-      "lng": 121.585059
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 2室1厅 南",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 53.3,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西大街173号 1室1厅 南",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 99.8,
-      "lat": 31.230525,
-      "lng": 121.473667
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城西岸公园 1室1厅 南",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 99.5,
-      "lat": 31.124654,
-      "lng": 121.576466
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·小上海新城 2室2厅 南",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 43.6,
-      "lat": 31.122144,
-      "lng": 121.579967
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·菱翔苑 2室2厅 南",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 59.0,
-      "lat": 31.112088,
-      "lng": 121.569147
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园健康里 2室1厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 54.2,
-      "lat": 31.087933,
-      "lng": 121.602886
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 2室1厅 南/北",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 64.0,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园兴盛里北 2室1厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 59.2,
-      "lat": 31.09744,
-      "lng": 121.605754
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·上南嘉园 2室1厅 南",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 10:37:00",
       "region": "zhoupu",
       "unit_price": 61.3,
-      "lat": 31.116707,
-      "lng": 121.569364
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣安居 2室1厅 南",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 57.6,
-      "lat": 31.107761,
-      "lng": 121.585944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桃园新城中虹佳园东区 1室1厅 南/北",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 67.4,
-      "lat": 31.094923,
-      "lng": 121.585677
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桃园新城中城苑 2室1厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 49.0,
-      "lat": 31.101488,
-      "lng": 121.589273
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城西岸公园 1室1厅 南",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 107.8,
-      "lat": 31.124654,
-      "lng": 121.576466
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇枫公寓 1室1厅 南",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 61.4,
-      "lat": 31.088662,
-      "lng": 121.58374
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安阁苑 2室1厅 南",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 60.6,
-      "lat": 31.08969,
-      "lng": 121.59047
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安阁苑 3室1厅 南",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 48.5,
-      "lat": 31.08969,
-      "lng": 121.59047
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇枫公寓 2室1厅 南/北",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 58.5,
-      "lat": 31.088662,
-      "lng": 121.58374
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室0厅 北",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 76.6,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 2室1厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 47.4,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桃园新城中城苑 2室1厅 南",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 32.6,
-      "lat": 31.117876,
-      "lng": 121.549913
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室0厅 东",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 57.1,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧晶国际 2室1厅 南",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 61.0,
-      "lat": 31.118008,
-      "lng": 121.581172
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 2室2厅 南/北",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 47.1,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧风家园南区 2室1厅 南",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 57.0,
-      "lat": 31.09567,
-      "lng": 121.587672
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明天华城 2室2厅 南/北",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 49.9,
-      "lat": 31.102434,
-      "lng": 121.579127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰和雅苑 2室1厅 南",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 49.3,
-      "lat": 31.101488,
-      "lng": 121.589273
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利艾庐 4室2厅 南",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 54.5,
-      "lat": 31.098932,
-      "lng": 121.640407
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 1室1厅 东/南",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 51.3,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇腾东苑 1室1厅 南/北",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 60.5,
-      "lat": 31.091451,
-      "lng": 121.586578
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 3室2厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 46.3,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾(一期) 2室1厅 南",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 63.2,
-      "lat": 31.098457,
-      "lng": 121.592323
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园泰丰里 2室2厅 南",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 36.2,
-      "lat": 31.092052,
-      "lng": 121.603296
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 2室1厅 南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 51.3,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇枫公寓 2室1厅 南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 50.3,
-      "lat": 31.088662,
-      "lng": 121.58374
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 南",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 10:37:02",
       "region": "zhoupu",
       "unit_price": 71.4,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·浦发东悦城 3室2厅 南",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 58.4,
-      "lat": 31.102755,
-      "lng": 121.585044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 66.4,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 南",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 67.1,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇枫公寓 2室1厅 南",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 46.4,
-      "lat": 31.088662,
-      "lng": 121.58374
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·莫奈庄园 3室2厅 复式 南",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 85.5,
-      "lat": 31.117352,
-      "lng": 121.591614
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·逸亭佳苑 3室1厅 南",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 52.9,
-      "lat": 31.114974,
-      "lng": 121.585923
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 南",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 117.8,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西大街 2室2厅 南",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 113.6,
-      "lat": 31.230525,
-      "lng": 121.473667
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东南二村 1室2厅 南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 68.4,
-      "lat": 31.111478,
-      "lng": 121.582646
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东南二村 2室1厅 南",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 54.4,
-      "lat": 31.111478,
-      "lng": 121.582646
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊花园(公寓) 2室1厅 南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 76.7,
-      "lat": 31.109225,
-      "lng": 121.570992
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东南一村 2室1厅 南/北",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 40.0,
-      "lat": 31.113538,
-      "lng": 121.583025
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·永恒公寓 3室2厅 南",
@@ -2601,8 +2601,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 46.0,
-      "lat": 31.117434,
-      "lng": 121.571579
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园华盛里(南) 2室1厅 南",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 37.3,
-      "lat": 31.089769,
-      "lng": 121.606762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东南一村 1室1厅 南",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 67.5,
-      "lat": 31.113538,
-      "lng": 121.583025
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇腾南苑 2室1厅 南",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 42.7,
-      "lat": 31.08982,
-      "lng": 121.585335
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安阁苑 3室1厅 南",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 48.6,
-      "lat": 31.08969,
-      "lng": 121.59047
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 南",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 60.9,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰和雅苑 2室2厅 南",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 40.7,
-      "lat": 31.101488,
-      "lng": 121.589273
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城西岸公园 4室2厅 南/北",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 105.1,
-      "lat": 31.124654,
-      "lng": 121.576466
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沈默花苑 2室1厅 南",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 38.6,
-      "lat": 31.111972,
-      "lng": 121.577441
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·康林公寓 3室2厅 南",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 50.0,
-      "lat": 31.103688,
-      "lng": 121.580801
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·圣鑫苑 2室2厅 南/北",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 53.0,
-      "lat": 31.127585,
-      "lng": 121.585059
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桃园新城新城中虹佳园北区 4室1厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 52.0,
-      "lat": 31.098502,
-      "lng": 121.584085
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安康新村 2室1厅 南/北",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 57.1,
-      "lat": 31.125385,
-      "lng": 121.58889
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾(三期) 3室2厅 南/北",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 66.7,
-      "lat": 31.091333,
-      "lng": 121.593868
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地景汇佳苑 3室2厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 59.1,
-      "lat": 31.107182,
-      "lng": 121.579528
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇腾东苑 1室1厅 南",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 67.2,
-      "lat": 31.091451,
-      "lng": 121.586578
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇腾南苑 2室2厅 南",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 53.1,
-      "lat": 31.08982,
-      "lng": 121.585335
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧晶国际 2室1厅 南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 10:37:05",
       "region": "zhoupu",
       "unit_price": 65.6,
-      "lat": 31.118008,
-      "lng": 121.581172
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沈默花苑 1室1厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 87.4,
-      "lat": 31.111972,
-      "lng": 121.577441
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·浦发东悦城 3室2厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 61.4,
-      "lat": 31.102755,
-      "lng": 121.585044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园吉祥里 3室2厅 南/北",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 33.0,
-      "lat": 31.08959,
-      "lng": 121.594654
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·葡萄园新村 2室2厅 南",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 48.9,
-      "lat": 31.110634,
-      "lng": 121.576744
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申雅苑 1室1厅 南",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 73.4,
-      "lat": 31.119492,
-      "lng": 121.591314
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园泰丰里 2室1厅 南/北",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 53.4,
-      "lat": 31.092052,
-      "lng": 121.603296
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·桃园新城中虹佳园东区 2室2厅 南",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 58.1,
-      "lat": 31.094923,
-      "lng": 121.585677
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园平安里（北） 2室1厅 南",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 65.5,
-      "lat": 31.100063,
-      "lng": 121.605252
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元新村 1室1厅 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 75.0,
-      "lat": 31.121299,
-      "lng": 121.57748
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园兴盛里北 3室1厅 南",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 52.7,
-      "lat": 31.09744,
-      "lng": 121.605754
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光城丽景湾 4室2厅 南/北",
@@ -3133,8 +3133,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 60.5,
-      "lat": 31.117876,
-      "lng": 121.549913
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金桥碧云澧悦 3室2厅 南/北",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 70.4,
-      "lat": 31.253862,
-      "lng": 121.600929
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾（二期） 3室2厅 南",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 68.6,
-      "lat": 31.094964,
-      "lng": 121.593752
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室0厅 西",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 67.9,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾(一期) 3室2厅 南",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 10:37:07",
       "region": "zhoupu",
       "unit_price": 62.1,
-      "lat": 31.098457,
-      "lng": 121.592323
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利艾庐 3室1厅 南",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 55.3,
-      "lat": 31.098932,
-      "lng": 121.640407
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 3室2厅 南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 50.4,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧风家园南区 2室1厅 南",
@@ -3266,8 +3266,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 37.4,
-      "lat": 31.09567,
-      "lng": 121.587672
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·德浦锦庭 3室1厅 南",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 63.2,
-      "lat": 31.110168,
-      "lng": 121.484127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·梧桐国际 1室1厅 西",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 77.2,
-      "lat": 31.111543,
-      "lng": 121.626332
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 2室1厅 东",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 71.0,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧风家园南区 2室1厅 南",
@@ -3342,8 +3342,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 37.4,
-      "lat": 31.09567,
-      "lng": 121.587672
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧风家园南区 1室1厅 南",
@@ -3361,8 +3361,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 46.3,
-      "lat": 31.09567,
-      "lng": 121.587672
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 2室1厅 南",
@@ -3380,8 +3380,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 53.8,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明天华城 2室2厅 南",
@@ -3399,8 +3399,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 59.8,
-      "lat": 31.102434,
-      "lng": 121.579127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·慧晶国际 2室1厅 北",
@@ -3418,8 +3418,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 84.3,
-      "lat": 31.118008,
-      "lng": 121.581172
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣华庭 2室1厅 南",
@@ -3437,8 +3437,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 66.0,
-      "lat": 31.105526,
-      "lng": 121.571868
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元新村 1室1厅 南",
@@ -3456,8 +3456,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 75.6,
-      "lat": 31.121299,
-      "lng": 121.57748
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·小上海新城 2室1厅 南",
@@ -3475,8 +3475,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 58.8,
-      "lat": 31.122144,
-      "lng": 121.579967
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊花园东区 2室2厅 东南",
@@ -3494,8 +3494,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 39.8,
-      "lat": 31.109958,
-      "lng": 121.572464
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金宝公寓 2室1厅 南/北",
@@ -3513,8 +3513,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 46.4,
-      "lat": 31.120033,
-      "lng": 121.585939
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城西岸公园 3室2厅 南",
@@ -3532,8 +3532,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 71.5,
-      "lat": 31.124654,
-      "lng": 121.576466
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元新村北区 2室1厅 南/北",
@@ -3551,8 +3551,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 63.9,
-      "lat": 31.124212,
-      "lng": 121.575465
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·浦发东悦城 4室1厅 南",
@@ -3570,8 +3570,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 50.2,
-      "lat": 31.102755,
-      "lng": 121.585044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元新村 2室1厅 南",
@@ -3589,8 +3589,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 72.7,
-      "lat": 31.121299,
-      "lng": 121.57748
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安阁苑 1室1厅 南",
@@ -3608,8 +3608,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 48.8,
-      "lat": 31.08969,
-      "lng": 121.59047
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园安康里(东区) 2室2厅 南",
@@ -3627,8 +3627,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 45.0,
-      "lat": 31.096154,
-      "lng": 121.604004
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 南",
@@ -3646,8 +3646,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 53.8,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安阁苑 2室1厅 南",
@@ -3665,8 +3665,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 50.3,
-      "lat": 31.08969,
-      "lng": 121.59047
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园兴盛里北 1室1厅 南",
@@ -3684,8 +3684,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 66.0,
-      "lat": 31.09744,
-      "lng": 121.605754
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾(三期) 3室2厅 南/北",
@@ -3703,8 +3703,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 31.4,
-      "lat": 31.091333,
-      "lng": 121.593868
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇腾南苑 1室1厅 南",
@@ -3722,8 +3722,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 58.8,
-      "lat": 31.08982,
-      "lng": 121.585335
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室1厅 北",
@@ -3741,8 +3741,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 78.4,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明天华城 2室2厅 南",
@@ -3760,8 +3760,8 @@
       "scraped_at": "2026-04-23 10:37:11",
       "region": "zhoupu",
       "unit_price": 67.2,
-      "lat": 31.102434,
-      "lng": 121.579127
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 1室1厅 南",
@@ -3779,8 +3779,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 55.1,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣华庭 1室2厅 南",
@@ -3798,8 +3798,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 85.7,
-      "lat": 31.105526,
-      "lng": 121.571868
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新城西岸公园 3室2厅 南",
@@ -3817,8 +3817,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 105.9,
-      "lat": 31.124654,
-      "lng": 121.576466
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 2室2厅 南",
@@ -3836,8 +3836,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 54.0,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·明逸雅苑 1室1厅 南",
@@ -3855,8 +3855,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 61.3,
-      "lat": 31.10561,
-      "lng": 121.637485
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰和雅苑 2室1厅 南",
@@ -3874,8 +3874,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 51.1,
-      "lat": 31.101488,
-      "lng": 121.589273
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·德馨苑 9室4厅 南/北",
@@ -3893,8 +3893,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 57.8,
-      "lat": 31.094648,
-      "lng": 121.580651
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园安康里(东区) 2室1厅 南",
@@ -3912,8 +3912,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 35.7,
-      "lat": 31.096154,
-      "lng": 121.604004
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣安居 2室2厅 南/北",
@@ -3931,8 +3931,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 53.9,
-      "lat": 31.107761,
-      "lng": 121.585944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧风家园北区 2室1厅 南",
@@ -3950,8 +3950,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 52.3,
-      "lat": 31.097508,
-      "lng": 121.587018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东南三村 2室1厅 南",
@@ -3969,8 +3969,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 60.9,
-      "lat": 31.110656,
-      "lng": 121.583852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊花园东区 2室2厅 南",
@@ -3988,8 +3988,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 53.7,
-      "lat": 31.109958,
-      "lng": 121.572464
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园平安里南 3室2厅 南",
@@ -4007,8 +4007,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 34.8,
-      "lat": 31.100063,
-      "lng": 121.605252
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣安居 1室1厅 南/北",
@@ -4026,8 +4026,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 64.1,
-      "lat": 31.107761,
-      "lng": 121.585944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金龙新苑 3室2厅 南",
@@ -4045,8 +4045,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 48.6,
-      "lat": 31.117575,
-      "lng": 121.578386
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·果园二村 3室2厅 南",
@@ -4064,8 +4064,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 70.3,
-      "lat": 31.108523,
-      "lng": 121.575736
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象生活广场 3室1厅 南",
@@ -4083,8 +4083,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 83.2,
-      "lat": 31.115251,
-      "lng": 121.593352
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊花园(别墅) 4室2厅 南",
@@ -4102,8 +4102,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 61.9,
-      "lat": 31.109225,
-      "lng": 121.570992
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾(一期) 5室2厅 南",
@@ -4121,8 +4121,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 47.1,
-      "lat": 31.098457,
-      "lng": 121.592323
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·圣鑫苑 2室1厅 南/北",
@@ -4140,8 +4140,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 52.7,
-      "lat": 31.127585,
-      "lng": 121.585059
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·圣鑫苑 3室1厅 南/北",
@@ -4159,8 +4159,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 50.7,
-      "lat": 31.127585,
-      "lng": 121.585059
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·莫奈庄园 6室2厅 南/北",
@@ -4178,8 +4178,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 68.7,
-      "lat": 31.117352,
-      "lng": 121.591614
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南郊花园(公寓) 1室1厅 南",
@@ -4197,8 +4197,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 62.9,
-      "lat": 31.109225,
-      "lng": 121.570992
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元新村 2室1厅 南",
@@ -4216,8 +4216,8 @@
       "scraped_at": "2026-04-23 10:37:14",
       "region": "zhoupu",
       "unit_price": 95.0,
-      "lat": 31.121299,
-      "lng": 121.57748
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万达广场(周浦) 1室0厅 南",
@@ -4235,8 +4235,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 60.3,
-      "lat": 31.114427,
-      "lng": 121.568325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利艾庐 3室2厅 复式 东",
@@ -4254,8 +4254,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 79.1,
-      "lat": 31.098932,
-      "lng": 121.640407
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园兴盛里北 1室1厅 南",
@@ -4273,8 +4273,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 58.4,
-      "lat": 31.09744,
-      "lng": 121.605754
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地景汇佳苑 3室1厅 南",
@@ -4292,8 +4292,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 49.2,
-      "lat": 31.107182,
-      "lng": 121.579528
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象生活广场 2室1厅 东",
@@ -4311,8 +4311,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 86.8,
-      "lat": 31.115251,
-      "lng": 121.593352
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·溢泽华庭(一期) 2室2厅 南",
@@ -4330,8 +4330,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 60.6,
-      "lat": 31.11908,
-      "lng": 121.582247
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣安居 2室2厅 南/北",
@@ -4349,8 +4349,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 64.4,
-      "lat": 31.107761,
-      "lng": 121.585944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·梧桐国际 2室2厅 南",
@@ -4368,8 +4368,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 77.6,
-      "lat": 31.111543,
-      "lng": 121.626332
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 1室1厅 南",
@@ -4387,8 +4387,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 65.9,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沈默花苑 2室1厅 南",
@@ -4406,8 +4406,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 53.0,
-      "lat": 31.111972,
-      "lng": 121.577441
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·周东二村 3室2厅 南/北",
@@ -4425,8 +4425,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 55.1,
-      "lat": 31.121082,
-      "lng": 121.585322
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地梧桐院(别墅) 5室2厅 南",
@@ -4444,8 +4444,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 61.8,
-      "lat": 31.105888,
-      "lng": 121.578174
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·周东二村 2室1厅 南",
@@ -4463,8 +4463,8 @@
       "scraped_at": "2026-04-23 10:37:43",
       "region": "zhoupu",
       "unit_price": 41.9,
-      "lat": 31.121082,
-      "lng": 121.585322
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丰汇雅苑 2室1厅 南",
@@ -4482,8 +4482,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 49.4,
-      "lat": 31.111204,
-      "lng": 121.587153
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 1室1厅 南",
@@ -4501,8 +4501,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 63.6,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地景汇佳苑 1室1厅 南",
@@ -4520,8 +4520,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 64.0,
-      "lat": 31.107182,
-      "lng": 121.579528
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·浦发东悦城 3室2厅 南/北",
@@ -4539,8 +4539,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 50.1,
-      "lat": 31.102755,
-      "lng": 121.585044
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·梓潼路256号 5室2厅 南",
@@ -4558,8 +4558,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 50.8,
-      "lat": 31.121783,
-      "lng": 121.567572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象生活广场 1室1厅 西",
@@ -4577,8 +4577,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 94.5,
-      "lat": 31.115251,
-      "lng": 121.593352
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象生活广场 1室1厅 南",
@@ -4596,8 +4596,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 60.3,
-      "lat": 31.115251,
-      "lng": 121.593352
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 2室2厅 南/北",
@@ -4615,8 +4615,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 54.8,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象生活广场 2室1厅 南",
@@ -4634,8 +4634,8 @@
       "scraped_at": "2026-04-23 10:37:55",
       "region": "zhoupu",
       "unit_price": 74.1,
-      "lat": 31.115251,
-      "lng": 121.593352
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元新村北区 2室1厅 南",
@@ -4653,8 +4653,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 58.3,
-      "lat": 31.124212,
-      "lng": 121.575465
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·龙威茗庭 2室1厅 南",
@@ -4672,8 +4672,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 82.2,
-      "lat": 31.109465,
-      "lng": 121.574026
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象生活广场 1室1厅 东",
@@ -4691,8 +4691,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 85.8,
-      "lat": 31.115251,
-      "lng": 121.593352
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申雅苑 2室1厅 南",
@@ -4710,8 +4710,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 48.1,
-      "lat": 31.119492,
-      "lng": 121.591314
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园德康里 3室1厅 南",
@@ -4729,8 +4729,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 47.0,
-      "lat": 31.090107,
-      "lng": 121.604274
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 2室1厅 南",
@@ -4748,8 +4748,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 54.0,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元三村 2室1厅 南",
@@ -4767,8 +4767,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 74.6,
-      "lat": 31.121824,
-      "lng": 121.571686
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 1室1厅 南",
@@ -4786,8 +4786,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 62.4,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·御沁园东区 3室2厅 南",
@@ -4805,8 +4805,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 72.7,
-      "lat": 31.10217,
-      "lng": 121.575982
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沈默花苑 2室2厅 南",
@@ -4824,8 +4824,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 48.8,
-      "lat": 31.111972,
-      "lng": 121.577441
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沈默花苑 3室1厅 南",
@@ -4843,8 +4843,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 61.4,
-      "lat": 31.111972,
-      "lng": 121.577441
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东南二村 2室1厅 南",
@@ -4862,8 +4862,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 75.2,
-      "lat": 31.111478,
-      "lng": 121.582646
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中金海棠湾(三期) 2室2厅 南/北",
@@ -4881,8 +4881,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 61.0,
-      "lat": 31.091333,
-      "lng": 121.593868
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·欧风家园南区 3室2厅 南/北",
@@ -4900,8 +4900,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 52.9,
-      "lat": 31.09567,
-      "lng": 121.587672
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞和苑 1室1厅 南",
@@ -4919,8 +4919,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 58.8,
-      "lat": 31.085602,
-      "lng": 121.588358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣安居 1室1厅 南",
@@ -4938,8 +4938,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 65.9,
-      "lat": 31.107761,
-      "lng": 121.585944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·印象春城 2室1厅 南/北",
@@ -4957,8 +4957,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 52.7,
-      "lat": 31.11722,
-      "lng": 121.588327
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安康新村 3室2厅 南",
@@ -4976,8 +4976,8 @@
       "scraped_at": "2026-04-23 10:38:04",
       "region": "zhoupu",
       "unit_price": 48.4,
-      "lat": 31.125385,
-      "lng": 121.58889
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇枫公寓 1室1厅 南",
@@ -4995,8 +4995,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 66.0,
-      "lat": 31.088662,
-      "lng": 121.58374
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇福家园泰顺里 2室1厅 南",
@@ -5014,8 +5014,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 48.6,
-      "lat": 31.092275,
-      "lng": 121.602018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇丽苑 1室1厅 南",
@@ -5033,8 +5033,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 71.0,
-      "lat": 31.12265,
-      "lng": 121.588274
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公元新村 2室1厅 南",
@@ -5052,8 +5052,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 69.3,
-      "lat": 31.121299,
-      "lng": 121.57748
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东南三村 2室1厅 南",
@@ -5071,8 +5071,8 @@
       "scraped_at": "2026-04-23 10:37:59",
       "region": "zhoupu",
       "unit_price": 60.4,
-      "lat": 31.110656,
-      "lng": 121.583852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -5090,8 +5090,8 @@
       "scraped_at": "2026-04-23 10:38:09",
       "region": "zhoupu",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -5109,8 +5109,8 @@
       "scraped_at": "2026-04-23 10:38:09",
       "region": "zhoupu",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·东郊紫园 4室2厅 复式 南",
@@ -5147,8 +5147,8 @@
       "scraped_at": "2026-04-23 10:38:09",
       "region": "zhoupu",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 5室3厅 复式 南",

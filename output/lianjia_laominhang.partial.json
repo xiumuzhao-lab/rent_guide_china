@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 34.9,
-      "lat": 31.010242,
-      "lng": 121.414989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科公园大道 4室2厅 南",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 14:42:10",
       "region": "laominhang",
       "unit_price": 59.5,
-      "lat": 31.114094,
-      "lng": 121.373115
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·北欧丽景 4室2厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 37.2,
-      "lat": 31.015884,
-      "lng": 121.429509
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·冠寓 上海闵行星悦荟一店 精装公寓 拎包入住干湿分离 学生企业折上折 开间",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 51.5,
-      "lat": 31.007814,
-      "lng": 121.397916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·冠寓 上海-闵行星悦荟二店 限时优惠 月付 整租 实体墙 免费健身房自习室 1室1厅",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 38.2,
-      "lat": 31.008446,
-      "lng": 121.401935
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·建设路29号 4室1厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 14:42:10",
       "region": "laominhang",
       "unit_price": 37.4,
-      "lat": 30.998247,
-      "lng": 121.42398
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·电机五村 2室0厅 南",
@@ -169,8 +169,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 52.5,
-      "lat": 31.005278,
-      "lng": 121.40206
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·闲猫国际青年社区 马桥万达店 阳光边套 可短租 春节期间免房租 闲猫人才公寓马桥万达店 无物业费中介费 押一付一 1室1厅",
@@ -207,8 +207,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 51.2,
-      "lat": 31.001699,
-      "lng": 121.401438
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·华润置地·有巢公寓 马桥AI店 【赠送4000】限时钜惠长租 押一付一 拎包入住 民用水电 1室1厅",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 48.8,
-      "lat": 31.017719,
-      "lng": 121.370995
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗三村 1室1厅 西南",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 61.1,
-      "lat": 31.009816,
-      "lng": 121.395422
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东苑佳和园 2室1厅 南",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 59.4,
-      "lat": 31.011775,
-      "lng": 121.434535
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科城 3室1厅 南",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 14:42:10",
       "region": "laominhang",
       "unit_price": 52.7,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 58.0,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦四街坊 3室2厅 南",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 14:42:13",
       "region": "laominhang",
       "unit_price": 49.0,
-      "lat": 31.020948,
-      "lng": 121.406269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东江小区 1室1厅 南",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 58.0,
-      "lat": 31.007987,
-      "lng": 121.420018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新西街82弄(闵行) 1室1厅 南",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 84.6,
-      "lat": 31.048042,
-      "lng": 121.424547
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·夏朵园 2室2厅 南/北",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 14:42:10",
       "region": "laominhang",
       "unit_price": 44.8,
-      "lat": 31.002847,
-      "lng": 121.412507
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗四街坊 3室1厅 南",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 14:42:10",
       "region": "laominhang",
       "unit_price": 45.5,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科公园大道 3室2厅 南",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 14:42:13",
       "region": "laominhang",
       "unit_price": 61.1,
-      "lat": 31.114094,
-      "lng": 121.373115
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汽轮小区 2室1厅 南/北",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 14:42:10",
       "region": "laominhang",
       "unit_price": 37.0,
-      "lat": 31.004499,
-      "lng": 121.412916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丽都城假日景苑 2室2厅 南",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 52.2,
-      "lat": 31.013055,
-      "lng": 121.408039
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗三村 2室1厅 南",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 59.7,
-      "lat": 31.009816,
-      "lng": 121.395422
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·康乐花园(闵行) 2室1厅 南/北",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 40.9,
-      "lat": 31.00595,
-      "lng": 121.401478
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥景城馨苑 1室1厅 南",
@@ -530,8 +530,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 56.7,
-      "lat": 31.017719,
-      "lng": 121.370995
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥景城馨苑 2室1厅 南",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 14:42:13",
       "region": "laominhang",
       "unit_price": 52.5,
-      "lat": 31.017719,
-      "lng": 121.370995
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 2室1厅 南",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 59.5,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·凤庆小区 1室1厅 东南",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 51.9,
-      "lat": 31.015395,
-      "lng": 121.402665
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·飞碟苑 1室1厅 南",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 61.9,
-      "lat": 31.030165,
-      "lng": 121.392891
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·城家公寓 城家公寓上海江川路地铁站店 免费健身房！免费瑜伽室！【品牌家具、家电全配】毕业季押金减半！ 1室1厅",
@@ -644,8 +644,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 50.4,
-      "lat": 31.013055,
-      "lng": 121.408039
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·冠寓 上海闵行公园店 老闵行交大紫竹考研党最爱/优惠折上折月付不上浮/押一付一 开间",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 57.3,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·福缘公寓 闵行开发区店 地铁 五号线品质公寓 开间",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 86.7,
-      "lat": 31.002835,
-      "lng": 121.404436
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·畅馨园 4室3厅 南",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 14:42:13",
       "region": "laominhang",
       "unit_price": 44.3,
-      "lat": 31.022827,
-      "lng": 121.416809
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东江小区 3室0厅 南",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 62.6,
-      "lat": 31.007987,
-      "lng": 121.420018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新华小区 1室1厅 南",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 85.9,
-      "lat": 31.247629,
-      "lng": 121.490479
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·凤凰景苑 4室2厅 复式 南",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 14:42:13",
       "region": "laominhang",
       "unit_price": 52.3,
-      "lat": 31.162753,
-      "lng": 121.397075
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金铭福邸 3室2厅 南/北",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 14:42:13",
       "region": "laominhang",
       "unit_price": 47.4,
-      "lat": 31.009198,
-      "lng": 121.409394
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丽都城假日景苑 3室2厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 54.2,
-      "lat": 31.013055,
-      "lng": 121.408039
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南洋瑞都剑桥府邸(别墅) 4室2厅 南/北",
@@ -853,8 +853,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 49.9,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥景城馨苑 1室1厅 南",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 54.4,
-      "lat": 31.017719,
-      "lng": 121.370995
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 2室0厅 南",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 56.9,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫藤新园 2室2厅 南",
@@ -910,8 +910,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 40.9,
-      "lat": 31.006985,
-      "lng": 121.399312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村 1室1厅 南",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 67.7,
-      "lat": 31.010671,
-      "lng": 121.416982
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·凤庆小区 1室1厅 西南",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 54.4,
-      "lat": 31.015395,
-      "lng": 121.402665
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东川花苑 1室0厅 南",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 101.1,
-      "lat": 31.007814,
-      "lng": 121.397916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村 2室1厅 南",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 47.6,
-      "lat": 31.010671,
-      "lng": 121.416982
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·禹洲府 2室1厅 南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 66.8,
-      "lat": 31.021744,
-      "lng": 121.377626
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·禹洲府 2室1厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 55.9,
-      "lat": 31.021744,
-      "lng": 121.377626
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·当代万国府MOMA 2室1厅 南",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 70.2,
-      "lat": 31.009053,
-      "lng": 121.429263
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗四街坊 1室1厅 南",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 53.6,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南洋瑞都剑桥府邸(公寓) 2室1厅 南",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 52.2,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗三村 2室1厅 南",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 59.4,
-      "lat": 31.009816,
-      "lng": 121.395422
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村二街坊 3室2厅 南",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 59.0,
-      "lat": 31.010242,
-      "lng": 121.414989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 59.5,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗四街坊 1室1厅 南",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 70.4,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华银坊 4室3厅 南/北",
@@ -1176,8 +1176,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 45.2,
-      "lat": 31.067139,
-      "lng": 121.399492
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村 2室1厅 南",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 68.0,
-      "lat": 31.010671,
-      "lng": 121.416982
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞丽名邸 2室1厅 南",
@@ -1214,8 +1214,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 59.6,
-      "lat": 31.011684,
-      "lng": 121.405474
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村 2室1厅 南",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 14:42:16",
       "region": "laominhang",
       "unit_price": 46.7,
-      "lat": 31.010671,
-      "lng": 121.416982
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华银坊 2室2厅 南",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 40.3,
-      "lat": 31.067139,
-      "lng": 121.399492
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·京浦花园 2室1厅 南",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 72.6,
-      "lat": 31.013787,
-      "lng": 121.430003
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安宁欧洲花园 2室2厅 南",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 47.1,
-      "lat": 31.016171,
-      "lng": 121.41752
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫藤新园 3室2厅 复式 南",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 27.1,
-      "lat": 31.006985,
-      "lng": 121.399312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新华小区 2室1厅 南",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 51.4,
-      "lat": 31.247629,
-      "lng": 121.490479
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 2室1厅 南",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 58.9,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·当代万国府MOMA 2室1厅 南/北",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 98.2,
-      "lat": 31.009053,
-      "lng": 121.429263
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华二小区(闵行) 1室1厅 南",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 50.8,
-      "lat": 31.026233,
-      "lng": 121.414788
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥景城馨苑 2室1厅 南",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 49.6,
-      "lat": 31.017719,
-      "lng": 121.370995
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗五村 2室1厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 57.9,
-      "lat": 31.011458,
-      "lng": 121.404102
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东苑佳和园 2室1厅 南",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 59.4,
-      "lat": 31.011775,
-      "lng": 121.434535
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·昆阳小区 1室1厅 南",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 70.8,
-      "lat": 31.134849,
-      "lng": 121.395799
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·君临六六公寓 1室1厅 南",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 35.9,
-      "lat": 31.006078,
-      "lng": 121.403287
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金榜世家（六期） 2室2厅 南/北",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 58.5,
-      "lat": 31.012151,
-      "lng": 121.428574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金榜人家 3室2厅 错层 南/北",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 43.4,
-      "lat": 31.017032,
-      "lng": 121.418235
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三明花园 2室1厅 南",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 56.8,
-      "lat": 31.015207,
-      "lng": 121.430143
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丽都城假日景苑 1室1厅 南",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 63.3,
-      "lat": 31.013055,
-      "lng": 121.408039
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞丽新村 2室1厅 南",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 52.3,
-      "lat": 31.003085,
-      "lng": 121.411419
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东江小区 2室2厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 50.4,
-      "lat": 31.007987,
-      "lng": 121.420018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·当代万国府MOMA 5室1厅 南/北",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 77.4,
-      "lat": 31.009053,
-      "lng": 121.429263
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星河景苑 1室1厅 南",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 59.6,
-      "lat": 31.002477,
-      "lng": 121.427512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地璀璨天城 1室1厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 68.2,
-      "lat": 31.024232,
-      "lng": 121.376894
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东川花苑 3室1厅 南/北",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 57.8,
-      "lat": 31.007814,
-      "lng": 121.397916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科城 2室2厅 南",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 58.4,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 64.0,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·畅馨园 3室1厅 南",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 14:42:19",
       "region": "laominhang",
       "unit_price": 43.1,
-      "lat": 31.022827,
-      "lng": 121.416809
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·剑桥丽苑 4室2厅 南",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 60.2,
-      "lat": 31.022218,
-      "lng": 121.41464
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星河景苑 2室1厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 64.9,
-      "lat": 31.002477,
-      "lng": 121.427512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 1室0厅 南",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 91.3,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·友好佳苑 2室1厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 44.8,
-      "lat": 31.001699,
-      "lng": 121.401438
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金平小区 2室1厅 南",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 47.2,
-      "lat": 31.01395,
-      "lng": 121.413262
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗三村 2室1厅 南",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 42.4,
-      "lat": 31.009816,
-      "lng": 121.395422
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗四街坊 3室2厅 南",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 49.2,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东苑佳和园 2室1厅 南",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 51.7,
-      "lat": 31.011775,
-      "lng": 121.434535
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东川花苑 2室1厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 66.2,
-      "lat": 31.007814,
-      "lng": 121.397916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·银春苑 4室2厅 南/北",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 43.7,
-      "lat": 31.024025,
-      "lng": 121.38827
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新闵小区 2室2厅 南/北",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 78.0,
-      "lat": 31.005458,
-      "lng": 121.425877
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星河景苑 2室1厅 南",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 58.6,
-      "lat": 31.002477,
-      "lng": 121.427512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三明花园 2室1厅 南",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 73.6,
-      "lat": 31.015207,
-      "lng": 121.430143
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤庆路58弄 2室2厅 南",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 48.9,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新闵小区 1室1厅 南",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 74.5,
-      "lat": 31.005458,
-      "lng": 121.425877
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南洋博仕欣居 2室1厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 59.7,
-      "lat": 31.017462,
-      "lng": 121.424106
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东川花苑 2室0厅 南",
@@ -2050,8 +2050,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 87.5,
-      "lat": 31.007814,
-      "lng": 121.397916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利佳苑 2室1厅 南",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 31.9,
-      "lat": 31.142401,
-      "lng": 121.352533
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 54.7,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南洋博仕欣居 2室2厅 南/北",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 54.3,
-      "lat": 31.017462,
-      "lng": 121.424106
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 东/南",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 56.0,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南/北",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 62.5,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东江小区 1室0厅 南",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 87.8,
-      "lat": 31.007987,
-      "lng": 121.420018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·富仕名邸 2室2厅 南",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 43.7,
-      "lat": 31.008446,
-      "lng": 121.401935
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东江小区 1室1厅 南",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 84.8,
-      "lat": 31.007987,
-      "lng": 121.420018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·昆阳小区 1室1厅 南",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 61.0,
-      "lat": 31.134849,
-      "lng": 121.395799
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·凤庆小区 2室1厅 东南",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 43.7,
-      "lat": 31.015395,
-      "lng": 121.402665
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 3室1厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 70.8,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 1室0厅 南",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 14:42:23",
       "region": "laominhang",
       "unit_price": 76.0,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东川花苑 2室1厅 南",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 61.8,
-      "lat": 31.007814,
-      "lng": 121.397916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤明小区 1室0厅 南/北",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 44.8,
-      "lat": 31.007379,
-      "lng": 121.415921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东江小区 1室1厅 南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 68.3,
-      "lat": 31.007987,
-      "lng": 121.420018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥景城馨苑 3室1厅 南",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 36.5,
-      "lat": 31.017719,
-      "lng": 121.370995
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三明花园 2室1厅 南/北",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 65.0,
-      "lat": 31.015207,
-      "lng": 121.430143
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 1室1厅 南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 66.2,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 2室0厅 南",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 64.3,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南洋博仕欣居 2室2厅 南",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 56.7,
-      "lat": 31.017462,
-      "lng": 121.424106
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利佳苑 2室1厅 南",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 35.6,
-      "lat": 31.142401,
-      "lng": 121.352533
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·臻澜苑 2室1厅 南",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 64.3,
-      "lat": 31.010311,
-      "lng": 121.436578
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华江小区 1室0厅 南",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 76.7,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东川花苑 2室1厅 南",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 64.9,
-      "lat": 31.007814,
-      "lng": 121.397916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·银康苑 3室2厅 南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 38.4,
-      "lat": 31.021756,
-      "lng": 121.388133
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村二街坊 3室2厅 南",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 49.3,
-      "lat": 31.010242,
-      "lng": 121.414989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·银康苑 3室2厅 南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 36.0,
-      "lat": 31.021756,
-      "lng": 121.388133
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科公园大道 4室2厅 南",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 86.8,
-      "lat": 31.114094,
-      "lng": 121.373115
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·夏朵园 3室1厅 南/北",
@@ -2601,8 +2601,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 30.5,
-      "lat": 31.002847,
-      "lng": 121.412507
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·夏朵园 2室2厅 南",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 41.7,
-      "lat": 31.002847,
-      "lng": 121.412507
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丽都城假日景苑 2室2厅 南",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 56.5,
-      "lat": 31.013055,
-      "lng": 121.408039
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·电机一村 2室0厅 南",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 67.8,
-      "lat": 31.003259,
-      "lng": 121.407719
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·凤凰景苑 3室2厅 南/北",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 70.7,
-      "lat": 31.162753,
-      "lng": 121.397075
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥西街小区 4室1厅 南",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 43.7,
-      "lat": 31.04383,
-      "lng": 121.406503
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兰坪一村 2室1厅 南/北",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 75.8,
-      "lat": 30.999892,
-      "lng": 121.420398
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦一街坊 3室2厅 南",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 43.9,
-      "lat": 31.018247,
-      "lng": 121.408689
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·祥云新城 3室2厅 南",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 32.8,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村 2室1厅 南",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 34.1,
-      "lat": 31.010671,
-      "lng": 121.416982
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科城 3室2厅 南/北",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 52.7,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·龙湖天琅 4室3厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 33.7,
-      "lat": 31.087089,
-      "lng": 121.456266
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东苑佳和园 2室1厅 南",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 14:42:26",
       "region": "laominhang",
       "unit_price": 61.0,
-      "lat": 31.011775,
-      "lng": 121.434535
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金铭福邸 3室2厅 南",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 14:42:29",
       "region": "laominhang",
       "unit_price": 45.5,
-      "lat": 31.009198,
-      "lng": 121.409394
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·臻澜苑 2室1厅 南/北",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 14:42:29",
       "region": "laominhang",
       "unit_price": 55.1,
-      "lat": 31.010311,
-      "lng": 121.436578
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗小区 1室1厅 南",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 14:42:29",
       "region": "laominhang",
       "unit_price": 58.2,
-      "lat": 30.99863,
-      "lng": 121.385711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室2厅 南",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 14:42:29",
       "region": "laominhang",
       "unit_price": 106.8,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦四街坊 2室1厅 南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 14:42:29",
       "region": "laominhang",
       "unit_price": 54.1,
-      "lat": 31.020948,
-      "lng": 121.406269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新闵小区 1室0厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 14:42:29",
       "region": "laominhang",
       "unit_price": 71.1,
-      "lat": 31.005458,
-      "lng": 121.425877
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兰坪二村 1室1厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 92.9,
-      "lat": 31.002528,
-      "lng": 121.417655
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科公园大道 3室2厅 南/北",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 55.4,
-      "lat": 31.114094,
-      "lng": 121.373115
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华银坊 3室2厅 南",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 36.6,
-      "lat": 31.067139,
-      "lng": 121.399492
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新闵小区 1室0厅 南",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 73.5,
-      "lat": 31.005458,
-      "lng": 121.425877
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丽都城假日景苑 3室2厅 南/北",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 49.6,
-      "lat": 31.013055,
-      "lng": 121.408039
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室2厅 南",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 110.1,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗三村 2室1厅 南",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 50.4,
-      "lat": 31.009816,
-      "lng": 121.395422
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦四街坊 1室1厅 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 60.6,
-      "lat": 31.020948,
-      "lng": 121.406269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫竹苑(闵行) 2室2厅 南",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 65.2,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗四街坊 2室1厅 南",
@@ -3133,8 +3133,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 58.1,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·瑞丽名邸 3室2厅 南",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 51.6,
-      "lat": 31.011684,
-      "lng": 121.405474
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金榜世家（一至四期） 3室2厅 南/北",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 51.1,
-      "lat": 31.012151,
-      "lng": 121.428574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金平小区 2室2厅 南/北",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 46.7,
-      "lat": 31.01395,
-      "lng": 121.413262
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·浦江大楼 2室1厅 南",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 42.3,
-      "lat": 30.999232,
-      "lng": 121.427507
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·凤庆小区 1室1厅 南",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 14:42:29",
       "region": "laominhang",
       "unit_price": 65.5,
-      "lat": 31.015395,
-      "lng": 121.402665
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南洋博仕欣居 3室1厅 南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 58.6,
-      "lat": 31.017462,
-      "lng": 121.424106
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗小区 2室1厅 南",
@@ -3266,8 +3266,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 53.4,
-      "lat": 30.99863,
-      "lng": 121.385711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·好第坊(东川路865弄) 2室2厅 南/北",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 50.8,
-      "lat": 31.017258,
-      "lng": 121.432408
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦四街坊 2室2厅 南/北",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 55.4,
-      "lat": 31.020948,
-      "lng": 121.406269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦四街坊 2室2厅 南",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 52.0,
-      "lat": 31.020948,
-      "lng": 121.406269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·夏朵园 2室2厅 南",
@@ -3342,8 +3342,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 47.8,
-      "lat": 31.002847,
-      "lng": 121.412507
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·银康苑 2室2厅 南",
@@ -3361,8 +3361,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 49.4,
-      "lat": 31.021756,
-      "lng": 121.388133
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新闵小区 1室1厅 南",
@@ -3380,8 +3380,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 63.8,
-      "lat": 31.005458,
-      "lng": 121.425877
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 1室1厅 南",
@@ -3399,8 +3399,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 59.3,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·好第坊(东川路865弄) 2室2厅 南",
@@ -3418,8 +3418,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 53.0,
-      "lat": 31.017258,
-      "lng": 121.432408
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦四街坊 2室2厅 南/北",
@@ -3437,8 +3437,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 56.1,
-      "lat": 31.020948,
-      "lng": 121.406269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南",
@@ -3456,8 +3456,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 68.9,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗小区 1室1厅 南/西",
@@ -3475,8 +3475,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 59.7,
-      "lat": 30.99863,
-      "lng": 121.385711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室2厅 南",
@@ -3494,8 +3494,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 106.8,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南",
@@ -3513,8 +3513,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 56.8,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·当代万国府MOMA 3室2厅 南",
@@ -3532,8 +3532,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 81.7,
-      "lat": 31.009053,
-      "lng": 121.429263
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室2厅 南",
@@ -3551,8 +3551,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 101.6,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室1厅 南/北",
@@ -3570,8 +3570,8 @@
       "scraped_at": "2026-04-23 14:42:31",
       "region": "laominhang",
       "unit_price": 104.9,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东苑佳和园 1室1厅 南",
@@ -3589,8 +3589,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 58.6,
-      "lat": 31.011775,
-      "lng": 121.434535
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤明小区 1室0厅 南",
@@ -3608,8 +3608,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 67.4,
-      "lat": 31.007379,
-      "lng": 121.415921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东川花苑 2室0厅 南",
@@ -3627,8 +3627,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 69.9,
-      "lat": 31.007814,
-      "lng": 121.397916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科公园大道 3室2厅 南",
@@ -3646,8 +3646,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 51.3,
-      "lat": 31.114094,
-      "lng": 121.373115
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地璀璨天城 2室2厅 南",
@@ -3665,8 +3665,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 50.8,
-      "lat": 31.024232,
-      "lng": 121.376894
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·香樟小筑 2室0厅 南",
@@ -3684,8 +3684,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 43.4,
-      "lat": 31.000457,
-      "lng": 121.403873
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科公园大道 3室1厅 南",
@@ -3703,8 +3703,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 53.0,
-      "lat": 31.114094,
-      "lng": 121.373115
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金榜世家（五期） 3室2厅 南",
@@ -3722,8 +3722,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 56.5,
-      "lat": 31.012151,
-      "lng": 121.428574
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南",
@@ -3741,8 +3741,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 56.1,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥西街小区 3室2厅 南/北",
@@ -3760,8 +3760,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 28.7,
-      "lat": 31.04383,
-      "lng": 121.406503
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地璀璨天城 3室2厅 南/北",
@@ -3779,8 +3779,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 52.6,
-      "lat": 31.024232,
-      "lng": 121.376894
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·千岱名墅 3室2厅 南",
@@ -3798,8 +3798,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 35.4,
-      "lat": 31.015547,
-      "lng": 121.414333
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室2厅 南",
@@ -3817,8 +3817,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 97.1,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·电机四村 1室1厅 南",
@@ -3836,8 +3836,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 62.2,
-      "lat": 31.002835,
-      "lng": 121.404436
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦三街坊 3室1厅 南/北",
@@ -3855,8 +3855,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 51.0,
-      "lat": 31.018247,
-      "lng": 121.408689
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华江小区 2室0厅 南",
@@ -3874,8 +3874,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 63.7,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室2厅 南",
@@ -3893,8 +3893,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 99.0,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗小区 2室0厅 南",
@@ -3912,8 +3912,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 46.4,
-      "lat": 30.99863,
-      "lng": 121.385711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室2厅 南",
@@ -3931,8 +3931,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 111.7,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗花苑 3室1厅 南",
@@ -3950,8 +3950,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 40.2,
-      "lat": 31.010221,
-      "lng": 121.403384
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村二街坊 3室2厅 复式 南",
@@ -3969,8 +3969,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 38.6,
-      "lat": 31.010242,
-      "lng": 121.414989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·臻澜苑 2室1厅 南/北",
@@ -3988,8 +3988,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 63.8,
-      "lat": 31.010311,
-      "lng": 121.436578
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新华小区 2室1厅 南",
@@ -4007,8 +4007,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 56.1,
-      "lat": 31.247629,
-      "lng": 121.490479
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 1室0厅 南",
@@ -4026,8 +4026,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 90.0,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村 2室1厅 南",
@@ -4045,8 +4045,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 52.1,
-      "lat": 31.010671,
-      "lng": 121.416982
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗小区 2室1厅 南",
@@ -4064,8 +4064,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 50.4,
-      "lat": 30.99863,
-      "lng": 121.385711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室1厅 南/北",
@@ -4083,8 +4083,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 97.8,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·昆阳小区 1室1厅 南",
@@ -4102,8 +4102,8 @@
       "scraped_at": "2026-04-23 14:42:35",
       "region": "laominhang",
       "unit_price": 48.8,
-      "lat": 31.134849,
-      "lng": 121.395799
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丽都城假日景苑 3室2厅 南/北",
@@ -4121,8 +4121,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 61.2,
-      "lat": 31.013055,
-      "lng": 121.408039
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南",
@@ -4140,8 +4140,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 52.5,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 1室1厅 南",
@@ -4159,8 +4159,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 76.7,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗小区 1室1厅 南",
@@ -4178,8 +4178,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 42.2,
-      "lat": 30.99863,
-      "lng": 121.385711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丽都城假日景苑 3室2厅 南",
@@ -4197,8 +4197,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 57.8,
-      "lat": 31.013055,
-      "lng": 121.408039
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新闵小区 2室2厅 南",
@@ -4216,8 +4216,8 @@
       "scraped_at": "2026-04-23 14:42:59",
       "region": "laominhang",
       "unit_price": 67.6,
-      "lat": 31.005458,
-      "lng": 121.425877
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 1室0厅 南",
@@ -4235,8 +4235,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 84.2,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·电机一村 1室0厅 北",
@@ -4254,8 +4254,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 71.6,
-      "lat": 31.003259,
-      "lng": 121.407719
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东江小区 2室0厅 南",
@@ -4273,8 +4273,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 60.8,
-      "lat": 31.007987,
-      "lng": 121.420018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·夏朵园 2室2厅 南",
@@ -4292,8 +4292,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 42.8,
-      "lat": 31.002847,
-      "lng": 121.412507
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南洋瑞都剑桥府邸(公寓) 3室2厅 南",
@@ -4311,8 +4311,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 48.0,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·夏朵园 4室1厅 南",
@@ -4330,8 +4330,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 34.6,
-      "lat": 31.002847,
-      "lng": 121.412507
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 1室1厅 南",
@@ -4349,8 +4349,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 59.5,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫藤新园 2室1厅 南/北",
@@ -4368,8 +4368,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 40.7,
-      "lat": 31.006985,
-      "lng": 121.399312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东川花苑 2室1厅 南",
@@ -4387,8 +4387,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 55.8,
-      "lat": 31.007814,
-      "lng": 121.397916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南/西",
@@ -4406,8 +4406,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 56.0,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汽轮小区 1室1厅 南",
@@ -4425,8 +4425,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 73.5,
-      "lat": 31.004499,
-      "lng": 121.412916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·凤庆小区 2室1厅 南",
@@ -4444,8 +4444,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 50.8,
-      "lat": 31.015395,
-      "lng": 121.402665
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥景城馨苑 2室1厅 南",
@@ -4463,8 +4463,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 42.7,
-      "lat": 31.017719,
-      "lng": 121.370995
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·保利雅苑 2室1厅 南",
@@ -4482,8 +4482,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 53.1,
-      "lat": 31.02171,
-      "lng": 121.368828
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华江小区 1室0厅 南",
@@ -4501,8 +4501,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 75.1,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦三街坊 3室1厅 南/北",
@@ -4520,8 +4520,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 42.4,
-      "lat": 31.018247,
-      "lng": 121.408689
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤明小区 1室1厅 东南",
@@ -4539,8 +4539,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 74.3,
-      "lat": 31.007379,
-      "lng": 121.415921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 1室0厅 南",
@@ -4558,8 +4558,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 67.6,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫藤新园 2室1厅 南/北",
@@ -4577,8 +4577,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 45.5,
-      "lat": 31.006985,
-      "lng": 121.399312
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华银坊 1室1厅 南",
@@ -4596,8 +4596,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 50.7,
-      "lat": 31.067139,
-      "lng": 121.399492
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华江小区 2室1厅 南",
@@ -4615,8 +4615,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 55.1,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·丽都城假日景苑 3室1厅 南",
@@ -4634,8 +4634,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 54.0,
-      "lat": 31.013055,
-      "lng": 121.408039
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科城 3室2厅 南/北",
@@ -4653,8 +4653,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 49.5,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南",
@@ -4672,8 +4672,8 @@
       "scraped_at": "2026-04-23 14:43:10",
       "region": "laominhang",
       "unit_price": 61.9,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村二街坊 1室1厅 南",
@@ -4691,8 +4691,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 48.1,
-      "lat": 31.010242,
-      "lng": 121.414989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新闵小区 2室1厅 南",
@@ -4710,8 +4710,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 48.3,
-      "lat": 31.005458,
-      "lng": 121.425877
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地璀璨天城 1室1厅 南",
@@ -4729,8 +4729,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 64.2,
-      "lat": 31.024232,
-      "lng": 121.376894
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汽轮小区 1室1厅 南",
@@ -4748,8 +4748,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 69.5,
-      "lat": 31.004499,
-      "lng": 121.412916
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤北新村二街坊 2室2厅 南",
@@ -4767,8 +4767,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 40.2,
-      "lat": 31.010242,
-      "lng": 121.414989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·源枫景苑 1室1厅 南",
@@ -4786,8 +4786,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 77.3,
-      "lat": 31.262895,
-      "lng": 121.456836
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·夏朵园 2室2厅 南/北",
@@ -4805,8 +4805,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 51.0,
-      "lat": 31.002847,
-      "lng": 121.412507
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·臻澜苑 1室1厅 南/北",
@@ -4824,8 +4824,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 63.3,
-      "lat": 31.010311,
-      "lng": 121.436578
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦四街坊 1室1厅 南",
@@ -4843,8 +4843,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 51.8,
-      "lat": 31.020948,
-      "lng": 121.406269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南洋博仕欣居 2室2厅 南",
@@ -4862,8 +4862,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 52.0,
-      "lat": 31.017462,
-      "lng": 121.424106
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗五村 2室1厅 南",
@@ -4881,8 +4881,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 52.4,
-      "lat": 31.011458,
-      "lng": 121.404102
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东苑佳和园 2室0厅 南",
@@ -4900,8 +4900,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 61.9,
-      "lat": 31.011775,
-      "lng": 121.434535
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 1室1厅 南",
@@ -4919,8 +4919,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 64.2,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗四街坊 2室1厅 南",
@@ -4938,8 +4938,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 45.0,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·夏朵园 3室2厅 南/北",
@@ -4957,8 +4957,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 41.3,
-      "lat": 31.002847,
-      "lng": 121.412507
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·康乐花园(闵行) 2室1厅 南",
@@ -4976,8 +4976,8 @@
       "scraped_at": "2026-04-23 14:43:14",
       "region": "laominhang",
       "unit_price": 36.5,
-      "lat": 31.00595,
-      "lng": 121.401478
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合生城邦四街坊 2室2厅 南",
@@ -4995,8 +4995,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 43.8,
-      "lat": 31.020948,
-      "lng": 121.406269
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三明花园 2室1厅 南",
@@ -5014,8 +5014,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 64.6,
-      "lat": 31.015207,
-      "lng": 121.430143
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥景城馨苑 1室1厅 南/北",
@@ -5033,8 +5033,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 55.4,
-      "lat": 31.017719,
-      "lng": 121.370995
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥景城·和苑 2室1厅 南",
@@ -5052,8 +5052,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 58.3,
-      "lat": 31.024092,
-      "lng": 121.388315
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗四街坊 1室1厅 东",
@@ -5071,8 +5071,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 41.7,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·高华小区 2室0厅 南",
@@ -5090,8 +5090,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 72.7,
-      "lat": 31.026064,
-      "lng": 121.415721
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金铭福邸 3室1厅 南",
@@ -5109,8 +5109,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 52.6,
-      "lat": 31.009198,
-      "lng": 121.409394
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·河东小区 2室1厅 南",
@@ -5128,8 +5128,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 51.6,
-      "lat": 31.05622,
-      "lng": 121.397
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤明小区 2室0厅 南",
@@ -5147,8 +5147,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 50.8,
-      "lat": 31.007379,
-      "lng": 121.415921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新闵小区 2室1厅 南",
@@ -5166,8 +5166,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 51.5,
-      "lat": 31.005458,
-      "lng": 121.425877
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·马桥元景苑 1室1厅 南",
@@ -5185,8 +5185,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 55.9,
-      "lat": 31.0208,
-      "lng": 121.38243
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华润映江润府 3室2厅 南",
@@ -5204,8 +5204,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 111.9,
-      "lat": 31.038894,
-      "lng": 121.447049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·鹤明小区 1室1厅 东/南",
@@ -5223,8 +5223,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 57.5,
-      "lat": 31.007379,
-      "lng": 121.415921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·星河景苑 2室1厅 南",
@@ -5242,8 +5242,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 54.8,
-      "lat": 31.002477,
-      "lng": 121.427512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·昆阳小区 1室0厅 南",
@@ -5261,8 +5261,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 62.7,
-      "lat": 31.134849,
-      "lng": 121.395799
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沧源小区 2室1厅 南/北",
@@ -5280,8 +5280,8 @@
       "scraped_at": "2026-04-23 14:43:18",
       "region": "laominhang",
       "unit_price": 59.1,
-      "lat": 31.01359,
-      "lng": 121.426785
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗小区 1室1厅 东/西",
@@ -5299,8 +5299,8 @@
       "scraped_at": "2026-04-23 14:43:24",
       "region": "laominhang",
       "unit_price": 39.4,
-      "lat": 30.99863,
-      "lng": 121.385711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东苑佳和园 3室1厅 南",
@@ -5318,8 +5318,8 @@
       "scraped_at": "2026-04-23 14:43:24",
       "region": "laominhang",
       "unit_price": 62.4,
-      "lat": 31.011775,
-      "lng": 121.434535
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·红旗四街坊 2室1厅 南",
@@ -5337,8 +5337,8 @@
       "scraped_at": "2026-04-23 14:43:24",
       "region": "laominhang",
       "unit_price": 54.0,
-      "lat": 31.038218,
-      "lng": 121.432975
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -5356,8 +5356,8 @@
       "scraped_at": "2026-04-23 14:43:30",
       "region": "laominhang",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -5375,8 +5375,8 @@
       "scraped_at": "2026-04-23 14:43:30",
       "region": "laominhang",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园(二期) 4室2厅 复式 南",
@@ -5394,8 +5394,8 @@
       "scraped_at": "2026-04-23 14:43:30",
       "region": "laominhang",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 5室3厅 复式 南",

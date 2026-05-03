@@ -3188,8 +3188,8 @@
     "scraped_at": "2026-04-23 14:52:22",
     "region": "zhuanqiao",
     "unit_price": 132.5,
-    "lat": 31.209999,
-    "lng": 121.585405
+    "lat": 31.211262,
+    "lng": 121.584802
   },
   {
     "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -3207,8 +3207,8 @@
     "scraped_at": "2026-04-23 14:52:22",
     "region": "zhuanqiao",
     "unit_price": 101.1,
-    "lat": 31.209999,
-    "lng": 121.585405
+    "lat": 31.211262,
+    "lng": 121.584802
   },
   {
     "title": "整租·东郊紫园 4室2厅 复式 南",
@@ -3245,8 +3245,8 @@
     "scraped_at": "2026-04-23 14:52:22",
     "region": "zhuanqiao",
     "unit_price": 96.9,
-    "lat": 31.208639,
-    "lng": 121.582621
+    "lat": 31.202786,
+    "lng": 121.596039
   },
   {
     "title": "整租·东郊紫园 5室3厅 复式 南",
@@ -3656,7 +3656,7 @@
     "floor": "",
     "price": "11097",
     "tags": "",
-    "source": "",
+    "source": "tencent",
     "url": "https://sh.lianjia.com/apartment/91385.html",
     "rent_type": "独栋",
     "location": "",
@@ -12130,7 +12130,7 @@
     "floor": "",
     "price": "2300-2600",
     "tags": "",
-    "source": "",
+    "source": "tencent",
     "url": "https://sh.lianjia.com/apartment/34531.html",
     "rent_type": "独栋",
     "location": "",
@@ -27862,7 +27862,7 @@
     "floor": "",
     "price": "2100",
     "tags": "",
-    "source": "",
+    "source": "tencent",
     "url": "https://sh.lianjia.com/apartment/94221.html",
     "rent_type": "独栋",
     "location": "",

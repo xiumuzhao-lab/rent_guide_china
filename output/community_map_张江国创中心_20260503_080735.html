@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9ecda5e05216f41e10dfe921d03b44fb {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9ecda5e05216f41e10dfe921d03b44fb" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9ecda5e05216f41e10dfe921d03b44fb = L.map(
+                "map_9ecda5e05216f41e10dfe921d03b44fb",
+                {
+                    center: [31.2214, 121.6282],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e5da9b9a1cbce086606aa7b36f0ec469 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_e5da9b9a1cbce086606aa7b36f0ec469.addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+            var marker_27b8cff85d9f021110c00d31c97ef830 = L.marker(
+                [31.2214, 121.6282],
+                {
+}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+            var icon_e5d287a4b9573dd03205fa266215eab0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "briefcase",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_acd97c886f53cb98a82dfc8efb68501b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7fcea815ab815574f0c26ecfeb7d164f = $(`<div id="html_7fcea815ab815574f0c26ecfeb7d164f" style="width: 100.0%; height: 100.0%;"><b>张江国创中心</b><br>浦东新区丹桂路899号</div>`)[0];
+                popup_acd97c886f53cb98a82dfc8efb68501b.setContent(html_7fcea815ab815574f0c26ecfeb7d164f);
+            
+        
+
+        marker_27b8cff85d9f021110c00d31c97ef830.bindPopup(popup_acd97c886f53cb98a82dfc8efb68501b)
+        ;
+
+        
+    
+    
+            marker_27b8cff85d9f021110c00d31c97ef830.bindTooltip(
+                `<div>
+                     张江国创中心
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_27b8cff85d9f021110c00d31c97ef830.setIcon(icon_e5d287a4b9573dd03205fa266215eab0);
+            
+    
+            var circle_4d489ff7d5e1ee34fbd19585c3c5210f = L.circle(
+                [31.2214, 121.6282],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": "5,5", "dashOffset": null, "fill": false, "fillColor": "#2ecc71", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.6, "radius": 3000, "stroke": true, "weight": 1.5}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+            var circle_daea00d44f1f8905bcd256ee1650970b = L.circle(
+                [31.2214, 121.6282],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": "5,5", "dashOffset": null, "fill": false, "fillColor": "#27ae60", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.6, "radius": 5000, "stroke": true, "weight": 1.5}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+            var circle_4fa5e6525f9d3d464ff9f5d3858b4742 = L.circle(
+                [31.2214, 121.6282],
+                {"bubblingMouseEvents": true, "color": "#f39c12", "dashArray": "5,5", "dashOffset": null, "fill": false, "fillColor": "#f39c12", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.6, "radius": 8000, "stroke": true, "weight": 1.5}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+            var circle_d9d8e114a769efb4cdc5c6c328aee260 = L.circle(
+                [31.2214, 121.6282],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": "5,5", "dashOffset": null, "fill": false, "fillColor": "#e67e22", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.6, "radius": 10000, "stroke": true, "weight": 1.5}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+            var circle_c76318077cb77d10bbd82a610ab71535 = L.circle(
+                [31.2214, 121.6282],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": "5,5", "dashOffset": null, "fill": false, "fillColor": "#e74c3c", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.6, "radius": 15000, "stroke": true, "weight": 1.5}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+            var circle_marker_8d763fe803685a18c86a29212f85c98f = L.circleMarker(
+                [31.142041, 121.519482],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15, "stroke": true, "weight": 1}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+        var popup_50750cd40a01c88ac19250a5fd00e13a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4c412c34ec8531280694d45b20949252 = $(`<div id="html_4c412c34ec8531280694d45b20949252" style="width: 100.0%; height: 100.0%;"><b>翠竹苑</b><br>距 张江国创中心: 13.6km<br>房源: 14套 | 均4,450元/月<br>单价: 77.1元/㎡/月 | 均面积: 57.7㎡</div>`)[0];
+                popup_50750cd40a01c88ac19250a5fd00e13a.setContent(html_4c412c34ec8531280694d45b20949252);
+            
+        
+
+        circle_marker_8d763fe803685a18c86a29212f85c98f.bindPopup(popup_50750cd40a01c88ac19250a5fd00e13a)
+        ;
+
+        
+    
+    
+            circle_marker_8d763fe803685a18c86a29212f85c98f.bindTooltip(
+                `<div>
+                     翠竹苑 (13.6km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_170054f2720cc30615fe5764abd46f40 = L.circleMarker(
+                [31.207867, 121.542503],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e67e22", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 1}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+        var popup_a607c69bfd78b8e6188221afef32a879 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_60a09b389654526befa6b85176a5b192 = $(`<div id="html_60a09b389654526befa6b85176a5b192" style="width: 100.0%; height: 100.0%;"><b>瑞达苑</b><br>距 张江国创中心: 8.3km<br>房源: 3套 | 均8,433元/月<br>单价: 87.1元/㎡/月 | 均面积: 96.8㎡</div>`)[0];
+                popup_a607c69bfd78b8e6188221afef32a879.setContent(html_60a09b389654526befa6b85176a5b192);
+            
+        
+
+        circle_marker_170054f2720cc30615fe5764abd46f40.bindPopup(popup_a607c69bfd78b8e6188221afef32a879)
+        ;
+
+        
+    
+    
+            circle_marker_170054f2720cc30615fe5764abd46f40.bindTooltip(
+                `<div>
+                     瑞达苑 (8.3km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_421de64a9021180f347d44f97ceb0503 = L.circleMarker(
+                [31.24619, 121.573503],
+                {"bubblingMouseEvents": true, "color": "#f39c12", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f39c12", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 1}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+        var popup_b069be1449a6725fd4233864c81a27f4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f1df8f90520dc6ad91266419f6b289c0 = $(`<div id="html_f1df8f90520dc6ad91266419f6b289c0" style="width: 100.0%; height: 100.0%;"><b>园丁楼</b><br>距 张江国创中心: 5.9km<br>房源: 2套 | 均6,050元/月<br>单价: 70.0元/㎡/月 | 均面积: 86.4㎡</div>`)[0];
+                popup_b069be1449a6725fd4233864c81a27f4.setContent(html_f1df8f90520dc6ad91266419f6b289c0);
+            
+        
+
+        circle_marker_421de64a9021180f347d44f97ceb0503.bindPopup(popup_b069be1449a6725fd4233864c81a27f4)
+        ;
+
+        
+    
+    
+            circle_marker_421de64a9021180f347d44f97ceb0503.bindTooltip(
+                `<div>
+                     园丁楼 (5.9km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_098b8b72ad2afb7079cd6b36c273ab57 = L.circleMarker(
+                [31.171908, 121.541371],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e67e22", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+        var popup_8dd4f5babfff3609998c1ae2d9a701b2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c82be68313e41daf40d331cbce1b9057 = $(`<div id="html_c82be68313e41daf40d331cbce1b9057" style="width: 100.0%; height: 100.0%;"><b>南新苑</b><br>距 张江国创中心: 9.9km<br>房源: 4套 | 均7,500元/月<br>单价: 74.9元/㎡/月 | 均面积: 100.1㎡</div>`)[0];
+                popup_8dd4f5babfff3609998c1ae2d9a701b2.setContent(html_c82be68313e41daf40d331cbce1b9057);
+            
+        
+
+        circle_marker_098b8b72ad2afb7079cd6b36c273ab57.bindPopup(popup_8dd4f5babfff3609998c1ae2d9a701b2)
+        ;
+
+        
+    
+    
+            circle_marker_098b8b72ad2afb7079cd6b36c273ab57.bindTooltip(
+                `<div>
+                     南新苑 (9.9km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_bec14540437e10764a89d46bdf413ac4 = L.circleMarker(
+                [31.292248, 121.627823],
+                {"bubblingMouseEvents": true, "color": "#f39c12", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f39c12", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 1}
+            ).addTo(map_9ecda5e05216f41e10dfe921d03b44fb);
+        
+    
+        var popup_dcedf77e74dd99ca324dcf8b1a7ea77a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e40b205277a8009d5a3abc116e19962e = $(`<div id="html_e40b205277a8009d5a3abc116e19962e" style="width: 100.0%; height: 100.0%;"><b>宝佳苑</b><br>距 张江国创中心: 7.9km<br>房源: 2套 | 均4,150元/月<br>单价: 63.9元/㎡/月 | 均面积: 64.9㎡</div>`)[0];
+                popup_dcedf77e74dd99ca324dcf8b1a7ea77a.setContent(html_e40b205277a8009d5a3abc116e19962e);
+            
+        
+
+        circle_marker_bec14540437e10764a89d46bdf413ac4.bindPopup(popup_dcedf77e74dd99ca324dcf8b1a7ea77a)
+        ;
+
+        
+    
+    
+            circle_marker_bec14540437e10764a89d46bdf413ac4.bindTooltip(
+                `<div>
+                     宝佳苑 (7.9km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>

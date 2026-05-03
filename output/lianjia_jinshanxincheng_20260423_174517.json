@@ -357,8 +357,8 @@
     "scraped_at": "2026-04-23 17:41:41",
     "region": "jinshanxincheng",
     "unit_price": 17.4,
-    "lat": 30.907061,
-    "lng": 121.025271
+    "lat": null,
+    "lng": null
   },
   {
     "title": "整租·金源•梧桐印象 2室1厅 南",
@@ -718,8 +718,8 @@
     "scraped_at": "2026-04-23 17:41:45",
     "region": "jinshanxincheng",
     "unit_price": 24.7,
-    "lat": 30.907061,
-    "lng": 121.025271
+    "lat": null,
+    "lng": null
   },
   {
     "title": "整租·晶珑俪榭 2室1厅 南",
@@ -984,8 +984,8 @@
     "scraped_at": "2026-04-23 17:41:45",
     "region": "jinshanxincheng",
     "unit_price": 21.6,
-    "lat": 30.896895,
-    "lng": 121.027968
+    "lat": null,
+    "lng": null
   },
   {
     "title": "整租·海辰馨苑 2室2厅 南",
@@ -1440,8 +1440,8 @@
     "scraped_at": "2026-04-23 17:43:18",
     "region": "jinshanxincheng",
     "unit_price": 26.5,
-    "lat": 30.830906,
-    "lng": 121.313181
+    "lat": 30.832419,
+    "lng": 121.315414
   },
   {
     "title": "整租·中锐悦立方 2室2厅 南",

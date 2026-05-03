@@ -1,0 +1,40 @@
+[
+  {
+    "title": "整租·汇贤家园二里15号院 3室1厅 南/北",
+    "community": "汇贤家园二里15号院",
+    "area": "89.66",
+    "rooms": "3室1厅",
+    "direction": "南/北",
+    "floor": "",
+    "price": "2800",
+    "tags": "",
+    "source": "",
+    "url": "https://bj.lianjia.com/zufang/BJ2146167722700963840.html",
+    "rent_type": "整租",
+    "location": "大兴区-天宫院南-汇贤家园二里",
+    "scraped_at": "2026-05-02 22:52:26",
+    "region": "tiangongyuannan",
+    "unit_price": 31.2,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "title": "整租·绿茵花园 5室2厅 复式 南/北",
+    "community": "绿茵花园",
+    "area": "234.30",
+    "rooms": "5室2厅",
+    "direction": "",
+    "floor": "",
+    "price": "9000",
+    "tags": "",
+    "source": "",
+    "url": "https://bj.lianjia.com/zufang/BJ2137409084700229632.html",
+    "rent_type": "整租",
+    "location": "大兴区-天宫院南-绿茵花园",
+    "scraped_at": "2026-05-02 22:52:26",
+    "region": "tiangongyuannan",
+    "unit_price": 38.4,
+    "lat": null,
+    "lng": null
+  }
+]

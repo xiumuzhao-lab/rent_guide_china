@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 98.2,
-      "lat": 31.212907,
-      "lng": 121.618681
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华发四季 4室2厅 南",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 86.4,
-      "lat": 31.172771,
-      "lng": 121.623048
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑三期B块 2室1厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 75.0,
-      "lat": 31.180953,
-      "lng": 121.638523
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·纳仕 雅集服务公寓 国企直营可短租张江纳仕雅集100平俩室两厅保障性租赁住房 2室2厅",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 77.1,
-      "lat": 31.179884,
-      "lng": 121.629495
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·城方公寓 孙桥璟佩社区 独立阳台，民用水电气，国企直租，拎包入住 1室1厅",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 10:35:44",
       "region": "zhangjiang",
       "unit_price": 73.7,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华发四季 3室2厅 南/北",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 94.6,
-      "lat": 31.172771,
-      "lng": 121.623048
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑一期B块 3室1厅 南",
@@ -169,8 +169,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 64.0,
-      "lat": 31.185542,
-      "lng": 121.636445
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·泊寓 张江国创店 【温馨一居】实体墙隔音好 押一付一无中介费 免费班车直达地铁 可养猫可短租 开间",
@@ -207,8 +207,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 98.7,
-      "lat": 31.218904,
-      "lng": 121.582034
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古桐公寓 1室1厅 南",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 84.5,
-      "lat": 31.200974,
-      "lng": 121.616393
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·柚米 张江纳仕国际租赁社区 张江集团租赁社区 三房两厅高端精装全配 配套小学幼儿园 3室2厅",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 65.2,
-      "lat": 31.21652,
-      "lng": 121.614476
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·唐巢公寓 软件园店 一室户+阳台 开间",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 79.9,
-      "lat": 31.214414,
-      "lng": 121.623717
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东郊紫园 5室2厅 复式 南",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 67.4,
-      "lat": 31.180953,
-      "lng": 121.638523
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 10:36:42",
       "region": "zhangjiang",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·丹芳苑 3室2厅 南",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 72.1,
-      "lat": 31.202251,
-      "lng": 121.611451
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·达社国际公寓 张江店 中科路好房 一居室采光超级好 年轻人的选择 紧邻地铁13号线 1室1厅",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 52.8,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·交江大楼 3室2厅 南",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 65.5,
-      "lat": 31.205617,
-      "lng": 121.613283
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华发四季 3室1厅 南",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 91.3,
-      "lat": 31.172771,
-      "lng": 121.623048
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 4室2厅 南/北",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 108.2,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(二期) 4室1厅 复式 南/北",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 10:34:28",
       "region": "zhangjiang",
       "unit_price": 130.6,
-      "lat": 31.202498,
-      "lng": 121.597512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·南城公寓 张江店 阳光一居室，年租半价 1室1厅",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 78.7,
-      "lat": 31.197321,
-      "lng": 121.631454
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫晶苑 1室1厅 南",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 78.3,
-      "lat": 31.175766,
-      "lng": 121.623784
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·盛大天地青春里2.0 2室2厅 北",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 98.2,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·川杨新苑(六期) 2室1厅 南",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 95.8,
-      "lat": 31.190876,
-      "lng": 121.636381
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中建朗阅府 5室3厅 复式 南",
@@ -625,8 +625,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 138.4,
-      "lat": 31.176649,
-      "lng": 121.627105
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·建中路171弄 2室1厅 南",
@@ -644,8 +644,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 87.5,
-      "lat": 31.202451,
-      "lng": 121.614872
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·柚米 张江纳仕社区E店 张江纳什经济型三居室，民用水电，宠物友好 3室1厅",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 10:35:44",
       "region": "zhangjiang",
       "unit_price": 95.6,
-      "lat": 31.212907,
-      "lng": 121.618681
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·柚米 张江纳仕社区A店 张江保租房直营！临近张江科技园 设施齐全 水电民用 2室1厅",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 120.4,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·城家公寓 城家公寓上海张江蔡伦路店 限时特惠 地铁口出行便利 精装公寓 采光好 宠物友好大一居阳光房 开间",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 73.5,
-      "lat": 31.16647,
-      "lng": 121.623478
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地MTOWN 2室1厅 北",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 123.1,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·圣宇豪庭 5室3厅 南",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 139.6,
-      "lat": 31.18413,
-      "lng": 121.630896
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·盛大天地青春里(一期) 2室1厅 南",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 10:35:44",
       "region": "zhangjiang",
       "unit_price": 76.2,
-      "lat": 31.170677,
-      "lng": 121.605855
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑一期A块 1室1厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 86.7,
-      "lat": 31.185542,
-      "lng": 121.636445
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·集贤天地人才公寓 张江店 2号线 张江高科 下楼就到公司 民用水电保租房 直租 无中介费 朝南阳台送免租期c 1室1厅",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 83.9,
-      "lat": 31.029188,
-      "lng": 121.369623
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫晶苑 3室1厅 南",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 10:34:32",
       "region": "zhangjiang",
       "unit_price": 65.3,
-      "lat": 31.175766,
-      "lng": 121.623784
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·城家公寓 张江店 温馨榻榻米房间等你来住！可免费办理居住证，学生有优惠，随时看 开间",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 74.4,
-      "lat": 31.173612,
-      "lng": 121.625676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中芯花园199弄 2室2厅 南",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 77.7,
-      "lat": 31.220081,
-      "lng": 121.621991
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·黄浦花园 2室2厅 南",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 82.9,
-      "lat": 31.219451,
-      "lng": 121.448417
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑一期A块 1室1厅 南",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 86.7,
-      "lat": 31.185542,
-      "lng": 121.636445
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑一期C块 1室1厅 南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 86.5,
-      "lat": 31.185542,
-      "lng": 121.636445
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹御公寓 1室1厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 126.9,
-      "lat": 31.187024,
-      "lng": 121.628373
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·展想悦廷 1室1厅 南/西南",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 90.2,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地MTOWN 2室0厅 跃层 北",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 118.8,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·紫晶社区 张江店 社区公寓 春季特惠 超大开间 开间",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 97.9,
-      "lat": 31.203065,
-      "lng": 121.613053
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中芯花园18弄 2室1厅 南",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 88.3,
-      "lat": 31.206715,
-      "lng": 121.66839
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑二期C块 3室1厅 南",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 67.4,
-      "lat": 31.183084,
-      "lng": 121.637066
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫晶苑 2室1厅 南",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 10:35:44",
       "region": "zhangjiang",
       "unit_price": 61.7,
-      "lat": 31.175766,
-      "lng": 121.623784
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·微驿共享社区 张江店 2号线广兰路地铁/近张江中心/独立卫生间/1.2床单人床/ 开间",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 98.0,
-      "lat": 31.170677,
-      "lng": 121.605855
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·盛大天地青春里公寓 二期 大套 2房2厅2卫 2室2厅",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 77.8,
-      "lat": 31.208903,
-      "lng": 121.623037
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑三期B块 2室1厅 南",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 93.0,
-      "lat": 31.180953,
-      "lng": 121.638523
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 1室1厅 南",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 123.0,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 2室2厅 南",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 119.3,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(二期) 2室2厅 南",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 107.2,
-      "lat": 31.202498,
-      "lng": 121.597512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·蓝光公寓 张江店 字节跳动附近/全屋宜家家具/可以养猫 开间",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 75.2,
-      "lat": 31.201266,
-      "lng": 121.610465
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东郊华庭 9室2厅 复式 南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 92.5,
-      "lat": 31.218018,
-      "lng": 121.623611
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·盛大天地青春里公寓 居里路 2号线张江高科地铁口，精装一室户，无中介费、毕业生可月付， 开间",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 107.5,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·玉兰香苑二期B块 2室1厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 91.6,
-      "lat": 31.198439,
-      "lng": 121.627318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠公园（商用） 1室1厅 东",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 133.3,
-      "lat": 31.179762,
-      "lng": 121.610562
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·科锦苑 2室1厅 南",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 10:34:35",
       "region": "zhangjiang",
       "unit_price": 76.5,
-      "lat": 31.173612,
-      "lng": 121.625676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 2室2厅 南",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 124.9,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(二期) 2室1厅 复式 南/北",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 116.1,
-      "lat": 31.202498,
-      "lng": 121.597512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·城市经典四期高迪 3室2厅 南",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 100.7,
-      "lat": 31.212907,
-      "lng": 121.618681
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇智湖畔家园 2室2厅 南",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 125.4,
-      "lat": 31.199759,
-      "lng": 121.606217
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·广兰公寓 广兰路店 广兰公寓 毕业季特惠房 精装一室户 1室1厅",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 101.8,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·玉兰香苑一期B块 1室2厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 93.3,
-      "lat": 31.201049,
-      "lng": 121.631989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·川杨新苑(二期) 2室1厅 南",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 85.0,
-      "lat": 31.185655,
-      "lng": 121.627256
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阳光花城 3室2厅 南",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 88.7,
-      "lat": 31.208903,
-      "lng": 121.623037
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杨镇新村 2室1厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 69.8,
-      "lat": 31.029188,
-      "lng": 121.369623
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(二期) 3室2厅 南",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 105.5,
-      "lat": 31.202498,
-      "lng": 121.597512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 2室2厅 南",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 129.2,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(四期) 3室2厅 南/北",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 136.3,
-      "lat": 31.198209,
-      "lng": 121.592123
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地MTOWN 1室1厅 南",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 133.8,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地MTOWN 2室1厅 南/北",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 116.8,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠公园六期 4室2厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 138.2,
-      "lat": 31.181301,
-      "lng": 121.612192
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·城市经典(三期) 3室2厅 南/北",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 87.6,
-      "lat": 31.212888,
-      "lng": 121.61652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·玉兰香苑二期A块 2室1厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 95.4,
-      "lat": 31.198439,
-      "lng": 121.627318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·盛大天地青春里2.0 2室1厅 南",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 111.1,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·益丰新村 2室2厅 南",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 71.9,
-      "lat": 31.197321,
-      "lng": 121.631454
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·圣宇豪庭 3室2厅 南",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 109.4,
-      "lat": 31.18413,
-      "lng": 121.630896
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪庭 4室2厅 复式 南",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 10:34:39",
       "region": "zhangjiang",
       "unit_price": 88.8,
-      "lat": 31.219466,
-      "lng": 121.613806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(四期) 2室1厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 133.5,
-      "lat": 31.198209,
-      "lng": 121.592123
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·香楠小区 3室1厅 南",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 97.8,
-      "lat": 31.21652,
-      "lng": 121.614476
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·交江大楼 2室1厅 南",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 76.7,
-      "lat": 31.205617,
-      "lng": 121.613283
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠公园六期 2室2厅 南",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 129.8,
-      "lat": 31.181301,
-      "lng": 121.612192
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠公园四期 3室1厅 南",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 131.4,
-      "lat": 31.198209,
-      "lng": 121.592123
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·香楠小区 2室1厅 南",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 83.6,
-      "lat": 31.21652,
-      "lng": 121.614476
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(二期) 2室2厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 106.2,
-      "lat": 31.202498,
-      "lng": 121.597512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠公园五期 3室3厅 东南",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 91.7,
-      "lat": 31.198439,
-      "lng": 121.627318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠公园六期 2室1厅 南",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 129.8,
-      "lat": 31.181301,
-      "lng": 121.612192
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·川杨新苑(二期) 2室2厅 南/北",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 72.9,
-      "lat": 31.185655,
-      "lng": 121.627256
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(二期) 3室1厅 南/北",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 111.9,
-      "lat": 31.202498,
-      "lng": 121.597512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪庭 5室2厅 复式 南",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 95.5,
-      "lat": 31.219466,
-      "lng": 121.613806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·盛大天地青春里2.0 2室2厅 北",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 117.8,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪庭 4室2厅 复式 南",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 93.4,
-      "lat": 31.219466,
-      "lng": 121.613806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地MTOWN 1室1厅 南",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 111.9,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 1室2厅 南",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 143.4,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·建中路171弄 2室1厅 南",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 83.1,
-      "lat": 31.202451,
-      "lng": 121.614872
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·城市经典四期高迪 1室1厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 101.7,
-      "lat": 31.212907,
-      "lng": 121.618681
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·香楠小区 1室1厅 南",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 95.9,
-      "lat": 31.21652,
-      "lng": 121.614476
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中建朗阅府 3室2厅 南",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 140.4,
-      "lat": 31.176649,
-      "lng": 121.627105
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·春港丽园(公寓) 3室2厅 南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 65.0,
-      "lat": 31.202239,
-      "lng": 121.623576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(二期) 3室2厅 南/北",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 122.0,
-      "lat": 31.202498,
-      "lng": 121.597512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·城市经典四期高迪 1室1厅 南",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 98.6,
-      "lat": 31.212907,
-      "lng": 121.618681
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华陇建中小区 1室1厅 南",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 120.0,
-      "lat": 31.198965,
-      "lng": 121.61088
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(四期) 2室1厅 南/北",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 150.0,
-      "lat": 31.198209,
-      "lng": 121.592123
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·香楠小区 2室1厅 南",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 80.2,
-      "lat": 31.21652,
-      "lng": 121.614476
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·香楠小区 3室1厅 东/西",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 75.6,
-      "lat": 31.21652,
-      "lng": 121.614476
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华陇建中小区 2室1厅 南",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 10:34:42",
       "region": "zhangjiang",
       "unit_price": 86.6,
-      "lat": 31.198965,
-      "lng": 121.61088
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(二期) 2室1厅 南",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 92.4,
-      "lat": 31.202498,
-      "lng": 121.597512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地MTOWN 1室1厅 北",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 137.5,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝地东郊四季 4室2厅 南/北",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 119.3,
-      "lat": 31.225427,
-      "lng": 121.614465
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑三期A块 3室1厅 南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 76.9,
-      "lat": 31.180953,
-      "lng": 121.638523
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 1室2厅 南",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 135.4,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·城市经典四期高迪 1室1厅 南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 100.1,
-      "lat": 31.212907,
-      "lng": 121.618681
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·香楠小区 2室1厅 南",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 94.4,
-      "lat": 31.21652,
-      "lng": 121.614476
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠公园四期 2室2厅 南/北",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 73.4,
-      "lat": 31.198439,
-      "lng": 121.627318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·春港丽园(公寓) 3室2厅 南",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 66.9,
-      "lat": 31.202239,
-      "lng": 121.623576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杨镇新村 2室1厅 南",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 78.1,
-      "lat": 31.029188,
-      "lng": 121.369623
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑一期A块 2室1厅 南",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 90.2,
-      "lat": 31.185542,
-      "lng": 121.636445
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地MTOWN 1室1厅 南",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 125.0,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·盛大天地青春里2.0 2室2厅 北",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 100.0,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·盛大天地青春里2.0 1室0厅 东",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 93.5,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·科锦苑 3室2厅 南/北",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 78.0,
-      "lat": 31.173612,
-      "lng": 121.625676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古桐公寓 3室2厅 南",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 74.6,
-      "lat": 31.200974,
-      "lng": 121.616393
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杨镇新村 3室1厅 南",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 71.0,
-      "lat": 31.029188,
-      "lng": 121.369623
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·科锦苑 3室1厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 72.5,
-      "lat": 31.173612,
-      "lng": 121.625676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·孙建路四八0弄 1室2厅 南",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 109.1,
-      "lat": 31.180817,
-      "lng": 121.634991
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑一期B块 2室1厅 南",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 82.5,
-      "lat": 31.185542,
-      "lng": 121.636445
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑二期B块 1室1厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 91.4,
-      "lat": 31.183084,
-      "lng": 121.637066
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·川杨新苑(二期) 3室1厅 南",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 62.4,
-      "lat": 31.185655,
-      "lng": 121.627256
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华陇建中小区 2室1厅 南",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 93.5,
-      "lat": 31.198965,
-      "lng": 121.61088
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(四期) 2室2厅 南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 10:35:38",
       "region": "zhangjiang",
       "unit_price": 121.0,
-      "lat": 31.198209,
-      "lng": 121.592123
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·玉兰香苑二期A块 1室1厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 95.8,
-      "lat": 31.198439,
-      "lng": 121.627318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·玉兰香苑一期A块 3室2厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 63.5,
-      "lat": 31.201049,
-      "lng": 121.631989
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·盛大天地青春里2.0 2室2厅 跃层 东南",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 122.2,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑一期A块 3室2厅 东/西",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 66.7,
-      "lat": 31.185542,
-      "lng": 121.636445
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·展想悦廷 1室1厅 东",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 10:35:31",
       "region": "zhangjiang",
       "unit_price": 92.3,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠公园三期 4室2厅 南",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 89.5,
-      "lat": 31.201266,
-      "lng": 121.610465
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 2室1厅 南/北",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 130.7,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地MTOWN 1室1厅 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 124.3,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·城市经典四期高迪 1室1厅 南",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 98.5,
-      "lat": 31.212907,
-      "lng": 121.618681
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠公园（商用） 2室1厅 西",
@@ -3133,8 +3133,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 94.5,
-      "lat": 31.179762,
-      "lng": 121.610562
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·日月光水岸花园(一期) 2室2厅 南",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 87.9,
-      "lat": 31.214414,
-      "lng": 121.623717
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·圣宇豪庭 3室2厅 南",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 94.9,
-      "lat": 31.18413,
-      "lng": 121.630896
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中建御华园 3室2厅 南",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 118.0,
-      "lat": 31.207382,
-      "lng": 121.617018
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江新苑 1室1厅 南",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 50.5,
-      "lat": 31.201001,
-      "lng": 121.613004
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫晶苑 2室2厅 南",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 64.8,
-      "lat": 31.175766,
-      "lng": 121.623784
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虹御公寓 3室2厅 南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 10:35:41",
       "region": "zhangjiang",
       "unit_price": 60.9,
-      "lat": 31.187024,
-      "lng": 121.628373
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·纳仕 张江在线右里3 宠物友好，南北通透，家具家电齐全，拎包入住 1室1厅",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 10:35:44",
       "region": "zhangjiang",
       "unit_price": 109.1,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兰沁苑 2室2厅 南",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 10:35:44",
       "region": "zhangjiang",
       "unit_price": 106.0,
-      "lat": 31.205112,
-      "lng": 121.622633
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中芯花园199弄 1室1厅 南",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 10:35:44",
       "region": "zhangjiang",
       "unit_price": 77.6,
-      "lat": 31.220081,
-      "lng": 121.621991
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·黄浦花园 3室2厅 南",
@@ -3342,8 +3342,8 @@
       "scraped_at": "2026-04-23 10:35:44",
       "region": "zhangjiang",
       "unit_price": 49.6,
-      "lat": 31.219451,
-      "lng": 121.448417
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·展想悦廷 1室1厅 南",
@@ -3361,8 +3361,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 89.2,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·川杨新苑(四期) 1室1厅 南",
@@ -3380,8 +3380,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 82.9,
-      "lat": 31.189052,
-      "lng": 121.63772
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·纳仕 张江在线右里2 24H安全保障，宜家绿色家具，民水民电，燃气做饭 1室1厅",
@@ -3418,8 +3418,8 @@
       "scraped_at": "2026-04-23 10:36:18",
       "region": "zhangjiang",
       "unit_price": 108.0,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江一村 2室1厅 南",
@@ -3437,8 +3437,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 79.9,
-      "lat": 31.207204,
-      "lng": 121.612924
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·盛大天地青春里2.0 2室2厅 西南",
@@ -3456,8 +3456,8 @@
       "scraped_at": "2026-04-23 10:36:18",
       "region": "zhangjiang",
       "unit_price": 93.3,
-      "lat": 31.169751,
-      "lng": 121.605652
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汇智湖畔家园 1室1厅 南",
@@ -3475,8 +3475,8 @@
       "scraped_at": "2026-04-23 10:36:18",
       "region": "zhangjiang",
       "unit_price": 98.2,
-      "lat": 31.199759,
-      "lng": 121.606217
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫晶苑 1室1厅 南",
@@ -3494,8 +3494,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 76.7,
-      "lat": 31.175766,
-      "lng": 121.623784
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·香楠小区 1室1厅 南",
@@ -3513,8 +3513,8 @@
       "scraped_at": "2026-04-23 10:36:18",
       "region": "zhangjiang",
       "unit_price": 93.8,
-      "lat": 31.21652,
-      "lng": 121.614476
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·展想悦廷 1室1厅 西",
@@ -3532,8 +3532,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 69.8,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·川杨新苑(六期) 2室2厅 南",
@@ -3551,8 +3551,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 79.8,
-      "lat": 31.190876,
-      "lng": 121.636381
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·玉兰香苑二期A块 2室1厅 南",
@@ -3570,8 +3570,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 80.1,
-      "lat": 31.198439,
-      "lng": 121.627318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 2室2厅 南/北",
@@ -3589,8 +3589,8 @@
       "scraped_at": "2026-04-23 10:35:44",
       "region": "zhangjiang",
       "unit_price": 109.8,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·展想悦廷 1室1厅 东",
@@ -3608,8 +3608,8 @@
       "scraped_at": "2026-04-23 10:36:18",
       "region": "zhangjiang",
       "unit_price": 79.1,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿地MTOWN 1室1厅 北",
@@ -3627,8 +3627,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 110.5,
-      "lat": 31.177201,
-      "lng": 121.603781
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·张江汤臣豪园(三期) 2室1厅 南",
@@ -3646,8 +3646,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 108.0,
-      "lat": 31.199283,
-      "lng": 121.597612
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·申城佳苑三期B块 3室2厅 南",
@@ -3665,8 +3665,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 69.1,
-      "lat": 31.180953,
-      "lng": 121.638523
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·杨镇新村 2室1厅 南/北",
@@ -3684,8 +3684,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 71.9,
-      "lat": 31.029188,
-      "lng": 121.369623
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·展想悦廷 1室0厅 东",
@@ -3703,8 +3703,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 81.2,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·展想悦廷 1室1厅 西",
@@ -3722,8 +3722,8 @@
       "scraped_at": "2026-04-23 10:36:18",
       "region": "zhangjiang",
       "unit_price": 79.5,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古桐公寓 2室2厅 南",
@@ -3741,8 +3741,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 88.6,
-      "lat": 31.200974,
-      "lng": 121.616393
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·春港丽园(公寓) 3室1厅 南",
@@ -3760,8 +3760,8 @@
       "scraped_at": "2026-04-23 10:36:08",
       "region": "zhangjiang",
       "unit_price": 74.5,
-      "lat": 31.202239,
-      "lng": 121.623576
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·顶夫公寓 孙桥路店 13号线张江路房源!独立厨卫 ，采光佳 开间",
@@ -3798,8 +3798,8 @@
       "scraped_at": "2026-04-23 10:36:18",
       "region": "zhangjiang",
       "unit_price": 75.5,
-      "lat": 31.21652,
-      "lng": 121.614476
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·展想悦廷 1室1厅 南",
@@ -3817,8 +3817,8 @@
       "scraped_at": "2026-04-23 10:36:18",
       "region": "zhangjiang",
       "unit_price": 85.2,
-      "lat": 31.210723,
-      "lng": 121.626563
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·松鼠公寓 广兰路店 地铁2号线整租一居室，近广兰路地铁站，展想广场集贤中心 开间",
@@ -4121,8 +4121,8 @@
       "scraped_at": "2026-04-23 10:36:42",
       "region": "zhangjiang",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·万科翡翠公园四期 4室2厅 南/北",
@@ -4159,8 +4159,8 @@
       "scraped_at": "2026-04-23 10:36:42",
       "region": "zhangjiang",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 4室2厅 复式 南",

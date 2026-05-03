@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 82.3,
-      "lat": 31.257448,
-      "lng": 121.451405
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·灵广花园 1室2厅 南/北",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 15:12:55",
       "region": "buyecheng",
       "unit_price": 99.1,
-      "lat": 31.256197,
-      "lng": 121.462283
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 2室1厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 123.9,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·微音公寓 汉中路地铁站店 近嘉里不夜城企业中心马戏城 民用水电 汉中路地铁口好房押一付一 1室1厅",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 101.8,
-      "lat": 31.240689,
-      "lng": 121.457442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 2室1厅 南/北",
@@ -112,8 +112,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 123.9,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏河融景 5室3厅 南",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 15:12:55",
       "region": "buyecheng",
       "unit_price": 208.2,
-      "lat": 31.24209,
-      "lng": 121.454389
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 2室1厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 100.7,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·瑢寓社区 恒丰路店 独栋公寓可短租月付，家电齐全拎包入住 1室1厅",
@@ -188,8 +188,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 152.2,
-      "lat": 31.250585,
-      "lng": 121.459774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·友间公寓 大统路社区 上海火车站/汉中路/人民广场/金融街/维修快/带电梯/大明窗/民水电/可做饭B 开间",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 93.2,
-      "lat": 31.253219,
-      "lng": 121.463238
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·一天下大厦 1室1厅 西南",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 100.7,
-      "lat": 31.240689,
-      "lng": 121.457442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·长安大厦 1室1厅 北",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 96.7,
-      "lat": 31.244527,
-      "lng": 121.452764
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(四期) 2室1厅 错层 东",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 15:12:55",
       "region": "buyecheng",
       "unit_price": 120.7,
-      "lat": 31.250585,
-      "lng": 121.459774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·城家公寓 城家公寓上海火车站苏河一号店 地铁直达人民广场！超大落地窗！超大公区！可办理居住证!无中介费！ 开间",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 104.9,
-      "lat": 31.240689,
-      "lng": 121.457442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·富泉公寓 3室2厅 南",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 15:12:55",
       "region": "buyecheng",
       "unit_price": 88.7,
-      "lat": 31.24923,
-      "lng": 121.462052
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·沪太家具大厦 2室1厅 南",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 96.9,
-      "lat": 31.257924,
-      "lng": 121.450428
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·一天下大厦 1室1厅 南",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 94.7,
-      "lat": 31.240689,
-      "lng": 121.457442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·联通国际大厦 2室2厅 南",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 90.1,
-      "lat": 31.245837,
-      "lng": 121.449637
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(四期) 2室2厅 东",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 126.7,
-      "lat": 31.250585,
-      "lng": 121.459774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫兰苑 3室1厅 南/北",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 75.8,
-      "lat": 31.255002,
-      "lng": 121.456074
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金甸大楼 3室0厅 南",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 79.2,
-      "lat": 31.25912,
-      "lng": 121.456149
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴新小区 1室1厅 南",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 93.9,
-      "lat": 31.243898,
-      "lng": 121.472158
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金融街融府 2室1厅 南/北",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 180.2,
-      "lat": 31.253915,
-      "lng": 121.450678
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·林顿大厦 2室1厅 西南",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 91.7,
-      "lat": 31.255294,
-      "lng": 121.451414
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·抱家公寓 静安店 可短租1个月 上海火车站6号出口步行3分钟一居室朝南·独卫·大床房 开间",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 104.3,
-      "lat": 31.253219,
-      "lng": 121.463238
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴新小区 1室1厅 北",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 101.5,
-      "lat": 31.243898,
-      "lng": 121.472158
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·长安大厦 1室1厅 北",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 97.2,
-      "lat": 31.244527,
-      "lng": 121.452764
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·共和新路970弄 1室1厅 南",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 121.1,
-      "lat": 31.244666,
-      "lng": 121.460645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路453弄 1室0厅 南",
@@ -625,8 +625,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 100.3,
-      "lat": 31.259142,
-      "lng": 121.464902
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路285弄 1室1厅 南",
@@ -644,8 +644,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 101.3,
-      "lat": 31.259142,
-      "lng": 121.464902
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·五月花都荟豪庭 1室2厅 东南/南",
@@ -663,8 +663,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 113.2,
-      "lat": 31.256392,
-      "lng": 121.457529
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东方莱茵 2室2厅 东南",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 101.7,
-      "lat": 31.241258,
-      "lng": 121.454671
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·共和大厦(公寓) 2室1厅 南",
@@ -701,8 +701,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 99.1,
-      "lat": 31.22302,
-      "lng": 121.444152
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·一天下大厦 1室1厅 东南",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 125.9,
-      "lat": 31.240689,
-      "lng": 121.457442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉里不夜城 2室2厅 南/北",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 118.8,
-      "lat": 31.244695,
-      "lng": 121.456546
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·协和大厦 2室1厅 东南",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 90.7,
-      "lat": 31.259463,
-      "lng": 121.457821
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(三期) 2室1厅 南",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 124.2,
-      "lat": 31.250354,
-      "lng": 121.462222
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓悦居三期 3室2厅 西/北",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 127.4,
-      "lat": 31.24395,
-      "lng": 121.458737
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·一天下大厦 1室1厅 东南",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 100.0,
-      "lat": 31.240689,
-      "lng": 121.457442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(四期) 1室1厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 15:12:59",
       "region": "buyecheng",
       "unit_price": 136.0,
-      "lat": 31.250585,
-      "lng": 121.459774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·北美公寓 2室2厅 南/北",
@@ -853,8 +853,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 93.7,
-      "lat": 31.235454,
-      "lng": 121.459506
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新鑫公寓 2室2厅 南/北",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 77.7,
-      "lat": 31.257477,
-      "lng": 121.458897
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·都荟贤居 1室1厅 南",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 104.0,
-      "lat": 31.236477,
-      "lng": 121.447105
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天道俪晶国际公寓 1室1厅 南",
@@ -910,8 +910,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 101.1,
-      "lat": 31.255222,
-      "lng": 121.463215
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·林顿大厦 2室1厅 南",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 104.0,
-      "lat": 31.255294,
-      "lng": 121.451414
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路270弄 2室1厅 南",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 103.8,
-      "lat": 31.259142,
-      "lng": 121.464902
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金融街融府 3室1厅 南",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 142.8,
-      "lat": 31.253915,
-      "lng": 121.450678
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·博苑公寓 1室1厅 南",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 117.9,
-      "lat": 31.255929,
-      "lng": 121.459043
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路453弄 1室1厅 南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 99.2,
-      "lat": 31.259142,
-      "lng": 121.464902
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·都荟贤居 1室0厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 115.5,
-      "lat": 31.236477,
-      "lng": 121.447105
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫祥小区 1室1厅 南",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 109.1,
-      "lat": 31.257075,
-      "lng": 121.462329
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·北美公寓 3室2厅 南",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 97.1,
-      "lat": 31.235454,
-      "lng": 121.459506
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫祥小区 2室1厅 西",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 106.6,
-      "lat": 31.257075,
-      "lng": 121.462329
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·五月花都荟豪庭 1室2厅 南/西南",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 102.4,
-      "lat": 31.256392,
-      "lng": 121.457529
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和泰花园 3室2厅 南",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 100.8,
-      "lat": 31.257448,
-      "lng": 121.451405
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华龙大酒店 1室0厅 南",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 86.2,
-      "lat": 31.280227,
-      "lng": 121.427214
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫兰苑 2室2厅 南",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 89.6,
-      "lat": 31.255002,
-      "lng": 121.456074
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三兴大楼 3室1厅 南",
@@ -1176,8 +1176,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 89.6,
-      "lat": 31.252034,
-      "lng": 121.461001
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金融街融府 4室2厅 南/北",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 168.3,
-      "lat": 31.253915,
-      "lng": 121.450678
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(四期) 3室2厅 西",
@@ -1214,8 +1214,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 162.8,
-      "lat": 31.250585,
-      "lng": 121.459774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·五月花都荟豪庭 2室2厅 南",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 116.7,
-      "lat": 31.256392,
-      "lng": 121.457529
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·静安印公馆 2室2厅 南",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 141.0,
-      "lat": 31.280227,
-      "lng": 121.427214
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴财富国际公寓 2室1厅 南",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 15:13:02",
       "region": "buyecheng",
       "unit_price": 94.1,
-      "lat": 31.253219,
-      "lng": 121.463238
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 2室1厅 错层 南",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 160.2,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 3室2厅 错层 东北",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 126.9,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和泰花园 3室2厅 东南",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 103.2,
-      "lat": 31.257448,
-      "lng": 121.451405
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金融街融府 3室2厅 南/北",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 151.3,
-      "lat": 31.253915,
-      "lng": 121.450678
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 2室1厅 东南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 153.8,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·富泉公寓 3室2厅 南",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 122.7,
-      "lat": 31.24923,
-      "lng": 121.462052
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金融街融府 3室2厅 南",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 156.2,
-      "lat": 31.253915,
-      "lng": 121.450678
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴财富国际公寓 2室2厅 东南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 94.2,
-      "lat": 31.253219,
-      "lng": 121.463238
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·灵广大厦 3室1厅 南",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 82.9,
-      "lat": 31.255532,
-      "lng": 121.450738
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金融街融府 2室1厅 南",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 189.9,
-      "lat": 31.253915,
-      "lng": 121.450678
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·林顿大厦 2室2厅 南",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 128.9,
-      "lat": 31.255294,
-      "lng": 121.451414
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴财富国际公寓 2室1厅 东南",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 103.0,
-      "lat": 31.253219,
-      "lng": 121.463238
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·永兴路973弄 2室1厅 南/北",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 118.4,
-      "lat": 31.251965,
-      "lng": 121.466229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路453弄 2室0厅 南",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 133.6,
-      "lat": 31.259142,
-      "lng": 121.464902
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏河融景 2室2厅 南/北",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 221.8,
-      "lat": 31.24209,
-      "lng": 121.454389
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(四期) 2室1厅 东",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 139.6,
-      "lat": 31.250585,
-      "lng": 121.459774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金融街融府 3室1厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 173.2,
-      "lat": 31.253915,
-      "lng": 121.450678
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·一天下大厦 1室2厅 南",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 131.8,
-      "lat": 31.240689,
-      "lng": 121.457442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天道俪晶国际公寓 1室1厅 南",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 97.1,
-      "lat": 31.255222,
-      "lng": 121.463215
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·企业公馆 2室2厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 99.9,
-      "lat": 31.245389,
-      "lng": 121.458583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·静安天御 2室1厅 南",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 218.5,
-      "lat": 31.244307,
-      "lng": 121.450375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(一期) 2室1厅 南",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 136.0,
-      "lat": 31.250585,
-      "lng": 121.459774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·共和新路710弄 2室1厅 南/北",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 115.6,
-      "lat": 31.244666,
-      "lng": 121.460645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金融街融府 2室2厅 南",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 201.7,
-      "lat": 31.253915,
-      "lng": 121.450678
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·长安大厦 3室2厅 南",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 94.7,
-      "lat": 31.244527,
-      "lng": 121.452764
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·静安天御 2室2厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 243.2,
-      "lat": 31.244307,
-      "lng": 121.450375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中房华东大厦 3室1厅 东",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 98.3,
-      "lat": 31.246995,
-      "lng": 121.451745
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏河融景 2室2厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 221.3,
-      "lat": 31.24209,
-      "lng": 121.454389
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·普善路30号 1室0厅 南",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 15:13:05",
       "region": "buyecheng",
       "unit_price": 116.0,
-      "lat": 31.258513,
-      "lng": 121.456063
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·五月花都荟豪庭 2室1厅 南",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 130.3,
-      "lat": 31.256392,
-      "lng": 121.457529
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫兰苑 2室1厅 南",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 91.0,
-      "lat": 31.255002,
-      "lng": 121.456074
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安丰小区 2室1厅 南",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 117.8,
-      "lat": 31.239435,
-      "lng": 121.45683
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴财富国际公寓 2室2厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 100.1,
-      "lat": 31.253219,
-      "lng": 121.463238
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(三期) 2室2厅 南/西南",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 166.7,
-      "lat": 31.250354,
-      "lng": 121.462222
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏河融景 3室2厅 南",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 196.5,
-      "lat": 31.24209,
-      "lng": 121.454389
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 2室1厅 南",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 116.0,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·共和新路970弄 1室0厅 北",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 118.9,
-      "lat": 31.244666,
-      "lng": 121.460645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 1室1厅 东/东南",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 115.6,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三兴小区 1室1厅 南",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 119.0,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·北美公寓 2室2厅 南/北",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 125.5,
-      "lat": 31.235454,
-      "lng": 121.459506
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·企业公馆 2室1厅 北",
@@ -2050,8 +2050,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 102.0,
-      "lat": 31.245389,
-      "lng": 121.458583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 2室1厅 南",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 151.6,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 2室1厅 南/北",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 145.7,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒丰小区 2室1厅 南",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 154.3,
-      "lat": 31.280227,
-      "lng": 121.427214
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三兴大楼 2室1厅 南",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 96.9,
-      "lat": 31.252034,
-      "lng": 121.461001
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 1室1厅 南",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 146.0,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和泰花园 3室2厅 南",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 87.5,
-      "lat": 31.257448,
-      "lng": 121.451405
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中华新路893弄 2室0厅 南",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 117.1,
-      "lat": 31.253732,
-      "lng": 121.463178
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 3室2厅 南",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 137.5,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(三期) 3室2厅 南",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 134.0,
-      "lat": 31.250354,
-      "lng": 121.462222
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东方莱茵 2室2厅 南/北",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 121.2,
-      "lat": 31.241258,
-      "lng": 121.454671
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合兴小区 2室1厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 99.3,
-      "lat": 31.243898,
-      "lng": 121.472158
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华盛大楼 2室1厅 南",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 111.5,
-      "lat": 31.24522,
-      "lng": 121.460848
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·越秀苑 3室2厅 南/北",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 87.7,
-      "lat": 31.255031,
-      "lng": 121.458297
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(四期) 3室2厅 西南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 136.4,
-      "lat": 31.250585,
-      "lng": 121.459774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天道俪晶国际公寓 1室1厅 南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 15:13:09",
       "region": "buyecheng",
       "unit_price": 124.5,
-      "lat": 31.255222,
-      "lng": 121.463215
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴新小区 1室1厅 南",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 144.8,
-      "lat": 31.243898,
-      "lng": 121.472158
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 3室2厅 西南",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 160.7,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·一天下大厦 1室1厅 东南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 125.9,
-      "lat": 31.240689,
-      "lng": 121.457442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫祥小区 2室1厅 南/北",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 119.6,
-      "lat": 31.257075,
-      "lng": 121.462329
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏河融景 2室2厅 南",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 249.7,
-      "lat": 31.24209,
-      "lng": 121.454389
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 2室1厅 错层 西北",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 160.0,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中华新路730弄 1室1厅 南",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 123.4,
-      "lat": 31.253732,
-      "lng": 121.463178
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中华新路730弄 1室1厅 南/北",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 93.7,
-      "lat": 31.253732,
-      "lng": 121.463178
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏河融景 2室2厅 东/南",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 242.5,
-      "lat": 31.24209,
-      "lng": 121.454389
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·合兴小区 2室1厅 南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 96.4,
-      "lat": 31.243898,
-      "lng": 121.472158
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·一天下大厦 1室1厅 南",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 114.5,
-      "lat": 31.240689,
-      "lng": 121.457442
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中山家具大厦 3室1厅 南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 90.8,
-      "lat": 31.258006,
-      "lng": 121.450822
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·企业公馆 2室2厅 西",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 120.5,
-      "lat": 31.245389,
-      "lng": 121.458583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 2室2厅 西南",
@@ -2601,8 +2601,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 121.3,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 2室1厅 南",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 161.7,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·静安天御 2室2厅 南/北",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 217.6,
-      "lat": 31.244307,
-      "lng": 121.450375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·恒丰小区 2室0厅 南/北",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 201.3,
-      "lat": 31.280227,
-      "lng": 121.427214
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 1室1厅 北",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 114.2,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中华新路846号 2室0厅 南/北",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 105.0,
-      "lat": 31.253732,
-      "lng": 121.463178
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴隆公寓 2室2厅 南",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 76.2,
-      "lat": 31.25475,
-      "lng": 121.462792
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·毛家弄4号 1室1厅 南",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 96.7,
-      "lat": 31.257542,
-      "lng": 121.45335
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏家巷小区 1室0厅 南",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 200.0,
-      "lat": 31.257681,
-      "lng": 121.458011
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 2室1厅 南/北",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 88.4,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·现代交通商务大厦 1室1厅 南",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 80.8,
-      "lat": 31.241147,
-      "lng": 121.456662
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 1室1厅 西南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 130.2,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·企业公馆 3室1厅 南",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 115.6,
-      "lat": 31.245389,
-      "lng": 121.458583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·苏河融景 2室1厅 南",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 284.4,
-      "lat": 31.24209,
-      "lng": 121.454389
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中华新路730弄 2室0厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 102.1,
-      "lat": 31.253732,
-      "lng": 121.463178
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和泰花园 3室2厅 南",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 84.1,
-      "lat": 31.257448,
-      "lng": 121.451405
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·海鸥康恒大厦 6室2厅 西北",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 15:13:11",
       "region": "buyecheng",
       "unit_price": 150.0,
-      "lat": 31.247324,
-      "lng": 121.462334
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·灵广花园 1室0厅 南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 171.9,
-      "lat": 31.256197,
-      "lng": 121.462283
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴新小区 1室1厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 128.2,
-      "lat": 31.243898,
-      "lng": 121.472158
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫祥小区 1室0厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 129.7,
-      "lat": 31.257075,
-      "lng": 121.462329
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 1室1厅 南",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 154.7,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华象大楼 3室2厅 南",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 107.3,
-      "lat": 31.247203,
-      "lng": 121.458334
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三兴小区 1室0厅 南",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 121.9,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 1室1厅 南",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 150.8,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金融街融府 3室2厅 南/北",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 173.2,
-      "lat": 31.253915,
-      "lng": 121.450678
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·静安天御 4室2厅 东",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 256.7,
-      "lat": 31.244307,
-      "lng": 121.450375
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(四期) 1室1厅 西/北",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 140.2,
-      "lat": 31.250585,
-      "lng": 121.459774
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中华新路591弄 1室1厅 南",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 120.0,
-      "lat": 31.253732,
-      "lng": 121.463178
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中海万锦城(二期) 1室1厅 北",
@@ -3133,8 +3133,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 140.4,
-      "lat": 31.249198,
-      "lng": 121.460749
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·越秀苑 2室1厅 南",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 92.4,
-      "lat": 31.255031,
-      "lng": 121.458297
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 2室1厅 东/南",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 92.7,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓悦居一期 2室1厅 西/西北",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 158.6,
-      "lat": 31.244666,
-      "lng": 121.460645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 2室1厅 南/北",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 135.3,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·卓悦居一期 2室1厅 南",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 152.5,
-      "lat": 31.244666,
-      "lng": 121.460645
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华龙大酒店 1室0厅 西南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 68.0,
-      "lat": 31.280227,
-      "lng": 121.427214
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·安源小区 2室1厅 南",
@@ -3266,8 +3266,8 @@
       "scraped_at": "2026-04-23 15:13:14",
       "region": "buyecheng",
       "unit_price": 100.8,
-      "lat": 31.244957,
-      "lng": 121.450998
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汉中小区 1室1厅 南",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 15:13:18",
       "region": "buyecheng",
       "unit_price": 182.2,
-      "lat": 31.225377,
-      "lng": 121.430806
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 15:13:21",
       "region": "buyecheng",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 15:13:21",
       "region": "buyecheng",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园(二期) 4室2厅 复式 南",
@@ -3342,8 +3342,8 @@
       "scraped_at": "2026-04-23 15:13:21",
       "region": "buyecheng",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 5室3厅 复式 南",

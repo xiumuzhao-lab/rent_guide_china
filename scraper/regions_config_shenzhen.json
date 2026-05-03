@@ -1,0 +1,539 @@
+{
+  "_meta": {
+    "source": "https://sz.lianjia.com/zufang/",
+    "city": "深圳",
+    "total_districts": 10,
+    "total_boards": 94,
+    "scraped_at": "2026-05-03 05:15:01"
+  },
+  "districts": {
+    "luohuqu": {
+      "name": "罗湖区",
+      "slug": "luohuqu",
+      "boards": [
+        {
+          "slug": "buxin",
+          "name": "布心",
+          "url": "https://sz.lianjia.com/zufang/buxin/"
+        },
+        {
+          "slug": "baishida",
+          "name": "百仕达",
+          "url": "https://sz.lianjia.com/zufang/baishida/"
+        },
+        {
+          "slug": "cuizhu",
+          "name": "翠竹",
+          "url": "https://sz.lianjia.com/zufang/cuizhu/"
+        },
+        {
+          "slug": "chunfenglu",
+          "name": "春风路",
+          "url": "https://sz.lianjia.com/zufang/chunfenglu/"
+        },
+        {
+          "slug": "dongmen",
+          "name": "东门",
+          "url": "https://sz.lianjia.com/zufang/dongmen/"
+        },
+        {
+          "slug": "diwang",
+          "name": "地王",
+          "url": "https://sz.lianjia.com/zufang/diwang/"
+        },
+        {
+          "slug": "honghu",
+          "name": "洪湖",
+          "url": "https://sz.lianjia.com/zufang/honghu/"
+        },
+        {
+          "slug": "huangbeiling",
+          "name": "黄贝岭",
+          "url": "https://sz.lianjia.com/zufang/huangbeiling/"
+        },
+        {
+          "slug": "huangmugang",
+          "name": "黄木岗",
+          "url": "https://sz.lianjia.com/zufang/huangmugang/"
+        },
+        {
+          "slug": "liantang",
+          "name": "莲塘",
+          "url": "https://sz.lianjia.com/zufang/liantang/"
+        },
+        {
+          "slug": "luohukouan",
+          "name": "罗湖口岸",
+          "url": "https://sz.lianjia.com/zufang/luohukouan/"
+        },
+        {
+          "slug": "luoling",
+          "name": "螺岭",
+          "url": "https://sz.lianjia.com/zufang/luoling/"
+        },
+        {
+          "slug": "qingshuihe",
+          "name": "清水河",
+          "url": "https://sz.lianjia.com/zufang/qingshuihe/"
+        },
+        {
+          "slug": "sungang",
+          "name": "笋岗",
+          "url": "https://sz.lianjia.com/zufang/sungang/"
+        },
+        {
+          "slug": "wanxiangcheng",
+          "name": "万象城",
+          "url": "https://sz.lianjia.com/zufang/wanxiangcheng/"
+        },
+        {
+          "slug": "xinxiu",
+          "name": "新秀",
+          "url": "https://sz.lianjia.com/zufang/xinxiu/"
+        },
+        {
+          "slug": "yinhu",
+          "name": "银湖",
+          "url": "https://sz.lianjia.com/zufang/yinhu/"
+        }
+      ]
+    },
+    "futianqu": {
+      "name": "福田区",
+      "slug": "futianqu",
+      "boards": [
+        {
+          "slug": "bagualing",
+          "name": "八卦岭",
+          "url": "https://sz.lianjia.com/zufang/bagualing/"
+        },
+        {
+          "slug": "baihua",
+          "name": "百花",
+          "url": "https://sz.lianjia.com/zufang/baihua/"
+        },
+        {
+          "slug": "chegongmiao",
+          "name": "车公庙",
+          "url": "https://sz.lianjia.com/zufang/chegongmiao/"
+        },
+        {
+          "slug": "chiwei",
+          "name": "赤尾",
+          "url": "https://sz.lianjia.com/zufang/chiwei/"
+        },
+        {
+          "slug": "futianbaoshuiqu",
+          "name": "福田保税区",
+          "url": "https://sz.lianjia.com/zufang/futianbaoshuiqu/"
+        },
+        {
+          "slug": "futianzhongxin",
+          "name": "福田中心",
+          "url": "https://sz.lianjia.com/zufang/futianzhongxin/"
+        },
+        {
+          "slug": "huanggang",
+          "name": "皇岗",
+          "url": "https://sz.lianjia.com/zufang/huanggang/"
+        },
+        {
+          "slug": "huangmugang",
+          "name": "黄木岗",
+          "url": "https://sz.lianjia.com/zufang/huangmugang/"
+        },
+        {
+          "slug": "huaqiangbei",
+          "name": "华强北",
+          "url": "https://sz.lianjia.com/zufang/huaqiangbei/"
+        },
+        {
+          "slug": "huaqiangnan",
+          "name": "华强南",
+          "url": "https://sz.lianjia.com/zufang/huaqiangnan/"
+        },
+        {
+          "slug": "jingtian",
+          "name": "景田",
+          "url": "https://sz.lianjia.com/zufang/jingtian/"
+        },
+        {
+          "slug": "lianhua",
+          "name": "莲花",
+          "url": "https://sz.lianjia.com/zufang/lianhua/"
+        },
+        {
+          "slug": "meilin",
+          "name": "梅林",
+          "url": "https://sz.lianjia.com/zufang/meilin/"
+        },
+        {
+          "slug": "shixia",
+          "name": "石厦",
+          "url": "https://sz.lianjia.com/zufang/shixia/"
+        },
+        {
+          "slug": "shawei",
+          "name": "沙尾",
+          "url": "https://sz.lianjia.com/zufang/shawei/"
+        },
+        {
+          "slug": "shangxiasha",
+          "name": "上下沙",
+          "url": "https://sz.lianjia.com/zufang/shangxiasha/"
+        },
+        {
+          "slug": "shangbu",
+          "name": "上步",
+          "url": "https://sz.lianjia.com/zufang/shangbu/"
+        },
+        {
+          "slug": "xiangmihu",
+          "name": "香蜜湖",
+          "url": "https://sz.lianjia.com/zufang/xiangmihu/"
+        },
+        {
+          "slug": "xiangmeibei",
+          "name": "香梅北",
+          "url": "https://sz.lianjia.com/zufang/xiangmeibei/"
+        },
+        {
+          "slug": "xinzhou1",
+          "name": "新洲",
+          "url": "https://sz.lianjia.com/zufang/xinzhou1/"
+        },
+        {
+          "slug": "yuanling",
+          "name": "园岭",
+          "url": "https://sz.lianjia.com/zufang/yuanling/"
+        },
+        {
+          "slug": "yinhu",
+          "name": "银湖",
+          "url": "https://sz.lianjia.com/zufang/yinhu/"
+        },
+        {
+          "slug": "zhuzilin",
+          "name": "竹子林",
+          "url": "https://sz.lianjia.com/zufang/zhuzilin/"
+        }
+      ]
+    },
+    "nanshanqu": {
+      "name": "南山区",
+      "slug": "nanshanqu",
+      "boards": [
+        {
+          "slug": "baishizhou",
+          "name": "白石洲",
+          "url": "https://sz.lianjia.com/zufang/baishizhou/"
+        },
+        {
+          "slug": "daxuecheng3",
+          "name": "大学城",
+          "url": "https://sz.lianjia.com/zufang/daxuecheng3/"
+        },
+        {
+          "slug": "houhai",
+          "name": "后海",
+          "url": "https://sz.lianjia.com/zufang/houhai/"
+        },
+        {
+          "slug": "hongshuwan",
+          "name": "红树湾",
+          "url": "https://sz.lianjia.com/zufang/hongshuwan/"
+        },
+        {
+          "slug": "huaqiaocheng1",
+          "name": "华侨城",
+          "url": "https://sz.lianjia.com/zufang/huaqiaocheng1/"
+        },
+        {
+          "slug": "kejiyuan",
+          "name": "科技园",
+          "url": "https://sz.lianjia.com/zufang/kejiyuan/"
+        },
+        {
+          "slug": "nantou",
+          "name": "南头",
+          "url": "https://sz.lianjia.com/zufang/nantou/"
+        },
+        {
+          "slug": "nanshanzhongxin",
+          "name": "南山中心",
+          "url": "https://sz.lianjia.com/zufang/nanshanzhongxin/"
+        },
+        {
+          "slug": "qianhai",
+          "name": "前海",
+          "url": "https://sz.lianjia.com/zufang/qianhai/"
+        },
+        {
+          "slug": "shekou",
+          "name": "蛇口",
+          "url": "https://sz.lianjia.com/zufang/shekou/"
+        },
+        {
+          "slug": "shenzhenwan",
+          "name": "深圳湾",
+          "url": "https://sz.lianjia.com/zufang/shenzhenwan/"
+        },
+        {
+          "slug": "xili1",
+          "name": "西丽",
+          "url": "https://sz.lianjia.com/zufang/xili1/"
+        }
+      ]
+    },
+    "yantianqu": {
+      "name": "盐田区",
+      "slug": "yantianqu",
+      "boards": [
+        {
+          "slug": "meisha",
+          "name": "梅沙",
+          "url": "https://sz.lianjia.com/zufang/meisha/"
+        },
+        {
+          "slug": "shatoujiao",
+          "name": "沙头角",
+          "url": "https://sz.lianjia.com/zufang/shatoujiao/"
+        },
+        {
+          "slug": "yantiangang",
+          "name": "盐田港",
+          "url": "https://sz.lianjia.com/zufang/yantiangang/"
+        }
+      ]
+    },
+    "baoanqu": {
+      "name": "宝安区",
+      "slug": "baoanqu",
+      "boards": [
+        {
+          "slug": "baoanzhongxin",
+          "name": "宝安中心",
+          "url": "https://sz.lianjia.com/zufang/baoanzhongxin/"
+        },
+        {
+          "slug": "bihai1",
+          "name": "碧海",
+          "url": "https://sz.lianjia.com/zufang/bihai1/"
+        },
+        {
+          "slug": "fanshen",
+          "name": "翻身",
+          "url": "https://sz.lianjia.com/zufang/fanshen/"
+        },
+        {
+          "slug": "fuyong",
+          "name": "福永",
+          "url": "https://sz.lianjia.com/zufang/fuyong/"
+        },
+        {
+          "slug": "hangcheng",
+          "name": "航城",
+          "url": "https://sz.lianjia.com/zufang/hangcheng/"
+        },
+        {
+          "slug": "songgang",
+          "name": "松岗",
+          "url": "https://sz.lianjia.com/zufang/songgang/"
+        },
+        {
+          "slug": "shajing",
+          "name": "沙井",
+          "url": "https://sz.lianjia.com/zufang/shajing/"
+        },
+        {
+          "slug": "shiyan",
+          "name": "石岩",
+          "url": "https://sz.lianjia.com/zufang/shiyan/"
+        },
+        {
+          "slug": "taoyuanju",
+          "name": "桃源居",
+          "url": "https://sz.lianjia.com/zufang/taoyuanju/"
+        },
+        {
+          "slug": "xinan",
+          "name": "新安",
+          "url": "https://sz.lianjia.com/zufang/xinan/"
+        },
+        {
+          "slug": "xicheng1",
+          "name": "曦城",
+          "url": "https://sz.lianjia.com/zufang/xicheng1/"
+        },
+        {
+          "slug": "xixiang",
+          "name": "西乡",
+          "url": "https://sz.lianjia.com/zufang/xixiang/"
+        }
+      ]
+    },
+    "longgangqu": {
+      "name": "龙岗区",
+      "slug": "longgangqu",
+      "boards": [
+        {
+          "slug": "bujiguan",
+          "name": "布吉关",
+          "url": "https://sz.lianjia.com/zufang/bujiguan/"
+        },
+        {
+          "slug": "bujidafen",
+          "name": "布吉大芬",
+          "url": "https://sz.lianjia.com/zufang/bujidafen/"
+        },
+        {
+          "slug": "bujishuijing",
+          "name": "布吉水径",
+          "url": "https://sz.lianjia.com/zufang/bujishuijing/"
+        },
+        {
+          "slug": "bujishiyaling",
+          "name": "布吉石芽岭",
+          "url": "https://sz.lianjia.com/zufang/bujishiyaling/"
+        },
+        {
+          "slug": "bantian",
+          "name": "坂田",
+          "url": "https://sz.lianjia.com/zufang/bantian/"
+        },
+        {
+          "slug": "bujijie",
+          "name": "布吉街",
+          "url": "https://sz.lianjia.com/zufang/bujijie/"
+        },
+        {
+          "slug": "bujinanling",
+          "name": "布吉南岭",
+          "url": "https://sz.lianjia.com/zufang/bujinanling/"
+        },
+        {
+          "slug": "danzhutou",
+          "name": "丹竹头",
+          "url": "https://sz.lianjia.com/zufang/danzhutou/"
+        },
+        {
+          "slug": "dayunxincheng",
+          "name": "大运新城",
+          "url": "https://sz.lianjia.com/zufang/dayunxincheng/"
+        },
+        {
+          "slug": "henggang",
+          "name": "横岗",
+          "url": "https://sz.lianjia.com/zufang/henggang/"
+        },
+        {
+          "slug": "longgangshuanglong",
+          "name": "龙岗双龙",
+          "url": "https://sz.lianjia.com/zufang/longgangshuanglong/"
+        },
+        {
+          "slug": "longgangzhongxincheng",
+          "name": "龙岗中心城",
+          "url": "https://sz.lianjia.com/zufang/longgangzhongxincheng/"
+        },
+        {
+          "slug": "longgangbaohe",
+          "name": "龙岗宝荷",
+          "url": "https://sz.lianjia.com/zufang/longgangbaohe/"
+        },
+        {
+          "slug": "minzhi",
+          "name": "民治",
+          "url": "https://sz.lianjia.com/zufang/minzhi/"
+        },
+        {
+          "slug": "pingdi",
+          "name": "坪地",
+          "url": "https://sz.lianjia.com/zufang/pingdi/"
+        },
+        {
+          "slug": "pinghu",
+          "name": "平湖",
+          "url": "https://sz.lianjia.com/zufang/pinghu/"
+        }
+      ]
+    },
+    "longhuaqu": {
+      "name": "龙华区",
+      "slug": "longhuaqu",
+      "boards": [
+        {
+          "slug": "bantian",
+          "name": "坂田",
+          "url": "https://sz.lianjia.com/zufang/bantian/"
+        },
+        {
+          "slug": "guanlan",
+          "name": "观澜",
+          "url": "https://sz.lianjia.com/zufang/guanlan/"
+        },
+        {
+          "slug": "hongshan6",
+          "name": "红山",
+          "url": "https://sz.lianjia.com/zufang/hongshan6/"
+        },
+        {
+          "slug": "longhuaxinqu",
+          "name": "龙华新区",
+          "url": "https://sz.lianjia.com/zufang/longhuaxinqu/"
+        },
+        {
+          "slug": "longhuazhongxin",
+          "name": "龙华中心",
+          "url": "https://sz.lianjia.com/zufang/longhuazhongxin/"
+        },
+        {
+          "slug": "minzhi",
+          "name": "民治",
+          "url": "https://sz.lianjia.com/zufang/minzhi/"
+        },
+        {
+          "slug": "meilinguan",
+          "name": "梅林关",
+          "url": "https://sz.lianjia.com/zufang/meilinguan/"
+        },
+        {
+          "slug": "shangtang",
+          "name": "上塘",
+          "url": "https://sz.lianjia.com/zufang/shangtang/"
+        },
+        {
+          "slug": "shiyan",
+          "name": "石岩",
+          "url": "https://sz.lianjia.com/zufang/shiyan/"
+        }
+      ]
+    },
+    "guangmingqu": {
+      "name": "光明区",
+      "slug": "guangmingqu",
+      "boards": [
+        {
+          "slug": "gongming",
+          "name": "公明",
+          "url": "https://sz.lianjia.com/zufang/gongming/"
+        },
+        {
+          "slug": "guangming1",
+          "name": "光明",
+          "url": "https://sz.lianjia.com/zufang/guangming1/"
+        }
+      ]
+    },
+    "pingshanqu": {
+      "name": "坪山区",
+      "slug": "pingshanqu",
+      "boards": []
+    },
+    "dapengxinqu": {
+      "name": "大鹏新区",
+      "slug": "dapengxinqu",
+      "boards": []
+    }
+  }
+}

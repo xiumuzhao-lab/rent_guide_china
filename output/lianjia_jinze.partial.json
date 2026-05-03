@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 31.3,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 4室2厅 南",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 31.3,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·观湖御景 2室2厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 30.0,
-      "lat": 31.172493,
-      "lng": 121.29358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·葑漾里 3室2厅 南",
@@ -74,8 +74,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 35.7,
-      "lat": 31.172493,
-      "lng": 121.29358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华岑佳苑 3室2厅 南",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 43.7,
-      "lat": 31.260979,
-      "lng": 121.599063
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 4室2厅 南",
@@ -112,8 +112,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 42.3,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 6室2厅 南/北",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 32.3,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·海图公寓 3室1厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 14.7,
-      "lat": 31.11264,
-      "lng": 120.92572
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·观湖御景 2室1厅 南",
@@ -169,8 +169,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 24.0,
-      "lat": 31.172493,
-      "lng": 121.29358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·楠林水岸别墅 4室2厅 南/北",
@@ -188,8 +188,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 54.8,
-      "lat": 31.067186,
-      "lng": 120.925618
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华岑佳苑 2室1厅 南",
@@ -207,8 +207,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 49.3,
-      "lat": 31.260979,
-      "lng": 121.599063
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 5室2厅 复式 南",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 55.4,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 6室2厅 复式 南",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 28.7,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 6室4厅 南",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 51.5,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 5室3厅 南",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 44.0,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华岑佳苑 3室2厅 南",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 47.4,
-      "lat": 31.260979,
-      "lng": 121.599063
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华岑佳苑 2室1厅 南",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 58.4,
-      "lat": 31.260979,
-      "lng": 121.599063
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 7室2厅 南",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 38.2,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 5室2厅 复式 南/北",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 50.9,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 5室3厅 南",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 33.3,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 4室2厅 复式 南",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 66.6,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·威尼斯花园 4室2厅 南",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 52.8,
-      "lat": 31.066994,
-      "lng": 120.920609
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·国际华城 4室3厅 南/北",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 23.1,
-      "lat": 31.172493,
-      "lng": 121.29358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·观湖御景 2室2厅 南",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 27.7,
-      "lat": 31.172493,
-      "lng": 121.29358
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·葑漾里 3室2厅 南",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 16:55:56",
       "region": "jinze",
       "unit_price": 38.8,
-      "lat": 31.172493,
-      "lng": 121.29358
+      "lat": null,
+      "lng": null
     }
   ],
   "completed": true

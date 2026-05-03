@@ -1,4 +1,4 @@
-import './App.css';
+import ReportPage from './components/ReportPage';
 import { useState, useEffect, useMemo, useRef, useCallback } from 'react';
 import { Layout, Typography, Spin, Slider, message, Alert, Tabs } from 'antd';
 import html2canvas from 'html2canvas';
@@ -15,7 +15,7 @@ import HeatmapCanvas from './components/HeatmapCanvas';
 import AnalysisReport from './components/AnalysisReport';
 import SmartPicks from './components/SmartPicks';
 import RegionDistanceText from './components/RegionDistanceText';
-import { WORKPLACES } from './utils/constants';
+import { WORKPLACES, CITY_CONFIG, CITY_LIST } from './utils/constants';
 import useIsMobile from './hooks/useIsMobile';
 import { buildCommunityStats, enrichStatsWithDistance, getOverview } from './utils/stats';
 import { haversine } from './utils/haversine';
@@ -25,21 +25,22 @@ import { exportDouyinPoster, generateDouyinText } from './utils/douyinPoster';
 const { Header, Content, Footer } = Layout;
 const { Title, Text, Paragraph } = Typography;
 
-/** 从 URL search params 解析初始工作地点和距离 */
+/** 从 URL search params 解析初始城市、工作地点和距离 */
 function readURLParams() {
   const p = new URLSearchParams(window.location.search);
+  const cityParam = p.get('city');
+  const city = CITY_CONFIG[cityParam] ? cityParam : 'shanghai';
+  const config = CITY_CONFIG[city];
   const wp = p.get('wp');
   const dist = parseInt(p.get('dist'), 10);
   const loc = p.get('loc');
-  const result = {};
+  const result = { city };
   if (wp) {
     const decoded = decodeURIComponent(wp);
-    // 先按名称匹配预设工作地点
-    const preset = WORKPLACES.find((w) => w.name === decoded || w.key === decoded);
+    const preset = config.workplaces.find((w) => w.name === decoded || w.key === decoded);
     if (preset) {
       result.workplace = preset;
     } else if (loc) {
-      // 自定义地点: 从 loc 参数解析坐标
       const parts = loc.split(',');
       const lat = parseFloat(parts[0]);
       const lng = parseFloat(parts[1]);
@@ -52,9 +53,10 @@ function readURLParams() {
   return result;
 }
 
-/** 将工作地点和距离写入 URL */
-function writeURLParams(workplace, maxDistance) {
+/** 将城市、工作地点和距离写入 URL */
+function writeURLParams(city, workplace, maxDistance) {
   const p = new URLSearchParams();
+  if (city !== 'shanghai') p.set('city', city);
   p.set('wp', workplace.name);
   if (workplace.key === 'custom') {
     p.set('loc', `${workplace.lat},${workplace.lng}`);
@@ -74,9 +76,14 @@ export default function App() {
 
   // 从 URL 初始化
   const initial = useMemo(() => readURLParams(), []);
+  const [city, setCity] = useState(initial.city);
+  const cityConfig = CITY_CONFIG[city];
   const hasURLWorkplace = !!initial.workplace;
-  const [workplace, setWorkplace] = useState(initial.workplace || WORKPLACES[0]);
+  const [workplace, setWorkplace] = useState(
+    initial.workplace || (initial.city === city ? CITY_CONFIG[initial.city].workplaces[0] : WORKPLACES[0]),
+  );
   const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 3);
+  const [view, setView] = useState('main');
 
   // IP 定位匹配最近工作地
   const [locating, setLocating] = useState(false);
@@ -93,7 +100,8 @@ export default function App() {
         if (data.status !== 0) throw new Error(data.message || `status ${data.status}`);
         if (!data.result?.location) throw new Error('no location in response');
         const { lat, lng } = data.result.location;
-        if (lat < 30.7 || lat > 31.9 || lng < 120.8 || lng > 122.0) return;
+        const b = cityConfig.bounds;
+        if (lat < b.latMin || lat > b.latMax || lng < b.lngMin || lng > b.lngMax) return;
         const address = data.result.address || '';
         setWorkplace({
           key: 'custom',
@@ -105,7 +113,7 @@ export default function App() {
       })
       .catch((err) => { console.error('[IP定位失败]', err.message); })
       .finally(() => setLocating(false));
-  }, []);
+  }, [cityConfig]);
 
   // 无 URL 参数时，自动定位
   useEffect(() => {
@@ -114,16 +122,26 @@ export default function App() {
   }, [hasURLWorkplace, locateByIP]);
 
   // state 变化时同步回 URL
-  useEffect(() => { writeURLParams(workplace, maxDistance); }, [workplace, maxDistance]);
+  useEffect(() => { writeURLParams(city, workplace, maxDistance); }, [city, workplace, maxDistance]);
 
   useEffect(() => {
     async function loadData() {
+      setLoading(true);
       try {
+        const dataPath = cityConfig.dataPath;
+        const verRes = await fetch(`${import.meta.env.BASE_URL}data/${dataPath}versions.json`);
+        let listingsFile = 'listings.json';
+        let geoCacheFile = 'geo_cache.json';
+        if (verRes.ok) {
+          const ver = await verRes.json();
+          listingsFile = ver.listings || listingsFile;
+          geoCacheFile = ver.geo_cache || geoCacheFile;
+        }
         const [listingsRes, geoRes] = await Promise.all([
-          fetch(`${import.meta.env.BASE_URL}data/listings.json`),
-          fetch(`${import.meta.env.BASE_URL}data/geo_cache.json`),
+          fetch(`${import.meta.env.BASE_URL}data/${dataPath}${listingsFile}`),
+          fetch(`${import.meta.env.BASE_URL}data/${dataPath}${geoCacheFile}`),
         ]);
-        if (!listingsRes.ok) throw new Error('listings.json not found');
+        if (!listingsRes.ok) throw new Error('listings not found');
         const data = await listingsRes.json();
         setListings(data);
         if (geoRes.ok) {
@@ -137,7 +155,7 @@ export default function App() {
       }
     }
     loadData();
-  }, []);
+  }, [city, cityConfig]);
 
   const communityStats = useMemo(() => buildCommunityStats(listings), [listings]);
 
@@ -154,6 +172,12 @@ export default function App() {
   }, [listings, enrichedStats]);
 
   const rangeOverview = useMemo(() => getOverview(filteredListings), [filteredListings]);
+
+  const publishedAt = useMemo(() => {
+    if (!listings.length) return null;
+    const times = listings.map((l) => l.scraped_at).filter(Boolean).sort();
+    return times[times.length - 1];
+  }, [listings]);
 
   const analysisListings = useMemo(() => {
     const rangeNames = new Set(
@@ -218,6 +242,25 @@ export default function App() {
         <a href={window.location.origin} style={{ display: 'flex', alignItems: 'center', gap: 8, textDecoration: 'none', color: 'inherit' }}>
           <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" width={28} height={28} />
           <Title level={1} style={{ margin: 0, fontSize: isMobile ? 16 : 20, fontWeight: 700 }}>租房雷达</Title>
+          {CITY_LIST.length > 1 && (
+            <div style={{ display: 'flex', gap: 0, marginLeft: isMobile ? 0 : 8 }}>
+              {CITY_LIST.map((c) => (
+                <button key={c} onClick={() => {
+                  if (c === city) return;
+                  const cfg = CITY_CONFIG[c];
+                  setCity(c);
+                  setWorkplace(cfg.workplaces[0]);
+                  setMaxDistance(3);
+                }} style={{
+                  padding: '2px 10px', fontSize: 12, fontWeight: city === c ? 700 : 400,
+                  border: '1px solid #d9d9d9', cursor: 'pointer',
+                  background: city === c ? '#1677ff' : '#fff',
+                  color: city === c ? '#fff' : '#666',
+                  borderRadius: c === CITY_LIST[0] ? '4px 0 0 4px' : '0 4px 4px 0',
+                }}>{CITY_CONFIG[c].name}</button>
+              ))}
+            </div>
+          )}
         </a>
         <div style={{ display: 'flex', alignItems: 'center', gap: isMobile ? 8 : 16, flexWrap: 'wrap', width: isMobile ? '100%' : 'auto' }}>
           <WorkplaceSelector value={workplace} onChange={setWorkplace} />
@@ -241,11 +284,18 @@ export default function App() {
       </Header>
       <Content component="main" style={{ padding: isMobile ? 10 : 24, background: '#f5f5f5' }}>
         <div style={{ display: 'flex', flexDirection: 'column', gap: isMobile ? 12 : 24, maxWidth: 1400, margin: '0 auto' }}>
-          <OverviewCards overview={rangeOverview} />
-
-
-
-          <AdSlot slot="SLOT_TOP" format="horizontal" />
+          {view === 'report' ? (
+            <ReportPage
+              listings={listings}
+              enrichedStats={enrichedStats}
+              filteredListings={filteredListings}
+              workplace={workplace}
+              maxDistance={maxDistance}
+              overview={rangeOverview}
+            />
+          ) : (
+            <>
+              <AdSlot slot="SLOT_TOP" format="horizontal" />
 
           {/* 板块分析（含导出） */}
           <section ref={regionSectionRef} aria-label="板块分析" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
@@ -303,6 +353,8 @@ export default function App() {
           </section>
 
           <AdSlot slot="SLOT_BOTTOM" format="auto" />
+            </>
+          )}
         </div>
       </Content>
       <Footer component="footer" role="contentinfo" style={{
@@ -312,16 +364,17 @@ export default function App() {
         textAlign: 'center',
       }}>
         <div style={{ maxWidth: 900, margin: '0 auto' }}>
-          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 8 }}>
-            <strong>免责声明</strong>
+          <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4, lineHeight: '22px' }}>
+            数据源自公开信息统计分析，纯免费工具，仅供学习探索使用，不构成租房建议。如有偏差请以各平台实时信息为准。
           </Paragraph>
-          <ol style={{ margin: 0, paddingLeft: 18, color: 'rgba(0,0,0,0.45)', fontSize: 12, lineHeight: '22px' }}>
-            <li>本站所有数据均基于公开信息进行统计分析，仅供个人参考与学习研究使用，不构成任何租房、投资或交易建议。</li>
-            <li>所展示的数据可能存在滞后、偏差或错误，请以各平台实时信息为准。</li>
-            <li>如您认为本站内容侵犯了您的合法权益，请及时联系我们，我们将在核实后尽快处理。</li>
-          </ol>
-          <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 12, marginBottom: 0 }}>
-            &copy; {new Date().getFullYear()} 租房数据分析 · 数据仅供参考
+          <button onClick={() => setView(view === 'main' ? 'report' : 'main')} style={{
+            background: 'none', border: 'none', color: '#bbb', cursor: 'pointer',
+            fontSize: 12, padding: 0, textDecoration: 'underline',
+          }}>
+            {view === 'main' ? '传播报告' : '返回地图'}
+          </button>
+          <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 8, marginBottom: 0 }}>
+            &copy; {new Date().getFullYear()} 租房数据分析 · v{__APP_VERSION__}
           </Paragraph>
           <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 4, marginBottom: 0 }}>
             <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer" style={{ color: '#999' }}>浙ICP备2026028673号</a>

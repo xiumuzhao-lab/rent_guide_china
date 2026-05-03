@@ -10,7 +10,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from scraper.config import OUTPUT_DIR, REGIONS
+from scraper.config import CITY, CITY_URL_PREFIX, OUTPUT_DIR, REGIONS
 
 
 def load_env():
@@ -251,7 +251,7 @@ def deduplicate(data):
     return list(seen.values())
 
 
-def get_area_url(slug: str, page: int = None) -> str:
+def get_area_url(slug: str, page: int = None, city: str = None) -> str:
     """
     根据区域 slug 和页码生成 URL.
 
@@ -261,19 +261,22 @@ def get_area_url(slug: str, page: int = None) -> str:
     Args:
         slug: 区域标识 (如 zhangjiang)
         page: 页码，None 或 0 表示首页
+        city: 城市标识，None 则使用全局 CITY
 
     Returns:
         str: 完整 URL
     """
+    city = city or CITY
+    prefix = CITY_URL_PREFIX.get(city, city)
     region = REGIONS.get(slug, {})
     # 优先使用从页面直接提取的完整 URL
     base = region.get('url', '')
     if not base:
         parent = region.get('parent')
         if parent:
-            base = f"https://sh.lianjia.com/zufang/{parent}/{slug}/"
+            base = f"https://{prefix}.lianjia.com/zufang/{parent}/{slug}/"
         else:
-            base = f"https://sh.lianjia.com/zufang/{slug}/"
+            base = f"https://{prefix}.lianjia.com/zufang/{slug}/"
     # 确保 base 以 / 结尾
     if not base.endswith('/'):
         base += '/'

@@ -604,8 +604,8 @@
     "scraped_at": "2026-04-23 17:24:14",
     "region": "sijing",
     "unit_price": 62.3,
-    "lat": 31.115634,
-    "lng": 121.387336
+    "lat": null,
+    "lng": null
   },
   {
     "title": "整租·金地自在城(二期) 4室2厅 南",
@@ -3682,8 +3682,8 @@
     "scraped_at": "2026-04-23 17:24:56",
     "region": "sijing",
     "unit_price": 78.8,
-    "lat": 31.115634,
-    "lng": 121.387336
+    "lat": null,
+    "lng": null
   },
   {
     "title": "整租·新凯城银杏苑 2室1厅 南",
@@ -4423,8 +4423,8 @@
     "scraped_at": "2026-04-23 17:25:09",
     "region": "sijing",
     "unit_price": 83.6,
-    "lat": 31.115634,
-    "lng": 121.387336
+    "lat": null,
+    "lng": null
   },
   {
     "title": "整租·新凯一期 2室1厅 南",
@@ -5259,8 +5259,8 @@
     "scraped_at": "2026-04-23 17:25:13",
     "region": "sijing",
     "unit_price": 80.6,
-    "lat": 31.115634,
-    "lng": 121.387336
+    "lat": null,
+    "lng": null
   },
   {
     "title": "整租·塘和家园·顺康苑 2室1厅 南/北",
@@ -6608,8 +6608,8 @@
     "scraped_at": "2026-04-23 17:25:32",
     "region": "sijing",
     "unit_price": 69.4,
-    "lat": 31.115634,
-    "lng": 121.387336
+    "lat": null,
+    "lng": null
   },
   {
     "title": "整租·绿地香缇 3室2厅 南",
@@ -6703,8 +6703,8 @@
     "scraped_at": "2026-04-23 17:25:32",
     "region": "sijing",
     "unit_price": 65.1,
-    "lat": 31.115634,
-    "lng": 121.387336
+    "lat": null,
+    "lng": null
   },
   {
     "title": "整租·新凯城尚樱苑 2室1厅 南",

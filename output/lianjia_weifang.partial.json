@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 100.0,
-      "lat": 31.222191,
-      "lng": 121.522428
+      "lat": 31.221678,
+      "lng": 121.523174
     },
     {
       "title": "整租·兴业嘉园 1室1厅 东",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 106.9,
-      "lat": 31.219917,
-      "lng": 121.525271
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊五村 1室1厅 南",
@@ -112,8 +112,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 136.2,
-      "lat": 31.219635,
-      "lng": 121.524509
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东建新村 2室1厅 南",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 107.5,
-      "lat": 31.216924,
-      "lng": 121.520299
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·南泉大楼 3室1厅 东/南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 82.9,
-      "lat": 31.219786,
-      "lng": 121.521974
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·锦城精品公寓 爵士大厦店 世纪大道特价一房一厅 1室1厅",
@@ -188,8 +188,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 102.5,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·府邸滨江公寓 陆家嘴店 陆家嘴商圈八佰伴/东方明珠/外滩 近地铁2号线 9号线 开间",
@@ -226,8 +226,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 81.1,
-      "lat": 31.040899,
-      "lng": 121.211112
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·陆家嘴Classy服务公寓 崂山路店 陆家嘴 世纪大道 高端三房两厅两卫服务式公寓（超级三件套景观） 3室2厅",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 100.4,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东小区 2室0厅 南",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 95.8,
-      "lat": 31.228479,
-      "lng": 121.521124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中企16号公馆 2室1厅 南",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 137.4,
-      "lat": 31.330996,
-      "lng": 121.49528
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·OkHome可意居 世纪大道店 世纪大道地铁口，可月租日租，公寓直营，无佣金，电13651655545 1室1厅",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 127.3,
-      "lat": 31.222191,
-      "lng": 121.522428
+      "lat": 31.221678,
+      "lng": 121.523174
     },
     {
       "title": "整租·潍坊二村 2室1厅 南",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 105.9,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 2室1厅 南",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 109.8,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 2室1厅 南",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 103.3,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 1室1厅 南",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 105.9,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·一百杉杉大厦 2室1厅 西",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 117.2,
-      "lat": 31.221908,
-      "lng": 121.529325
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊九村 2室1厅 南/北",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 110.9,
-      "lat": 31.221908,
-      "lng": 121.52661
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 2室1厅 南",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 10:30:23",
       "region": "weifang",
       "unit_price": 103.0,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊九村 2室1厅 南",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 98.7,
-      "lat": 31.221908,
-      "lng": 121.52661
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉德公寓 2室2厅 南",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 77.6,
-      "lat": 31.215913,
-      "lng": 121.519906
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 2室0厅 南",
@@ -530,8 +530,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 98.5,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东小区 1室1厅 南",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 134.6,
-      "lat": 31.228479,
-      "lng": 121.521124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·开发浦东 1室1厅 南",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 124.5,
-      "lat": 31.225039,
-      "lng": 121.517669
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 1室1厅 南",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 111.4,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 2室1厅 南",
@@ -606,8 +606,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 102.4,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊一村 2室0厅 南",
@@ -644,8 +644,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 109.7,
-      "lat": 31.226793,
-      "lng": 121.520852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊六村 2室1厅 南",
@@ -663,8 +663,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 104.5,
-      "lat": 31.222191,
-      "lng": 121.522428
+      "lat": 31.221678,
+      "lng": 121.523174
     },
     {
       "title": "整租·东明广场 3室1厅 南",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 84.0,
-      "lat": 31.040899,
-      "lng": 121.211112
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 1室0厅 南",
@@ -701,8 +701,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 139.7,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东欣小区 2室1厅 南",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 112.8,
-      "lat": 31.225883,
-      "lng": 121.522852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊六村 2室1厅 南/北",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 108.6,
-      "lat": 31.222191,
-      "lng": 121.522428
+      "lat": 31.221678,
+      "lng": 121.523174
     },
     {
       "title": "整租·东欣小区 2室1厅 南",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 100.9,
-      "lat": 31.225883,
-      "lng": 121.522852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东建新村 1室1厅 南",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 111.3,
-      "lat": 31.216924,
-      "lng": 121.520299
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·世纪公馆 3室2厅 南",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 77.2,
-      "lat": 31.224768,
-      "lng": 121.529196
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·开发浦东 2室1厅 南",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 111.9,
-      "lat": 31.225039,
-      "lng": 121.517669
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 2室1厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 138.6,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 2室1厅 南",
@@ -853,8 +853,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 119.3,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东欣小区 2室1厅 南",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 136.7,
-      "lat": 31.225883,
-      "lng": 121.522852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊八村 2室1厅 南/北",
@@ -891,8 +891,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 119.3,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊七村 2室1厅 南",
@@ -910,8 +910,8 @@
       "scraped_at": "2026-04-23 10:30:25",
       "region": "weifang",
       "unit_price": 136.5,
-      "lat": 31.2235,
-      "lng": 121.521584
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 1室0厅 南",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 111.8,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣昌盛 1室1厅 南",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 83.2,
-      "lat": 31.226793,
-      "lng": 121.520852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊七村 1室1厅 南",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 115.3,
-      "lat": 31.2235,
-      "lng": 121.521584
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 2室1厅 南",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 113.8,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 2室0厅 东南",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 107.9,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 2室1厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 123.3,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·朱家滩小区 1室1厅 南",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 129.0,
-      "lat": 31.223914,
-      "lng": 121.519786
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东建新村 1室1厅 南",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 115.9,
-      "lat": 31.216924,
-      "lng": 121.520299
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 1室1厅 南",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 107.8,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊九村 1室0厅 南",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 136.2,
-      "lat": 31.221908,
-      "lng": 121.52661
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 1室0厅 南",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 118.1,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东建新村 1室1厅 南",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 122.5,
-      "lat": 31.216924,
-      "lng": 121.520299
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东小区 2室1厅 南",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 105.9,
-      "lat": 31.228479,
-      "lng": 121.521124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·世纪金融人才公寓 福山路店 2469世纪大道温馨特价一居 开间",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 106.8,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊九村 1室1厅 南",
@@ -1214,8 +1214,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 141.2,
-      "lat": 31.221908,
-      "lng": 121.52661
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 1室1厅 南",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 114.9,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东小区 1室0厅 南/北",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 125.0,
-      "lat": 31.228479,
-      "lng": 121.521124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东(二)小区 2室1厅 南",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 108.0,
-      "lat": 31.227058,
-      "lng": 121.522398
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·阜兴世纪公馆 2室2厅 南/北",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 98.1,
-      "lat": 31.224768,
-      "lng": 121.529196
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 2室0厅 东/南",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 108.4,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中企16号公馆 2室1厅 东",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 10:30:28",
       "region": "weifang",
       "unit_price": 144.4,
-      "lat": 31.330996,
-      "lng": 121.49528
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东小区 1室1厅 南",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 116.1,
-      "lat": 31.228479,
-      "lng": 121.521124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·长河国际公寓 2室1厅 南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 99.4,
-      "lat": 31.225674,
-      "lng": 121.524415
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊三村 2室1厅 南",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 148.9,
-      "lat": 31.222713,
-      "lng": 121.519762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东小区 1室1厅 南",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 139.4,
-      "lat": 31.228479,
-      "lng": 121.521124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣昌盛 1室1厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 103.2,
-      "lat": 31.226793,
-      "lng": 121.520852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东欣小区 1室1厅 南",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 123.1,
-      "lat": 31.225883,
-      "lng": 121.522852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·爱法珑庭 1室1厅 南",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 154.9,
-      "lat": 31.218853,
-      "lng": 121.520242
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·世纪公馆 3室1厅 南",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 82.2,
-      "lat": 31.224768,
-      "lng": 121.529196
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东欣小区 2室0厅 南",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 115.4,
-      "lat": 31.225883,
-      "lng": 121.522852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东明广场 5室1厅 南",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 75.6,
-      "lat": 31.040899,
-      "lng": 121.211112
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊五村 2室1厅 南",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 114.1,
-      "lat": 31.219635,
-      "lng": 121.524509
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·浦潍大楼 1室1厅 南",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 126.6,
-      "lat": 31.219491,
-      "lng": 121.525857
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊八村 2室1厅 南/北",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 111.0,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·王家宅小区 1室1厅 南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 117.6,
-      "lat": 31.216769,
-      "lng": 121.52583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 1室1厅 南",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 91.5,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 1室1厅 南",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 136.4,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·竹南小区 3室1厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 120.6,
-      "lat": 31.225016,
-      "lng": 121.528146
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 1室1厅 南",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 117.8,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 2室0厅 南",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 105.8,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 1室1厅 南",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 144.6,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 2室1厅 南/北",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 105.2,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊一村 1室1厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 98.8,
-      "lat": 31.225039,
-      "lng": 121.517669
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·竹南小区 3室1厅 南",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 170.0,
-      "lat": 31.225016,
-      "lng": 121.528146
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·繁荣昌盛 1室1厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 104.6,
-      "lat": 31.226793,
-      "lng": 121.520852
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·嘉德公寓 3室1厅 东南",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 101.9,
-      "lat": 31.215913,
-      "lng": 121.519906
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 2室1厅 南",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 134.3,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东(二)小区 1室1厅 南",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 119.4,
-      "lat": 31.227058,
-      "lng": 121.522398
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 1室1厅 南",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 10:30:30",
       "region": "weifang",
       "unit_price": 130.8,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 2室1厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 113.8,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 1室1厅 南",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 134.2,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫金瀚宫 1室1厅 南",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 105.8,
-      "lat": 31.225388,
-      "lng": 121.518462
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 2室1厅 南/北",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 99.6,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 1室1厅 南",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 125.0,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 1室0厅 南",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 159.2,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊八村 1室1厅 南",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 123.5,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东(二)小区 1室1厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 216.7,
-      "lat": 31.227058,
-      "lng": 121.522398
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东建新村 3室1厅 南",
@@ -2050,8 +2050,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 80.1,
-      "lat": 31.216924,
-      "lng": 121.520299
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 1室1厅 南",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 117.8,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·王家宅小区 1室1厅 南",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 122.3,
-      "lat": 31.216769,
-      "lng": 121.52583
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊八村 2室1厅 南",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 101.3,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·爱法珑庭 2室1厅 南/北",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 146.3,
-      "lat": 31.218853,
-      "lng": 121.520242
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊八村 1室1厅 南",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 152.5,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·紫金瀚宫 2室1厅 南",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 109.0,
-      "lat": 31.225388,
-      "lng": 121.518462
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊九村 2室1厅 南",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 125.7,
-      "lat": 31.221908,
-      "lng": 121.52661
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·开发浦东 2室1厅 南",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 111.3,
-      "lat": 31.225039,
-      "lng": 121.517669
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊二村 1室0厅 南",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 124.0,
-      "lat": 31.219381,
-      "lng": 121.519229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·竹南小区 3室1厅 南",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 121.4,
-      "lat": 31.225016,
-      "lng": 121.528146
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 2室1厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 127.0,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊一村 1室0厅 南",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 150.7,
-      "lat": 31.2235,
-      "lng": 121.521584
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊九村 2室1厅 南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 151.4,
-      "lat": 31.221908,
-      "lng": 121.52661
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·竹南小区 2室1厅 南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 139.3,
-      "lat": 31.225016,
-      "lng": 121.528146
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东小区 1室0厅 南",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 128.6,
-      "lat": 31.228479,
-      "lng": 121.521124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东小区 2室0厅 南",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 124.8,
-      "lat": 31.228479,
-      "lng": 121.521124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊六村 2室1厅 南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 130.6,
-      "lat": 31.222191,
-      "lng": 121.522428
+      "lat": 31.221678,
+      "lng": 121.523174
     },
     {
       "title": "整租·潍坊一村 2室1厅 南",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 141.3,
-      "lat": 31.221908,
-      "lng": 121.52661
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 2室1厅 南/北",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 10:30:33",
       "region": "weifang",
       "unit_price": 135.1,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·众城公寓 2室2厅 南",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 115.9,
-      "lat": 31.224123,
-      "lng": 121.529761
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·朱家滩小区 1室1厅 南",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 136.7,
-      "lat": 31.223914,
-      "lng": 121.519786
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·泉东小区 1室1厅 南",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 160.8,
-      "lat": 31.228479,
-      "lng": 121.521124
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊三村 1室1厅 南",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 102.9,
-      "lat": 31.222713,
-      "lng": 121.519762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊一村 1室1厅 南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 112.4,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·锦城大厦 3室2厅 南",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 112.3,
-      "lat": 31.223947,
-      "lng": 121.529003
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴业嘉园 4室2厅 南",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 87.1,
-      "lat": 31.219491,
-      "lng": 121.525857
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊八村 1室1厅 南",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 205.7,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊八村 1室1厅 南",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 159.4,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 2室1厅 南",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 112.2,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·朱家滩小区 1室1厅 南",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 113.9,
-      "lat": 31.223914,
-      "lng": 121.519786
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东建新村 1室1厅 南",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 133.8,
-      "lat": 31.216924,
-      "lng": 121.520299
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 2室0厅 南",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 114.2,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 3室1厅 南",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 139.1,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 2室1厅 南",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 117.8,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·开发浦东 2室1厅 南",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 114.7,
-      "lat": 31.225039,
-      "lng": 121.517669
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊三村 1室0厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 128.2,
-      "lat": 31.222713,
-      "lng": 121.519762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊六村 2室1厅 南",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 126.3,
-      "lat": 31.222191,
-      "lng": 121.522428
+      "lat": 31.221678,
+      "lng": 121.523174
     },
     {
       "title": "整租·潍坊一村 1室0厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 92.5,
-      "lat": 31.224768,
-      "lng": 121.529196
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·东明广场 3室2厅 南/北",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 82.5,
-      "lat": 31.040899,
-      "lng": 121.211112
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊七村 1室1厅 南/北",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 122.0,
-      "lat": 31.2235,
-      "lng": 121.521584
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊五村 1室1厅 南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 123.2,
-      "lat": 31.219635,
-      "lng": 121.524509
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·朱家滩小区 1室1厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 100.6,
-      "lat": 31.223914,
-      "lng": 121.519786
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊八村 1室0厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 145.0,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊一村 1室0厅 南",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 106.6,
-      "lat": 31.224768,
-      "lng": 121.529196
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·浦坊大楼 1室1厅 南",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 10:30:37",
       "region": "weifang",
       "unit_price": 134.7,
-      "lat": 31.219678,
-      "lng": 121.526423
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊九村 1室1厅 南",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 115.3,
-      "lat": 31.221908,
-      "lng": 121.52661
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·爱法珑庭 1室1厅 南",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 159.9,
-      "lat": 31.218853,
-      "lng": 121.520242
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊三村 2室0厅 南",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 10:30:41",
       "region": "weifang",
       "unit_price": 129.6,
-      "lat": 31.222713,
-      "lng": 121.519762
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊七村 1室1厅 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 108.8,
-      "lat": 31.2235,
-      "lng": 121.521584
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·开发浦东 3室0厅 南",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 91.5,
-      "lat": 31.225039,
-      "lng": 121.517669
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊一村 2室1厅 南",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 126.9,
-      "lat": 31.225016,
-      "lng": 121.528146
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 2室1厅 南",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 95.1,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊十村 1室1厅 南",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 125.2,
-      "lat": 31.223495,
-      "lng": 121.523854
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊六村 1室1厅 南",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 100.0,
-      "lat": 31.222191,
-      "lng": 121.522428
+      "lat": 31.221678,
+      "lng": 121.523174
     },
     {
       "title": "整租·潍坊八村 1室1厅 南",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 136.4,
-      "lat": 31.218562,
-      "lng": 121.527684
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊六村 1室1厅 南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 110.0,
-      "lat": 31.222191,
-      "lng": 121.522428
+      "lat": 31.221678,
+      "lng": 121.523174
     },
     {
       "title": "整租·开发浦东 2室1厅 南",
@@ -3266,8 +3266,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 103.4,
-      "lat": 31.225039,
-      "lng": 121.517669
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊九村 1室1厅 南",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 133.4,
-      "lat": 31.221908,
-      "lng": 121.52661
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·潍坊四村 1室1厅 南",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 10:30:44",
       "region": "weifang",
       "unit_price": 109.8,
-      "lat": 31.217288,
-      "lng": 121.523676
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 10:30:48",
       "region": "weifang",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -3342,8 +3342,8 @@
       "scraped_at": "2026-04-23 10:30:48",
       "region": "weifang",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园(二期) 4室2厅 复式 南",
@@ -3361,8 +3361,8 @@
       "scraped_at": "2026-04-23 10:30:48",
       "region": "weifang",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 5室3厅 复式 南",

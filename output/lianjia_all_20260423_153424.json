@@ -205,8 +205,8 @@
     "scraped_at": "2026-04-23 15:12:33",
     "region": "beiwaitan",
     "unit_price": 121.7,
-    "lat": null,
-    "lng": null
+    "lat": 31.248834,
+    "lng": 121.497604
   },
   {
     "title": "整租·惠民路250弄 1室1厅 南",
@@ -3340,8 +3340,8 @@
     "scraped_at": "2026-04-23 15:34:23",
     "region": "zhenru",
     "unit_price": 132.5,
-    "lat": 31.209999,
-    "lng": 121.585405
+    "lat": 31.211262,
+    "lng": 121.584802
   },
   {
     "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -3359,8 +3359,8 @@
     "scraped_at": "2026-04-23 15:34:23",
     "region": "zhenru",
     "unit_price": 101.1,
-    "lat": 31.209999,
-    "lng": 121.585405
+    "lat": 31.211262,
+    "lng": 121.584802
   },
   {
     "title": "整租·汤臣豪园(二期) 4室2厅 复式 南",
@@ -3378,8 +3378,8 @@
     "scraped_at": "2026-04-23 15:34:23",
     "region": "zhenru",
     "unit_price": 96.9,
-    "lat": 31.208639,
-    "lng": 121.582621
+    "lat": 31.202786,
+    "lng": 121.596039
   },
   {
     "title": "整租·东郊紫园 5室3厅 复式 南",
@@ -44399,8 +44399,8 @@
     "scraped_at": "2026-04-23 15:22:59",
     "region": "dongjiadu",
     "unit_price": 186.1,
-    "lat": null,
-    "lng": null
+    "lat": 31.215327,
+    "lng": 121.497123
   },
   {
     "title": "整租·明日星城(二期、三期) 2室2厅 南",
@@ -55184,7 +55184,7 @@
     "floor": "",
     "price": "3180-3280",
     "tags": "",
-    "source": "",
+    "source": "tencent",
     "url": "https://sh.lianjia.com/apartment/57173.html",
     "rent_type": "独栋",
     "location": "",
@@ -82734,7 +82734,7 @@
     "floor": "",
     "price": "4500",
     "tags": "",
-    "source": "",
+    "source": "tencent",
     "url": "https://sh.lianjia.com/apartment/73443.html",
     "rent_type": "独栋",
     "location": "",

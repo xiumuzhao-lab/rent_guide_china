@@ -15,12 +15,15 @@ from datetime import datetime
 
 from scraper.config import (
     ALL_REGIONS,
+    CITY,
+    CITY_URL_PREFIX,
     DEFAULT_MAX_PAGES,
     OUTPUT_DIR,
     PROJECT_DIR,
     REGIONS,
     SAVE_INTERVAL,
     STALE_DATA_TIMEOUT,
+    get_output_dir,
 )
 from scraper.utils import (
     add_unit_price,
@@ -178,7 +181,8 @@ async def _retry_page_operation(page, operation_name: str,
 
 async def scrape_single_area(page, area_slug: str, max_pages: int,
                               start_page: int = 1,
-                              existing_data: list = None) -> tuple:
+                              existing_data: list = None,
+                              city: str = None) -> tuple:
     """
     爬取单个区域的所有页面，支持断点续爬和每 N 条自动保存.
 
@@ -188,6 +192,7 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
         max_pages: 最大页数
         start_page: 起始页码 (断点续爬)
         existing_data: 已有数据 (断点续爬)
+        city: 城市标识
 
     Returns:
         tuple: (list, bool, bool) — (房源列表, 是否完整完成, 是否触顶)
@@ -241,12 +246,13 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
             logger.warning(
                 f"  [{region_name}] 已 {stale_seconds:.0f} 秒无新数据，"
                 f"疑似卡死 (第{page_num}页)，保存断点并中止")
-            save_partial(area_slug, deduplicate(all_listings), page_num)
+            save_partial(area_slug, deduplicate(all_listings), page_num,
+                         city=city)
             return all_listings, False, False
 
-        url = (get_area_url(area_slug, page_num)
+        url = (get_area_url(area_slug, page_num, city=city)
                if page_num > start_page or start_page > 1
-               else get_area_url(area_slug))
+               else get_area_url(area_slug, city=city))
         if page_num > start_page or start_page > 1:
             if page_num > start_page:
                 async def _goto_page(_url=url):
@@ -271,12 +277,12 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
                         f"  [{region_name}] 验证码处理超时"
                         f" ({STALE_DATA_TIMEOUT}s)，中止")
                     save_partial(area_slug, deduplicate(all_listings),
-                                 page_num)
+                                 page_num, city=city)
                     return all_listings, False, False
                 if not ok:
                     # 验证码失败，保存已爬数据并返回
                     save_partial(area_slug, deduplicate(all_listings),
-                                 page_num)
+                                 page_num, city=city)
                     return all_listings, False, False
                 had_captcha = True
                 await asyncio.sleep(1)
@@ -332,11 +338,12 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
                 f"(累计 {len(all_listings)})")
 
             # 每页保存断点
-            save_partial(area_slug, deduplicate(all_listings), page_num)
+            save_partial(area_slug, deduplicate(all_listings), page_num,
+                         city=city)
 
             # 每 SAVE_INTERVAL 条额外保存一次中间结果
             last_save_count = save_periodic(
-                area_slug, all_listings, page_num, last_save_count)
+                area_slug, all_listings, page_num, last_save_count, city=city)
 
             # 检查下一页
             has_next = await page.evaluate("""
@@ -360,7 +367,8 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
                 f"scrape:{region_name}", e,
                 context={"page": page_num})
             # 出错也保存已爬数据
-            save_partial(area_slug, deduplicate(all_listings), page_num)
+            save_partial(area_slug, deduplicate(all_listings), page_num,
+                         city=city)
             return all_listings, False, False
 
     # 循环正常结束 = 已到达 max_pages 上限 (非自然终止)
@@ -371,10 +379,10 @@ async def scrape_single_area(page, area_slug: str, max_pages: int,
 async def _detect_subareas(page, area_slug: str,
                             max_retries: int = 3) -> list:
     """
-    从 regions_config.json 读取子区域配置.
+    从城市专属 regions_config_{city}.json 读取子区域配置.
 
-    不再从页面动态提取，完全依赖配置文件。
-    配置文件不存在时提示运行 scrape_regions.py。
+    根据当前 config.CITY 加载对应城市的配置文件。
+    配置文件不存在时提示运行 scrape_regions.py --city {city}。
 
     Args:
         page: Playwright Page 对象 (保留参数兼容，不使用)
@@ -389,12 +397,17 @@ async def _detect_subareas(page, area_slug: str,
     """
     region_name = REGIONS[area_slug]['name']
 
-    # 加载配置文件
-    config_path = PROJECT_DIR / 'scraper' / 'regions_config.json'
+    # 加载城市专属配置文件
+    from scraper import config as _cfg
+    city = _cfg.CITY
+    config_path = PROJECT_DIR / 'scraper' / f'regions_config_{city}.json'
+    if not config_path.exists():
+        # fallback 到旧路径
+        config_path = PROJECT_DIR / 'scraper' / 'regions_config.json'
     if not config_path.exists():
         raise RuntimeError(
             f"区域配置文件不存在: {config_path}\n"
-            f"请先运行: python3.10 scrape_regions.py")
+            f"请先运行: python3.10 scrape_regions.py --city {city}")
 
     try:
         config = json.loads(config_path.read_text(encoding='utf-8'))
@@ -437,17 +450,22 @@ async def _detect_subareas(page, area_slug: str,
 
 
 async def scrape_with_browser(areas: list,
-                               max_pages: int = DEFAULT_MAX_PAGES):
+                               max_pages: int = DEFAULT_MAX_PAGES,
+                               city: str = None):
     """
     使用浏览器爬取多个区域，支持断点续爬.
 
     Args:
         areas: 区域标识列表
         max_pages: 每区域最大页数
+        city: 城市标识，None 则使用全局 CITY
 
     Returns:
         list: 全部房源数据
     """
+    city = city or CITY
+    prefix = CITY_URL_PREFIX.get(city, city)
+
     try:
         from playwright.async_api import async_playwright
     except ImportError:
@@ -455,7 +473,7 @@ async def scrape_with_browser(areas: list,
                      "playwright install chromium")
         sys.exit(1)
 
-    OUTPUT_DIR.mkdir(exist_ok=True)
+    get_output_dir(city).mkdir(parents=True, exist_ok=True)
     all_listings = []
 
     async with async_playwright() as p:
@@ -466,7 +484,7 @@ async def scrape_with_browser(areas: list,
         # 访问首页建立 cookie
         logger.info("正在访问链家首页...")
         try:
-            await page.goto('https://sh.lianjia.com/',
+            await page.goto(f'https://{prefix}.lianjia.com/',
                             wait_until='domcontentloaded', timeout=30000)
             await human_scroll(page)
             await human_mouse_move(page)
@@ -511,7 +529,7 @@ async def scrape_with_browser(areas: list,
 
             # 检查断点数据
             existing_data, start_page, already_completed = load_resume(
-                area_slug)
+                area_slug, city=city)
 
             if already_completed:
                 logger.info(
@@ -524,6 +542,7 @@ async def scrape_with_browser(areas: list,
                 page, area_slug, max_pages,
                 start_page=start_page,
                 existing_data=existing_data,
+                city=city,
             )
 
             all_listings.extend(area_listings)
@@ -552,7 +571,8 @@ async def scrape_with_browser(areas: list,
                             if sa.get('url'):
                                 REGIONS[sa_slug]['url'] = sa['url']
                         # 跳过已完成的子区域
-                        sub_data, sub_start, sub_done = load_resume(sa_slug)
+                        sub_data, sub_start, sub_done = load_resume(
+                            sa_slug, city=city)
                         if sub_done:
                             logger.info(
                                 f"  {sa['name']} 已完成"
@@ -562,14 +582,15 @@ async def scrape_with_browser(areas: list,
                         sub_listings, sub_ok, _ = await scrape_single_area(
                             page, sa_slug, max_pages,
                             start_page=sub_start,
-                            existing_data=sub_data)
+                            existing_data=sub_data,
+                            city=city)
                         all_listings.extend(sub_listings)
                         logger.info(
                             f"  {sa['name']}: {len(sub_listings)} 条")
                         if sub_ok:
                             save_partial(sa_slug,
                                          deduplicate(sub_listings),
-                                         0, completed=True)
+                                         0, completed=True, city=city)
                         # 子区域间短暂休息
                         if sa != subareas[-1]:
                             await asyncio.sleep(random.uniform(0.5, 1.5))
@@ -581,7 +602,7 @@ async def scrape_with_browser(areas: list,
 
             if completed and not hit_limit:
                 save_partial(area_slug, deduplicate(area_listings),
-                             0, completed=True)
+                             0, completed=True, city=city)
             elif not completed:
                 logger.warning(
                     f"{region_name} 未完成，断点已保存，下次运行将续爬")
@@ -597,7 +618,8 @@ async def scrape_with_browser(areas: list,
     return all_listings
 
 
-async def scrape_with_agent(areas: list, max_pages: int, model: str):
+async def scrape_with_agent(areas: list, max_pages: int, model: str,
+                            city: str = None):
     """
     使用 AI Agent 爬取多个区域.
 
@@ -620,10 +642,11 @@ async def scrape_with_agent(areas: list, max_pages: int, model: str):
         logger.error("请先安装: pip install langchain-openai")
         sys.exit(1)
 
+    city = city or CITY
     all_listings = []
     for area_slug in areas:
         region_name = REGIONS[area_slug]['name']
-        base_url = get_area_url(area_slug)
+        base_url = get_area_url(area_slug, city=city)
         logger.info(f"启动 AI Agent 爬取: {region_name}")
 
         task = (

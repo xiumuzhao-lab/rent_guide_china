@@ -17,8 +17,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 91.1,
-      "lat": 31.252897,
-      "lng": 121.473356
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴亚广场(办公楼) 2室1厅 北",
@@ -36,8 +36,8 @@
       "scraped_at": "2026-04-23 15:21:51",
       "region": "xizangbeilu",
       "unit_price": 77.3,
-      "lat": 31.252897,
-      "lng": 121.473356
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中华新路495号 1室1厅 南",
@@ -55,8 +55,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 114.2,
-      "lat": 31.253732,
-      "lng": 121.463178
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·诺富特 西藏北路店 静安品质公寓，24h服务，高区瞰景公园 1室1厅",
@@ -93,8 +93,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 102.2,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复地新都国际 1室1厅 西",
@@ -112,8 +112,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 134.6,
-      "lat": 31.253667,
-      "lng": 121.475865
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和源馨苑 1室1厅 南",
@@ -131,8 +131,8 @@
       "scraped_at": "2026-04-23 15:21:51",
       "region": "xizangbeilu",
       "unit_price": 104.6,
-      "lat": 31.248616,
-      "lng": 121.467335
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室1厅 南",
@@ -150,8 +150,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 103.9,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·博邻 静安店 精品一居室（带衣帽间）地铁3/4/8号线静安苏河湾大悦城商业 1室1厅",
@@ -188,8 +188,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 120.9,
-      "lat": 31.259195,
-      "lng": 121.466744
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·二轻小区 1室1厅 南",
@@ -207,8 +207,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 82.6,
-      "lat": 31.257541,
-      "lng": 121.466122
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·供享家公寓 中兴路地铁站店 年租限时特价房 1室1厅",
@@ -245,8 +245,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 100.0,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚龙大厦 2室2厅 南/西南",
@@ -264,8 +264,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 84.3,
-      "lat": 31.249847,
-      "lng": 121.469147
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(一期) 4室2厅 南",
@@ -283,8 +283,8 @@
       "scraped_at": "2026-04-23 15:21:51",
       "region": "xizangbeilu",
       "unit_price": 148.5,
-      "lat": 31.255563,
-      "lng": 121.471949
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奔腾新干线 1室0厅 西南",
@@ -302,8 +302,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 106.3,
-      "lat": 31.257313,
-      "lng": 121.477143
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·灵艺大厦 3室2厅 南",
@@ -321,8 +321,8 @@
       "scraped_at": "2026-04-23 15:21:51",
       "region": "xizangbeilu",
       "unit_price": 98.3,
-      "lat": 31.251415,
-      "lng": 121.467877
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奔腾新干线 1室1厅 南",
@@ -340,8 +340,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 104.8,
-      "lat": 31.257313,
-      "lng": 121.477143
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·二轻小区 1室1厅 南",
@@ -359,8 +359,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 110.6,
-      "lat": 31.257541,
-      "lng": 121.466122
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路150号 2室1厅 南/北",
@@ -378,8 +378,8 @@
       "scraped_at": "2026-04-23 15:21:51",
       "region": "xizangbeilu",
       "unit_price": 86.3,
-      "lat": 31.259107,
-      "lng": 121.468541
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·万科翡翠雅宾利 5室3厅 南",
@@ -397,8 +397,8 @@
       "scraped_at": "2026-04-23 15:21:51",
       "region": "xizangbeilu",
       "unit_price": 156.0,
-      "lat": 31.25696,
-      "lng": 121.471395
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三宝花苑 2室2厅 南",
@@ -416,8 +416,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 87.6,
-      "lat": 31.257163,
-      "lng": 121.476711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·蒙特利名都城 3室2厅 南",
@@ -435,8 +435,8 @@
       "scraped_at": "2026-04-23 15:21:51",
       "region": "xizangbeilu",
       "unit_price": 84.4,
-      "lat": 31.255615,
-      "lng": 121.474993
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·昆泰大厦 2室1厅 南",
@@ -454,8 +454,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 84.4,
-      "lat": 31.252695,
-      "lng": 121.465036
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华发·静安华府 3室2厅 南",
@@ -473,8 +473,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 193.1,
-      "lat": 31.291941,
-      "lng": 121.442921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和田小区 1室0厅 北",
@@ -492,8 +492,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 126.9,
-      "lat": 31.259195,
-      "lng": 121.466744
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁小区 1室1厅 南",
@@ -511,8 +511,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 123.3,
-      "lat": 31.261135,
-      "lng": 121.470603
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·二轻小区 1室0厅 南",
@@ -530,8 +530,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 123.3,
-      "lat": 31.257541,
-      "lng": 121.466122
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·铭德国际广场 2室2厅 西",
@@ -549,8 +549,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 158.5,
-      "lat": 31.250952,
-      "lng": 121.469882
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江中路493弄 1室0厅 南",
@@ -568,8 +568,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 122.5,
-      "lat": 31.259107,
-      "lng": 121.468541
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复元坊 1室0厅 南",
@@ -587,8 +587,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 148.3,
-      "lat": 31.25026,
-      "lng": 121.465569
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·上海青莺公寓 青莺社区 民水电外窗大户型 可居住证公积金 专属管家24H安保 1室1厅",
@@ -625,8 +625,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 107.0,
-      "lat": 31.257541,
-      "lng": 121.466122
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁小区 1室1厅 南",
@@ -644,8 +644,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 118.8,
-      "lat": 31.261135,
-      "lng": 121.470603
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·敏娜公寓 中兴路店 出差商旅首选、可短租可月付、独立卫浴、干湿分离 1室1厅",
@@ -682,8 +682,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 140.2,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·青云公寓 2室1厅 南",
@@ -701,8 +701,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 101.6,
-      "lat": 31.262195,
-      "lng": 121.470592
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴路一号 1室0厅 西南",
@@ -720,8 +720,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 225.0,
-      "lat": 31.253697,
-      "lng": 121.469003
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(一期) 2室1厅 南",
@@ -739,8 +739,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 106.1,
-      "lat": 31.255563,
-      "lng": 121.471949
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·精文城上城 3室2厅 南",
@@ -758,8 +758,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 80.8,
-      "lat": 31.248613,
-      "lng": 121.465216
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·共和新路645弄 1室1厅 南",
@@ -777,8 +777,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 166.7,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·长城苑 2室1厅 南",
@@ -796,8 +796,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 89.5,
-      "lat": 31.249218,
-      "lng": 121.466513
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中华新路455弄 1室1厅 南/北",
@@ -815,8 +815,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 101.5,
-      "lat": 31.253732,
-      "lng": 121.463178
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华发·静安华府 3室2厅 南",
@@ -834,8 +834,8 @@
       "scraped_at": "2026-04-23 15:21:53",
       "region": "xizangbeilu",
       "unit_price": 188.7,
-      "lat": 31.291941,
-      "lng": 121.442921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(二期) 3室2厅 南/北",
@@ -853,8 +853,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 100.8,
-      "lat": 31.258992,
-      "lng": 121.473944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁小区 1室0厅 北",
@@ -872,8 +872,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 114.4,
-      "lat": 31.261135,
-      "lng": 121.470603
+      "lat": null,
+      "lng": null
     },
     {
       "title": "独栋·寓心公寓 宝山店 精装全配一居室，是梦想的自由天地，尽情享受租房的快乐时光！ 1室1厅",
@@ -910,8 +910,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 115.9,
-      "lat": 31.256343,
-      "lng": 121.473368
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·志业公寓 2室1厅 南",
@@ -929,8 +929,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 75.8,
-      "lat": 31.264388,
-      "lng": 121.472595
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奔腾新干线 1室1厅 南",
@@ -948,8 +948,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 110.3,
-      "lat": 31.257313,
-      "lng": 121.477143
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和田小区 1室0厅 东",
@@ -967,8 +967,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 139.8,
-      "lat": 31.259195,
-      "lng": 121.466744
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西藏北路1139号 1室1厅 南",
@@ -986,8 +986,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 119.5,
-      "lat": 31.261114,
-      "lng": 121.466318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝昌路620弄 1室1厅 北",
@@ -1005,8 +1005,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 162.2,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华发·静安华府 3室2厅 南",
@@ -1024,8 +1024,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 188.7,
-      "lat": 31.291941,
-      "lng": 121.442921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·包运大厦 1室0厅 南",
@@ -1043,8 +1043,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 139.2,
-      "lat": 31.256381,
-      "lng": 121.478291
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(一期) 2室2厅 南",
@@ -1062,8 +1062,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 121.0,
-      "lat": 31.255563,
-      "lng": 121.471949
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·长城苑 2室1厅 南",
@@ -1081,8 +1081,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 107.2,
-      "lat": 31.249218,
-      "lng": 121.466513
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虬江路909弄 1室1厅 南",
@@ -1100,8 +1100,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 140.1,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴亚广场(办公楼) 2室1厅 南",
@@ -1119,8 +1119,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 114.3,
-      "lat": 31.252897,
-      "lng": 121.473356
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·志园公寓 3室1厅 南",
@@ -1138,8 +1138,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 90.0,
-      "lat": 31.257731,
-      "lng": 121.469503
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中山北路510号 2室1厅 南",
@@ -1157,8 +1157,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 97.1,
-      "lat": 31.251026,
-      "lng": 121.433964
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奔腾新干线 1室0厅 西",
@@ -1176,8 +1176,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 145.4,
-      "lat": 31.257313,
-      "lng": 121.477143
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复元坊 1室1厅 南",
@@ -1195,8 +1195,8 @@
       "scraped_at": "2026-04-23 15:21:57",
       "region": "xizangbeilu",
       "unit_price": 105.4,
-      "lat": 31.25026,
-      "lng": 121.465569
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室1厅 南",
@@ -1214,8 +1214,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 131.3,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华发·静安华府 3室2厅 南",
@@ -1233,8 +1233,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 188.7,
-      "lat": 31.291941,
-      "lng": 121.442921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·精文城上城 4室3厅 南",
@@ -1252,8 +1252,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 93.3,
-      "lat": 31.248613,
-      "lng": 121.465216
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·奔腾新干线 1室1厅 南",
@@ -1271,8 +1271,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 118.9,
-      "lat": 31.257313,
-      "lng": 121.477143
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新湖青蓝国际 3室2厅 南",
@@ -1290,8 +1290,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 175.5,
-      "lat": 31.262172,
-      "lng": 121.474386
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·新湖青蓝国际 2室2厅 南",
@@ -1309,8 +1309,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 160.7,
-      "lat": 31.262172,
-      "lng": 121.474386
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁小区 1室0厅 南",
@@ -1328,8 +1328,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 137.6,
-      "lat": 31.261135,
-      "lng": 121.470603
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·越秀静安悦 3室1厅 南",
@@ -1347,8 +1347,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 229.9,
-      "lat": 31.253517,
-      "lng": 121.468107
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·精文城上城 3室2厅 南",
@@ -1366,8 +1366,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 125.6,
-      "lat": 31.248613,
-      "lng": 121.465216
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和源馨苑 3室2厅 南/北",
@@ -1385,8 +1385,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 91.4,
-      "lat": 31.248616,
-      "lng": 121.467335
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴路一号 2室1厅 南",
@@ -1404,8 +1404,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 212.6,
-      "lat": 31.253697,
-      "lng": 121.469003
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和田小区 1室1厅 南",
@@ -1423,8 +1423,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 97.8,
-      "lat": 31.259195,
-      "lng": 121.466744
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复元坊 1室1厅 南",
@@ -1442,8 +1442,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 121.5,
-      "lat": 31.25026,
-      "lng": 121.465569
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·蒙特利名都城 3室2厅 南",
@@ -1461,8 +1461,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 106.7,
-      "lat": 31.255615,
-      "lng": 121.474993
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·扬波大厦 2室2厅 南",
@@ -1480,8 +1480,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 87.8,
-      "lat": 31.254713,
-      "lng": 121.476406
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中华新路495号 2室1厅 南/北",
@@ -1499,8 +1499,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 97.6,
-      "lat": 31.253732,
-      "lng": 121.463178
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复地新都国际 2室1厅 南",
@@ -1518,8 +1518,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 134.1,
-      "lat": 31.253667,
-      "lng": 121.475865
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复元坊 1室1厅 南",
@@ -1537,8 +1537,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 127.1,
-      "lat": 31.25026,
-      "lng": 121.465569
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(一期) 1室1厅 南",
@@ -1556,8 +1556,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 120.6,
-      "lat": 31.255563,
-      "lng": 121.471949
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西藏北路853弄 1室1厅 南",
@@ -1575,8 +1575,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 125.0,
-      "lat": 31.261114,
-      "lng": 121.466318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(一期) 2室2厅 东南/南",
@@ -1594,8 +1594,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 110.9,
-      "lat": 31.255563,
-      "lng": 121.471949
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虬江大楼 2室1厅 南",
@@ -1613,8 +1613,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 89.5,
-      "lat": 31.250503,
-      "lng": 121.471229
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复元坊 1室1厅 南",
@@ -1632,8 +1632,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 118.4,
-      "lat": 31.25026,
-      "lng": 121.465569
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·志园公寓 2室1厅 南",
@@ -1651,8 +1651,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 80.0,
-      "lat": 31.257731,
-      "lng": 121.469503
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虬江路843号 2室1厅 南",
@@ -1670,8 +1670,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 105.5,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴亚广场(公寓) 3室2厅 南/北",
@@ -1689,8 +1689,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 82.7,
-      "lat": 31.252897,
-      "lng": 121.473356
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室1厅 南",
@@ -1708,8 +1708,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 118.0,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复元坊 1室1厅 南",
@@ -1727,8 +1727,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 90.1,
-      "lat": 31.25026,
-      "lng": 121.465569
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和源馨苑 1室1厅 南",
@@ -1746,8 +1746,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 101.5,
-      "lat": 31.248616,
-      "lng": 121.467335
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·包运大厦 2室1厅 南",
@@ -1765,8 +1765,8 @@
       "scraped_at": "2026-04-23 15:22:00",
       "region": "xizangbeilu",
       "unit_price": 77.8,
-      "lat": 31.256381,
-      "lng": 121.478291
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·包运大厦 1室1厅 南/北",
@@ -1784,8 +1784,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 140.2,
-      "lat": 31.256381,
-      "lng": 121.478291
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·铭德漪景庭 2室2厅 南",
@@ -1803,8 +1803,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 204.8,
-      "lat": 31.251462,
-      "lng": 121.470915
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁小区 1室0厅 南",
@@ -1822,8 +1822,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 130.7,
-      "lat": 31.261135,
-      "lng": 121.470603
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁小区 1室0厅 南",
@@ -1841,8 +1841,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 136.5,
-      "lat": 31.261135,
-      "lng": 121.470603
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(一期) 2室2厅 东/西南/西/北",
@@ -1860,8 +1860,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 119.7,
-      "lat": 31.255563,
-      "lng": 121.471949
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室0厅 南",
@@ -1879,8 +1879,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 96.2,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·止园路446号 1室1厅 南",
@@ -1898,8 +1898,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 106.0,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·精文城上城 1室2厅 南",
@@ -1917,8 +1917,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 102.0,
-      "lat": 31.248613,
-      "lng": 121.465216
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复地新都国际 4室2厅 南",
@@ -1936,8 +1936,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 118.8,
-      "lat": 31.253667,
-      "lng": 121.475865
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复地新都国际 2室2厅 南",
@@ -1955,8 +1955,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 106.6,
-      "lat": 31.253667,
-      "lng": 121.475865
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·局北村 1室1厅 南",
@@ -1974,8 +1974,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 107.6,
-      "lat": 31.24974,
-      "lng": 121.47049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·博园大楼 2室2厅 南/北",
@@ -1993,8 +1993,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 107.5,
-      "lat": 31.250048,
-      "lng": 121.47001
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·青云公寓 2室1厅 南/北",
@@ -2012,8 +2012,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 87.3,
-      "lat": 31.262195,
-      "lng": 121.470592
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通源小区 2室1厅 南",
@@ -2031,8 +2031,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 100.0,
-      "lat": 31.257163,
-      "lng": 121.479512
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室1厅 南",
@@ -2050,8 +2050,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 125.3,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·象山小区 1室1厅 南",
@@ -2069,8 +2069,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 89.7,
-      "lat": 31.254859,
-      "lng": 121.473036
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴路一号 2室2厅 南",
@@ -2088,8 +2088,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 237.6,
-      "lat": 31.253697,
-      "lng": 121.469003
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·公兴路39弄 2室1厅 南",
@@ -2107,8 +2107,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 124.6,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝通路466弄 1室1厅 南",
@@ -2126,8 +2126,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 94.8,
-      "lat": 31.260638,
-      "lng": 121.467297
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·志园公寓 2室1厅 南",
@@ -2145,8 +2145,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 113.8,
-      "lat": 31.257731,
-      "lng": 121.469503
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·西藏北路1145号 1室1厅 西南/西",
@@ -2164,8 +2164,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 133.8,
-      "lat": 31.261114,
-      "lng": 121.466318
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁小区 2室1厅 南",
@@ -2183,8 +2183,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 98.6,
-      "lat": 31.261135,
-      "lng": 121.470603
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·精文城上城 3室1厅 南",
@@ -2202,8 +2202,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 79.6,
-      "lat": 31.248613,
-      "lng": 121.465216
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·永兴小马路80号 1室1厅 南/西",
@@ -2221,8 +2221,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 100.0,
-      "lat": 31.250718,
-      "lng": 121.464848
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江中路495弄 2室0厅 南/北",
@@ -2240,8 +2240,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 96.6,
-      "lat": 31.259107,
-      "lng": 121.468541
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·三宝花苑 3室2厅 南",
@@ -2259,8 +2259,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 89.6,
-      "lat": 31.257163,
-      "lng": 121.476711
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·铭德漪景庭 2室2厅 南",
@@ -2278,8 +2278,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 193.4,
-      "lat": 31.251462,
-      "lng": 121.470915
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室1厅 北",
@@ -2297,8 +2297,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 145.3,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴艺小区 1室1厅 南",
@@ -2316,8 +2316,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 100.3,
-      "lat": 31.252024,
-      "lng": 121.468369
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·二轻小区 1室1厅 西南",
@@ -2335,8 +2335,8 @@
       "scraped_at": "2026-04-23 15:22:03",
       "region": "xizangbeilu",
       "unit_price": 119.3,
-      "lat": 31.257541,
-      "lng": 121.466122
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·局南村 1室1厅 南",
@@ -2354,8 +2354,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 128.7,
-      "lat": 31.248386,
-      "lng": 121.47041
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(二期) 2室1厅 南",
@@ -2373,8 +2373,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 194.1,
-      "lat": 31.258992,
-      "lng": 121.473944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复元坊 1室1厅 南",
@@ -2392,8 +2392,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 136.4,
-      "lat": 31.25026,
-      "lng": 121.465569
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·志业公寓 2室1厅 南/北",
@@ -2411,8 +2411,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 101.3,
-      "lat": 31.264388,
-      "lng": 121.472595
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 2室1厅 南/北",
@@ -2430,8 +2430,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 105.8,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虬江路888弄 1室1厅 南",
@@ -2449,8 +2449,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 113.2,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·共和新路655弄 2室1厅 南/北",
@@ -2468,8 +2468,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 82.3,
-      "lat": 31.230525,
-      "lng": 121.473667
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁小区 2室1厅 南",
@@ -2487,8 +2487,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 127.5,
-      "lat": 31.261135,
-      "lng": 121.470603
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴路一号 2室1厅 南",
@@ -2506,8 +2506,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 250.0,
-      "lat": 31.253697,
-      "lng": 121.469003
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(二期) 3室2厅 南/北",
@@ -2525,8 +2525,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 110.1,
-      "lat": 31.258992,
-      "lng": 121.473944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路165弄 2室0厅 南",
@@ -2544,8 +2544,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 166.7,
-      "lat": 31.259107,
-      "lng": 121.468541
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·越秀静安悦 3室2厅 南",
@@ -2563,8 +2563,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 191.3,
-      "lat": 31.253517,
-      "lng": 121.468107
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室0厅 北",
@@ -2582,8 +2582,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 151.4,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·永兴小马路80号 1室1厅 东北",
@@ -2601,8 +2601,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 140.5,
-      "lat": 31.250718,
-      "lng": 121.464848
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(二期) 1室2厅 南",
@@ -2620,8 +2620,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 137.5,
-      "lat": 31.258992,
-      "lng": 121.473944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 2室1厅 南/北",
@@ -2639,8 +2639,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 99.2,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·华发·静安华府 4室3厅 复式 南",
@@ -2658,8 +2658,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 314.8,
-      "lat": 31.291941,
-      "lng": 121.442921
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴路一号 2室2厅 东南",
@@ -2677,8 +2677,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 284.4,
-      "lat": 31.253697,
-      "lng": 121.469003
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·陆丰路156号 1室1厅 南",
@@ -2696,8 +2696,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 132.4,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室0厅 北",
@@ -2715,8 +2715,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 159.1,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·聚龙大厦 2室1厅 南",
@@ -2734,8 +2734,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 102.7,
-      "lat": 31.249847,
-      "lng": 121.469147
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路123弄 2室1厅 南",
@@ -2753,8 +2753,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 90.1,
-      "lat": 31.259107,
-      "lng": 121.468541
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路123弄 2室1厅 南",
@@ -2772,8 +2772,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 91.2,
-      "lat": 31.259107,
-      "lng": 121.468541
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和源馨苑 3室2厅 南",
@@ -2791,8 +2791,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 105.5,
-      "lat": 31.248616,
-      "lng": 121.467335
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·局北村 1室1厅 南",
@@ -2810,8 +2810,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 106.0,
-      "lat": 31.24974,
-      "lng": 121.47049
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·止园路320弄 1室0厅 南",
@@ -2829,8 +2829,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 124.3,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和田小区 1室1厅 南",
@@ -2848,8 +2848,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 123.0,
-      "lat": 31.259195,
-      "lng": 121.466744
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·和源馨苑 2室1厅 南",
@@ -2867,8 +2867,8 @@
       "scraped_at": "2026-04-23 15:22:07",
       "region": "xizangbeilu",
       "unit_price": 106.7,
-      "lat": 31.248616,
-      "lng": 121.467335
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·天汇世纪玺 4室2厅 南",
@@ -2886,8 +2886,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 195.7,
-      "lat": 31.254417,
-      "lng": 121.479192
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·铭德漪景庭 2室1厅 南",
@@ -2905,8 +2905,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 207.4,
-      "lat": 31.251462,
-      "lng": 121.470915
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室1厅 南",
@@ -2924,8 +2924,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 109.6,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复地新都国际 1室1厅 南",
@@ -2943,8 +2943,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 119.4,
-      "lat": 31.253667,
-      "lng": 121.475865
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 1室1厅 南",
@@ -2962,8 +2962,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 123.1,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江西路123弄 1室1厅 南",
@@ -2981,8 +2981,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 127.3,
-      "lat": 31.259107,
-      "lng": 121.468541
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虬江路909弄 1室1厅 南",
@@ -3000,8 +3000,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 127.5,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴亚广场(办公楼) 1室1厅 南",
@@ -3019,8 +3019,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 74.7,
-      "lat": 31.252897,
-      "lng": 121.473356
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·兴亚广场(办公楼) 1室1厅 南",
@@ -3038,8 +3038,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 99.3,
-      "lat": 31.252897,
-      "lng": 121.473356
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·昆泰大厦 2室2厅 东南",
@@ -3057,8 +3057,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 75.7,
-      "lat": 31.252695,
-      "lng": 121.465036
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·虬江路1110号 2室1厅 南",
@@ -3076,8 +3076,8 @@
       "scraped_at": "2026-04-23 15:22:10",
       "region": "xizangbeilu",
       "unit_price": 125.7,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(一期) 2室2厅 南",
@@ -3095,8 +3095,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 107.9,
-      "lat": 31.255563,
-      "lng": 121.471949
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·绿洲雅宾利花园(二期) 1室1厅 南",
@@ -3114,8 +3114,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 136.6,
-      "lat": 31.258992,
-      "lng": 121.473944
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝山路499弄 1室1厅 南",
@@ -3133,8 +3133,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 141.3,
-      "lat": 31.260638,
-      "lng": 121.467297
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁路191弄 2室1厅 南",
@@ -3152,8 +3152,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 83.9,
-      "lat": 31.253726,
-      "lng": 121.4687
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·长征大厦 3室2厅 南",
@@ -3171,8 +3171,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 73.5,
-      "lat": 31.260454,
-      "lng": 121.477334
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·宝山路499弄 1室1厅 南",
@@ -3190,8 +3190,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 113.8,
-      "lat": 31.260638,
-      "lng": 121.467297
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·通阁小区 1室1厅 南",
@@ -3209,8 +3209,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 112.5,
-      "lat": 31.261135,
-      "lng": 121.470603
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·象山小区 1室1厅 南",
@@ -3228,8 +3228,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 114.8,
-      "lat": 31.254859,
-      "lng": 121.473036
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·志业公寓 3室2厅 南",
@@ -3247,8 +3247,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 90.4,
-      "lat": 31.264388,
-      "lng": 121.472595
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·芷江中路493弄 1室1厅 南",
@@ -3266,8 +3266,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 107.2,
-      "lat": 31.259107,
-      "lng": 121.468541
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·光华坊 2室1厅 南/北",
@@ -3285,8 +3285,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 94.5,
-      "lat": 31.251562,
-      "lng": 121.46647
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复元坊 1室1厅 南",
@@ -3304,8 +3304,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 130.3,
-      "lat": 31.25026,
-      "lng": 121.465569
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·中兴路一号 1室1厅 南",
@@ -3323,8 +3323,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 219.8,
-      "lat": 31.253697,
-      "lng": 121.469003
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·复元坊 3室1厅 南/北",
@@ -3342,8 +3342,8 @@
       "scraped_at": "2026-04-23 15:22:13",
       "region": "xizangbeilu",
       "unit_price": 86.3,
-      "lat": 31.25026,
-      "lng": 121.465569
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 复式 南",
@@ -3361,8 +3361,8 @@
       "scraped_at": "2026-04-23 15:22:17",
       "region": "xizangbeilu",
       "unit_price": 101.1,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·汤臣豪园一期 4室2厅 南",
@@ -3380,8 +3380,8 @@
       "scraped_at": "2026-04-23 15:22:17",
       "region": "xizangbeilu",
       "unit_price": 132.5,
-      "lat": 31.209999,
-      "lng": 121.585405
+      "lat": 31.211262,
+      "lng": 121.584802
     },
     {
       "title": "整租·东郊紫园 5室2厅 复式 南",
@@ -3475,8 +3475,8 @@
       "scraped_at": "2026-04-23 15:22:17",
       "region": "xizangbeilu",
       "unit_price": 96.9,
-      "lat": 31.208639,
-      "lng": 121.582621
+      "lat": 31.202786,
+      "lng": 121.596039
     },
     {
       "title": "整租·东郊紫园 4室2厅 复式 南",

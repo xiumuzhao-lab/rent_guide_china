@@ -16,7 +16,9 @@
       "location": "长宁-古北-御翠豪庭",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 95.8
+      "unit_price": 95.8,
+      "lat": 31.196491,
+      "lng": 121.399833
     },
     {
       "title": "整租·古北玛瑙园 3室2厅 南",
@@ -33,7 +35,9 @@
       "location": "长宁-古北-古北玛瑙园",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 121.5
+      "unit_price": 121.5,
+      "lat": 31.192185,
+      "lng": 121.402923
     },
     {
       "title": "整租·御翠豪庭 2室2厅 西",
@@ -50,7 +54,9 @@
       "location": "长宁-古北-御翠豪庭",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 92.6
+      "unit_price": 92.6,
+      "lat": 31.196491,
+      "lng": 121.399833
     },
     {
       "title": "独栋·城方公寓 古北璟辰社区 豪华装修 拎包即刻入住 国企保障房 全额提取公积金 民用水电燃 1室1厅",
@@ -67,7 +73,9 @@
       "location": "",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 160.0
+      "unit_price": 160.0,
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·金色贝拉维 2室2厅 南/北",
@@ -84,7 +92,9 @@
       "location": "长宁-古北-金色贝拉维",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 112.6
+      "unit_price": 112.6,
+      "lat": 31.194012,
+      "lng": 121.401657
     },
     {
       "title": "整租·领尚国际酒店公寓 1室1厅 南",
@@ -101,7 +111,9 @@
       "location": "长宁-古北-领尚国际酒店公寓",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 101.0
+      "unit_price": 101.0,
+      "lat": 31.192105,
+      "lng": 121.414418
     },
     {
       "title": "整租·御翠豪庭 4室2厅 南/北",
@@ -118,7 +130,9 @@
       "location": "长宁-古北-御翠豪庭",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 149.1
+      "unit_price": 149.1,
+      "lat": 31.196491,
+      "lng": 121.399833
     },
     {
       "title": "整租·古北国际花园 1室1厅 南",
@@ -135,7 +149,9 @@
       "location": "长宁-古北-古北国际花园",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 143.7
+      "unit_price": 143.7,
+      "lat": 31.195968,
+      "lng": 121.402245
     },
     {
       "title": "整租·鹿特丹花园 3室2厅 东北",
@@ -152,7 +168,9 @@
       "location": "长宁-古北-鹿特丹花园",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 97.3
+      "unit_price": 97.3,
+      "lat": 31.194117,
+      "lng": 121.395165
     },
     {
       "title": "整租·领尚国际酒店公寓 1室1厅 西/西北",
@@ -169,7 +187,9 @@
       "location": "长宁-古北-领尚国际酒店公寓",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 102.8
+      "unit_price": 102.8,
+      "lat": 31.192105,
+      "lng": 121.414418
     },
     {
       "title": "整租·御翠豪庭 1室1厅 南",
@@ -186,7 +206,9 @@
       "location": "长宁-古北-御翠豪庭",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 147.8
+      "unit_price": 147.8,
+      "lat": 31.196491,
+      "lng": 121.399833
     },
     {
       "title": "独栋·城方公寓 黄金城道店 黄金城道 一房一厅首租 国企房东 直租无中介 稀缺户型 1室1厅",
@@ -203,7 +225,9 @@
       "location": "",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": ""
+      "unit_price": "",
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古北ONE 3室2厅 南/北",
@@ -220,7 +244,9 @@
       "location": "长宁-古北-古北",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 183.1
+      "unit_price": 183.1,
+      "lat": 31.196053,
+      "lng": 121.395653
     },
     {
       "title": "整租·金狮公寓 3室1厅 东南/南",
@@ -237,7 +263,9 @@
       "location": "长宁-古北-金狮公寓",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 93.8
+      "unit_price": 93.8,
+      "lat": 31.193992,
+      "lng": 121.393145
     },
     {
       "title": "独栋·城方公寓 古北璟宏社区 10号线宋园路地铁直达 国企房东带衣帽间两房民水民电宠物友好宜家环保家居拎包入住 2室2厅",
@@ -254,7 +282,9 @@
       "location": "",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": ""
+      "unit_price": "",
+      "lat": null,
+      "lng": null
     },
     {
       "title": "整租·古城公寓 3室0厅 南",
@@ -271,7 +301,9 @@
       "location": "长宁-古北-古城公寓",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 84.7
+      "unit_price": 84.7,
+      "lat": 31.194265,
+      "lng": 121.414437
     },
     {
       "title": "整租·古北嘉年华庭 1室1厅 南/北",
@@ -288,7 +320,9 @@
       "location": "长宁-古北-古北嘉年华庭",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 125.2
+      "unit_price": 125.2,
+      "lat": 31.192784,
+      "lng": 121.407788
     },
     {
       "title": "整租·鹿特丹花园 2室2厅 南",
@@ -305,7 +339,9 @@
       "location": "长宁-古北-鹿特丹花园",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 110.1
+      "unit_price": 110.1,
+      "lat": 31.194117,
+      "lng": 121.395165
     },
     {
       "title": "整租·圣美邸 2室2厅 南",
@@ -322,7 +358,9 @@
       "location": "长宁-古北-圣美邸",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 132.5
+      "unit_price": 132.5,
+      "lat": 31.19191,
+      "lng": 121.412997
     },
     {
       "title": "整租·巴黎花园 2室2厅 南",
@@ -339,7 +377,9 @@
       "location": "长宁-古北-巴黎花园",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 123.9
+      "unit_price": 123.9,
+      "lat": 31.195067,
+      "lng": 121.394823
     },
     {
       "title": "整租·民航古北公寓 3室2厅 南",
@@ -356,7 +396,9 @@
       "location": "长宁-古北-民航古北公寓",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 80.9
+      "unit_price": 80.9,
+      "lat": 31.197901,
+      "lng": 121.400359
     },
     {
       "title": "整租·荣华东道112号 2室2厅 东",
@@ -373,7 +415,9 @@
       "location": "长宁-古北-荣华东道",
       "scraped_at": "2026-04-24 14:26:07",
       "region": "gubei",
-      "unit_price": 129.1
+      "unit_price": 129.1,
+      "lat": 31.19575,
+      "lng": 121.395377
     },
     {
       "title": "整租·里昂花园 3室2厅 南",
@@ -390,7 +434,9 @@
       "location": "长宁-古北-里昂花园",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 103.9
+      "unit_price": 103.9,
+      "lat": 31.194514,
+      "lng": 121.396885
     },
     {
       "title": "整租·钻石公寓 3室2厅 南",
@@ -407,7 +453,9 @@
       "location": "长宁-古北-钻石公寓",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 71.9
+      "unit_price": 71.9,
+      "lat": 31.195958,
+      "lng": 121.392431
     },
     {
       "title": "整租·美丽华花园(公寓) 3室2厅 南",
@@ -424,7 +472,9 @@
       "location": "长宁-古北-美丽华花园(公寓)",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 122.2
+      "unit_price": 122.2,
+      "lat": 31.197457,
+      "lng": 121.392025
     },
     {
       "title": "整租·虹桥城市花园(公寓) 2室2厅 南",
@@ -441,7 +491,9 @@
       "location": "长宁-古北-虹桥城市花园(公寓)",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 134.6
+      "unit_price": 134.6,
+      "lat": 31.191497,
+      "lng": 121.412028
     },
     {
       "title": "整租·华园 3室2厅 南/北",
@@ -458,7 +510,9 @@
       "location": "长宁-古北-华园",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 161.8
+      "unit_price": 161.8,
+      "lat": 31.193491,
+      "lng": 121.392606
     },
     {
       "title": "整租·罗马花园 4室2厅 南",
@@ -475,7 +529,9 @@
       "location": "长宁-古北-罗马花园",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 176.5
+      "unit_price": 176.5,
+      "lat": 31.193326,
+      "lng": 121.395402
     },
     {
       "title": "整租·上城Uptown 3室2厅 南",
@@ -492,7 +548,9 @@
       "location": "长宁-古北-上城",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 110.2
+      "unit_price": 110.2,
+      "lat": 31.184106,
+      "lng": 121.410047
     },
     {
       "title": "整租·雅典花苑 2室2厅 东/西/北",
@@ -509,7 +567,9 @@
       "location": "长宁-古北-雅典花苑",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 108.4
+      "unit_price": 108.4,
+      "lat": 31.193746,
+      "lng": 121.39729
     },
     {
       "title": "整租·古北国际广场 3室2厅 南",
@@ -526,7 +586,9 @@
       "location": "长宁-古北-古北国际广场",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 150.6
+      "unit_price": 150.6,
+      "lat": 31.194131,
+      "lng": 121.405835
     },
     {
       "title": "整租·上城Uptown 1室2厅 南",
@@ -543,7 +605,9 @@
       "location": "长宁-古北-上城",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 211.5
+      "unit_price": 211.5,
+      "lat": 31.184106,
+      "lng": 121.410047
     },
     {
       "title": "整租·美丽华花园(公寓) 2室2厅 南",
@@ -560,7 +624,9 @@
       "location": "长宁-古北-美丽华花园(公寓)",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 117.1
+      "unit_price": 117.1,
+      "lat": 31.197457,
+      "lng": 121.392025
     },
     {
       "title": "整租·强生古北花园 3室2厅 南/北",
@@ -577,7 +643,9 @@
       "location": "长宁-古北-强生古北花园",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 133.4
+      "unit_price": 133.4,
+      "lat": 31.194426,
+      "lng": 121.399711
     },
     {
       "title": "整租·金象公寓 3室2厅 南/北",
@@ -594,7 +662,9 @@
       "location": "长宁-古北-金象公寓",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 188.0
+      "unit_price": 188.0,
+      "lat": 31.194619,
+      "lng": 121.392149
     },
     {
       "title": "整租·宝石公寓 1室2厅 南",
@@ -611,7 +681,9 @@
       "location": "长宁-古北-宝石公寓",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 116.9
+      "unit_price": 116.9,
+      "lat": 31.195385,
+      "lng": 121.392594
     },
     {
       "title": "整租·御翠豪庭 1室2厅 南/北",
@@ -628,7 +700,9 @@
       "location": "长宁-古北-御翠豪庭",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 158.9
+      "unit_price": 158.9,
+      "lat": 31.196491,
+      "lng": 121.399833
     },
     {
       "title": "整租·虹桥城市花园(公寓) 2室1厅 东/南/北",
@@ -645,7 +719,9 @@
       "location": "长宁-古北-虹桥城市花园(公寓)",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 125.2
+      "unit_price": 125.2,
+      "lat": 31.191497,
+      "lng": 121.412028
     },
     {
       "title": "整租·虹桥城市花园(公寓) 4室2厅 南",
@@ -662,7 +738,9 @@
       "location": "长宁-古北-虹桥城市花园(公寓)",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 199.7
+      "unit_price": 199.7,
+      "lat": 31.191497,
+      "lng": 121.412028
     },
     {
       "title": "整租·上城Uptown 3室2厅 南/北",
@@ -679,7 +757,9 @@
       "location": "长宁-古北-上城",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 116.0
+      "unit_price": 116.0,
+      "lat": 31.184106,
+      "lng": 121.410047
     },
     {
       "title": "整租·雅典花苑 2室2厅 南",
@@ -696,7 +776,9 @@
       "location": "长宁-古北-雅典花苑",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 89.9
+      "unit_price": 89.9,
+      "lat": 31.193746,
+      "lng": 121.39729
     },
     {
       "title": "整租·古北ONE 3室2厅 南",
@@ -713,7 +795,9 @@
       "location": "长宁-古北-古北",
       "scraped_at": "2026-04-24 14:26:14",
       "region": "gubei",
-      "unit_price": 185.5
+      "unit_price": 185.5,
+      "lat": 31.196053,
+      "lng": 121.395653
     }
   ],
   "completed": false
