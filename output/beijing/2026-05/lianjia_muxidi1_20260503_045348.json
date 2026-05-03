@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 115.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 95.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 153.8,
     "lat": 39.905611,
     "lng": 116.332529
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 111.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 94.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 204.3,
     "lat": null,
     "lng": null
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 134.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 122.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 161.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 109.8,
     "lat": 39.90615,
     "lng": 116.328967
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 123.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 137.4,
     "lat": 39.905611,
     "lng": 116.332529
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 132.0,
     "lat": 39.905611,
     "lng": 116.332529
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁一区",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 110.4,
     "lat": 39.9047,
     "lng": 116.329696
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 127.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 100.8,
     "lat": 39.90615,
     "lng": 116.328967
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 143.6,
     "lat": 39.90615,
     "lng": 116.328967
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-莲花池东路",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 116.4,
     "lat": 39.906093,
     "lng": 116.331328
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 128.6,
     "lat": 39.90615,
     "lng": 116.328967
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁一区",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 113.6,
     "lat": 39.9047,
     "lng": 116.329696
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-温馨家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 98.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 118.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 168.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-莲花池东路甲",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 95.3,
     "lat": 39.896798,
     "lng": 116.33342
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 125.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 117.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-温馨家园",
     "scraped_at": "2026-05-02 20:20:13",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 165.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门南大街",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 138.5,
     "lat": 39.905611,
     "lng": 116.332529
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 138.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁四区",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 146.9,
     "lat": 39.9047,
     "lng": 116.329696
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 127.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 133.5,
     "lat": 39.905611,
     "lng": 116.332529
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-温馨家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 184.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 199.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云路七号院",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 112.2,
     "lat": 39.896936,
     "lng": 116.335088
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云路七号院",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 107.3,
     "lat": 39.896936,
     "lng": 116.335088
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 102.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 140.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-金融世家",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 165.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 112.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 118.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -792,7 +792,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 167.3,
     "lat": 39.914631,
     "lng": 116.348066
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云路七号院",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 114.6,
     "lat": 39.896936,
     "lng": 116.335088
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 137.3,
     "lat": 39.90615,
     "lng": 116.328967
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 121.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-金融世家",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 211.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙三条一号院",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 120.4,
     "lat": 39.903793,
     "lng": 116.34506
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门南大街",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 122.9,
     "lat": 39.905611,
     "lng": 116.332529
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 119.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽北小区",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 118.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙六里",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 122.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 137.1,
     "lat": 39.905611,
     "lng": 116.332529
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 102.8,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-温馨家园",
     "scraped_at": "2026-05-02 20:20:15",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 164.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1039,7 +1039,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 543.5,
     "lat": 39.916876,
     "lng": 116.355678
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙五里",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 132.7,
     "lat": 39.901308,
     "lng": 116.342226
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 126.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 240.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门南大街",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 136.1,
     "lat": 39.905611,
     "lng": 116.332529
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 112.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 135.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 260.3,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 163.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙二里",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 150.0,
     "lat": 39.903574,
     "lng": 116.338283
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 118.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁一区",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 60.6,
     "lat": 39.9047,
     "lng": 116.329696
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 140.8,
     "lat": 39.905611,
     "lng": 116.332529
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 155.7,
     "lat": 39.905611,
     "lng": 116.332529
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙六里",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 122.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云路七号院",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 107.9,
     "lat": 39.896936,
     "lng": 116.335088
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 126.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙二里",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 127.2,
     "lat": 39.903574,
     "lng": 116.338283
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 80.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-融泽府",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 206.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 182.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 124.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-莲花池东路",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 114.3,
     "lat": 39.906093,
     "lng": 116.331328
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙三里",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 128.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:18",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 114.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-北滨河路",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 146.7,
     "lat": 39.906093,
     "lng": 116.331328
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙二里",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 169.4,
     "lat": 39.903574,
     "lng": 116.338283
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 130.8,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙三里",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 122.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 93.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 142.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 123.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 127.5,
     "lat": 39.905611,
     "lng": 116.332529
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 133.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁一区",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 106.9,
     "lat": 39.9047,
     "lng": 116.329696
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 140.4,
     "lat": 39.905611,
     "lng": 116.332529
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门南大街",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 128.0,
     "lat": 39.905611,
     "lng": 116.332529
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 98.3,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云路七号院",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 99.0,
     "lat": 39.896936,
     "lng": 116.335088
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 124.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 157.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 151.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-金融世家",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 205.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云路七号院",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 108.8,
     "lat": 39.896936,
     "lng": 116.335088
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-莲花池东路甲",
     "scraped_at": "2026-05-02 20:20:21",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 110.5,
     "lat": 39.896798,
     "lng": 116.33342
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 116.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-温馨家园",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 169.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 129.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-北滨河路",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 165.5,
     "lat": 39.906093,
     "lng": 116.331328
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 103.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁一区",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 125.4,
     "lat": 39.9047,
     "lng": 116.329696
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 134.2,
     "lat": 39.905611,
     "lng": 116.332529
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 100.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 167.3,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 154.5,
     "lat": 39.905611,
     "lng": 116.332529
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 159.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 114.1,
     "lat": 39.905611,
     "lng": 116.332529
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 144.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙四里",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 154.8,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁四区",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 138.2,
     "lat": 39.9047,
     "lng": 116.329696
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 175.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 120.0,
     "lat": 39.905611,
     "lng": 116.332529
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-莲花池东路甲",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 86.7,
     "lat": 39.896798,
     "lng": 116.33342
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 125.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 139.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 130.3,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽北小区",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 144.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 110.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 114.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 93.6,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-莲花池东路甲",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 93.4,
     "lat": 39.896798,
     "lng": 116.33342
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:24",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 147.8,
     "lat": 39.905611,
     "lng": 116.332529
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-北滨河路",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 148.7,
     "lat": 39.906093,
     "lng": 116.331328
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 201.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-国务院宿舍",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 145.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-莲花池东路甲",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 63.2,
     "lat": 39.896798,
     "lng": 116.33342
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-莲花池东路",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 100.3,
     "lat": 39.906093,
     "lng": 116.331328
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 124.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-温馨家园",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 163.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-北滨河路",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 204.5,
     "lat": 39.906093,
     "lng": 116.331328
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云路七号院",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 114.2,
     "lat": 39.896936,
     "lng": 116.335088
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 220.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-北滨河路",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 262.8,
     "lat": 39.906093,
     "lng": 116.331328
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 82.6,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁四区",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 150.0,
     "lat": 39.9047,
     "lng": 116.329696
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 122.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 97.8,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 108.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-北滨河路",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 166.2,
     "lat": 39.906093,
     "lng": 116.331328
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门外大街",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 164.3,
     "lat": 39.906093,
     "lng": 116.331328
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽北小区",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 125.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 147.2,
     "lat": 39.905611,
     "lng": 116.332529
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 111.6,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 122.6,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 112.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 116.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 129.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 150.2,
     "lat": 39.905611,
     "lng": 116.332529
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙六里",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 159.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁一区",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 146.1,
     "lat": 39.9047,
     "lng": 116.329696
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 136.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽北小区",
     "scraped_at": "2026-05-02 20:20:27",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 146.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云路七号院",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 86.7,
     "lat": 39.896936,
     "lng": 116.335088
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 186.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门南大街",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 127.4,
     "lat": 39.905611,
     "lng": 116.332529
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 97.7,
     "lat": 39.905611,
     "lng": 116.332529
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 159.3,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 171.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙三里",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 100.4,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 163.6,
     "lat": 39.905611,
     "lng": 116.332529
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 111.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 155.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁四区",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 135.8,
     "lat": 39.9047,
     "lng": 116.329696
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 139.9,
     "lat": 39.905611,
     "lng": 116.332529
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武家园",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 162.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙",
     "scraped_at": "2026-05-02 20:20:31",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 134.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门外大街",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 149.4,
     "lat": 39.906093,
     "lng": 116.331328
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽北小区",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 136.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 108.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 113.1,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁一区",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 148.8,
     "lat": 39.9047,
     "lng": 116.329696
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 132.5,
     "lat": 39.905611,
     "lng": 116.332529
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙三条一号院",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 127.1,
     "lat": 39.903793,
     "lng": 116.34506
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 108.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-温馨家园",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 157.7,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙六里",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 108.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 142.3,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门外大街",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 124.4,
     "lat": 39.905611,
     "lng": 116.332529
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 142.9,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 126.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门南大街",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 132.4,
     "lat": 39.905611,
     "lng": 116.332529
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 142.6,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁一区",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 146.4,
     "lat": 39.9047,
     "lng": 116.329696
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门东里",
     "scraped_at": "2026-05-02 20:20:34",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 118.3,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 103.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 97.0,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-白云观",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 133.8,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-莲花池东路",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 140.0,
     "lat": 39.906093,
     "lng": 116.331328
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-铁一区",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 118.4,
     "lat": 39.9047,
     "lng": 116.329696
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-西便门西里",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 117.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-汽南小区",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 145.3,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 131.5,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-木樨地南里",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 120.2,
     "lat": 39.90615,
     "lng": 116.328967
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-复兴门南大街",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 171.0,
     "lat": 39.905611,
     "lng": 116.332529
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "西城区-木樨地-真武庙五里",
     "scraped_at": "2026-05-02 20:20:38",
-    "region": "muxidi1",
+    "region": "木樨地",
     "unit_price": 154.7,
     "lat": 39.901308,
     "lng": 116.342226

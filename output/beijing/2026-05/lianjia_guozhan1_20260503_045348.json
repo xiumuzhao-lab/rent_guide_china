@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 122.9,
     "lat": 39.957476,
     "lng": 116.436028
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 83.0,
     "lat": 39.957356,
     "lng": 116.436138
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-香河园中里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 90.0,
     "lat": 39.94942,
     "lng": 116.43431
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 77.9,
     "lat": 39.957476,
     "lng": 116.436028
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 78.8,
     "lat": 39.957476,
     "lng": 116.436028
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 91.1,
     "lat": 39.957356,
     "lng": 116.436138
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄东里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 96.9,
     "lat": 39.953816,
     "lng": 116.436318
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 105.4,
     "lat": 39.957356,
     "lng": 116.436138
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-国际友谊花园",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 83.9,
     "lat": 39.966566,
     "lng": 116.431185
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 91.2,
     "lat": 39.957476,
     "lng": 116.436028
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄东里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 91.8,
     "lat": 39.953816,
     "lng": 116.436318
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 93.1,
     "lat": 39.957356,
     "lng": 116.436138
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 100.1,
     "lat": 39.957476,
     "lng": 116.436028
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 98.2,
     "lat": 39.953816,
     "lng": 116.436318
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄东里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 107.3,
     "lat": 39.953816,
     "lng": 116.436318
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 155.8,
     "lat": 39.957476,
     "lng": 116.436028
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄南里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 97.1,
     "lat": 39.953816,
     "lng": 116.436318
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 110.9,
     "lat": 39.956393,
     "lng": 116.425635
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 107.2,
     "lat": 39.957476,
     "lng": 116.436028
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 118.1,
     "lat": 39.953816,
     "lng": 116.436318
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 88.8,
     "lat": 39.957476,
     "lng": 116.436028
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄西街",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 90.3,
     "lat": 39.953631,
     "lng": 116.432277
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 109.8,
     "lat": 39.956393,
     "lng": 116.425635
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 97.1,
     "lat": 39.957476,
     "lng": 116.436028
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 99.2,
     "lat": 39.987739,
     "lng": 116.629945
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 91.7,
     "lat": 39.957476,
     "lng": 116.436028
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 131.8,
     "lat": 39.956393,
     "lng": 116.425635
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 111.1,
     "lat": 39.956393,
     "lng": 116.425635
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 105.8,
     "lat": 39.957476,
     "lng": 116.436028
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安西街",
     "scraped_at": "2026-05-02 20:45:58",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 117.8,
     "lat": 39.959186,
     "lng": 116.438608
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 67.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄南里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 98.3,
     "lat": 39.953816,
     "lng": 116.436318
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安西街",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 97.1,
     "lat": 39.959186,
     "lng": 116.438608
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-瑞福楼",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 84.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 131.6,
     "lat": 39.987739,
     "lng": 116.629945
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄东里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 138.3,
     "lat": 39.953816,
     "lng": 116.436318
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-浩鸿园",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 109.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 110.3,
     "lat": 39.957476,
     "lng": 116.436028
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄西街",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 101.4,
     "lat": 39.949016,
     "lng": 116.433368
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 114.5,
     "lat": 39.953816,
     "lng": 116.436318
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-国际友谊花园",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 85.9,
     "lat": 39.966566,
     "lng": 116.431185
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 100.9,
     "lat": 39.953816,
     "lng": 116.436318
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 135.3,
     "lat": 39.956393,
     "lng": 116.425635
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 151.2,
     "lat": 39.956393,
     "lng": 116.425635
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 94.9,
     "lat": 39.957356,
     "lng": 116.436138
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 104.7,
     "lat": 39.957356,
     "lng": 116.436138
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 131.0,
     "lat": 39.956393,
     "lng": 116.425635
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-润民柳芳居",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 103.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 87.6,
     "lat": 39.953816,
     "lng": 116.436318
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-润民柳芳居",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 108.2,
     "lat": 39.957476,
     "lng": 116.436028
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 92.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安东里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 103.5,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-国际友谊花园",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 101.0,
     "lat": 39.966566,
     "lng": 116.431185
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 100.0,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 97.4,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安西街",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 108.4,
     "lat": 39.959186,
     "lng": 116.438608
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安东里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 119.4,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安东里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 106.1,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 96.4,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:01",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 101.4,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 90.7,
     "lat": 39.987739,
     "lng": 116.629945
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安西街",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 98.5,
     "lat": 39.959186,
     "lng": 116.438608
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 116.7,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 129.7,
     "lat": 39.956393,
     "lng": 116.425635
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安东里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 82.2,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安东里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 102.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 136.9,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 114.8,
     "lat": 39.956393,
     "lng": 116.425635
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄南里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 111.0,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄南里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 91.4,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄东里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 115.0,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 86.3,
     "lat": 39.957356,
     "lng": 116.436138
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 84.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-新天第",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 89.0,
     "lat": 39.972186,
     "lng": 116.435878
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 94.5,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 113.5,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 133.5,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 119.2,
     "lat": 39.987739,
     "lng": 116.629945
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 74.3,
     "lat": 39.957356,
     "lng": 116.436138
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安西街",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 104.2,
     "lat": 39.959186,
     "lng": 116.438608
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 131.8,
     "lat": 39.957356,
     "lng": 116.436138
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 97.4,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 94.9,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 92.7,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 89.4,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 113.0,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 104.5,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 93.4,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄西街",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 95.9,
     "lat": 39.953631,
     "lng": 116.432277
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:05",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 111.8,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄西街",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 109.8,
     "lat": 39.949016,
     "lng": 116.433368
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 103.5,
     "lat": 39.953816,
     "lng": 116.436318
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-香河园中里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 108.7,
     "lat": 39.94942,
     "lng": 116.43431
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安西街",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 104.7,
     "lat": 39.959186,
     "lng": 116.438608
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄西街",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 109.3,
     "lat": 39.950463,
     "lng": 116.433246
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安东里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 126.7,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 117.5,
     "lat": 39.956393,
     "lng": 116.425635
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 72.4,
     "lat": 39.957356,
     "lng": 116.436138
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 104.6,
     "lat": 39.987739,
     "lng": 116.629945
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 99.8,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 110.2,
     "lat": 39.956393,
     "lng": 116.425635
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 116.3,
     "lat": 39.957476,
     "lng": 116.436028
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 109.9,
     "lat": 39.956393,
     "lng": 116.425635
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄西街",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 92.1,
     "lat": 39.953631,
     "lng": 116.432277
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-香河园中里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 111.5,
     "lat": 39.94942,
     "lng": 116.43431
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 148.4,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-润民柳芳居",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 114.7,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 113.1,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 129.7,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄东里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 96.5,
     "lat": 39.953816,
     "lng": 116.436318
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 115.2,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 114.2,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 142.9,
     "lat": 39.987739,
     "lng": 116.629945
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-力鸿花园",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 100.5,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安东里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 98.5,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 107.1,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安东里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 139.2,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 154.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 114.2,
     "lat": 39.957356,
     "lng": 116.436138
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:08",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 130.2,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 107.0,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-香河园中里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 93.7,
     "lat": 39.94942,
     "lng": 116.43431
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 110.8,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 159.5,
     "lat": 39.987739,
     "lng": 116.629945
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 123.5,
     "lat": 39.953816,
     "lng": 116.436318
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 101.3,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 166.7,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 122.9,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-林达大厦",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 143.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 113.3,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄西街",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 99.4,
     "lat": 39.949016,
     "lng": 116.433368
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 72.0,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-新天第",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 100.6,
     "lat": 39.972186,
     "lng": 116.435878
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 96.1,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-香河园中里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 99.2,
     "lat": 39.94942,
     "lng": 116.43431
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-林达大厦",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 84.9,
     "lat": 39.898564,
     "lng": 116.476279
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-国际友谊花园",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 90.9,
     "lat": 39.966566,
     "lng": 116.431185
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 88.1,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 111.5,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 135.4,
     "lat": 39.953816,
     "lng": 116.436318
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-香河园中里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 100.0,
     "lat": 39.94942,
     "lng": 116.43431
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-林达大厦",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 87.6,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-香河园中里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 128.9,
     "lat": 39.94942,
     "lng": 116.43431
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 88.4,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 155.6,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 109.7,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-国际友谊花园",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 101.2,
     "lat": 39.966566,
     "lng": 116.431185
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 77.4,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:11",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 151.0,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-林达大厦",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 146.5,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 90.2,
     "lat": 39.957356,
     "lng": 116.436138
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 124.6,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 96.0,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 92.1,
     "lat": 39.956393,
     "lng": 116.425635
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 135.4,
     "lat": 39.953816,
     "lng": 116.436318
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-新天第",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 89.0,
     "lat": 39.972186,
     "lng": 116.435878
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 72.0,
     "lat": 39.957476,
     "lng": 116.436028
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 116.0,
     "lat": 39.956393,
     "lng": 116.425635
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-浩鸿园",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 91.9,
     "lat": 39.957476,
     "lng": 116.436028
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 122.0,
     "lat": 39.953816,
     "lng": 116.436318
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 72.0,
     "lat": 39.957476,
     "lng": 116.436028
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-浩鸿园",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 120.5,
     "lat": 39.957476,
     "lng": 116.436028
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 114.3,
     "lat": 39.957476,
     "lng": 116.436028
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 89.7,
     "lat": 39.957476,
     "lng": 116.436028
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 133.2,
     "lat": 39.956393,
     "lng": 116.425635
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 133.9,
     "lat": 39.956393,
     "lng": 116.425635
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-林达大厦",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 85.9,
     "lat": 39.957476,
     "lng": 116.436028
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-新天第",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 77.3,
     "lat": 39.972186,
     "lng": 116.435878
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-国际友谊花园",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 115.6,
     "lat": 39.966566,
     "lng": 116.431185
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄南里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 115.2,
     "lat": 39.953816,
     "lng": 116.436318
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-静安里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 127.9,
     "lat": 39.957476,
     "lng": 116.436028
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄东里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 96.6,
     "lat": 39.953816,
     "lng": 116.436318
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-豪成大厦",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 76.0,
     "lat": 39.957476,
     "lng": 116.436028
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-新天第",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 89.3,
     "lat": 39.972186,
     "lng": 116.435878
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳南里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 114.2,
     "lat": 39.956393,
     "lng": 116.425635
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-香河园中里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 121.0,
     "lat": 39.94942,
     "lng": 116.43431
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-柳芳北里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 110.9,
     "lat": 39.956393,
     "lng": 116.425635
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 108.2,
     "lat": 39.953816,
     "lng": 116.436318
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-国展-左家庄北里",
     "scraped_at": "2026-05-02 20:46:15",
-    "region": "guozhan1",
+    "region": "国展",
     "unit_price": 119.4,
     "lat": 39.953816,
     "lng": 116.436318

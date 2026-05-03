@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 42.5,
     "lat": 39.891609,
     "lng": 116.633344
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-探矿家属院",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 46.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 48.1,
     "lat": 39.891609,
     "lng": 116.633344
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-日光清城",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 57.9,
     "lat": 39.909372,
     "lng": 116.687114
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": "",
     "lat": 40.051992,
     "lng": 116.330738
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克摩界",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 51.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 38.4,
     "lat": 39.867756,
     "lng": 116.628658
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 53.9,
     "lat": 39.909372,
     "lng": 116.687114
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-雅丽世居",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-复兴南里",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 45.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.1,
     "lat": 39.891609,
     "lng": 116.633344
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 39.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 71.7,
     "lat": 39.891609,
     "lng": 116.633344
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 48.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 56.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园西小区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.9,
     "lat": 39.867756,
     "lng": 116.628658
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葵花社",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 54.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店东里",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 36.3,
     "lat": 39.890306,
     "lng": 116.652148
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里东区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 59.5,
     "lat": 39.909372,
     "lng": 116.687114
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-达富苑",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 34.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 62.0,
     "lat": 39.891609,
     "lng": 116.633344
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 42.5,
     "lat": 39.891609,
     "lng": 116.633344
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-雅丽世居",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葵花社",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 84.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 43.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克摩界",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": "",
     "lat": 40.051992,
     "lng": 116.330738
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 60.6,
     "lat": 39.891609,
     "lng": 116.633344
@@ -602,7 +602,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:26:56",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": "",
     "lat": null,
     "lng": null
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 81.7,
     "lat": 39.891609,
     "lng": 116.633344
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-日光清城",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 53.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 60.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西里",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 30.2,
     "lat": 39.909372,
     "lng": 116.687114
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.9,
     "lat": 39.891609,
     "lng": 116.633344
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 58.1,
     "lat": 39.891609,
     "lng": 116.633344
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克摩界",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 65.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 53.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克摩界",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 70.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.0,
     "lat": 39.891609,
     "lng": 116.633344
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 69.2,
     "lat": 39.909372,
     "lng": 116.687114
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.2,
     "lat": 39.891609,
     "lng": 116.633344
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店南里",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 51.7,
     "lat": 39.890306,
     "lng": 116.652148
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-探矿家属院",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 51.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.2,
     "lat": 39.891609,
     "lng": 116.633344
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-通广嘉园",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 59.8,
     "lat": 39.88106,
     "lng": 116.6672
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.4,
     "lat": 39.891609,
     "lng": 116.633344
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-交通局家属院",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 63.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-达富苑",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 71.7,
     "lat": 39.891609,
     "lng": 116.633344
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 54.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 93.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 60.2,
     "lat": 39.891609,
     "lng": 116.633344
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店南里",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 45.0,
     "lat": 39.890306,
     "lng": 116.652148
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-雅丽世居",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 66.9,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-运河西大街",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 71.9,
     "lat": 39.893224,
     "lng": 116.656398
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-达富苑",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 40.5,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西街",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 43.2,
     "lat": 39.894114,
     "lng": 116.645873
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-雅丽世居",
     "scraped_at": "2026-05-02 22:26:59",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 53.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-达富苑",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 77.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 37.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 64.9,
     "lat": 39.891609,
     "lng": 116.633344
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-达富苑",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 41.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西里",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 36.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西里",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 35.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葵花社",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 64.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-交通局家属院",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 54.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 36.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-北机家属院",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 48.2,
     "lat": 39.894385,
     "lng": 116.647718
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-达富苑",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 61.2,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 41.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 51.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华南路",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 60.4,
     "lat": 39.894086,
     "lng": 116.649758
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葵花社",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 55.5,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 57.1,
     "lat": 39.891609,
     "lng": 116.633344
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 45.4,
     "lat": 39.891609,
     "lng": 116.633344
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 48.0,
     "lat": 39.891609,
     "lng": 116.633344
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店南里",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 45.0,
     "lat": 39.890306,
     "lng": 116.652148
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 61.1,
     "lat": 39.867756,
     "lng": 116.628658
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 82.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华南路",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 61.8,
     "lat": 39.894086,
     "lng": 116.649758
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店南里",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 48.3,
     "lat": 39.890306,
     "lng": 116.652148
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-李老新村",
     "scraped_at": "2026-05-02 22:27:02",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 58.0,
     "lat": 39.889186,
     "lng": 116.628518
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.1,
     "lat": 39.891609,
     "lng": 116.633344
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 75.2,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-探矿家属院",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 54.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 95.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 75.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 78.5,
     "lat": 39.891609,
     "lng": 116.633344
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 58.4,
     "lat": 39.891609,
     "lng": 116.633344
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-雅丽世居",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 32.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克摩界",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 83.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里东区",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 41.2,
     "lat": 39.909372,
     "lng": 116.687114
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店北里",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 48.6,
     "lat": 39.890306,
     "lng": 116.652148
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 51.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-雅丽世居",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 103.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-景欣园",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 39.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 45.5,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店北里",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 41.4,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 61.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店南里",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 59.3,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-天元小区",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 38.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 59.2,
     "lat": 39.867756,
     "lng": 116.628658
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店东里",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 41.2,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-日光清城",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 42.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 57.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 62.5,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-景欣园",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 45.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-运河西大街",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 57.5,
     "lat": 39.88969,
     "lng": 116.641407
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-李老新村",
     "scraped_at": "2026-05-02 22:27:06",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 58.1,
     "lat": 39.889186,
     "lng": 116.628518
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.0,
     "lat": 39.891609,
     "lng": 116.633344
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园西小区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 55.2,
     "lat": 39.867756,
     "lng": 116.628658
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 58.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店东里",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 51.7,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西街",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 51.8,
     "lat": 39.894114,
     "lng": 116.645873
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 61.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-景欣园",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 40.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园南小区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 46.2,
     "lat": 39.867756,
     "lng": 116.628658
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-天元小区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店南里",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 71.1,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克寓所",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 45.2,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店东里",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.7,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 81.9,
     "lat": 39.891609,
     "lng": 116.633344
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-挂车厂宿舍",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 72.1,
     "lat": 39.891609,
     "lng": 116.633344
@@ -2578,7 +2578,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": "",
     "lat": 39.860446,
     "lng": 116.453058
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西街",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 46.7,
     "lat": 39.894114,
     "lng": 116.645873
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-景欣园",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 45.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 55.6,
     "lat": 39.891609,
     "lng": 116.633344
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 52.8,
     "lat": 39.891609,
     "lng": 116.633344
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园南小区",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 52.2,
     "lat": 39.867756,
     "lng": 116.628658
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.8,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西街",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 82.9,
     "lat": 39.894114,
     "lng": 116.645873
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 45.2,
     "lat": 39.891609,
     "lng": 116.633344
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店南里",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.0,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店北里",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 52.5,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-探矿家属院",
     "scraped_at": "2026-05-02 22:27:09",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 69.0,
     "lat": 39.891609,
     "lng": 116.633344
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.5,
     "lat": 39.867756,
     "lng": 116.628658
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店南里",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 56.0,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-蓝山国际公寓",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 40.1,
     "lat": 39.886378,
     "lng": 116.64374
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店北里",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 52.0,
     "lat": 39.890306,
     "lng": 116.652148
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 64.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 37.8,
     "lat": 39.891609,
     "lng": 116.633344
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西里",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.3,
     "lat": 39.909372,
     "lng": 116.687114
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 42.9,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里西区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 51.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里东区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 39.1,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西里",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.5,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店东里",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 51.5,
     "lat": 39.890306,
     "lng": 116.652148
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西里",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 40.2,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店东里",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 50.8,
     "lat": 39.890306,
     "lng": 116.652148
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-北机家属院",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.5,
     "lat": 39.894385,
     "lng": 116.647718
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西街",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 49.7,
     "lat": 39.894114,
     "lng": 116.645873
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 56.0,
     "lat": 39.867756,
     "lng": 116.628658
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园南小区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 83.3,
     "lat": 39.867756,
     "lng": 116.628658
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店东里",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 66.0,
     "lat": 39.890306,
     "lng": 116.652148
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-葛布店东里",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 52.4,
     "lat": 39.890306,
     "lng": 116.652148
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 56.8,
     "lat": 39.891609,
     "lng": 116.633344
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-景欣园",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 42.5,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克摩界",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 52.5,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 61.0,
     "lat": 39.891609,
     "lng": 116.633344
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-巴克摩界",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 80.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 65.3,
     "lat": 39.867756,
     "lng": 116.628658
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 72.6,
     "lat": 39.891609,
     "lng": 116.633344
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园南区",
     "scraped_at": "2026-05-02 22:27:11",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 52.9,
     "lat": 39.891609,
     "lng": 116.633344
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 87.5,
     "lat": 39.891609,
     "lng": 116.633344
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-翠屏北里东区",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 61.7,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-果园南小区",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 62.0,
     "lat": 39.867756,
     "lng": 116.628658
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-达富苑",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-达富苑",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 41.0,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 73.6,
     "lat": 39.891609,
     "lng": 116.633344
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-日光清城",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 48.6,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-探矿家属院",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 60.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-挂车厂宿舍",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 47.9,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-新华联家园北区",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 57.4,
     "lat": 39.891609,
     "lng": 116.633344
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-苏荷时代",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 72.4,
     "lat": 39.909372,
     "lng": 116.687114
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "通州区-果园-艺苑西里",
     "scraped_at": "2026-05-02 22:27:13",
-    "region": "guoyuan1",
+    "region": "果园",
     "unit_price": 44.5,
     "lat": 39.909372,
     "lng": 116.687114

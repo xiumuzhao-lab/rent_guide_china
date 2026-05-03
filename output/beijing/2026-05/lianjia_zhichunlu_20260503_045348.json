@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-太月园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 162.2,
     "lat": 39.971443,
     "lng": 116.340528
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-保利海德公园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 154.0,
     "lat": 39.973744,
     "lng": 116.344926
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-太阳园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 118.7,
     "lat": 39.975806,
     "lng": 116.330828
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-太阳园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 135.1,
     "lat": 39.975806,
     "lng": 116.330828
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-太月园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 100.3,
     "lat": 39.971443,
     "lng": 116.340528
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-罗庄西里",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 145.1,
     "lat": 39.973256,
     "lng": 116.335618
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-锦秋知春",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 113.3,
     "lat": 39.973489,
     "lng": 116.34242
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-罗庄南里",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 154.4,
     "lat": 39.97172,
     "lng": 116.34336
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-知春路",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 127.8,
     "lat": 39.974405,
     "lng": 116.332241
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-太月园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 119.2,
     "lat": 39.971443,
     "lng": 116.340528
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-保利海德公园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 236.9,
     "lat": 39.973744,
     "lng": 116.344926
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-知春路",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 139.6,
     "lat": 39.974923,
     "lng": 116.345175
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-罗庄南里",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 140.1,
     "lat": 39.97172,
     "lng": 116.34336
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-保利海德公园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 195.7,
     "lat": 39.973744,
     "lng": 116.344926
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-保利海德公园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 193.6,
     "lat": 39.973744,
     "lng": 116.344926
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-锦秋知春",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 125.2,
     "lat": 39.973489,
     "lng": 116.34242
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-锦秋知春",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 121.9,
     "lat": 39.973489,
     "lng": 116.34242
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-保利海德公园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 303.1,
     "lat": 39.973744,
     "lng": 116.344926
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-碧兴园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 111.3,
     "lat": 39.973116,
     "lng": 116.336928
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-保利海德公园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 188.6,
     "lat": 39.973744,
     "lng": 116.344926
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-知春路",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 147.9,
     "lat": 39.974923,
     "lng": 116.345175
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-碧兴园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 102.4,
     "lat": 39.973116,
     "lng": 116.336928
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-蓟门北里",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 137.6,
     "lat": 39.975472,
     "lng": 116.343656
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-蓟门东里",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 87.7,
     "lat": 39.975472,
     "lng": 116.343656
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-罗庄西里",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 136.0,
     "lat": 39.973256,
     "lng": 116.335618
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-北航家属院",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 108.9,
     "lat": 39.97872,
     "lng": 116.33666
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-金谷园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 145.8,
     "lat": 39.973786,
     "lng": 116.328568
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-太阳园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 99.9,
     "lat": 39.975806,
     "lng": 116.330828
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-知春路-保利海德公园",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 179.2,
     "lat": 39.973744,
     "lng": 116.344926
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:00:47",
-    "region": "zhichunlu",
+    "region": "知春路",
     "unit_price": 152.0,
     "lat": 39.913776,
     "lng": 116.567368

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-纽约客",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 85.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 154.5,
     "lat": 39.942914,
     "lng": 116.31977
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 119.4,
     "lat": 39.957211,
     "lng": 116.302799
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-纽约客",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 150.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-苏州街",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 148.5,
     "lat": 39.966486,
     "lng": 116.302719
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 131.6,
     "lat": 39.986156,
     "lng": 116.310368
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉庄小区",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 138.2,
     "lat": 39.969814,
     "lng": 116.295505
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 142.6,
     "lat": 39.973026,
     "lng": 116.297168
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 133.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-王公坟社区",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 129.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 131.4,
     "lat": 39.973026,
     "lng": 116.297168
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 139.5,
     "lat": 39.957211,
     "lng": 116.302799
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉庄小区",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 126.1,
     "lat": 39.969814,
     "lng": 116.295505
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉河",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 100.9,
     "lat": 39.969814,
     "lng": 116.295505
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 139.4,
     "lat": 39.96562,
     "lng": 116.300639
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-紫金庄园",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 112.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 120.2,
     "lat": 39.96562,
     "lng": 116.300639
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 113.4,
     "lat": 39.96562,
     "lng": 116.300639
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 121.6,
     "lat": 39.942914,
     "lng": 116.31977
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-远中悦莱",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 165.4,
     "lat": 39.957211,
     "lng": 116.302799
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 115.4,
     "lat": 39.96562,
     "lng": 116.300639
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 124.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 153.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-远中悦莱",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 123.9,
     "lat": 39.957211,
     "lng": 116.302799
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-远中悦莱",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 175.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 128.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:10",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 131.8,
     "lat": 39.96562,
     "lng": 116.300639
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 108.8,
     "lat": 39.96562,
     "lng": 116.300639
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 115.2,
     "lat": 39.96562,
     "lng": 116.300639
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-倒座庙",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 145.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 115.2,
     "lat": 39.96562,
     "lng": 116.300639
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 100.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -621,7 +621,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 108.1,
     "lat": 39.970594,
     "lng": 116.300286
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-长远天地",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 132.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 140.0,
     "lat": 39.96562,
     "lng": 116.300639
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 127.4,
     "lat": 39.96562,
     "lng": 116.300639
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄甲",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 142.9,
     "lat": 39.965444,
     "lng": 116.297721
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园西里",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 135.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-友谊社区",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 122.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-紫金庄园",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 122.5,
     "lat": 39.957211,
     "lng": 116.302799
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 140.9,
     "lat": 39.957211,
     "lng": 116.302799
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 101.8,
     "lat": 39.957211,
     "lng": 116.302799
@@ -811,7 +811,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 145.5,
     "lat": 39.976376,
     "lng": 116.304528
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-长远天地",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 125.9,
     "lat": 39.957211,
     "lng": 116.302799
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 125.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-友谊社区",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 110.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-紫金庄园",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 118.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 169.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 104.4,
     "lat": 39.973026,
     "lng": 116.297168
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中关村公馆",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 181.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 167.5,
     "lat": 39.942914,
     "lng": 116.31977
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 140.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 165.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1020,7 +1020,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 159.1,
     "lat": 39.814644,
     "lng": 116.283929
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 134.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:14",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 150.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中关村公馆",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 174.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 156.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-紫金庄园",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 110.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 122.6,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-新中关",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 146.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-纽约客",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 141.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 100.0,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 157.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-友谊社区",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 132.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-王公坟社区",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 125.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园西里",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 127.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-紫金庄园",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 146.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-友谊社区",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 149.5,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉河",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 128.2,
     "lat": 39.969814,
     "lng": 116.295505
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-紫金庄园",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 90.9,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-八一中学家属院",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 150.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-立方庭",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 250.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-倒座庙",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 152.4,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 134.5,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园西里",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 154.5,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 132.8,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 192.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 174.7,
     "lat": 39.942914,
     "lng": 116.31977
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 124.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 160.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-新中关",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 124.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉庄小区",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 129.0,
     "lat": 39.969814,
     "lng": 116.295505
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-苏州街",
     "scraped_at": "2026-05-02 21:50:17",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 203.5,
     "lat": 39.971197,
     "lng": 116.297615
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 133.0,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 137.1,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉庄小区",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 119.1,
     "lat": 39.969814,
     "lng": 116.295505
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中关村公馆",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 136.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 165.9,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 121.9,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-远中悦莱",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 184.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 162.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 137.1,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 116.7,
     "lat": 39.942914,
     "lng": 116.31977
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 127.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉庄小区",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 131.9,
     "lat": 39.969814,
     "lng": 116.295505
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 142.2,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 132.3,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 166.5,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 104.7,
     "lat": 39.96562,
     "lng": 116.300639
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-苏州街",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 162.5,
     "lat": 39.975378,
     "lng": 116.300877
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-人民大学北路",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 99.7,
     "lat": 39.963346,
     "lng": 116.307258
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 138.9,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 175.9,
     "lat": 39.957211,
     "lng": 116.302799
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-人民大学静园",
     "scraped_at": "2026-05-02 21:50:21",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 131.1,
     "lat": 39.963346,
     "lng": 116.307258
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 146.4,
     "lat": 39.942914,
     "lng": 116.31977
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 131.6,
     "lat": 39.942914,
     "lng": 116.31977
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 123.0,
     "lat": 39.96562,
     "lng": 116.300639
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉庄小区",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 145.9,
     "lat": 39.969814,
     "lng": 116.295505
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 166.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 143.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-八一中学家属院",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 106.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 155.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-远中悦莱",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 175.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉庄小区",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 121.0,
     "lat": 39.969814,
     "lng": 116.295505
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 161.5,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 144.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 162.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 131.4,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-立方庭",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 229.4,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园西里",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 153.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 157.8,
     "lat": 39.973596,
     "lng": 116.302448
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 125.6,
     "lat": 39.96562,
     "lng": 116.300639
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 143.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 132.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-远中悦莱",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 147.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-友谊社区",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 107.8,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 141.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 75.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-长远天地",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 155.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 143.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-友谊社区",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 138.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-立方庭",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 297.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园西里",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 97.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉庄",
     "scraped_at": "2026-05-02 21:50:24",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 147.6,
     "lat": 39.970801,
     "lng": 116.299487
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-港沟小区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 164.0,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-友谊社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 128.4,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-苏州街",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 94.4,
     "lat": 39.975378,
     "lng": 116.300877
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 138.1,
     "lat": 39.96562,
     "lng": 116.300639
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-八一中学家属院",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 171.6,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 116.6,
     "lat": 39.96562,
     "lng": 116.300639
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-苏州街",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 165.0,
     "lat": 39.975175,
     "lng": 116.299778
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 193.8,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 116.9,
     "lat": 39.96562,
     "lng": 116.300639
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 148.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 117.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 138.1,
     "lat": 39.96562,
     "lng": 116.300639
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 167.4,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 178.7,
     "lat": 39.973596,
     "lng": 116.302448
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-立方庭",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 197.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 128.1,
     "lat": 39.942914,
     "lng": 116.31977
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-大河庄苑",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 176.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-西屋国际",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 109.0,
     "lat": 39.964075,
     "lng": 116.300367
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园西里",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 136.5,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 125.2,
     "lat": 39.96562,
     "lng": 116.300639
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 141.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 150.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-稻香园",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 141.4,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-王公坟社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 142.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 150.8,
     "lat": 39.96562,
     "lng": 116.300639
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 194.3,
     "lat": 39.942914,
     "lng": 116.31977
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-苏州街",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 134.0,
     "lat": 39.975378,
     "lng": 116.300877
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-苏州街",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 136.1,
     "lat": 39.975378,
     "lng": 116.300877
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 133.1,
     "lat": 39.96562,
     "lng": 116.300639
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:27",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 113.4,
     "lat": 39.96562,
     "lng": 116.300639
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-万泉庄小区",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 147.1,
     "lat": 39.969814,
     "lng": 116.295505
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-友谊社区",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 140.9,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-友谊社区",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 103.1,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 137.9,
     "lat": 39.96562,
     "lng": 116.300639
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 122.2,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 125.3,
     "lat": 39.942914,
     "lng": 116.31977
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 127.7,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:30",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 128.9,
     "lat": 39.96562,
     "lng": 116.300639
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-人民大学静园",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 189.2,
     "lat": 39.963346,
     "lng": 116.307258
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-小南庄社区",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 156.0,
     "lat": 39.96562,
     "lng": 116.300639
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 147.8,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 162.3,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-三义庙北",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 138.4,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀大街",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 121.4,
     "lat": 39.982525,
     "lng": 116.298748
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-海淀南路",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 148.8,
     "lat": 39.957211,
     "lng": 116.302799
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-中湾国际",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 120.1,
     "lat": 39.942914,
     "lng": 116.31977
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "海淀区-苏州桥-人民大学北路",
     "scraped_at": "2026-05-02 21:50:33",
-    "region": "suzhouqiao",
+    "region": "苏州桥",
     "unit_price": 180.1,
     "lat": 39.97269,
     "lng": 116.310388

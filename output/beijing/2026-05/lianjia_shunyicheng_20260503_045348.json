@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东苑",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-站前东街",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.2,
     "lat": 40.125884,
     "lng": 116.647423
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:05:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.7,
     "lat": 39.919157,
     "lng": 116.454167
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴二区",
     "scraped_at": "2026-05-02 23:01:10",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.6,
     "lat": 40.131681,
     "lng": 116.66011
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙一区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.4,
     "lat": 40.119076,
     "lng": 116.661448
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园一区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.7,
     "lat": 40.109456,
     "lng": 116.678781
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:01:10",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.9,
     "lat": 40.102636,
     "lng": 116.717898
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福西区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.6,
     "lat": 40.130916,
     "lng": 116.655898
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园东区",
     "scraped_at": "2026-05-02 23:01:10",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.6,
     "lat": 40.105219,
     "lng": 116.683031
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:01:10",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-阳光水岸",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.6,
     "lat": 40.109876,
     "lng": 116.667928
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-沙坨宜家家园",
     "scraped_at": "2026-05-02 23:01:10",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:01:10",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港四区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.2,
     "lat": 40.134476,
     "lng": 116.656128
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:01:10",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园四区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-红杉一品",
     "scraped_at": "2026-05-02 23:01:10",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -526,7 +526,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 23:01:10",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 72.7,
     "lat": 39.893222,
     "lng": 116.682626
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙一区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 25.0,
     "lat": 40.119076,
     "lng": 116.661448
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园一区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 17.3,
     "lat": 40.137012,
     "lng": 116.62718
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙二区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.8,
     "lat": 40.119305,
     "lng": 116.661505
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙五区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴东区",
     "scraped_at": "2026-05-02 23:06:51",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园四区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港三区",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.4,
     "lat": 40.134476,
     "lng": 116.656128
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-中建国际城",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 55.7,
     "lat": 40.097873,
     "lng": 116.489203
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙五区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-玉兰苑",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.2,
     "lat": 39.911099,
     "lng": 116.187781
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港二区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.7,
     "lat": 40.132527,
     "lng": 116.658582
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 54.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:01:14",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 55.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-玉兰苑",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园二区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.1,
     "lat": 40.108545,
     "lng": 116.671411
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.0,
     "lat": 40.109876,
     "lng": 116.667928
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港五区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.0,
     "lat": 40.134476,
     "lng": 116.656128
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 54.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-御墅一期",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 79.1,
     "lat": 40.109224,
     "lng": 116.684205
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园西区",
     "scraped_at": "2026-05-02 23:02:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.3,
     "lat": 40.106035,
     "lng": 116.673589
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙六区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 23.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.4,
     "lat": 40.130916,
     "lng": 116.655898
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 56.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园一区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.7,
     "lat": 40.109456,
     "lng": 116.678781
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园二区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.8,
     "lat": 40.108545,
     "lng": 116.671411
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园牡丹苑",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园一区",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 25.7,
     "lat": 40.109456,
     "lng": 116.678781
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:05:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.7,
     "lat": 40.133107,
     "lng": 116.644683
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.2,
     "lat": 40.109876,
     "lng": 116.667928
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 64.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:05:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 65.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 54.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:01:17",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 63.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.9,
     "lat": 40.133107,
     "lng": 116.644683
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 62.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.8,
     "lat": 40.102636,
     "lng": 116.717898
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 87.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:06:51",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园二区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 61.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 59.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-梅兰居",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园四区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园二区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园东区",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.4,
     "lat": 40.105219,
     "lng": 116.683031
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 66.0,
     "lat": 40.133107,
     "lng": 116.644683
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-梅兰居",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴二区",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.8,
     "lat": 40.131681,
     "lng": 116.66011
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.1,
     "lat": 40.102636,
     "lng": 116.717898
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:01:20",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙湖",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 75.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园东区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.5,
     "lat": 40.105219,
     "lng": 116.683031
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 55.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙六区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-中海国际公馆",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 70.9,
     "lat": 40.097873,
     "lng": 116.489203
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-宏城花园",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.3,
     "lat": 40.133107,
     "lng": 116.644683
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园一区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.7,
     "lat": 40.109456,
     "lng": 116.678781
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园西区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.0,
     "lat": 40.106035,
     "lng": 116.673589
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙五区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 56.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园二区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.5,
     "lat": 40.108545,
     "lng": 116.671411
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:01:23",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 52.5,
     "lat": 40.130916,
     "lng": 116.655898
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-煤炭公司家属楼",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 54.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-红杉一品",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙二区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 25.8,
     "lat": 40.119305,
     "lng": 116.661505
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 58.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.5,
     "lat": 40.102636,
     "lng": 116.717898
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-望泉家园",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.7,
     "lat": 40.120113,
     "lng": 116.6254
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 15.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园四区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.3,
     "lat": 40.102636,
     "lng": 116.717898
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港五区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.7,
     "lat": 40.134476,
     "lng": 116.656128
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 52.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 56.8,
     "lat": 40.133107,
     "lng": 116.644683
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 60.5,
     "lat": 40.133107,
     "lng": 116.644683
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 64.2,
     "lat": 40.133107,
     "lng": 116.644683
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 63.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:01:26",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 60.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-供电局家属楼",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园一区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.5,
     "lat": 40.137012,
     "lng": 116.62718
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-大东路住宅楼",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.1,
     "lat": 40.124786,
     "lng": 116.660008
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙五区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 63.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-交通局家属楼",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙六区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 56.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 76.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛北区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 55.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙六区",
     "scraped_at": "2026-05-02 23:01:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴二区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.3,
     "lat": 40.131681,
     "lng": 116.66011
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 106.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 99.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园二区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.7,
     "lat": 40.108545,
     "lng": 116.671411
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-沙坨宜家家园",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园西区",
     "scraped_at": "2026-05-02 23:01:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.1,
     "lat": 40.106035,
     "lng": 116.673589
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:01:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.3,
     "lat": 40.102636,
     "lng": 116.717898
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:01:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:01:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园东区",
     "scraped_at": "2026-05-02 23:01:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.3,
     "lat": 40.105219,
     "lng": 116.683031
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛北区",
     "scraped_at": "2026-05-02 23:01:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:01:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园一区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.9,
     "lat": 40.109456,
     "lng": 116.678781
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.9,
     "lat": 40.102636,
     "lng": 116.717898
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.7,
     "lat": 40.102636,
     "lng": 116.717898
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.7,
     "lat": 40.102636,
     "lng": 116.717898
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.3,
     "lat": 40.130916,
     "lng": 116.655898
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园三区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-红杉一品",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-波特兰花园二期",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 78.2,
     "lat": 40.112686,
     "lng": 116.681068
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 71.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园牡丹苑",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 62.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-劳动局家属院",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 25.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.7,
     "lat": 40.133107,
     "lng": 116.644683
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-广厦鑫苑",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:01:35",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.2,
     "lat": 40.133107,
     "lng": 116.644683
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-中海国际公馆",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.7,
     "lat": 40.097873,
     "lng": 116.489203
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-中建国际城",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.7,
     "lat": 40.097873,
     "lng": 116.489203
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东苑",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 55.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 59.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙一区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.0,
     "lat": 40.119076,
     "lng": 116.661448
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙府花园",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 184.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛北区",
     "scraped_at": "2026-05-02 23:02:03",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.2,
     "lat": 40.133107,
     "lng": 116.644683
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园一区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.5,
     "lat": 40.137012,
     "lng": 116.62718
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:02:15",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.5,
     "lat": 40.102636,
     "lng": 116.717898
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-红杉一品",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 63.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-玉兰苑",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 57.8,
     "lat": 39.911099,
     "lng": 116.187781
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园三区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛北区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园一区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.2,
     "lat": 40.137012,
     "lng": 116.62718
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园三区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.8,
     "lat": 40.109876,
     "lng": 116.667928
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港二区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.6,
     "lat": 40.132527,
     "lng": 116.658582
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.2,
     "lat": 40.133107,
     "lng": 116.644683
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园东区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.0,
     "lat": 40.105219,
     "lng": 116.683031
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 52.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:02:18",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-沙坨宜家家园",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.6,
     "lat": 40.130916,
     "lng": 116.655898
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-中建国际城",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.5,
     "lat": 40.097873,
     "lng": 116.489203
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园一区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.7,
     "lat": 40.109456,
     "lng": 116.678781
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.9,
     "lat": 40.102636,
     "lng": 116.717898
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:02:24",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.7,
     "lat": 40.130916,
     "lng": 116.655898
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙府花园",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙西区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.0,
     "lat": 40.124996,
     "lng": 116.662508
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.6,
     "lat": 40.133107,
     "lng": 116.644683
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.8,
     "lat": 40.133107,
     "lng": 116.644683
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 54.3,
     "lat": 40.130916,
     "lng": 116.655898
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.9,
     "lat": 40.109876,
     "lng": 116.667928
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙二区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.9,
     "lat": 40.119305,
     "lng": 116.661505
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-中海国际公馆",
     "scraped_at": "2026-05-02 23:02:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.0,
     "lat": 40.097873,
     "lng": 116.489203
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东苑",
     "scraped_at": "2026-05-02 23:02:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-望潮家园",
     "scraped_at": "2026-05-02 23:02:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.7,
     "lat": 40.120113,
     "lng": 116.6254
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:02:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.0,
     "lat": 40.133107,
     "lng": 116.644683
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴东区",
     "scraped_at": "2026-05-02 23:02:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙西区",
     "scraped_at": "2026-05-02 23:02:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.1,
     "lat": 40.124996,
     "lng": 116.662508
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴东区",
     "scraped_at": "2026-05-02 23:02:28",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东苑",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.7,
     "lat": 40.102636,
     "lng": 116.717898
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛北区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园三区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 57.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙五区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园二区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.8,
     "lat": 40.108545,
     "lng": 116.671411
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:02:32",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙西区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.2,
     "lat": 40.124996,
     "lng": 116.662508
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 100.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东苑",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.4,
     "lat": 40.133107,
     "lng": 116.644683
@@ -6606,7 +6606,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6625,7 +6625,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.2,
     "lat": 40.102636,
     "lng": 116.717898
@@ -6644,7 +6644,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙五区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6663,7 +6663,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 56.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6682,7 +6682,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙一区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.0,
     "lat": 40.119076,
     "lng": 116.661448
@@ -6701,7 +6701,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙二区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 157.0,
     "lat": 40.119305,
     "lng": 116.661505
@@ -6720,7 +6720,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:02:57",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 56.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6739,7 +6739,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6758,7 +6758,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.2,
     "lat": 40.102636,
     "lng": 116.717898
@@ -6777,7 +6777,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙府花园",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6796,7 +6796,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.5,
     "lat": 40.109876,
     "lng": 116.667928
@@ -6815,7 +6815,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6834,7 +6834,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.7,
     "lat": 40.102636,
     "lng": 116.717898
@@ -6853,7 +6853,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6872,7 +6872,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园东区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.3,
     "lat": 40.105219,
     "lng": 116.683031
@@ -6891,7 +6891,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园二区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.1,
     "lat": 40.108545,
     "lng": 116.671411
@@ -6910,7 +6910,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6929,7 +6929,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 55.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6948,7 +6948,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6967,7 +6967,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园二区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -6986,7 +6986,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-煤炭公司家属楼",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7005,7 +7005,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:03:05",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7024,7 +7024,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7043,7 +7043,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7062,7 +7062,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 64.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7081,7 +7081,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7100,7 +7100,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7119,7 +7119,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7138,7 +7138,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7157,7 +7157,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7176,7 +7176,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园牡丹苑",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7195,7 +7195,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7214,7 +7214,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-站前东街",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.9,
     "lat": 40.125884,
     "lng": 116.647423
@@ -7233,7 +7233,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7252,7 +7252,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7271,7 +7271,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.2,
     "lat": 40.102636,
     "lng": 116.717898
@@ -7290,7 +7290,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港四区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.7,
     "lat": 40.134476,
     "lng": 116.656128
@@ -7309,7 +7309,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 60.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7328,7 +7328,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.1,
     "lat": 40.130916,
     "lng": 116.655898
@@ -7347,7 +7347,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙西区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.9,
     "lat": 40.124996,
     "lng": 116.662508
@@ -7366,7 +7366,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7385,7 +7385,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7404,7 +7404,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 65.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7423,7 +7423,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙六区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 96.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7442,7 +7442,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7461,7 +7461,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-阳光水岸",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7480,7 +7480,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:03:30",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7499,7 +7499,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7518,7 +7518,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7537,7 +7537,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.5,
     "lat": 40.102636,
     "lng": 116.717898
@@ -7556,7 +7556,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7575,7 +7575,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园四区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7594,7 +7594,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:03:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.8,
     "lat": 40.130916,
     "lng": 116.655898
@@ -7613,7 +7613,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 123.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7632,7 +7632,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.5,
     "lat": 40.130916,
     "lng": 116.655898
@@ -7651,7 +7651,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7670,7 +7670,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7689,7 +7689,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7708,7 +7708,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7727,7 +7727,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-中海国际公馆",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 55.8,
     "lat": 40.097873,
     "lng": 116.489203
@@ -7746,7 +7746,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙一区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.4,
     "lat": 40.119076,
     "lng": 116.661448
@@ -7765,7 +7765,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛北区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7784,7 +7784,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7803,7 +7803,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-顺泰路",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.5,
     "lat": 40.113395,
     "lng": 116.673134
@@ -7822,7 +7822,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港五区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.9,
     "lat": 40.134476,
     "lng": 116.656128
@@ -7841,7 +7841,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7860,7 +7860,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.6,
     "lat": 40.102636,
     "lng": 116.717898
@@ -7879,7 +7879,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7898,7 +7898,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴二区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.1,
     "lat": 40.131681,
     "lng": 116.66011
@@ -7917,7 +7917,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7936,7 +7936,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东苑",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7955,7 +7955,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:03:45",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7974,7 +7974,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -7993,7 +7993,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8012,7 +8012,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 56.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8031,7 +8031,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.7,
     "lat": 40.102636,
     "lng": 116.717898
@@ -8050,7 +8050,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8069,7 +8069,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8088,7 +8088,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8107,7 +8107,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8126,7 +8126,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8145,7 +8145,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8164,7 +8164,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-供电局家属楼",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8183,7 +8183,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园西区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.0,
     "lat": 40.106035,
     "lng": 116.673589
@@ -8202,7 +8202,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8221,7 +8221,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8240,7 +8240,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 26.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8259,7 +8259,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8278,7 +8278,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 21.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8297,7 +8297,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8316,7 +8316,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8335,7 +8335,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8354,7 +8354,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.5,
     "lat": 40.130916,
     "lng": 116.655898
@@ -8373,7 +8373,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.0,
     "lat": 40.133107,
     "lng": 116.644683
@@ -8392,7 +8392,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8411,7 +8411,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 25.3,
     "lat": 40.102636,
     "lng": 116.717898
@@ -8430,7 +8430,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙二区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.0,
     "lat": 40.119305,
     "lng": 116.661505
@@ -8449,7 +8449,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8468,7 +8468,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙西区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.9,
     "lat": 40.124996,
     "lng": 116.662508
@@ -8487,7 +8487,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8506,7 +8506,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8525,7 +8525,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙一区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.9,
     "lat": 40.119076,
     "lng": 116.661448
@@ -8544,7 +8544,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴东区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8563,7 +8563,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8582,7 +8582,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8601,7 +8601,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-红杉一品",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8620,7 +8620,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:03:55",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8639,7 +8639,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8658,7 +8658,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 60.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8677,7 +8677,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园西区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.7,
     "lat": 40.106035,
     "lng": 116.673589
@@ -8696,7 +8696,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8715,7 +8715,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8734,7 +8734,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛北区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8753,7 +8753,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8772,7 +8772,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 54.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8791,7 +8791,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 62.4,
     "lat": 40.133107,
     "lng": 116.644683
@@ -8810,7 +8810,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8829,7 +8829,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园二区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.3,
     "lat": 40.108545,
     "lng": 116.671411
@@ -8848,7 +8848,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园西区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 26.3,
     "lat": 40.106035,
     "lng": 116.673589
@@ -8867,7 +8867,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港四区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.1,
     "lat": 40.134476,
     "lng": 116.656128
@@ -8886,7 +8886,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.4,
     "lat": 40.109876,
     "lng": 116.667928
@@ -8905,7 +8905,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8924,7 +8924,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8943,7 +8943,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8962,7 +8962,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园四区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -8981,7 +8981,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9000,7 +9000,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9019,7 +9019,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园西区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.9,
     "lat": 40.106035,
     "lng": 116.673589
@@ -9038,7 +9038,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9057,7 +9057,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙一区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.7,
     "lat": 40.119076,
     "lng": 116.661448
@@ -9076,7 +9076,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9095,7 +9095,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-大东路住宅楼",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.8,
     "lat": 40.124786,
     "lng": 116.660008
@@ -9114,7 +9114,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港二区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.1,
     "lat": 40.132527,
     "lng": 116.658582
@@ -9133,7 +9133,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.3,
     "lat": 40.102636,
     "lng": 116.717898
@@ -9152,7 +9152,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9171,7 +9171,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9190,7 +9190,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:04:00",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9209,7 +9209,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9228,7 +9228,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 63.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9247,7 +9247,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9266,7 +9266,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9285,7 +9285,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9304,7 +9304,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福西区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9323,7 +9323,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上家园",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9342,7 +9342,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴二区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.4,
     "lat": 40.131681,
     "lng": 116.66011
@@ -9361,7 +9361,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴二区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.3,
     "lat": 40.131681,
     "lng": 116.66011
@@ -9380,7 +9380,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9399,7 +9399,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴东区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9418,7 +9418,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港三区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.1,
     "lat": 40.134476,
     "lng": 116.656128
@@ -9437,7 +9437,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9456,7 +9456,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园西区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.8,
     "lat": 40.106035,
     "lng": 116.673589
@@ -9475,7 +9475,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9494,7 +9494,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴二区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.2,
     "lat": 40.131681,
     "lng": 116.66011
@@ -9513,7 +9513,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9532,7 +9532,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9551,7 +9551,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9570,7 +9570,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9589,7 +9589,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-阳光水岸",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9608,7 +9608,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9627,7 +9627,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.4,
     "lat": 40.109876,
     "lng": 116.667928
@@ -9646,7 +9646,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9665,7 +9665,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9684,7 +9684,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:04:25",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.0,
     "lat": 40.130916,
     "lng": 116.655898
@@ -9703,7 +9703,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上家园",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9722,7 +9722,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.1,
     "lat": 40.109876,
     "lng": 116.667928
@@ -9741,7 +9741,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.6,
     "lat": 40.133107,
     "lng": 116.644683
@@ -9760,7 +9760,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9779,7 +9779,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9798,7 +9798,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴北区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9817,7 +9817,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.7,
     "lat": 40.133107,
     "lng": 116.644683
@@ -9836,7 +9836,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.1,
     "lat": 40.102636,
     "lng": 116.717898
@@ -9855,7 +9855,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园二区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.7,
     "lat": 40.108545,
     "lng": 116.671411
@@ -9874,7 +9874,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴二区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 24.5,
     "lat": 40.131681,
     "lng": 116.66011
@@ -9893,7 +9893,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9912,7 +9912,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-红杉一品",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9931,7 +9931,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9950,7 +9950,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9969,7 +9969,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 29.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -9988,7 +9988,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙二区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.8,
     "lat": 40.119305,
     "lng": 116.661505
@@ -10007,7 +10007,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10026,7 +10026,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10045,7 +10045,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:04:34",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10064,7 +10064,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10083,7 +10083,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港一区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.9,
     "lat": 40.133976,
     "lng": 116.659858
@@ -10102,7 +10102,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10121,7 +10121,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园一区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.1,
     "lat": 40.109456,
     "lng": 116.678781
@@ -10140,7 +10140,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10159,7 +10159,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10178,7 +10178,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.0,
     "lat": 40.130916,
     "lng": 116.655898
@@ -10197,7 +10197,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-港馨家园东区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.3,
     "lat": 40.105219,
     "lng": 116.683031
@@ -10216,7 +10216,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10235,7 +10235,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-梅兰居",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10254,7 +10254,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10273,7 +10273,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园牡丹苑",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10292,7 +10292,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙庭公寓",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10311,7 +10311,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10330,7 +10330,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园二区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.7,
     "lat": 40.108545,
     "lng": 116.671411
@@ -10349,7 +10349,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仁和花园一区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.2,
     "lat": 40.109456,
     "lng": 116.678781
@@ -10368,7 +10368,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:05:04",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10387,7 +10387,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-太平小区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10406,7 +10406,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10425,7 +10425,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10444,7 +10444,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-兴顺宝典",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10463,7 +10463,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10482,7 +10482,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 21.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10501,7 +10501,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10520,7 +10520,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10539,7 +10539,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-站前东街",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.8,
     "lat": 40.125884,
     "lng": 116.647423
@@ -10558,7 +10558,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 52.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10577,7 +10577,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新南区",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 61.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10596,7 +10596,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10615,7 +10615,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港五区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.7,
     "lat": 40.134476,
     "lng": 116.656128
@@ -10634,7 +10634,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.6,
     "lat": 40.102636,
     "lng": 116.717898
@@ -10653,7 +10653,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石景苑",
     "scraped_at": "2026-05-02 23:05:13",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10672,7 +10672,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园一区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.4,
     "lat": 40.137012,
     "lng": 116.62718
@@ -10691,7 +10691,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10710,7 +10710,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-红杉一品",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10729,7 +10729,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10748,7 +10748,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10767,7 +10767,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:05:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.7,
     "lat": 40.102636,
     "lng": 116.717898
@@ -10786,7 +10786,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-万科四季花城",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10805,7 +10805,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 50.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10824,7 +10824,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10843,7 +10843,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10862,7 +10862,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙二区",
     "scraped_at": "2026-05-02 23:05:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.2,
     "lat": 40.119305,
     "lng": 116.661505
@@ -10881,7 +10881,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10900,7 +10900,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10919,7 +10919,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10938,7 +10938,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 59.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10957,7 +10957,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:05:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.3,
     "lat": 40.102636,
     "lng": 116.717898
@@ -10976,7 +10976,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:05:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 48.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -10995,7 +10995,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:05:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11014,7 +11014,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:05:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.9,
     "lat": 40.102636,
     "lng": 116.717898
@@ -11033,7 +11033,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11052,7 +11052,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙二区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.1,
     "lat": 40.119305,
     "lng": 116.661505
@@ -11071,7 +11071,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11090,7 +11090,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11109,7 +11109,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 52.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11128,7 +11128,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11147,7 +11147,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11166,7 +11166,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 47.4,
     "lat": 40.133107,
     "lng": 116.644683
@@ -11185,7 +11185,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:05:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 58.3,
     "lat": 40.130916,
     "lng": 116.655898
@@ -11204,7 +11204,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛北区",
     "scraped_at": "2026-05-02 23:05:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11223,7 +11223,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-龙泉苑小区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 59.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11242,7 +11242,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.5,
     "lat": 40.133107,
     "lng": 116.644683
@@ -11261,7 +11261,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11280,7 +11280,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11299,7 +11299,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 54.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11318,7 +11318,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-红杉一品",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 51.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11337,7 +11337,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.2,
     "lat": 40.109876,
     "lng": 116.667928
@@ -11356,7 +11356,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港一区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.0,
     "lat": 40.133976,
     "lng": 116.659858
@@ -11375,7 +11375,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:06:51",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11394,7 +11394,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 56.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11413,7 +11413,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 52.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11432,7 +11432,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11451,7 +11451,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11470,7 +11470,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11489,7 +11489,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:05:39",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.6,
     "lat": 40.102636,
     "lng": 116.717898
@@ -11508,7 +11508,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:51",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.9,
     "lat": 40.133107,
     "lng": 116.644683
@@ -11527,7 +11527,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 64.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11546,7 +11546,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.6,
     "lat": 40.109876,
     "lng": 116.667928
@@ -11565,7 +11565,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园西区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11584,7 +11584,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-金汉绿港一区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.8,
     "lat": 40.133976,
     "lng": 116.659858
@@ -11603,7 +11603,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园二区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11622,7 +11622,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11641,7 +11641,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-阳光水岸",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11660,7 +11660,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11679,7 +11679,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.4,
     "lat": 40.109876,
     "lng": 116.667928
@@ -11698,7 +11698,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11717,7 +11717,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-幸福东区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11736,7 +11736,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11755,7 +11755,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11774,7 +11774,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾南区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 40.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11793,7 +11793,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.5,
     "lat": 40.130916,
     "lng": 116.655898
@@ -11812,7 +11812,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11831,7 +11831,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11850,7 +11850,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 57.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11869,7 +11869,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:06:08",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11888,7 +11888,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 22.8,
     "lat": 40.133107,
     "lng": 116.644683
@@ -11907,7 +11907,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园南区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 26.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11926,7 +11926,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11945,7 +11945,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -11964,7 +11964,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴二区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 27.2,
     "lat": 40.131681,
     "lng": 116.66011
@@ -11983,7 +11983,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.9,
     "lat": 40.133107,
     "lng": 116.644683
@@ -12002,7 +12002,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12021,7 +12021,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 44.4,
     "lat": 40.133107,
     "lng": 116.644683
@@ -12040,7 +12040,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:06:22",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12059,7 +12059,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.3,
     "lat": 40.133107,
     "lng": 116.644683
@@ -12078,7 +12078,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 49.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12097,7 +12097,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-中海国际公馆",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.9,
     "lat": 40.097873,
     "lng": 116.489203
@@ -12116,7 +12116,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 31.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12135,7 +12135,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 36.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12154,7 +12154,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12173,7 +12173,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12192,7 +12192,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.1,
     "lat": 40.133107,
     "lng": 116.644683
@@ -12211,7 +12211,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-澜西园四区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 52.3,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12230,7 +12230,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 26.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12249,7 +12249,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12268,7 +12268,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12287,7 +12287,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.8,
     "lat": 40.133107,
     "lng": 116.644683
@@ -12306,7 +12306,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-仓上小区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12325,7 +12325,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴东区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 33.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12344,7 +12344,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴南区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 39.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12363,7 +12363,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.8,
     "lat": 40.102636,
     "lng": 116.717898
@@ -12382,7 +12382,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 45.0,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12401,7 +12401,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-义宾北区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 38.4,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12420,7 +12420,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙二区",
     "scraped_at": "2026-05-02 23:06:31",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 28.8,
     "lat": 40.119305,
     "lng": 116.661505
@@ -12439,7 +12439,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-滨河小区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.6,
     "lat": 40.102636,
     "lng": 116.717898
@@ -12458,7 +12458,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 41.5,
     "lat": 40.133107,
     "lng": 116.644683
@@ -12477,7 +12477,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 46.7,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12496,7 +12496,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙三区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12515,7 +12515,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-双兴东区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 35.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12534,7 +12534,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-胜利小区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 53.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12553,7 +12553,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.2,
     "lat": 40.130916,
     "lng": 116.655898
@@ -12572,7 +12572,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-前进花园石门苑",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12591,7 +12591,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-东兴一区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 37.5,
     "lat": 40.130916,
     "lng": 116.655898
@@ -12610,7 +12610,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-建新北区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 43.8,
     "lat": 40.133107,
     "lng": 116.644683
@@ -12629,7 +12629,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-悦君家园",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 63.8,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12648,7 +12648,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园东区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 34.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12667,7 +12667,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙六区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 23.5,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12686,7 +12686,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园北区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 32.9,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12705,7 +12705,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-怡馨家园",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 58.6,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12724,7 +12724,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-裕龙四区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 30.2,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12743,7 +12743,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-西辛南区",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 64.1,
     "lat": 40.113325,
     "lng": 116.620971
@@ -12762,7 +12762,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-石园大街",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.8,
     "lat": 40.109876,
     "lng": 116.667928
@@ -12781,7 +12781,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-站前东街",
     "scraped_at": "2026-05-02 23:06:42",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 42.0,
     "lat": 40.125884,
     "lng": 116.647423
@@ -12800,7 +12800,7 @@
     "rent_type": "整租",
     "location": "顺义区-顺义城-交通局家属楼",
     "scraped_at": "2026-05-02 23:06:51",
-    "region": "shunyicheng",
+    "region": "顺义城",
     "unit_price": 23.2,
     "lat": 40.113325,
     "lng": 116.620971

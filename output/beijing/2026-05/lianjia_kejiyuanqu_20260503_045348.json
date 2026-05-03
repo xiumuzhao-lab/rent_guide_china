@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 44.1,
     "lat": 39.78441,
     "lng": 116.49502
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-羊坊花园",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 60.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 54.2,
     "lat": 39.87591,
     "lng": 116.224567
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 116.4,
     "lat": 39.96199,
     "lng": 116.45063
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 56.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆二区",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 102.5,
     "lat": 39.817056,
     "lng": 116.291438
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园西区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 56.2,
     "lat": 39.87591,
     "lng": 116.224567
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园四区",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 54.2,
     "lat": 39.815316,
     "lng": 116.282408
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-大溪地",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 40.9,
     "lat": 39.78441,
     "lng": 116.49502
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-高鑫家园",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 52.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 58.1,
     "lat": 39.87591,
     "lng": 116.224567
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 36.2,
     "lat": 39.78441,
     "lng": 116.49502
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 104.6,
     "lat": 39.725405,
     "lng": 116.121176
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园四区",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.8,
     "lat": 39.815316,
     "lng": 116.282408
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰园小区",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 90.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 88.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 72.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆三区",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 110.8,
     "lat": 39.814886,
     "lng": 116.291848
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园二区",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 51.8,
     "lat": 39.801806,
     "lng": 116.282318
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 62.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园五区",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 54.9,
     "lat": 39.815316,
     "lng": 116.282408
@@ -545,7 +545,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 142.0,
     "lat": 39.824987,
     "lng": 116.277783
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:33",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.6,
     "lat": 39.915106,
     "lng": 116.654508
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:07:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:07:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 43.4,
     "lat": 39.78441,
     "lng": 116.49502
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:07:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 49.3,
     "lat": 39.78441,
     "lng": 116.49502
@@ -678,7 +678,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 88.7,
     "lat": 39.997356,
     "lng": 116.498728
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:07:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-臻御府",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 48.7,
     "lat": 39.78441,
     "lng": 116.49502
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园五区",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 59.4,
     "lat": 39.815316,
     "lng": 116.282408
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-城市经典",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 73.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-育仁里",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 67.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆二区",
     "scraped_at": "2026-05-02 22:07:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 112.4,
     "lat": 39.817056,
     "lng": 116.291438
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:07:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园一区",
     "scraped_at": "2026-05-02 22:07:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.3,
     "lat": 39.815316,
     "lng": 116.282408
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 99.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园三区",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 83.0,
     "lat": 39.815316,
     "lng": 116.282408
@@ -1058,7 +1058,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": "",
     "lat": 39.663674,
     "lng": 116.516859
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1115,7 +1115,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 171.4,
     "lat": 39.831534,
     "lng": 116.286447
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园二区",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 54.7,
     "lat": 39.815316,
     "lng": 116.282408
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 67.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1229,7 +1229,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.9,
     "lat": 39.875182,
     "lng": 116.317333
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 74.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 77.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-臻御府",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-羊坊花园",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 49.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 99.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 94.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1419,7 +1419,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 183.3,
     "lat": 39.875182,
     "lng": 116.317333
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 53.0,
     "lat": 39.78441,
     "lng": 116.49502
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 83.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 65.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 55.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 95.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 73.5,
     "lat": 39.87591,
     "lng": 116.224567
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-恒富中街",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.6,
     "lat": 39.833919,
     "lng": 116.290218
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:07:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 79.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-诺德中心二期",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 102.0,
     "lat": 39.825755,
     "lng": 116.294849
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富润园",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园五区",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 50.0,
     "lat": 39.815316,
     "lng": 116.282408
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园一区",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 60.1,
     "lat": 39.815316,
     "lng": 116.282408
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 48.1,
     "lat": 39.78441,
     "lng": 116.49502
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园一区",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.0,
     "lat": 39.815316,
     "lng": 116.282408
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-万科蓝蓝沁家园",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 79.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 89.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 77.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 80.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园三区",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 43.5,
     "lat": 39.78441,
     "lng": 116.49502
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 64.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 40.4,
     "lat": 39.78441,
     "lng": 116.49502
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 77.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰园小区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 72.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰园小区",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园三区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 43.5,
     "lat": 39.78441,
     "lng": 116.49502
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:07:42",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 100.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰园小区",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-新城市经典",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 77.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-幸福家园",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 64.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 142.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 74.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 15.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 50.6,
     "lat": 39.78441,
     "lng": 116.49502
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园三区",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 79.2,
     "lat": 39.815316,
     "lng": 116.282408
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润城",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 110.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 77.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-泽信公馆",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 99.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园四区",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 55.8,
     "lat": 39.815316,
     "lng": 116.282408
@@ -2293,7 +2293,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": "",
     "lat": 39.804006,
     "lng": 116.278968
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园五区",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 59.0,
     "lat": 39.815316,
     "lng": 116.282408
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 73.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润城",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 120.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园一区",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 57.0,
     "lat": 39.815316,
     "lng": 116.282408
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天龙华鹤",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 55.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 83.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 57.5,
     "lat": 39.87591,
     "lng": 116.224567
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 59.7,
     "lat": 39.78441,
     "lng": 116.49502
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园三区",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.0,
     "lat": 39.815316,
     "lng": 116.282408
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 110.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2502,7 +2502,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": "",
     "lat": 39.779986,
     "lng": 116.279768
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:07:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 88.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 107.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 106.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-万科蓝蓝沁家园",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 94.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-益辰欣园",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-明春东园",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 41.7,
     "lat": 39.78441,
     "lng": 116.49502
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰路",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 60.8,
     "lat": 39.833568,
     "lng": 116.273377
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-泽信公馆",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 112.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 72.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰园小区",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 114.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-亿城天筑",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-新城市经典",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2882,7 +2882,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 94.0,
     "lat": 39.836386,
     "lng": 116.357978
@@ -2901,7 +2901,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": "",
     "lat": 39.875182,
     "lng": 116.317333
@@ -2920,7 +2920,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": "",
     "lat": 39.804006,
     "lng": 116.278968
@@ -2939,7 +2939,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:07:49",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 100.0,
     "lat": 39.875182,
     "lng": 116.317333
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰园小区",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润城",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 106.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 97.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-泽信公馆",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 95.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 128.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-诺德中心二期",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 115.0,
     "lat": 39.825755,
     "lng": 116.294849
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-国际花园",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 129.8,
     "lat": 39.815316,
     "lng": 116.282408
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园四区",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.1,
     "lat": 39.815316,
     "lng": 116.282408
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰园小区",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 94.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆二区",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 112.9,
     "lat": 39.817056,
     "lng": 116.291438
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 55.4,
     "lat": 39.78441,
     "lng": 116.49502
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 92.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 73.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 93.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰园小区",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 120.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 92.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:07:52",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天龙华鹤",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 60.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-恒富中街",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 58.5,
     "lat": 39.832888,
     "lng": 116.290166
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 65.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-阳光四季",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 45.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-羊坊花园",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 51.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 115.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 99.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天下儒寓",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-高鑫家园",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 49.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园西区",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 57.5,
     "lat": 39.87591,
     "lng": 116.224567
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 77.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆二区",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 117.4,
     "lat": 39.817056,
     "lng": 116.291438
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-康润家园",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-诺德中心二期",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 100.0,
     "lat": 39.825755,
     "lng": 116.294849
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园一区",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 58.1,
     "lat": 39.802905,
     "lng": 116.280731
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 64.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-育仁里",
     "scraped_at": "2026-05-02 22:07:55",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-益辰欣园",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 58.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-新城市经典",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 87.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-泽信公馆",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 94.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆二区",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 140.8,
     "lat": 39.817056,
     "lng": 116.291438
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-看丹路",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.6,
     "lat": 39.837889,
     "lng": 116.27811
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-丰泽居一号院",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 60.6,
     "lat": 39.822286,
     "lng": 116.278608
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 47.9,
     "lat": 39.78441,
     "lng": 116.49502
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富润园",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 60.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润城",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 110.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园二区",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 59.6,
     "lat": 39.801806,
     "lng": 116.282318
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 77.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 91.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 79.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-臻御府",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 74.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 65.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园二区",
     "scraped_at": "2026-05-02 22:07:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 56.1,
     "lat": 39.801806,
     "lng": 116.282318
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 105.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-四合欣园",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园二区",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 60.7,
     "lat": 39.815316,
     "lng": 116.282408
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 116.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 95.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园二区",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 53.3,
     "lat": 39.801806,
     "lng": 116.282318
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 92.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 102.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园西区",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 91.9,
     "lat": 39.87591,
     "lng": 116.224567
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-诺德中心二期",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.0,
     "lat": 39.825755,
     "lng": 116.294849
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 105.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-恒富中街",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 73.8,
     "lat": 39.834058,
     "lng": 116.290737
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 56.1,
     "lat": 39.87591,
     "lng": 116.224567
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-育仁里",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 57.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园一区",
     "scraped_at": "2026-05-02 22:08:26",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 52.6,
     "lat": 39.802905,
     "lng": 116.280731
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园二区",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 56.1,
     "lat": 39.801806,
     "lng": 116.282318
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 64.5,
     "lat": 39.87591,
     "lng": 116.224567
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-城市经典",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 79.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富润园",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园三区",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 43.3,
     "lat": 39.78441,
     "lng": 116.49502
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-国际花园",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 149.7,
     "lat": 39.815316,
     "lng": 116.282408
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-国际花园",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 149.4,
     "lat": 39.815316,
     "lng": 116.282408
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园一区",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 64.1,
     "lat": 39.815316,
     "lng": 116.282408
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-城市经典",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 126.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-幸福家园",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园一区",
     "scraped_at": "2026-05-02 22:08:37",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 83.3,
     "lat": 39.802905,
     "lng": 116.280731
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 89.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 77.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 110.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 83.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-南极星",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.3,
     "lat": 39.8214,
     "lng": 116.2788
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 100.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:01",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 110.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 91.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆二区",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.3,
     "lat": 39.817056,
     "lng": 116.291438
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-泽信公馆",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 98.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-丰泽居一号院",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.2,
     "lat": 39.822286,
     "lng": 116.278608
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园西区",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 56.5,
     "lat": 39.87591,
     "lng": 116.224567
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-益辰欣园",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 64.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-臻御府",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆三区",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 110.5,
     "lat": 39.814886,
     "lng": 116.291848
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:29",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园三区",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 42.9,
     "lat": 39.78441,
     "lng": 116.49502
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-春泽北院",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 41.5,
     "lat": 39.78441,
     "lng": 116.49502
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润城",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 112.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 41.6,
     "lat": 39.78441,
     "lng": 116.49502
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-育仁里",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-明春西园",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 42.6,
     "lat": 39.78441,
     "lng": 116.49502
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 73.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 79.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.9,
     "lat": 39.87591,
     "lng": 116.224567
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润城",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 102.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 115.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园一区",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 57.3,
     "lat": 39.802905,
     "lng": 116.280731
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-育仁里",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 138.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-羊坊花园",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 80.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 88.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 90.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 96.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 129.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 148.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 95.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 100.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园一区",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 54.7,
     "lat": 39.802905,
     "lng": 116.280731
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润城",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 109.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:36",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 83.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 96.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-阳光四季",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-泽信公馆",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 73.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天龙华鹤",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园二区",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 63.7,
     "lat": 39.815316,
     "lng": 116.282408
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-四合欣园",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 73.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 93.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:09:40",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 45.2,
     "lat": 39.78441,
     "lng": 116.49502
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 96.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 104.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆二区",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 140.5,
     "lat": 39.817056,
     "lng": 116.291438
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 98.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天下儒寓",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园一区",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 72.3,
     "lat": 39.815316,
     "lng": 116.282408
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 80.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-幸福家园",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 80.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 98.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-幸福家园",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 67.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-城市经典",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 95.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-泽信公馆",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 97.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 67.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 72.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 62.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-四合欣园",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 80.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园一区",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 51.4,
     "lat": 39.802905,
     "lng": 116.280731
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 100.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 98.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:09:46",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 80.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 79.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天龙华鹤",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 55.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-四合欣园",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6606,7 +6606,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-益辰欣园",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 60.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6625,7 +6625,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6644,7 +6644,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6663,7 +6663,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6682,7 +6682,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆二区",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 94.4,
     "lat": 39.817056,
     "lng": 116.291438
@@ -6701,7 +6701,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-四合欣园",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6720,7 +6720,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-亿城天筑",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6739,7 +6739,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆二区",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 99.4,
     "lat": 39.817056,
     "lng": 116.291438
@@ -6758,7 +6758,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富润园",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 62.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6777,7 +6777,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 73.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6796,7 +6796,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园恒泰园",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6815,7 +6815,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 108.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6834,7 +6834,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园三区",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 87.0,
     "lat": 39.815316,
     "lng": 116.282408
@@ -6853,7 +6853,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天龙华鹤",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6872,7 +6872,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6891,7 +6891,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 79.2,
     "lat": 39.78441,
     "lng": 116.49502
@@ -6910,7 +6910,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-城市经典",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 63.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6929,7 +6929,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6948,7 +6948,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-羊坊花园",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 49.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6967,7 +6967,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天下儒寓",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -6986,7 +6986,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-诺德中心二期",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 79.0,
     "lat": 39.825755,
     "lng": 116.294849
@@ -7005,7 +7005,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海九号公馆三区",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 170.8,
     "lat": 39.814886,
     "lng": 116.291848
@@ -7024,7 +7024,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 89.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7043,7 +7043,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7062,7 +7062,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:09:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 91.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7081,7 +7081,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 89.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7100,7 +7100,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7119,7 +7119,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 80.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7138,7 +7138,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7157,7 +7157,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-羊坊花园",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7176,7 +7176,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-高鑫家园",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7195,7 +7195,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-南极星",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 74.3,
     "lat": 39.8214,
     "lng": 116.2788
@@ -7214,7 +7214,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 87.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7233,7 +7233,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-明春西园",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 45.5,
     "lat": 39.78441,
     "lng": 116.49502
@@ -7252,7 +7252,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天下儒寓",
     "scraped_at": "2026-05-02 22:09:54",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7271,7 +7271,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-亿城天筑",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 91.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7290,7 +7290,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 94.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7309,7 +7309,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-阳光四季",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 65.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7328,7 +7328,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 46.7,
     "lat": 39.78441,
     "lng": 116.49502
@@ -7347,7 +7347,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天龙华鹤",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7366,7 +7366,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7385,7 +7385,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7404,7 +7404,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 72.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7423,7 +7423,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7442,7 +7442,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7461,7 +7461,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-益辰欣园",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 50.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7480,7 +7480,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7499,7 +7499,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-恒富花园",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 59.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7518,7 +7518,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富润园",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7537,7 +7537,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天下儒寓",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7556,7 +7556,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 47.3,
     "lat": 39.78441,
     "lng": 116.49502
@@ -7575,7 +7575,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7594,7 +7594,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 105.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7613,7 +7613,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园四区",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 44.4,
     "lat": 39.815316,
     "lng": 116.282408
@@ -7632,7 +7632,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7651,7 +7651,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7670,7 +7670,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7689,7 +7689,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-高鑫家园",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7708,7 +7708,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:09:59",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 74.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7727,7 +7727,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富润园",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7746,7 +7746,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7765,7 +7765,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 108.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7784,7 +7784,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 104.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7803,7 +7803,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 87.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7822,7 +7822,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 54.2,
     "lat": 39.87591,
     "lng": 116.224567
@@ -7841,7 +7841,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 102.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7860,7 +7860,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7879,7 +7879,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.1,
     "lat": 39.87591,
     "lng": 116.224567
@@ -7898,7 +7898,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-保温段",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 138.3,
     "lat": 39.832476,
     "lng": 116.273128
@@ -7917,7 +7917,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海苏黎世家",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 119.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7936,7 +7936,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 43.1,
     "lat": 39.78441,
     "lng": 116.49502
@@ -7955,7 +7955,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡锦园",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 65.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -7974,7 +7974,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-恒富中街",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 67.2,
     "lat": 39.833919,
     "lng": 116.290218
@@ -7993,7 +7993,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-南极星",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 74.9,
     "lat": 39.8214,
     "lng": 116.2788
@@ -8012,7 +8012,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 62.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8031,7 +8031,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8050,7 +8050,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8069,7 +8069,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 88.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8088,7 +8088,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富润园",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 68.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8107,7 +8107,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-北京方向",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8126,7 +8126,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 51.9,
     "lat": 39.87591,
     "lng": 116.224567
@@ -8145,7 +8145,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 44.4,
     "lat": 39.78441,
     "lng": 116.49502
@@ -8164,7 +8164,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 94.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8183,7 +8183,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8202,7 +8202,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 89.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8221,7 +8221,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 43.2,
     "lat": 39.78441,
     "lng": 116.49502
@@ -8240,7 +8240,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:06",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 88.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8259,7 +8259,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 89.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8278,7 +8278,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开花香西苑",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 80.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8297,7 +8297,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-保温段",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.2,
     "lat": 39.832476,
     "lng": 116.273128
@@ -8316,7 +8316,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-臻御府",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8335,7 +8335,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 49.4,
     "lat": 39.78441,
     "lng": 116.49502
@@ -8354,7 +8354,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8373,7 +8373,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 45.5,
     "lat": 39.78441,
     "lng": 116.49502
@@ -8392,7 +8392,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 103.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8411,7 +8411,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-怡海花园富泽园",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8430,7 +8430,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.7,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8449,7 +8449,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 81.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8468,7 +8468,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 100.1,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8487,7 +8487,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 56.3,
     "lat": 39.87591,
     "lng": 116.224567
@@ -8506,7 +8506,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 115.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8525,7 +8525,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 61.0,
     "lat": 39.87591,
     "lng": 116.224567
@@ -8544,7 +8544,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:10:16",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 99.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8563,7 +8563,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 90.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8582,7 +8582,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 92.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8601,7 +8601,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 93.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8620,7 +8620,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-益辰欣园",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 62.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8639,7 +8639,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 111.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8658,7 +8658,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园三区",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 84.6,
     "lat": 39.815316,
     "lng": 116.282408
@@ -8677,7 +8677,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-幸福家园",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8696,7 +8696,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 53.9,
     "lat": 39.87591,
     "lng": 116.224567
@@ -8715,7 +8715,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-宝隆温泉公寓",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 87.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8734,7 +8734,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8753,7 +8753,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 74.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8772,7 +8772,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 83.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8791,7 +8791,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-欣葆家园二区",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 51.8,
     "lat": 39.801806,
     "lng": 116.282318
@@ -8810,7 +8810,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天兴家园",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 77.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8829,7 +8829,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-城市经典",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 89.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8848,7 +8848,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园西区",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 56.8,
     "lat": 39.87591,
     "lng": 116.224567
@@ -8867,7 +8867,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园三区",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 86.7,
     "lat": 39.815316,
     "lng": 116.282408
@@ -8886,7 +8886,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园西区",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 58.4,
     "lat": 39.87591,
     "lng": 116.224567
@@ -8905,7 +8905,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.7,
     "lat": 39.87591,
     "lng": 116.224567
@@ -8924,7 +8924,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园二区",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 48.9,
     "lat": 39.78441,
     "lng": 116.49502
@@ -8943,7 +8943,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 83.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8962,7 +8962,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 75.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -8981,7 +8981,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 70.5,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9000,7 +9000,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-育仁里",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9019,7 +9019,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园五区",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 67.1,
     "lat": 39.815316,
     "lng": 116.282408
@@ -9038,7 +9038,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-育仁里",
     "scraped_at": "2026-05-02 22:10:41",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 66.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9057,7 +9057,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 76.9,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9076,7 +9076,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天下儒寓",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9095,7 +9095,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 93.0,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9114,7 +9114,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-诺德中心二期",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.2,
     "lat": 39.825755,
     "lng": 116.294849
@@ -9133,7 +9133,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-京投银泰万科西华府",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 85.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9152,7 +9152,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-益辰欣园",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 58.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9171,7 +9171,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富锦嘉园四区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 67.2,
     "lat": 39.815316,
     "lng": 116.282408
@@ -9190,7 +9190,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 53.5,
     "lat": 39.87591,
     "lng": 116.224567
@@ -9209,7 +9209,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 96.6,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9228,7 +9228,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-新城市经典",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 92.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9247,7 +9247,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-富丰园小区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 71.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9266,7 +9266,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-保温段",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 62.8,
     "lat": 39.832476,
     "lng": 116.273128
@@ -9285,7 +9285,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-设计师广场",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 78.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9304,7 +9304,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 54.4,
     "lat": 39.87591,
     "lng": 116.224567
@@ -9323,7 +9323,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-广安康润家园东区",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 65.1,
     "lat": 39.87591,
     "lng": 116.224567
@@ -9342,7 +9342,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:10:50",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 95.3,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9361,7 +9361,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-御景春天",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 82.8,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9380,7 +9380,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-中海御鑫阁",
     "scraped_at": "2026-05-02 22:10:57",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 100.2,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9399,7 +9399,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-首开华润花香四季",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 69.4,
     "lat": 39.827571,
     "lng": 116.285621
@@ -9418,7 +9418,7 @@
     "rent_type": "整租",
     "location": "大兴区-科技园区-长丰园一区",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 46.3,
     "lat": 39.78441,
     "lng": 116.49502
@@ -9437,7 +9437,7 @@
     "rent_type": "整租",
     "location": "丰台区-科技园区-天龙华鹤",
     "scraped_at": "2026-05-02 22:11:05",
-    "region": "kejiyuanqu",
+    "region": "科技园区",
     "unit_price": 67.5,
     "lat": 39.827571,
     "lng": 116.285621

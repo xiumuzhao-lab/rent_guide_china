@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 89.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园西区",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 83.2,
     "lat": 39.86949,
     "lng": 116.335029
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-鸭子桥南里",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 103.0,
     "lat": 39.873406,
     "lng": 116.343478
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 89.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 92.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 108.6,
     "lat": 39.922386,
     "lng": 116.466508
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金兴苑",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 89.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 68.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园南区",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 92.0,
     "lat": 39.86949,
     "lng": 116.335029
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 102.4,
     "lat": 39.86338,
     "lng": 116.34673
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 72.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 79.1,
     "lat": 39.873406,
     "lng": 116.343478
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 87.0,
     "lat": 39.873406,
     "lng": 116.343478
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园西区",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 85.1,
     "lat": 39.86949,
     "lng": 116.335029
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 98.9,
     "lat": 39.873406,
     "lng": 116.343478
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 104.4,
     "lat": 39.873406,
     "lng": 116.343478
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 92.7,
     "lat": 39.875678,
     "lng": 116.340208
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-天伦北里",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 76.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 105.1,
     "lat": 39.86338,
     "lng": 116.34673
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园东区",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 100.2,
     "lat": 39.86949,
     "lng": 116.335029
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 106.4,
     "lat": 39.875678,
     "lng": 116.340208
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 103.0,
     "lat": 39.873406,
     "lng": 116.343478
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 51.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-鸭子桥",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 95.0,
     "lat": 39.873406,
     "lng": 116.343478
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 88.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园南区",
     "scraped_at": "2026-05-02 20:13:16",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 98.4,
     "lat": 39.86949,
     "lng": 116.335029
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.4,
     "lat": 39.86338,
     "lng": 116.34673
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 97.9,
     "lat": 39.873406,
     "lng": 116.343478
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 73.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 106.8,
     "lat": 39.86338,
     "lng": 116.34673
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园南区",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 71.7,
     "lat": 39.86949,
     "lng": 116.335029
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 104.2,
     "lat": 39.86338,
     "lng": 116.34673
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺南里",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 72.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园南区",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 85.0,
     "lat": 39.86949,
     "lng": 116.335029
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 72.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 78.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 90.8,
     "lat": 39.875678,
     "lng": 116.340208
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园南区",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 96.9,
     "lat": 39.86949,
     "lng": 116.335029
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 77.5,
     "lat": 39.873406,
     "lng": 116.343478
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.1,
     "lat": 39.86338,
     "lng": 116.34673
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园北区",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 90.0,
     "lat": 39.86949,
     "lng": 116.335029
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城迷你",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 86.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 108.1,
     "lat": 39.86338,
     "lng": 116.34673
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 86.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺南里",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 74.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 89.7,
     "lat": 39.875678,
     "lng": 116.340208
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园北区",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 88.9,
     "lat": 39.86949,
     "lng": 116.335029
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-鸭子桥路",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.8,
     "lat": 39.873406,
     "lng": 116.343478
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 64.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -963,7 +963,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:13:19",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 94.3,
     "lat": 40.734176,
     "lng": 116.636368
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 95.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 77.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 105.4,
     "lat": 39.86338,
     "lng": 116.34673
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 67.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 105.4,
     "lat": 39.86338,
     "lng": 116.34673
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 106.8,
     "lat": 39.86338,
     "lng": 116.34673
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 90.3,
     "lat": 39.875678,
     "lng": 116.340208
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 121.6,
     "lat": 39.86338,
     "lng": 116.34673
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺南里",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 75.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 88.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园北区",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 96.2,
     "lat": 39.86949,
     "lng": 116.335029
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺东路",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 76.1,
     "lat": 39.863586,
     "lng": 116.336438
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 106.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 96.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 76.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺南里",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 78.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金都苑",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 83.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金兴苑",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 83.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园南区",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 96.9,
     "lat": 39.86949,
     "lng": 116.335029
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 82.2,
     "lat": 39.873406,
     "lng": 116.343478
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺北路",
     "scraped_at": "2026-05-02 20:13:22",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.1,
     "lat": 39.86497,
     "lng": 116.336174
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 136.3,
     "lat": 39.875678,
     "lng": 116.340208
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 90.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金都苑",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 91.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 71.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺南里",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 82.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-菜户营甲",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 98.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 107.8,
     "lat": 39.875678,
     "lng": 116.340208
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园东区",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 95.4,
     "lat": 39.86949,
     "lng": 116.335029
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 90.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-政泰家园",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 85.6,
     "lat": 39.873406,
     "lng": 116.343478
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 98.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 106.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 72.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 110.9,
     "lat": 39.873406,
     "lng": 116.343478
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 76.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城迷你",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 99.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 113.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 111.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 114.9,
     "lat": 39.86338,
     "lng": 116.34673
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 81.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 96.8,
     "lat": 39.875678,
     "lng": 116.340208
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 107.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.9,
     "lat": 39.875678,
     "lng": 116.340208
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 106.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 110.9,
     "lat": 39.873406,
     "lng": 116.343478
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.8,
     "lat": 39.875678,
     "lng": 116.340208
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺南里",
     "scraped_at": "2026-05-02 20:13:25",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 79.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 60.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-天伦北里",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 64.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金都苑",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 92.0,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 95.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园西区",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 94.4,
     "lat": 39.86949,
     "lng": 116.335029
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 89.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园西区",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 95.3,
     "lat": 39.86949,
     "lng": 116.335029
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺南里",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 72.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-鸭子桥南里",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 86.6,
     "lat": 39.873406,
     "lng": 116.343478
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园南区",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 90.6,
     "lat": 39.86949,
     "lng": 116.335029
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺南里",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 72.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺东路",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 78.2,
     "lat": 39.863586,
     "lng": 116.336438
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-财富西环",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 102.0,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 98.5,
     "lat": 39.873406,
     "lng": 116.343478
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金都苑",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 87.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 82.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-端礼著",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 143.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 100.9,
     "lat": 39.873406,
     "lng": 116.343478
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 104.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 96.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金兴苑",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 82.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 105.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-端礼著",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 155.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-财富西环",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 98.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:13:29",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 118.5,
     "lat": 39.875678,
     "lng": 116.340208
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉寺东路",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 105.0,
     "lat": 39.863586,
     "lng": 116.336438
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 74.1,
     "lat": 39.873406,
     "lng": 116.343478
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 102.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-政泰家园",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 92.9,
     "lat": 39.873406,
     "lng": 116.343478
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 92.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-嘉莲苑",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 81.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 103.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 92.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 73.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 124.0,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 100.0,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 113.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 105.3,
     "lat": 39.873406,
     "lng": 116.343478
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城迷你",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-嘉莲苑",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 81.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-政泰家园",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 85.5,
     "lat": 39.873406,
     "lng": 116.343478
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 78.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-鸭子桥",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 104.1,
     "lat": 39.873406,
     "lng": 116.343478
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 123.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园东区",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.3,
     "lat": 39.86949,
     "lng": 116.335029
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:32",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 100.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 92.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.4,
     "lat": 39.86338,
     "lng": 116.34673
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 109.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 109.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 81.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金都苑",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 76.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 111.6,
     "lat": 39.873406,
     "lng": 116.343478
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-财富西环",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 78.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-天伦北里",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 80.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-财富西环",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 90.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 98.4,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-天伦北里",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 81.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 86.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 107.5,
     "lat": 39.875678,
     "lng": 116.340208
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.4,
     "lat": 39.86338,
     "lng": 116.34673
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金都苑",
     "scraped_at": "2026-05-02 20:13:34",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 104.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 100.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城迷你",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 104.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-财富西环",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 85.0,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园南区",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 87.7,
     "lat": 39.86949,
     "lng": 116.335029
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 103.4,
     "lat": 39.873406,
     "lng": 116.343478
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-丽新嘉园西区",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 86.7,
     "lat": 39.86949,
     "lng": 116.335029
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 100.0,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 83.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-端礼著",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 166.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 91.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-首创天阅公馆",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.4,
     "lat": 39.86338,
     "lng": 116.34673
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 116.0,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 140.5,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:13:37",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 102.6,
     "lat": 39.873406,
     "lng": 116.343478
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 130.9,
     "lat": 39.875678,
     "lng": 116.340208
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-鸭子桥",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 124.0,
     "lat": 39.873406,
     "lng": 116.343478
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 84.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 84.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-菜户营",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 104.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 107.3,
     "lat": 39.873406,
     "lng": 116.343478
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 93.0,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 74.7,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万泉盛景园",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 92.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 99.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 107.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 94.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 123.9,
     "lat": 39.875678,
     "lng": 116.340208
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-顺驰蓝调",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 81.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:13:40",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 101.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 73.8,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 94.8,
     "lat": 39.875678,
     "lng": 116.340208
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-鸭子桥",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 110.3,
     "lat": 39.873406,
     "lng": 116.343478
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 99.9,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 112.1,
     "lat": 39.873406,
     "lng": 116.343478
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-万润风景",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 94.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-信德园二期",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 128.5,
     "lat": 39.875678,
     "lng": 116.340208
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 85.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:14:09",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 109.6,
     "lat": 39.873406,
     "lng": 116.343478
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城迷你",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 90.0,
     "lat": 39.868465,
     "lng": 116.340827
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-鹏润家园",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 94.6,
     "lat": 39.868465,
     "lng": 116.340827
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金泰城丽湾",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 102.1,
     "lat": 39.868465,
     "lng": 116.340827
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-金都苑",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 90.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 106.1,
     "lat": 39.873406,
     "lng": 116.343478
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-乐城",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 132.8,
     "lat": 39.873406,
     "lng": 116.343478
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-菜户营甲",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 100.3,
     "lat": 39.868465,
     "lng": 116.340827
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "丰台区-菜户营-菜户营甲",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 80.2,
     "lat": 39.868465,
     "lng": 116.340827
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "西城区-菜户营-鸭子桥",
     "scraped_at": "2026-05-02 20:14:20",
-    "region": "caihuying",
+    "region": "菜户营",
     "unit_price": 86.1,
     "lat": 39.873406,
     "lng": 116.343478

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 157.5,
     "lat": 39.98992,
     "lng": 116.288866
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 102.4,
     "lat": 39.98992,
     "lng": 116.288866
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村东大院",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 136.7,
     "lat": 39.981294,
     "lng": 116.312261
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-教委计生委大院",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 129.7,
     "lat": 39.981048,
     "lng": 116.329483
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-怡升园",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 94.7,
     "lat": 39.978295,
     "lng": 116.328147
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 162.5,
     "lat": 39.978316,
     "lng": 116.331668
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 99.8,
     "lat": 39.98992,
     "lng": 116.288866
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-东南小区",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 159.4,
     "lat": 39.979775,
     "lng": 116.316759
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-知春路丙",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 139.7,
     "lat": 39.977667,
     "lng": 116.332535
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村发育所",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 151.0,
     "lat": 39.981037,
     "lng": 116.3229
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-科煦园小区",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 153.1,
     "lat": 39.981116,
     "lng": 116.319108
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-荣上居",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 159.2,
     "lat": 39.978328,
     "lng": 116.332447
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村东大院",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 153.8,
     "lat": 39.981294,
     "lng": 116.312261
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-航天社区",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 139.3,
     "lat": 40.021702,
     "lng": 116.297091
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 101.6,
     "lat": 39.98992,
     "lng": 116.288866
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-荣上居",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 178.9,
     "lat": 39.978328,
     "lng": 116.332447
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-荣上居",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 167.0,
     "lat": 39.978328,
     "lng": 116.332447
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-紫金数码",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 164.5,
     "lat": 39.978206,
     "lng": 116.331738
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-紫金数码",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 157.2,
     "lat": 39.978206,
     "lng": 116.331738
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-黄庄小区",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 188.7,
     "lat": 39.979551,
     "lng": 116.312371
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 140.2,
     "lat": 39.98992,
     "lng": 116.288866
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-空间物理所小区",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 121.1,
     "lat": 39.980809,
     "lng": 116.330783
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-软件园小区",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 138.6,
     "lat": 39.980417,
     "lng": 116.329315
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-科育小区",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 134.7,
     "lat": 39.982656,
     "lng": 116.314398
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-航天社区",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 155.2,
     "lat": 40.021702,
     "lng": 116.297091
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-紫金数码",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 148.7,
     "lat": 39.978316,
     "lng": 116.331668
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村南三街",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 173.9,
     "lat": 39.982016,
     "lng": 116.321528
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-新科祥园",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 167.3,
     "lat": 39.980406,
     "lng": 116.318378
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-中关村",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 155.0,
     "lat": 39.98992,
     "lng": 116.288866
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "海淀区-中关村-荣上居",
     "scraped_at": "2026-05-02 22:01:12",
-    "region": "zhongguancun",
+    "region": "中关村",
     "unit_price": 141.0,
     "lat": 39.978328,
     "lng": 116.332447

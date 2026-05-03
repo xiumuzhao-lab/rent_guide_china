@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-凯德华玺",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 105.5,
     "lat": 39.922567,
     "lng": 116.41429
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-东罗圈胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 125.4,
     "lat": 39.916406,
     "lng": 116.418218
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-凯德华玺",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 107.3,
     "lat": 39.922567,
     "lng": 116.41429
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-禾风仕家",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 164.4,
     "lat": 39.914553,
     "lng": 116.419374
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-凯德华玺",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 99.1,
     "lat": 39.922567,
     "lng": 116.41429
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-禾风仕家",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 137.6,
     "lat": 39.914553,
     "lng": 116.419374
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-凯德华玺",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 113.9,
     "lat": 39.922567,
     "lng": 116.41429
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-禾风仕家",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 147.5,
     "lat": 39.914553,
     "lng": 116.419374
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-鸿安国际大厦",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 108.6,
     "lat": 39.922346,
     "lng": 116.418168
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-演乐胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 127.4,
     "lat": 39.919556,
     "lng": 116.417008
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-禾风仕家",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 154.3,
     "lat": 39.914553,
     "lng": 116.419374
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-禾风仕家",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 112.8,
     "lat": 39.914553,
     "lng": 116.419374
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-演乐胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 192.7,
     "lat": 39.919556,
     "lng": 116.417008
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-干面胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 192.0,
     "lat": 39.91569,
     "lng": 116.411885
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-鸿安国际大厦",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 117.9,
     "lat": 39.922346,
     "lng": 116.418168
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-凯德华玺",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 106.6,
     "lat": 39.922567,
     "lng": 116.41429
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-干面胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 174.1,
     "lat": 39.91569,
     "lng": 116.411885
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-鸿安国际大厦",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 107.4,
     "lat": 39.922346,
     "lng": 116.418168
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-凯德华玺",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 94.6,
     "lat": 39.922567,
     "lng": 116.41429
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-禾风相府",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 213.2,
     "lat": 39.914553,
     "lng": 116.419374
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-礼士胡同甲",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 137.5,
     "lat": 39.916156,
     "lng": 116.427628
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-史家胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 148.4,
     "lat": 39.914356,
     "lng": 116.418218
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-演乐胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 343.5,
     "lat": 39.919556,
     "lng": 116.417008
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-干面胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 234.7,
     "lat": 39.91569,
     "lng": 116.411885
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-凯德华玺",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 108.6,
     "lat": 39.922567,
     "lng": 116.41429
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-灯草胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 146.7,
     "lat": 39.919896,
     "lng": 116.411748
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-禾风相府",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 127.2,
     "lat": 39.914553,
     "lng": 116.419374
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-禾风仕家",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 141.0,
     "lat": 39.914553,
     "lng": 116.419374
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-史家胡同",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 219.3,
     "lat": 39.914356,
     "lng": 116.418218
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "东城区-金宝街-禾风相府",
     "scraped_at": "2026-05-02 20:07:24",
-    "region": "jinbaojie",
+    "region": "金宝街",
     "unit_price": 158.9,
     "lat": 39.914553,
     "lng": 116.419374

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-西环景苑",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 86.3,
     "lat": 39.882335,
     "lng": 116.324384
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 96.4,
     "lat": 39.881279,
     "lng": 116.322963
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-海润花园",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 80.9,
     "lat": 39.886416,
     "lng": 116.321868
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-中新佳园二区",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 104.6,
     "lat": 39.877146,
     "lng": 116.317708
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-常青藤嘉园",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 92.6,
     "lat": 39.878636,
     "lng": 116.326908
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 160.0,
     "lat": 39.875182,
     "lng": 116.317333
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-康宁居",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 76.2,
     "lat": 39.873176,
     "lng": 116.327548
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-中新佳园一区",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 82.7,
     "lat": 39.879336,
     "lng": 116.316808
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-康宁居",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 84.4,
     "lat": 39.873176,
     "lng": 116.327548
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-建茗苑",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 73.2,
     "lat": 39.871757,
     "lng": 116.324175
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 85.5,
     "lat": 39.883426,
     "lng": 116.323728
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 89.9,
     "lat": 39.883426,
     "lng": 116.323728
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 87.7,
     "lat": 39.875457,
     "lng": 116.324098
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中街",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 89.2,
     "lat": 39.885326,
     "lng": 116.326368
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-欣园小区",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 77.9,
     "lat": 39.871651,
     "lng": 116.323358
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-丽泽雅园",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 76.0,
     "lat": 39.869108,
     "lng": 116.316464
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-馨莲茗园",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 83.4,
     "lat": 39.88295,
     "lng": 116.321627
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 131.4,
     "lat": 39.877916,
     "lng": 116.321028
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-丽泽雅园",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 83.4,
     "lat": 39.869108,
     "lng": 116.316464
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-建茗苑",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 76.6,
     "lat": 39.871757,
     "lng": 116.324175
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.3,
     "lat": 39.881279,
     "lng": 116.322963
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 87.3,
     "lat": 39.877916,
     "lng": 116.321028
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道路",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 89.0,
     "lat": 39.886605,
     "lng": 116.31966
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-丽泽雅园",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 76.0,
     "lat": 39.869108,
     "lng": 116.316464
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义东里",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 100.0,
     "lat": 39.886486,
     "lng": 116.325978
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义东里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 94.6,
     "lat": 39.886486,
     "lng": 116.325978
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-中新佳园二区",
     "scraped_at": "2026-05-02 20:19:00",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.9,
     "lat": 39.877146,
     "lng": 116.317708
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲晴园",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 91.8,
     "lat": 39.882045,
     "lng": 116.325627
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 84.0,
     "lat": 39.875457,
     "lng": 116.324098
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 125.6,
     "lat": 39.881476,
     "lng": 116.328218
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 92.9,
     "lat": 39.881476,
     "lng": 116.328218
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茗筑",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 71.6,
     "lat": 39.874781,
     "lng": 116.315468
@@ -621,7 +621,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": "",
     "lat": 39.948506,
     "lng": 116.470618
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 106.1,
     "lat": 39.883426,
     "lng": 116.323728
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-西环景苑",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 99.2,
     "lat": 39.882335,
     "lng": 116.324384
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲晴园",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 74.5,
     "lat": 39.882045,
     "lng": 116.325627
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-格调小区",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 86.5,
     "lat": 39.884245,
     "lng": 116.321535
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-马连道欣园东路",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 91.0,
     "lat": 39.872986,
     "lng": 116.324728
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-馨莲茗园",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 88.1,
     "lat": 39.88295,
     "lng": 116.321627
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲晴园",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.1,
     "lat": 39.882045,
     "lng": 116.325627
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-格调小区",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.6,
     "lat": 39.884245,
     "lng": 116.321535
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 127.9,
     "lat": 39.877916,
     "lng": 116.321028
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲路六十九号",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 125.4,
     "lat": 39.876956,
     "lng": 116.329115
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-中新佳园一区",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 94.9,
     "lat": 39.879336,
     "lng": 116.316808
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道西里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 79.8,
     "lat": 39.884823,
     "lng": 116.320211
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 98.4,
     "lat": 39.881476,
     "lng": 116.328218
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道路",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 73.7,
     "lat": 39.886605,
     "lng": 116.31966
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 119.6,
     "lat": 39.875457,
     "lng": 116.324098
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-丽泽雅园",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 61.0,
     "lat": 39.869108,
     "lng": 116.316464
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 84.9,
     "lat": 39.875457,
     "lng": 116.324098
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.5,
     "lat": 39.883426,
     "lng": 116.325578
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 97.0,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1001,7 +1001,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 124.0,
     "lat": 39.748696,
     "lng": 116.306068
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 114.1,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-格调小区",
     "scraped_at": "2026-05-02 20:19:03",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 93.8,
     "lat": 39.884245,
     "lng": 116.321535
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.4,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-常青藤嘉园",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.9,
     "lat": 39.878636,
     "lng": 116.326908
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 128.0,
     "lat": 39.877916,
     "lng": 116.321028
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 88.9,
     "lat": 39.883426,
     "lng": 116.323728
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茗筑",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 75.2,
     "lat": 39.874781,
     "lng": 116.315468
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.9,
     "lat": 39.881476,
     "lng": 116.328218
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.3,
     "lat": 39.883426,
     "lng": 116.323728
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 113.0,
     "lat": 39.883426,
     "lng": 116.323728
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-格调小区",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 93.7,
     "lat": 39.884245,
     "lng": 116.321535
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 103.9,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-康宁居",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.2,
     "lat": 39.873176,
     "lng": 116.327548
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义东里",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 73.2,
     "lat": 39.886486,
     "lng": 116.325978
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 94.1,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-丽泽雅园",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 64.6,
     "lat": 39.869108,
     "lng": 116.316464
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 96.6,
     "lat": 39.883426,
     "lng": 116.323728
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-瑞莲家园",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 81.2,
     "lat": 39.875084,
     "lng": 116.322102
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-信和嘉园",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 97.4,
     "lat": 39.879927,
     "lng": 116.318741
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-中基大厦",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 78.8,
     "lat": 39.875986,
     "lng": 116.319226
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义东里",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 110.7,
     "lat": 39.886486,
     "lng": 116.325978
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲晴园",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.0,
     "lat": 39.882045,
     "lng": 116.325627
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-三路居",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.1,
     "lat": 39.871651,
     "lng": 116.323358
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 97.6,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 121.4,
     "lat": 39.881476,
     "lng": 116.328218
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 97.7,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义东里",
     "scraped_at": "2026-05-02 20:19:07",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 103.7,
     "lat": 39.886486,
     "lng": 116.325978
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-康宁居",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 97.1,
     "lat": 39.873176,
     "lng": 116.327548
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 125.0,
     "lat": 39.877916,
     "lng": 116.321028
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义里",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 121.2,
     "lat": 39.886686,
     "lng": 116.322468
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 103.0,
     "lat": 39.881476,
     "lng": 116.328218
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 85.2,
     "lat": 39.883426,
     "lng": 116.325578
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-西环景苑",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 106.7,
     "lat": 39.882335,
     "lng": 116.324384
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-依莲轩",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 85.3,
     "lat": 39.883486,
     "lng": 116.322788
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 88.7,
     "lat": 39.883426,
     "lng": 116.323728
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-三路居路",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 87.1,
     "lat": 39.871651,
     "lng": 116.323358
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.0,
     "lat": 39.877916,
     "lng": 116.321028
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 83.4,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-丽泽雅园",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 61.8,
     "lat": 39.869108,
     "lng": 116.316464
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义东里",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 85.3,
     "lat": 39.886486,
     "lng": 116.325978
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 107.4,
     "lat": 39.883426,
     "lng": 116.325578
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 100.0,
     "lat": 39.881476,
     "lng": 116.328218
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-西环景苑",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 91.5,
     "lat": 39.882335,
     "lng": 116.324384
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 105.9,
     "lat": 39.881279,
     "lng": 116.322963
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 132.4,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 83.0,
     "lat": 39.881476,
     "lng": 116.328218
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-建茗苑",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 78.1,
     "lat": 39.871757,
     "lng": 116.324175
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 97.6,
     "lat": 39.877916,
     "lng": 116.321028
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-常青藤嘉园",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.1,
     "lat": 39.878636,
     "lng": 116.326908
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 93.9,
     "lat": 39.875457,
     "lng": 116.324098
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.8,
     "lat": 39.883426,
     "lng": 116.323728
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-格调小区",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 112.3,
     "lat": 39.884245,
     "lng": 116.321535
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-马连道欣园东路",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 120.3,
     "lat": 39.872986,
     "lng": 116.324728
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道路",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 143.6,
     "lat": 39.886605,
     "lng": 116.31966
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 119.1,
     "lat": 39.875457,
     "lng": 116.324098
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 113.3,
     "lat": 39.883426,
     "lng": 116.325578
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 104.7,
     "lat": 39.881279,
     "lng": 116.322963
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.7,
     "lat": 39.875457,
     "lng": 116.324098
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茗筑",
     "scraped_at": "2026-05-02 20:19:10",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 64.5,
     "lat": 39.874781,
     "lng": 116.315468
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-海润花园",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 88.3,
     "lat": 39.886416,
     "lng": 116.321868
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 90.1,
     "lat": 39.883426,
     "lng": 116.325578
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-湾子街社区",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.3,
     "lat": 39.886159,
     "lng": 116.318238
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-格调小区",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 113.5,
     "lat": 39.884245,
     "lng": 116.321535
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 97.3,
     "lat": 39.881476,
     "lng": 116.328218
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.9,
     "lat": 39.883426,
     "lng": 116.323728
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道西里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 107.1,
     "lat": 39.884823,
     "lng": 116.320211
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-西环景苑",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 87.3,
     "lat": 39.882335,
     "lng": 116.324384
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.6,
     "lat": 39.883426,
     "lng": 116.325578
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-丽泽雅园",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 74.6,
     "lat": 39.869108,
     "lng": 116.316464
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 125.5,
     "lat": 39.883426,
     "lng": 116.323728
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-馨莲茗园",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 88.6,
     "lat": 39.88295,
     "lng": 116.321627
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-中新佳园一区",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 96.6,
     "lat": 39.879336,
     "lng": 116.316808
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-瑞莲家园",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 73.4,
     "lat": 39.875084,
     "lng": 116.322102
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 179.7,
     "lat": 39.881476,
     "lng": 116.328218
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 74.4,
     "lat": 39.881279,
     "lng": 116.322963
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义西里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 109.3,
     "lat": 39.886876,
     "lng": 116.321906
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-依莲轩",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 106.2,
     "lat": 39.883486,
     "lng": 116.322788
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 93.4,
     "lat": 39.883426,
     "lng": 116.325578
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-欣园小区",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 59.9,
     "lat": 39.871651,
     "lng": 116.323358
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 83.9,
     "lat": 39.883426,
     "lng": 116.325578
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义东里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 107.6,
     "lat": 39.886486,
     "lng": 116.325978
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲南里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 103.3,
     "lat": 39.875586,
     "lng": 116.327368
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-格调小区",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.6,
     "lat": 39.884245,
     "lng": 116.321535
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 97.0,
     "lat": 39.883426,
     "lng": 116.325578
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-信和嘉园",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 123.2,
     "lat": 39.879927,
     "lng": 116.318741
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义里",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.2,
     "lat": 39.886686,
     "lng": 116.322468
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:14",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 86.9,
     "lat": 39.881279,
     "lng": 116.322963
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 98.6,
     "lat": 39.875457,
     "lng": 116.324098
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-常青藤嘉园",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 100.5,
     "lat": 39.878636,
     "lng": 116.326908
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 124.9,
     "lat": 39.877916,
     "lng": 116.321028
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 112.3,
     "lat": 39.881279,
     "lng": 116.322963
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲晴园",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.4,
     "lat": 39.882045,
     "lng": 116.325627
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-湾子街社区",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 89.4,
     "lat": 39.886159,
     "lng": 116.318238
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-馨莲茗园",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 94.8,
     "lat": 39.88295,
     "lng": 116.321627
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 137.0,
     "lat": 39.883426,
     "lng": 116.323728
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-常青藤嘉园",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 91.1,
     "lat": 39.878636,
     "lng": 116.326908
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 112.5,
     "lat": 39.877916,
     "lng": 116.321028
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 119.8,
     "lat": 39.881279,
     "lng": 116.322963
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 96.6,
     "lat": 39.883426,
     "lng": 116.323728
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-常青藤嘉园",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.9,
     "lat": 39.878636,
     "lng": 116.326908
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 103.2,
     "lat": 39.883426,
     "lng": 116.325578
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道路",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.5,
     "lat": 39.886605,
     "lng": 116.31966
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-常青藤嘉园",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 84.9,
     "lat": 39.878636,
     "lng": 116.326908
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 68.8,
     "lat": 39.875457,
     "lng": 116.324098
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.5,
     "lat": 39.877916,
     "lng": 116.321028
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲南里",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 100.0,
     "lat": 39.875586,
     "lng": 116.327368
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道路",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 113.5,
     "lat": 39.886605,
     "lng": 116.31966
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 103.4,
     "lat": 39.883426,
     "lng": 116.323728
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茗筑",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 78.2,
     "lat": 39.874781,
     "lng": 116.315468
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-格调小区",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 108.8,
     "lat": 39.884245,
     "lng": 116.321535
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 115.3,
     "lat": 39.875457,
     "lng": 116.324098
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-湾子街社区",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 109.0,
     "lat": 39.886159,
     "lng": 116.318238
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 116.1,
     "lat": 39.875457,
     "lng": 116.324098
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-格调小区",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 101.8,
     "lat": 39.884245,
     "lng": 116.321535
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 120.8,
     "lat": 39.875457,
     "lng": 116.324098
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 106.4,
     "lat": 39.881279,
     "lng": 116.322963
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:18",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 117.4,
     "lat": 39.883426,
     "lng": 116.323728
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-常青藤嘉园",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 87.6,
     "lat": 39.878636,
     "lng": 116.326908
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 122.0,
     "lat": 39.883426,
     "lng": 116.323728
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.3,
     "lat": 39.883426,
     "lng": 116.323728
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 84.8,
     "lat": 39.883426,
     "lng": 116.323728
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 111.0,
     "lat": 39.883426,
     "lng": 116.323728
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 113.6,
     "lat": 39.883426,
     "lng": 116.323728
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲南里",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 111.1,
     "lat": 39.875586,
     "lng": 116.327368
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-常青藤嘉园",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 91.2,
     "lat": 39.878636,
     "lng": 116.326908
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 109.1,
     "lat": 39.883426,
     "lng": 116.323728
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 103.4,
     "lat": 39.875457,
     "lng": 116.324098
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 93.4,
     "lat": 39.881476,
     "lng": 116.328218
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道北里",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.3,
     "lat": 39.887353,
     "lng": 116.319424
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-马连道欣园东路",
     "scraped_at": "2026-05-02 20:19:21",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 87.6,
     "lat": 39.872986,
     "lng": 116.324728
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-欣园小区",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 67.2,
     "lat": 39.871651,
     "lng": 116.323358
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 105.2,
     "lat": 39.881279,
     "lng": 116.322963
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道路",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 119.2,
     "lat": 39.879338,
     "lng": 116.315488
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-欣园小区",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 99.4,
     "lat": 39.871651,
     "lng": 116.323358
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 96.4,
     "lat": 39.881279,
     "lng": 116.322963
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲南里",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 107.3,
     "lat": 39.875586,
     "lng": 116.327368
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲南里",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 92.5,
     "lat": 39.875586,
     "lng": 116.327368
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-信和嘉园",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 116.3,
     "lat": 39.879927,
     "lng": 116.318741
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 104.7,
     "lat": 39.883426,
     "lng": 116.325578
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 133.9,
     "lat": 39.877916,
     "lng": 116.321028
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲南里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 103.2,
     "lat": 39.875586,
     "lng": 116.327368
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲南里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 100.7,
     "lat": 39.875586,
     "lng": 116.327368
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:24",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.3,
     "lat": 39.881279,
     "lng": 116.322963
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.3,
     "lat": 39.881279,
     "lng": 116.322963
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义东里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 89.0,
     "lat": 39.886486,
     "lng": 116.325978
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 108.1,
     "lat": 39.881279,
     "lng": 116.322963
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲南里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 119.5,
     "lat": 39.875586,
     "lng": 116.327368
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲南里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 89.8,
     "lat": 39.875586,
     "lng": 116.327368
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 79.1,
     "lat": 39.875457,
     "lng": 116.324098
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道东街",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 97.1,
     "lat": 39.883056,
     "lng": 116.325618
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义东里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 136.4,
     "lat": 39.886486,
     "lng": 116.325978
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道北街",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 105.3,
     "lat": 39.886974,
     "lng": 116.327271
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.2,
     "lat": 39.883426,
     "lng": 116.323728
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-马连道欣园东路",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 90.0,
     "lat": 39.872986,
     "lng": 116.324728
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-三路居",
     "scraped_at": "2026-05-02 20:19:28",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 108.7,
     "lat": 39.871651,
     "lng": 116.323358
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-第三区",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 94.1,
     "lat": 39.885086,
     "lng": 116.319088
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.8,
     "lat": 39.881476,
     "lng": 116.328218
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-北欧印象",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 120.8,
     "lat": 39.875457,
     "lng": 116.324098
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 92.3,
     "lat": 39.883426,
     "lng": 116.323728
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-三义西里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 121.5,
     "lat": 39.886876,
     "lng": 116.321906
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-太平里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.6,
     "lat": 39.881542,
     "lng": 116.316151
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 94.6,
     "lat": 39.881476,
     "lng": 116.328218
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 107.2,
     "lat": 39.883426,
     "lng": 116.323728
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道西里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 102.3,
     "lat": 39.884823,
     "lng": 116.320211
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-湾子街社区",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 95.3,
     "lat": 39.886159,
     "lng": 116.318238
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-三路居",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 128.6,
     "lat": 39.871651,
     "lng": 116.323358
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲中里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 148.3,
     "lat": 39.881476,
     "lng": 116.328218
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-三路居",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 81.5,
     "lat": 39.871651,
     "lng": 116.323358
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 104.4,
     "lat": 39.881279,
     "lng": 116.322963
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-马连道中里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 127.1,
     "lat": 39.883426,
     "lng": 116.323728
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-茶贸国际中心",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 124.4,
     "lat": 39.881279,
     "lng": 116.322963
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "丰台区-马连道-欣园小区",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 94.1,
     "lat": 39.871651,
     "lng": 116.323358
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "西城区-马连道-红莲北里",
     "scraped_at": "2026-05-02 20:19:53",
-    "region": "maliandao1",
+    "region": "马连道",
     "unit_price": 116.0,
     "lat": 39.883426,
     "lng": 116.325578

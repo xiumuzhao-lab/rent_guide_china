@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀新硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 98.1,
     "lat": 40.052066,
     "lng": 116.306488
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 83.1,
     "lat": 40.052066,
     "lng": 116.306488
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-燕尚园",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 82.9,
     "lat": 40.048612,
     "lng": 116.307566
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 91.3,
     "lat": 40.050269,
     "lng": 116.308908
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-博雅德园",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 76.8,
     "lat": 40.052066,
     "lng": 116.306488
@@ -108,7 +108,7 @@
     "rent_type": "合租",
     "location": "海淀-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 125.0,
     "lat": 40.060846,
     "lng": 116.293768
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 78.7,
     "lat": 40.050269,
     "lng": 116.308908
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 74.4,
     "lat": 40.050269,
     "lng": 116.308908
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 90.5,
     "lat": 40.050269,
     "lng": 116.308908
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 74.6,
     "lat": 40.050269,
     "lng": 116.308908
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀新硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 99.1,
     "lat": 40.052066,
     "lng": 116.306488
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀新硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 91.1,
     "lat": 40.052066,
     "lng": 116.306488
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀新硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 120.4,
     "lat": 40.052066,
     "lng": 116.306488
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀新硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 80.3,
     "lat": 40.052066,
     "lng": 116.306488
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 70.9,
     "lat": 40.050269,
     "lng": 116.308908
@@ -298,7 +298,7 @@
     "rent_type": "合租",
     "location": "海淀-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 275.0,
     "lat": 40.057582,
     "lng": 116.315471
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-智学苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 85.0,
     "lat": 40.050321,
     "lng": 116.306374
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 85.7,
     "lat": 40.050269,
     "lng": 116.308908
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 85.8,
     "lat": 40.050269,
     "lng": 116.308908
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-智学苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 94.8,
     "lat": 40.050321,
     "lng": 116.306374
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 87.7,
     "lat": 40.052066,
     "lng": 116.306488
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-智学苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 77.5,
     "lat": 40.050321,
     "lng": 116.306374
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀新硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 159.5,
     "lat": 40.052066,
     "lng": 116.306488
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀新硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 96.6,
     "lat": 40.052066,
     "lng": 116.306488
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀新硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 101.9,
     "lat": 40.052066,
     "lng": 116.306488
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-领秀新硅谷",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 109.9,
     "lat": 40.052066,
     "lng": 116.306488
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-智学苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 86.1,
     "lat": 40.050321,
     "lng": 116.306374
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-博雅德园",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 73.8,
     "lat": 40.052066,
     "lng": 116.306488
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 115.6,
     "lat": 40.050269,
     "lng": 116.308908
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 104.0,
     "lat": 40.050269,
     "lng": 116.308908
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-铭科苑",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 110.0,
     "lat": 40.050269,
     "lng": 116.308908
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "海淀区-西二旗-博雅德园",
     "scraped_at": "2026-05-02 21:59:14",
-    "region": "xierqi1",
+    "region": "西二旗",
     "unit_price": 75.8,
     "lat": 40.052066,
     "lng": 116.306488

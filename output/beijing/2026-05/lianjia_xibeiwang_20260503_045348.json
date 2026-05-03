@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-如园北区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 109.1,
     "lat": 40.045006,
     "lng": 116.255888
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-秋露园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 101.2,
     "lat": 40.067619,
     "lng": 116.209418
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-如园北区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 108.7,
     "lat": 40.045006,
     "lng": 116.255888
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-冬晴园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 86.0,
     "lat": 40.067619,
     "lng": 116.209418
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-中海枫涟山庄",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 92.3,
     "lat": 40.052466,
     "lng": 116.250908
@@ -108,7 +108,7 @@
     "rent_type": "合租",
     "location": "海淀-西北旺-百旺茉莉园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 225.0,
     "lat": 40.047742,
     "lng": 116.242544
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-冬晴园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 101.8,
     "lat": 40.067619,
     "lng": 116.209418
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-东馨园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 88.1,
     "lat": 40.042756,
     "lng": 116.274748
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-景和园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 83.7,
     "lat": 40.067619,
     "lng": 116.209418
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-西山壹号院南区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 82.8,
     "lat": 40.038626,
     "lng": 116.263278
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-百草园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 92.9,
     "lat": 40.050665,
     "lng": 116.255031
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-东馨园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 103.1,
     "lat": 40.042756,
     "lng": 116.274748
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-西山壹号院南区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 94.5,
     "lat": 40.038626,
     "lng": 116.263278
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-夏霖园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 99.6,
     "lat": 40.04968,
     "lng": 116.258506
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-秋露园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 75.4,
     "lat": 40.067619,
     "lng": 116.209418
@@ -298,7 +298,7 @@
     "rent_type": "合租",
     "location": "海淀-西北旺-芳怡园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 227.7,
     "lat": 40.049446,
     "lng": 116.235068
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-夏霖园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 83.3,
     "lat": 40.04968,
     "lng": 116.258506
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-如园北区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 162.1,
     "lat": 40.045006,
     "lng": 116.255888
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-芳怡园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 97.6,
     "lat": 40.049446,
     "lng": 116.235068
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-如园北区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 118.8,
     "lat": 40.045006,
     "lng": 116.255888
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-润千秋佳苑",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 102.8,
     "lat": 40.084489,
     "lng": 116.236081
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-西山公馆",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 89.4,
     "lat": 40.043146,
     "lng": 116.286118
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-如园北区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 114.3,
     "lat": 40.045006,
     "lng": 116.255888
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-秋露园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 86.4,
     "lat": 40.067619,
     "lng": 116.209418
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-秋露园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 85.1,
     "lat": 40.067619,
     "lng": 116.209418
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-芳怡园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 114.5,
     "lat": 40.049446,
     "lng": 116.235068
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-万德嘉园二区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 127.8,
     "lat": 40.025576,
     "lng": 116.214188
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-润千秋佳苑",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 114.1,
     "lat": 40.084489,
     "lng": 116.236081
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-万德嘉园一区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 117.8,
     "lat": 40.025576,
     "lng": 116.214188
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-万德嘉园二区",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 142.8,
     "lat": 40.025576,
     "lng": 116.214188
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-秋露园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 90.6,
     "lat": 40.067619,
     "lng": 116.209418
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "海淀区-西北旺-夏霖园",
     "scraped_at": "2026-05-02 21:59:09",
-    "region": "xibeiwang",
+    "region": "西北旺",
     "unit_price": 96.5,
     "lat": 40.04968,
     "lng": 116.258506

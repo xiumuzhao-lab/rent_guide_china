@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 47.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 62.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园一期",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 52.8,
     "lat": 39.925006,
     "lng": 116.631428
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-东阁雅舍",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 38.3,
     "lat": 39.781528,
     "lng": 116.714621
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 82.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 109.1,
     "lat": 39.904171,
     "lng": 116.679683
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 63.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 46.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 78.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 53.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 36.3,
     "lat": 39.777226,
     "lng": 116.691868
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 80.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-翠福园",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 52.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园东三期",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 78.3,
     "lat": 39.926471,
     "lng": 116.637425
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-新建村",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 63.6,
     "lat": 39.921158,
     "lng": 116.632103
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-禹洲朗廷湾",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 52.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "通州区-北关",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 53.0,
     "lat": 39.922336,
     "lng": 116.649118
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝通嘉园",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 30.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 57.6,
     "lat": 39.944015,
     "lng": 116.647149
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 42.7,
     "lat": 39.777226,
     "lng": 116.691868
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园一期",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 74.2,
     "lat": 39.925006,
     "lng": 116.631428
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "通州区-北关",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 48.5,
     "lat": 39.922336,
     "lng": 116.649118
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-财富东方",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 44.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 80.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": "",
     "lat": 39.914186,
     "lng": 116.405558
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 41.2,
     "lat": 39.777226,
     "lng": 116.691868
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:29:56",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 53.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -545,7 +545,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 68.1,
     "lat": 39.926191,
     "lng": 116.641022
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 83.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 42.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 84.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -621,7 +621,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 3.0,
     "lat": 39.937276,
     "lng": 116.519678
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 78.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 31.4,
     "lat": 39.777226,
     "lng": 116.691868
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 67.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 70.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 69.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 48.0,
     "lat": 39.777226,
     "lng": 116.691868
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 85.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 61.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 63.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -811,7 +811,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 79.5,
     "lat": 39.906586,
     "lng": 116.553348
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 84.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-碧水明珠",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 49.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 63.6,
     "lat": 39.944015,
     "lng": 116.647149
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 68.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 78.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 62.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园东三期",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 37.7,
     "lat": 39.926471,
     "lng": 116.637425
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园一期",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.0,
     "lat": 39.925006,
     "lng": 116.631428
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园东三期",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 51.3,
     "lat": 39.926471,
     "lng": 116.637425
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "通州区-北关",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 62.0,
     "lat": 39.922336,
     "lng": 116.649118
@@ -1020,7 +1020,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 113.3,
     "lat": 40.008757,
     "lng": 116.524371
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:29:59",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 49.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园一期",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 54.5,
     "lat": 39.925006,
     "lng": 116.631428
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 49.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "通州区-北关",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 62.8,
     "lat": 39.922336,
     "lng": 116.649118
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园二期",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 49.4,
     "lat": 39.926471,
     "lng": 116.637425
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-新华北路",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 38.7,
     "lat": 39.916063,
     "lng": 116.649427
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-东阁雅舍",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.0,
     "lat": 39.781528,
     "lng": 116.714621
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园西三期",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 47.9,
     "lat": 39.926471,
     "lng": 116.637425
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 56.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-万科大都会滨江",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 100.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 54.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1267,7 +1267,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 56.2,
     "lat": 39.904171,
     "lng": 116.679683
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-东阁雅舍",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 39.2,
     "lat": 39.781528,
     "lng": 116.714621
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 80.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 57.6,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 78.1,
     "lat": 39.760236,
     "lng": 116.545417
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 63.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 49.1,
     "lat": 39.777226,
     "lng": 116.691868
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 60.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-翠福园",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 40.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园东三期",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 53.0,
     "lat": 39.926471,
     "lng": 116.637425
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.2,
     "lat": 39.777226,
     "lng": 116.691868
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-碧水明珠",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-华诚花园",
     "scraped_at": "2026-05-02 20:30:03",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 55.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-物资学院家属院",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 73.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 45.5,
     "lat": 39.777226,
     "lng": 116.691868
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "通州区-北关",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 47.1,
     "lat": 39.922336,
     "lng": 116.649118
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-财富东方",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 71.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 46.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 61.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 49.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-劳动局家属院",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 55.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-榆景苑",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 66.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-富河园",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 45.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 63.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 46.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 73.0,
     "lat": 39.777226,
     "lng": 116.691868
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 50.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 57.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-翠福园",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 41.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 67.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-北投晟景汀澜",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 66.7,
     "lat": 39.781808,
     "lng": 116.710842
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 51.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-物资学院家属院",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 58.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-万福家园",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 44.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-物资学院家属院",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 80.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "通州区-北关",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 47.4,
     "lat": 39.922336,
     "lng": 116.649118
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 78.6,
     "lat": 39.92401,
     "lng": 116.648319
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园二期",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 49.8,
     "lat": 39.926471,
     "lng": 116.637425
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-物资学院家属院",
     "scraped_at": "2026-05-02 20:30:07",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 64.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 45.2,
     "lat": 39.777226,
     "lng": 116.691868
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园东三期",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 48.5,
     "lat": 39.926471,
     "lng": 116.637425
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 77.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-东阁雅舍",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 55.4,
     "lat": 39.781528,
     "lng": 116.714621
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 55.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-富河园",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 42.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 50.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "通州区-北关",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 90.9,
     "lat": 39.922336,
     "lng": 116.649118
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-碧水明珠",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 40.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-万科大都会滨江",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 109.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-财富东方",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 70.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-万科大都会滨江",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 115.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 70.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-翠福园",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 57.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-财富东方",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-万科东庐",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 100.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-翠福园",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 37.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-北京胸科医院家属区",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 62.8,
     "lat": 39.781808,
     "lng": 116.710842
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-万福家园",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 38.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝通嘉园",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 40.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 64.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-北京胸科医院家属区",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 45.9,
     "lat": 39.781808,
     "lng": 116.710842
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-新华北路",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 61.6,
     "lat": 39.916063,
     "lng": 116.649427
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园二期",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 41.6,
     "lat": 39.926471,
     "lng": 116.637425
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-劳动局家属院",
     "scraped_at": "2026-05-02 20:30:10",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 51.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-万科大都会滨江",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 132.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2502,7 +2502,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 98.0,
     "lat": 39.906586,
     "lng": 116.553348
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 64.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 73.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 40.7,
     "lat": 39.777226,
     "lng": 116.691868
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园二期",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 52.9,
     "lat": 39.926471,
     "lng": 116.637425
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 66.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-天赐良园二期半",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 47.9,
     "lat": 39.735295,
     "lng": 116.538057
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-富河园",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 38.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 58.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 71.4,
     "lat": 39.760236,
     "lng": 116.545417
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 50.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-富河园",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 84.9,
     "lat": 39.777226,
     "lng": 116.691868
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 76.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 61.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 61.6,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 117.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-万福家园",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 41.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-富河园",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 40.6,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 98.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金融街园中园",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 69.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-东阁雅舍",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 50.8,
     "lat": 39.781528,
     "lng": 116.714621
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-翠福园",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-运河铭著",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 42.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 63.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -2977,7 +2977,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 90.0,
     "lat": 39.914186,
     "lng": 116.405558
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-新华北路",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 40.2,
     "lat": 39.916063,
     "lng": 116.649427
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-禹洲朗廷湾",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 52.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-财富东方",
     "scraped_at": "2026-05-02 20:30:14",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 83.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 86.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3091,7 +3091,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 98.9,
     "lat": 39.883655,
     "lng": 116.391847
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 68.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 65.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 54.3,
     "lat": 39.777226,
     "lng": 116.691868
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-新建村",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 57.5,
     "lat": 39.921158,
     "lng": 116.632103
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-富河园",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 39.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 65.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 53.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 71.4,
     "lat": 39.777226,
     "lng": 116.691868
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 73.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-新建村",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 64.0,
     "lat": 39.921158,
     "lng": 116.632103
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "通州区-北关",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 72.7,
     "lat": 39.922336,
     "lng": 116.649118
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 47.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-新建村",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 63.9,
     "lat": 39.921158,
     "lng": 116.632103
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 48.8,
     "lat": 39.777226,
     "lng": 116.691868
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-新建村",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 98.4,
     "lat": 39.921158,
     "lng": 116.632103
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 58.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-财贸宿舍",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-财富东方",
     "scraped_at": "2026-05-02 20:30:17",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 69.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 89.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 58.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 45.6,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 33.6,
     "lat": 39.777226,
     "lng": 116.691868
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 73.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 42.3,
     "lat": 39.777226,
     "lng": 116.691868
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 50.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 73.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-新建村",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 77.0,
     "lat": 39.921158,
     "lng": 116.632103
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 47.4,
     "lat": 39.777226,
     "lng": 116.691868
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-物资学院家属院",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 57.4,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "通州区-北关",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 53.1,
     "lat": 39.922336,
     "lng": 116.649118
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 47.0,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 70.2,
     "lat": 39.777226,
     "lng": 116.691868
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 44.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-翠福园",
     "scraped_at": "2026-05-02 20:30:21",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 39.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 58.7,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-西潞苑小区",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.7,
     "lat": 39.777226,
     "lng": 116.691868
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 56.3,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-后窑小区",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 33.2,
     "lat": 39.92078,
     "lng": 116.64686
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-后窑小区",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 35.3,
     "lat": 39.92078,
     "lng": 116.64686
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-世界侨商中心",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 82.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-富河园",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 43.5,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-绿地中央广场",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 80.9,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-房地远洋悦山水",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 53.2,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝通嘉园",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 40.1,
     "lat": 39.944015,
     "lng": 116.647149
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-朝北",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 116.4,
     "lat": 39.92401,
     "lng": 116.648319
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "通州区-北关-金地格林格林",
     "scraped_at": "2026-05-02 20:30:25",
-    "region": "beiguan",
+    "region": "北关",
     "unit_price": 60.4,
     "lat": 39.944015,
     "lng": 116.647149

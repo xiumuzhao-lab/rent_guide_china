@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-柳岸景园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 28.9,
     "lat": 39.892776,
     "lng": 116.689148
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-柳岸景园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 31.1,
     "lat": 39.892776,
     "lng": 116.689148
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-玉桥北里",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 59.0,
     "lat": 39.895535,
     "lng": 116.683132
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-通州万国城",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 64.9,
     "lat": 39.895535,
     "lng": 116.683132
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-玉桥北里",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 39.3,
     "lat": 39.895535,
     "lng": 116.683132
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-玉桥北里",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 53.0,
     "lat": 39.895535,
     "lng": 116.683132
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-荞馨园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 34.5,
     "lat": 39.896181,
     "lng": 116.687657
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-运乔嘉园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 36.2,
     "lat": 39.893386,
     "lng": 116.684238
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-博客园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 34.4,
     "lat": 39.89679,
     "lng": 116.683349
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-运乔嘉园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 36.4,
     "lat": 39.893386,
     "lng": 116.684238
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-运乔嘉园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 42.2,
     "lat": 39.893386,
     "lng": 116.684238
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-运乔嘉园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 36.3,
     "lat": 39.893386,
     "lng": 116.684238
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-乔庄北区",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 43.6,
     "lat": 39.895705,
     "lng": 116.679275
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-博客园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 36.8,
     "lat": 39.89679,
     "lng": 116.683349
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-运乔嘉园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 37.2,
     "lat": 39.893386,
     "lng": 116.684238
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-通州万国城",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 59.3,
     "lat": 39.895535,
     "lng": 116.683132
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-乔庄东区",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 31.2,
     "lat": 39.89641,
     "lng": 116.682281
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-运乔嘉园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 31.1,
     "lat": 39.893386,
     "lng": 116.684238
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-乔庄东区",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 55.2,
     "lat": 39.89641,
     "lng": 116.682281
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-艺苑东街",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 41.2,
     "lat": 39.894994,
     "lng": 116.67833
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-运河居",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 40.7,
     "lat": 39.89189,
     "lng": 116.68243
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-运乔嘉园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 31.8,
     "lat": 39.893386,
     "lng": 116.684238
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-艺苑东里",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 36.7,
     "lat": 39.894994,
     "lng": 116.67833
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-运乔嘉园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 37.4,
     "lat": 39.893386,
     "lng": 116.684238
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-艺苑东里",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 32.2,
     "lat": 39.894994,
     "lng": 116.67833
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-玉桥中路",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 32.8,
     "lat": 39.893035,
     "lng": 116.672173
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-乔庄东区",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 57.1,
     "lat": 39.89641,
     "lng": 116.682281
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-博客园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 50.4,
     "lat": 39.89679,
     "lng": 116.683349
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-玉桥北里",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 58.0,
     "lat": 39.895535,
     "lng": 116.683132
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "通州区-乔庄-博客园",
     "scraped_at": "2026-05-02 22:32:21",
-    "region": "qiaozhuang",
+    "region": "乔庄",
     "unit_price": 37.9,
     "lat": 39.89679,
     "lng": 116.683349

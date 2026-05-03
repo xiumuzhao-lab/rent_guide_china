@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门南小街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 118.0,
     "lat": 39.914716,
     "lng": 116.420707
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-竹杆胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 95.1,
     "lat": 39.921069,
     "lng": 116.424777
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门北小街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 110.6,
     "lat": 39.924966,
     "lng": 116.420198
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-豆瓣胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 120.0,
     "lat": 39.925426,
     "lng": 116.425488
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-北京",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 96.8,
     "lat": 39.920206,
     "lng": 116.425568
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门内大街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 121.7,
     "lat": 39.922666,
     "lng": 116.415168
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门内大街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 106.9,
     "lat": 39.922666,
     "lng": 116.415168
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-南竹杆胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 118.6,
     "lat": 39.919079,
     "lng": 116.426651
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-豆瓣胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 123.4,
     "lat": 39.925426,
     "lng": 116.425488
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-豆瓣胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 141.3,
     "lat": 39.925426,
     "lng": 116.425488
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门南小街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 117.7,
     "lat": 39.914716,
     "lng": 116.420707
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-烧酒胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 104.5,
     "lat": 39.92433,
     "lng": 116.423025
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-芳嘉园胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 142.5,
     "lat": 39.919046,
     "lng": 116.422238
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-芳嘉园胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 133.8,
     "lat": 39.919046,
     "lng": 116.422238
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门南小街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 118.0,
     "lat": 39.914716,
     "lng": 116.420707
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-仓南胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 122.9,
     "lat": 39.925966,
     "lng": 116.423008
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-豆瓣胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 128.2,
     "lat": 39.925426,
     "lng": 116.425488
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-北京",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 123.2,
     "lat": 39.920714,
     "lng": 116.42542
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门南小街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 135.3,
     "lat": 39.914716,
     "lng": 116.420707
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门南小街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 127.0,
     "lat": 39.914716,
     "lng": 116.420707
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-大方家胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 150.5,
     "lat": 39.918706,
     "lng": 116.422078
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-东四十条甲",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 123.4,
     "lat": 39.922666,
     "lng": 116.415168
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-北京",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 109.9,
     "lat": 39.920714,
     "lng": 116.42542
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门内大街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 108.8,
     "lat": 39.922666,
     "lng": 116.415168
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门南小街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 122.9,
     "lat": 39.914716,
     "lng": 116.420707
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-后芳嘉园胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 132.3,
     "lat": 39.91892,
     "lng": 116.423268
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门南小街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 134.5,
     "lat": 39.914716,
     "lng": 116.420707
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝阳门南小街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 117.0,
     "lat": 39.914716,
     "lng": 116.420707
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-北竹杆胡同",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 120.8,
     "lat": 39.92211,
     "lng": 116.424255
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门内-朝内大街",
     "scraped_at": "2026-05-02 19:56:33",
-    "region": "chaoyangmennei1",
+    "region": "朝阳门内",
     "unit_price": 142.3,
     "lat": 39.923406,
     "lng": 116.423468

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果汇",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.2,
     "lat": 39.931876,
     "lng": 116.185398
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口东里",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 51.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林一二期",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.6,
     "lat": 39.94267,
     "lng": 116.20334
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-远洋春秋里",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 89.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 95.0,
     "lat": 39.925796,
     "lng": 116.178408
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 69.7,
     "lat": 39.935065,
     "lng": 116.17052
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 69.0,
     "lat": 39.9344,
     "lng": 116.1951
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果汇",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.9,
     "lat": 39.931876,
     "lng": 116.185398
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林四期",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 52.6,
     "lat": 39.94483,
     "lng": 116.19284
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 50.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.9,
     "lat": 39.935065,
     "lng": 116.17052
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 94.1,
     "lat": 39.9344,
     "lng": 116.1951
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 80.2,
     "lat": 39.9344,
     "lng": 116.1951
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景双庐",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 140.0,
     "lat": 39.875182,
     "lng": 116.317333
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.4,
     "lat": 39.931811,
     "lng": 116.162733
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-赵山",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 56.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 73.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 69.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.0,
     "lat": 39.935065,
     "lng": 116.17052
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山芳苑",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 59.1,
     "lat": 39.935065,
     "lng": 116.17052
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金泰阁",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 59.0,
     "lat": 39.926897,
     "lng": 116.170707
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-广宁村",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 49.9,
     "lat": 39.923982,
     "lng": 116.173
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:42:51",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 89.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林三期",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.0,
     "lat": 39.94267,
     "lng": 116.20334
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果汇",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.8,
     "lat": 39.931876,
     "lng": 116.185398
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.3,
     "lat": 39.929861,
     "lng": 116.178138
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园南路甲",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.5,
     "lat": 39.929337,
     "lng": 116.1896
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山芳苑",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.6,
     "lat": 39.935065,
     "lng": 116.17052
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街二区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.1,
     "lat": 39.926897,
     "lng": 116.170707
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.6,
     "lat": 39.93215,
     "lng": 116.184801
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑二区",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 79.5,
     "lat": 39.9344,
     "lng": 116.1951
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 74.4,
     "lat": 39.9344,
     "lng": 116.1951
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-远洋春秋里",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 87.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林一二期",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 72.6,
     "lat": 39.94267,
     "lng": 116.20334
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口东里",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 54.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园东区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 53.4,
     "lat": 39.93215,
     "lng": 116.184801
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景天成",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 91.8,
     "lat": 39.925203,
     "lng": 116.172812
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林三期",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.2,
     "lat": 39.94267,
     "lng": 116.20334
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-琳琅庄园",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 52.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧悦学府",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 80.5,
     "lat": 39.935486,
     "lng": 116.184358
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 49.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 69.9,
     "lat": 39.935065,
     "lng": 116.17052
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧悦学府",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 94.8,
     "lat": 39.935486,
     "lng": 116.184358
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林三期",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.1,
     "lat": 39.94267,
     "lng": 116.20334
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街五区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.2,
     "lat": 39.926897,
     "lng": 116.170707
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧悦学府",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 91.9,
     "lat": 39.935486,
     "lng": 116.184358
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 90.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山芳苑",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 73.0,
     "lat": 39.935065,
     "lng": 116.17052
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西黄新村北里",
     "scraped_at": "2026-05-02 21:43:19",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.8,
     "lat": 39.935389,
     "lng": 116.19659
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧悦学府",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 87.2,
     "lat": 39.935486,
     "lng": 116.184358
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 115.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 69.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 52.6,
     "lat": 39.93341,
     "lng": 116.18364
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.5,
     "lat": 39.935065,
     "lng": 116.17052
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 81.4,
     "lat": 39.9344,
     "lng": 116.1951
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 77.6,
     "lat": 39.929861,
     "lng": 116.178138
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街二区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 55.1,
     "lat": 39.926897,
     "lng": 116.170707
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 67.4,
     "lat": 39.935065,
     "lng": 116.17052
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-远洋春秋里",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 97.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-庐师山庄",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 150.8,
     "lat": 39.942113,
     "lng": 116.189887
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园东区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.1,
     "lat": 39.93215,
     "lng": 116.184801
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 74.1,
     "lat": 39.93215,
     "lng": 116.184801
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-琳琅庄园",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 55.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-广宁村",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 50.0,
     "lat": 39.923982,
     "lng": 116.173
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-琳琅庄园",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 44.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口北里东区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.1,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区二区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.2,
     "lat": 39.929861,
     "lng": 116.178138
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶阳光",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 56.0,
     "lat": 39.926897,
     "lng": 116.170707
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑三区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 90.2,
     "lat": 39.9344,
     "lng": 116.1951
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 53.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 55.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 73.9,
     "lat": 39.926897,
     "lng": 116.170707
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 99.4,
     "lat": 39.935065,
     "lng": 116.17052
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-琳琅庄园",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:24",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 78.0,
     "lat": 39.929861,
     "lng": 116.178138
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 73.3,
     "lat": 39.93215,
     "lng": 116.184801
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区四区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 85.2,
     "lat": 39.929861,
     "lng": 116.178138
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.7,
     "lat": 39.93215,
     "lng": 116.184801
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区四区",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.7,
     "lat": 39.931679,
     "lng": 116.189436
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-琳琅庄园",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 56.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑三区",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 72.6,
     "lat": 39.9344,
     "lng": 116.1951
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 70.0,
     "lat": 39.935065,
     "lng": 116.17052
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶阳光",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.9,
     "lat": 39.926897,
     "lng": 116.170707
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧悦学府",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 99.7,
     "lat": 39.935486,
     "lng": 116.184358
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 56.2,
     "lat": 39.929861,
     "lng": 116.178138
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑三区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 82.6,
     "lat": 39.9344,
     "lng": 116.1951
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 97.8,
     "lat": 39.9344,
     "lng": 116.1951
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园东区",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 47.9,
     "lat": 39.93215,
     "lng": 116.184801
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶阳光",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.4,
     "lat": 39.926897,
     "lng": 116.170707
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-林业楼",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 84.3,
     "lat": 39.93022,
     "lng": 116.179038
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口北里东区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 73.3,
     "lat": 39.926897,
     "lng": 116.170707
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山芳苑",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.8,
     "lat": 39.935065,
     "lng": 116.17052
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山芳苑",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.7,
     "lat": 39.935065,
     "lng": 116.17052
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 73.8,
     "lat": 39.926897,
     "lng": 116.170707
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-林业楼",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.1,
     "lat": 39.93022,
     "lng": 116.179038
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 89.6,
     "lat": 39.925203,
     "lng": 116.172812
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口中里",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 48.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.4,
     "lat": 39.929861,
     "lng": 116.178138
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 71.5,
     "lat": 39.935065,
     "lng": 116.17052
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶阳光",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 67.8,
     "lat": 39.926897,
     "lng": 116.170707
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.6,
     "lat": 39.929861,
     "lng": 116.178138
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 92.0,
     "lat": 39.93215,
     "lng": 116.184801
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 67.2,
     "lat": 39.935065,
     "lng": 116.17052
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 82.5,
     "lat": 39.93215,
     "lng": 116.184801
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口北里西区",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 45.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.1,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山麓园",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 69.2,
     "lat": 39.935065,
     "lng": 116.17052
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山芳苑",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 81.8,
     "lat": 39.935065,
     "lng": 116.17052
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 97.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-科研楼",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 70.7,
     "lat": 39.935065,
     "lng": 116.17052
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.3,
     "lat": 39.929861,
     "lng": 116.178138
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街四区",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.5,
     "lat": 39.926897,
     "lng": 116.170707
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 56.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区二区",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.2,
     "lat": 39.931679,
     "lng": 116.189436
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 104.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区一区",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 82.0,
     "lat": 39.931679,
     "lng": 116.189436
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口东里",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 53.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-建疗宿舍",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西下庄",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.2,
     "lat": 39.944702,
     "lng": 116.190263
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口北里西区",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 42.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-青年公寓",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 78.1,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林一二期",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.2,
     "lat": 39.94267,
     "lng": 116.20334
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景双庐",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.9,
     "lat": 39.929861,
     "lng": 116.178138
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.1,
     "lat": 39.929861,
     "lng": 116.178138
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧悦学府",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 91.7,
     "lat": 39.935486,
     "lng": 116.184358
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 53.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口北里东区",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 51.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-赵山",
     "scraped_at": "2026-05-02 21:43:31",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 80.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街一区",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 87.4,
     "lat": 39.926897,
     "lng": 116.170707
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-青年公寓",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 67.8,
     "lat": 39.929861,
     "lng": 116.178138
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景天成",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 56.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 80.1,
     "lat": 39.935065,
     "lng": 116.17052
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-琳琅庄园",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 55.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 56.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-青年公寓",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口东里",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 77.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街三区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.2,
     "lat": 39.926897,
     "lng": 116.170707
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西黄新村北里",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 70.8,
     "lat": 39.935389,
     "lng": 116.19659
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林一二期",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.4,
     "lat": 39.94267,
     "lng": 116.20334
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 81.4,
     "lat": 39.935065,
     "lng": 116.17052
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-青年公寓",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 94.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 72.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-科研楼",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 77.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西黄新村南里",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 105.8,
     "lat": 39.932146,
     "lng": 116.203138
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 109.6,
     "lat": 39.9344,
     "lng": 116.1951
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区一区",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 89.1,
     "lat": 39.931679,
     "lng": 116.189436
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.4,
     "lat": 39.929861,
     "lng": 116.178138
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 82.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 77.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区二区",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 88.2,
     "lat": 39.931679,
     "lng": 116.189436
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景双庐",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 83.1,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:43:34",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 74.0,
     "lat": 39.926897,
     "lng": 116.170707
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区四区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 89.4,
     "lat": 39.929861,
     "lng": 116.178138
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口中里",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-青年公寓",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 70.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 79.5,
     "lat": 39.93215,
     "lng": 116.184801
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-铸造村",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 54.2,
     "lat": 39.923982,
     "lng": 116.173
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 107.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街四区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.9,
     "lat": 39.926897,
     "lng": 116.170707
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区二区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 72.3,
     "lat": 39.929861,
     "lng": 116.178138
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-市政疗养院",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 96.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.6,
     "lat": 39.93215,
     "lng": 116.184801
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-远洋春秋里",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 100.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.2,
     "lat": 39.926897,
     "lng": 116.170707
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 100.9,
     "lat": 39.9344,
     "lng": 116.1951
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶阳光",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.0,
     "lat": 39.926897,
     "lng": 116.170707
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景双庐",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.9,
     "lat": 39.929861,
     "lng": 116.178138
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧悦学府",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 91.0,
     "lat": 39.935486,
     "lng": 116.184358
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口东里",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-八大处整形医院家属楼",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 86.7,
     "lat": 39.955597,
     "lng": 116.179258
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.3,
     "lat": 39.929861,
     "lng": 116.178138
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果汇",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 43.8,
     "lat": 39.931876,
     "lng": 116.185398
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林一二期",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.1,
     "lat": 39.94267,
     "lng": 116.20334
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景双庐",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.9,
     "lat": 39.93215,
     "lng": 116.184801
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.1,
     "lat": 39.93215,
     "lng": 116.184801
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧悦学府",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 88.8,
     "lat": 39.935486,
     "lng": 116.184358
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园东区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.1,
     "lat": 39.93215,
     "lng": 116.184801
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 73.0,
     "lat": 39.929861,
     "lng": 116.178138
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林一二期",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.6,
     "lat": 39.94267,
     "lng": 116.20334
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 74.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.1,
     "lat": 39.931811,
     "lng": 116.162733
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街五区",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 53.1,
     "lat": 39.926897,
     "lng": 116.170707
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区一区",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 79.4,
     "lat": 39.931679,
     "lng": 116.189436
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.4,
     "lat": 39.929861,
     "lng": 116.178138
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.2,
     "lat": 39.929861,
     "lng": 116.178138
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口东里",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 72.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑三区",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 97.7,
     "lat": 39.9344,
     "lng": 116.1951
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:40",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 73.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街四区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.8,
     "lat": 39.926897,
     "lng": 116.170707
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区一区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 85.7,
     "lat": 39.931679,
     "lng": 116.189436
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-赵山",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 53.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-远洋春秋里",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 98.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-赵山",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 78.3,
     "lat": 39.93215,
     "lng": 116.184801
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区四区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 101.5,
     "lat": 39.929861,
     "lng": 116.178138
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑二区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 87.0,
     "lat": 39.9344,
     "lng": 116.1951
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.8,
     "lat": 39.93215,
     "lng": 116.184801
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 77.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区二区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.2,
     "lat": 39.931679,
     "lng": 116.189436
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧瑞学府",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 101.9,
     "lat": 39.935486,
     "lng": 116.184358
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林一二期",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 67.4,
     "lat": 39.94267,
     "lng": 116.20334
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园东区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 54.3,
     "lat": 39.93215,
     "lng": 116.184801
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.4,
     "lat": 39.929861,
     "lng": 116.178138
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金福苑",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 54.1,
     "lat": 39.926897,
     "lng": 116.170707
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:43:44",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 67.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街四区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.8,
     "lat": 39.926897,
     "lng": 116.170707
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 74.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山芳苑",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 70.1,
     "lat": 39.935065,
     "lng": 116.17052
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区二区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.7,
     "lat": 39.929861,
     "lng": 116.178138
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景双庐",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-科研楼",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 80.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 73.6,
     "lat": 39.926897,
     "lng": 116.170707
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 71.1,
     "lat": 39.929861,
     "lng": 116.178138
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园东区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 59.4,
     "lat": 39.93215,
     "lng": 116.184801
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景山岚",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 80.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金福苑",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 54.9,
     "lat": 39.926897,
     "lng": 116.170707
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 67.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林一二期",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.2,
     "lat": 39.94267,
     "lng": 116.20334
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 77.6,
     "lat": 39.929861,
     "lng": 116.178138
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.0,
     "lat": 39.929861,
     "lng": 116.178138
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 74.7,
     "lat": 39.926897,
     "lng": 116.170707
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:06",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林三期",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.9,
     "lat": 39.94267,
     "lng": 116.20334
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景双庐",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 85.0,
     "lat": 39.9344,
     "lng": 116.1951
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-射击家属院",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 98.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果汇",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 71.2,
     "lat": 39.931876,
     "lng": 116.185398
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-林业楼",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 81.3,
     "lat": 39.93022,
     "lng": 116.179038
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街二区",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 50.8,
     "lat": 39.926897,
     "lng": 116.170707
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.2,
     "lat": 39.929861,
     "lng": 116.178138
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-远洋春秋里",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 89.7,
     "lat": 39.925203,
     "lng": 116.172812
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 93.3,
     "lat": 39.929861,
     "lng": 116.178138
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 107.9,
     "lat": 39.9344,
     "lng": 116.1951
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-林业楼",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 71.1,
     "lat": 39.93022,
     "lng": 116.179038
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西黄新村北里",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.3,
     "lat": 39.935389,
     "lng": 116.19659
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街九中教工楼",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.6,
     "lat": 39.928715,
     "lng": 116.163518
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口东里",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山麓园",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.8,
     "lat": 39.935065,
     "lng": 116.17052
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 56.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 56.1,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区四区",
     "scraped_at": "2026-05-02 21:44:18",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.0,
     "lat": 39.929861,
     "lng": 116.178138
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口北里东区",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 55.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-工疗宿舍",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 78.6,
     "lat": 39.93401,
     "lng": 116.18169
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-射击家属院",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 99.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园东区",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 53.5,
     "lat": 39.93215,
     "lng": 116.184801
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-赵山",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 69.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 93.8,
     "lat": 39.925203,
     "lng": 116.172812
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.6,
     "lat": 39.926897,
     "lng": 116.170707
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 55.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西黄新村北里",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.7,
     "lat": 39.935389,
     "lng": 116.19659
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果汇",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 93.6,
     "lat": 39.931876,
     "lng": 116.185398
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 55.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区二区",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 70.0,
     "lat": 39.929861,
     "lng": 116.178138
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.0,
     "lat": 39.935065,
     "lng": 116.17052
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山奥园",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.6,
     "lat": 39.935065,
     "lng": 116.17052
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 94.5,
     "lat": 39.9344,
     "lng": 116.1951
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 101.2,
     "lat": 39.925203,
     "lng": 116.172812
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.2,
     "lat": 39.93215,
     "lng": 116.184801
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林三期",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 72.1,
     "lat": 39.94267,
     "lng": 116.20334
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶阳光",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 59.9,
     "lat": 39.926897,
     "lng": 116.170707
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区四区",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.8,
     "lat": 39.931679,
     "lng": 116.189436
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 53.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街四区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 71.1,
     "lat": 39.926897,
     "lng": 116.170707
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 72.8,
     "lat": 39.929861,
     "lng": 116.178138
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西下庄",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 49.1,
     "lat": 39.944702,
     "lng": 116.190263
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 74.4,
     "lat": 39.9344,
     "lng": 116.1951
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林四期",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.3,
     "lat": 39.94483,
     "lng": 116.19284
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景双庐",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 72.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:22",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景双庐",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区一区",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.9,
     "lat": 39.931679,
     "lng": 116.189436
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区二区",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 74.9,
     "lat": 39.929861,
     "lng": 116.178138
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 54.8,
     "lat": 39.93215,
     "lng": 116.184801
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶北路九号院",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.4,
     "lat": 39.928992,
     "lng": 116.165362
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 54.8,
     "lat": 39.93215,
     "lng": 116.184801
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-广宁村",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.4,
     "lat": 39.923982,
     "lng": 116.173
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-赵山",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶阳光",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.6,
     "lat": 39.926897,
     "lng": 116.170707
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-青年公寓",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 80.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 69.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 95.9,
     "lat": 39.925203,
     "lng": 116.172812
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 59.8,
     "lat": 39.93341,
     "lng": 116.18364
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口东里",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 98.4,
     "lat": 39.929861,
     "lng": 116.178138
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 60.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街五区",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 62.1,
     "lat": 39.926897,
     "lng": 116.170707
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街三区",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.5,
     "lat": 39.926897,
     "lng": 116.170707
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:28",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 53.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-科研楼",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山枫林四期",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 47.1,
     "lat": 39.94483,
     "lng": 116.19284
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西下庄",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 58.8,
     "lat": 39.944702,
     "lng": 116.190263
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.9,
     "lat": 39.929861,
     "lng": 116.178138
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-禧悦学府",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 92.8,
     "lat": 39.935486,
     "lng": 116.184358
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.9,
     "lat": 39.929861,
     "lng": 116.178138
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 76.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.7,
     "lat": 39.93215,
     "lng": 116.184801
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-广宁村",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 48.6,
     "lat": 39.923982,
     "lng": 116.173
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区二区",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 67.0,
     "lat": 39.929861,
     "lng": 116.178138
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-赵山",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 59.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 55.0,
     "lat": 39.93215,
     "lng": 116.184801
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑一区",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 81.3,
     "lat": 39.9344,
     "lng": 116.1951
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 67.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-雍景四季",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 72.7,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区四区",
     "scraped_at": "2026-05-02 21:44:32",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 77.8,
     "lat": 39.929861,
     "lng": 116.178138
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西下庄",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 87.3,
     "lat": 39.944702,
     "lng": 116.190263
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-赵山",
     "scraped_at": "2026-05-02 21:44:37",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.8,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 74.8,
     "lat": 39.926897,
     "lng": 116.170707
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街一区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 87.4,
     "lat": 39.926897,
     "lng": 116.170707
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-叠翠庭苑三区",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 80.9,
     "lat": 39.9344,
     "lng": 116.1951
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山麓园",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 59.4,
     "lat": 39.935065,
     "lng": 116.17052
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口东里",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.9,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 61.3,
     "lat": 39.93215,
     "lng": 116.184801
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街一区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 65.4,
     "lat": 39.926897,
     "lng": 116.170707
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-青年公寓",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 80.5,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-海特花园西区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 55.0,
     "lat": 39.93215,
     "lng": 116.184801
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.1,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6606,7 +6606,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果汇",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 52.2,
     "lat": 39.931876,
     "lng": 116.185398
@@ -6625,7 +6625,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-远洋春秋里",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 103.2,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6644,7 +6644,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区二区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 84.5,
     "lat": 39.931679,
     "lng": 116.189436
@@ -6663,7 +6663,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果汇",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.3,
     "lat": 39.931876,
     "lng": 116.185398
@@ -6682,7 +6682,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口西里",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 57.6,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6701,7 +6701,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金铸阳光苑",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.6,
     "lat": 39.926897,
     "lng": 116.170707
@@ -6720,7 +6720,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-金顶街四区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.6,
     "lat": 39.926897,
     "lng": 116.170707
@@ -6739,7 +6739,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-远洋春秋里",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 95.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6758,7 +6758,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-模式口南里",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 63.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6777,7 +6777,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 66.3,
     "lat": 39.929861,
     "lng": 116.178138
@@ -6796,7 +6796,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西下庄",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 70.2,
     "lat": 39.944702,
     "lng": 116.190263
@@ -6815,7 +6815,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区一区",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 75.8,
     "lat": 39.929861,
     "lng": 116.178138
@@ -6834,7 +6834,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 88.0,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6853,7 +6853,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-科研楼",
     "scraped_at": "2026-05-02 21:44:42",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 64.3,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6872,7 +6872,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-远洋春秋里",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 90.4,
     "lat": 39.939936,
     "lng": 116.204448
@@ -6891,7 +6891,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西井小区二区",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 84.5,
     "lat": 39.931679,
     "lng": 116.189436
@@ -6910,7 +6910,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-启迪香山",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 96.1,
     "lat": 39.925203,
     "lng": 116.172812
@@ -6929,7 +6929,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-西山芳苑",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 89.2,
     "lat": 39.935065,
     "lng": 116.17052
@@ -6948,7 +6948,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园小区三区",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 70.4,
     "lat": 39.929861,
     "lng": 116.178138
@@ -6967,7 +6967,7 @@
     "rent_type": "整租",
     "location": "石景山区-苹果园-苹果园南路甲",
     "scraped_at": "2026-05-02 21:44:47",
-    "region": "pingguoyuan1",
+    "region": "苹果园",
     "unit_price": 68.5,
     "lat": 39.929337,
     "lng": 116.1896

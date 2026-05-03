@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-懋源",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 183.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-葛洲坝中国府",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.9,
     "lat": 39.845625,
     "lng": 116.302678
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀城",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 115.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 79.6,
     "lat": 39.84022,
     "lng": 116.317502
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 98.7,
     "lat": 39.840564,
     "lng": 116.318182
@@ -108,7 +108,7 @@
     "rent_type": "合租",
     "location": "丰台-玉泉营-亿朋苑二区",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 108.0,
     "lat": 39.841694,
     "lng": 116.330312
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城五期",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.2,
     "lat": 39.844254,
     "lng": 116.310429
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.6,
     "lat": 39.84022,
     "lng": 116.317502
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 71.4,
     "lat": 39.84022,
     "lng": 116.317502
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-彩虹街区",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 60.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 79.4,
     "lat": 39.84022,
     "lng": 116.317502
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 60.8,
     "lat": 39.840564,
     "lng": 116.318182
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-刘孟家园",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 104.0,
     "lat": 40.175082,
     "lng": 116.381336
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.0,
     "lat": 39.84022,
     "lng": 116.317502
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑二区",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.7,
     "lat": 39.842036,
     "lng": 116.329818
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 81.7,
     "lat": 39.84022,
     "lng": 116.317502
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 95.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.6,
     "lat": 39.84022,
     "lng": 116.317502
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 61.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 80.0,
     "lat": 39.84022,
     "lng": 116.317502
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 63.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.6,
     "lat": 39.840564,
     "lng": 116.318182
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 71.3,
     "lat": 39.84022,
     "lng": 116.317502
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 100.0,
     "lat": 39.846104,
     "lng": 116.32443
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 75.0,
     "lat": 39.84022,
     "lng": 116.317502
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城一期",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 73.6,
     "lat": 39.837515,
     "lng": 116.315277
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:18:17",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 122.0,
     "lat": 39.663674,
     "lng": 116.516859
@@ -583,7 +583,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:18:11",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 100.0,
     "lat": 40.311707,
     "lng": 116.629188
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-中景理想家",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 81.8,
     "lat": 39.853243,
     "lng": 116.355411
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.9,
     "lat": 39.84022,
     "lng": 116.317502
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-康庄东路",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.2,
     "lat": 39.842223,
     "lng": 116.304028
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:24",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 63.2,
     "lat": 39.840564,
     "lng": 116.318182
@@ -678,7 +678,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:18:17",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 108.6,
     "lat": 39.663674,
     "lng": 116.516859
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.0,
     "lat": 39.84022,
     "lng": 116.317502
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-北京瑞府",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 164.9,
     "lat": 39.841421,
     "lng": 116.414176
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-金丰园",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-懋源",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 204.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-北京瑞府",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 163.8,
     "lat": 39.841421,
     "lng": 116.414176
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.8,
     "lat": 39.847186,
     "lng": 116.313958
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀雅苑",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.0,
     "lat": 39.82507,
     "lng": 116.317781
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-懋源钓云台",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 178.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城五期",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.9,
     "lat": 39.844254,
     "lng": 116.310429
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀城",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 65.3,
     "lat": 39.82507,
     "lng": 116.317781
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-刘孟家园",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-中景理想家",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.3,
     "lat": 39.853243,
     "lng": 116.355411
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀雅苑",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀城",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.0,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.4,
     "lat": 39.840564,
     "lng": 116.318182
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:18:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.2,
     "lat": 39.842891,
     "lng": 116.33116
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城五期",
     "scraped_at": "2026-05-02 22:18:17",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 81.1,
     "lat": 39.844254,
     "lng": 116.310429
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:17",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.6,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 88.2,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-葛洲坝中国府",
     "scraped_at": "2026-05-02 22:18:17",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 111.2,
     "lat": 39.845625,
     "lng": 116.302678
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 55.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.5,
     "lat": 39.847186,
     "lng": 116.313958
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 61.5,
     "lat": 39.842891,
     "lng": 116.33116
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.2,
     "lat": 39.840564,
     "lng": 116.318182
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀雅苑",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.5,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.7,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀雅苑",
     "scraped_at": "2026-05-02 22:18:17",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 57.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:18:17",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.8,
     "lat": 39.840564,
     "lng": 116.318182
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-葛村西里",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.8,
     "lat": 39.845625,
     "lng": 116.302678
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀城",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 71.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 57.5,
     "lat": 39.842388,
     "lng": 116.339034
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 61.5,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育芳园甲一号院",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 61.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-葛洲坝中国府",
     "scraped_at": "2026-05-02 22:18:17",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.9,
     "lat": 39.845625,
     "lng": 116.302678
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.2,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.5,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 75.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城一期",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 81.7,
     "lat": 39.837515,
     "lng": 116.315277
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 95.3,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 71.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-彩虹街区",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.6,
     "lat": 39.847186,
     "lng": 116.313958
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.4,
     "lat": 39.840564,
     "lng": 116.318182
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀雅苑",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑二区",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.6,
     "lat": 39.842036,
     "lng": 116.329818
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.0,
     "lat": 39.842891,
     "lng": 116.33116
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 60.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 89.4,
     "lat": 39.847186,
     "lng": 116.313958
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-中景理想家",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.5,
     "lat": 39.853243,
     "lng": 116.355411
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:19:24",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.3,
     "lat": 39.842891,
     "lng": 116.33116
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 89.3,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.7,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村二里",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 95.0,
     "lat": 39.824469,
     "lng": 116.343345
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 75.2,
     "lat": 39.842891,
     "lng": 116.33116
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 65.1,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:20",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 88.8,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.2,
     "lat": 39.84022,
     "lng": 116.317502
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 80.4,
     "lat": 39.84022,
     "lng": 116.317502
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育芳园甲一号院",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-懋源",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 160.0,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 75.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 59.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 65.5,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育芳园",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 407.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村二里",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.5,
     "lat": 39.824469,
     "lng": 116.343345
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.2,
     "lat": 39.8485,
     "lng": 116.328023
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 93.9,
     "lat": 39.84022,
     "lng": 116.317502
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 114.9,
     "lat": 39.8485,
     "lng": 116.328023
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育菲园东里",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.0,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村三里",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 80.0,
     "lat": 39.82206,
     "lng": 116.335836
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村二里",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.7,
     "lat": 39.824469,
     "lng": 116.343345
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-郑王坟",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-中景理想家",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.3,
     "lat": 39.853243,
     "lng": 116.355411
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 85.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-葛洲坝中国府",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 100.0,
     "lat": 39.845625,
     "lng": 116.302678
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 62.3,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 81.8,
     "lat": 39.847186,
     "lng": 116.313958
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育芳园甲一号院",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 75.3,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-郑王坟",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.5,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:23",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-中景理想家",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.4,
     "lat": 39.853243,
     "lng": 116.355411
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村二里",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 100.0,
     "lat": 39.824469,
     "lng": 116.343345
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 101.4,
     "lat": 39.84022,
     "lng": 116.317502
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 87.9,
     "lat": 39.847186,
     "lng": 116.313958
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-北京瑞府",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 154.8,
     "lat": 39.841421,
     "lng": 116.414176
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 93.5,
     "lat": 39.84022,
     "lng": 116.317502
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-葛洲坝中国府",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.0,
     "lat": 39.845625,
     "lng": 116.302678
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 89.1,
     "lat": 39.8485,
     "lng": 116.328023
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.0,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.8,
     "lat": 39.84022,
     "lng": 116.317502
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.0,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村四里",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.3,
     "lat": 39.824469,
     "lng": 116.343345
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 106.4,
     "lat": 39.847186,
     "lng": 116.313958
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀城",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 84.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 95.5,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 89.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 86.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 116.3,
     "lat": 39.82507,
     "lng": 116.317781
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 98.3,
     "lat": 39.847186,
     "lng": 116.313958
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.4,
     "lat": 39.8485,
     "lng": 116.328023
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-葛村西里",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 103.2,
     "lat": 39.845625,
     "lng": 116.302678
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 96.8,
     "lat": 39.847186,
     "lng": 116.313958
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 80.6,
     "lat": 39.842891,
     "lng": 116.33116
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 71.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村三里",
     "scraped_at": "2026-05-02 22:18:26",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 112.5,
     "lat": 39.82206,
     "lng": 116.335836
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-刘孟家园",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.0,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-中景理想家",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.6,
     "lat": 39.853243,
     "lng": 116.355411
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 105.0,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 95.9,
     "lat": 39.84022,
     "lng": 116.317502
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-葛洲坝中国府",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 133.4,
     "lat": 39.845625,
     "lng": 116.302678
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村四里",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.0,
     "lat": 39.824469,
     "lng": 116.343345
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-刘孟家园北区",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 62.2,
     "lat": 39.83639,
     "lng": 116.2974
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.9,
     "lat": 39.84022,
     "lng": 116.317502
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育芳园",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 144.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-汇丰家园",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 62.5,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 89.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 79.0,
     "lat": 39.8485,
     "lng": 116.328023
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.3,
     "lat": 39.84022,
     "lng": 116.317502
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-中景理想家",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 81.6,
     "lat": 39.853243,
     "lng": 116.355411
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 96.1,
     "lat": 39.840564,
     "lng": 116.318182
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-京开西路",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.1,
     "lat": 39.828468,
     "lng": 116.330883
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:30",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 74.5,
     "lat": 39.84022,
     "lng": 116.317502
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 74.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.1,
     "lat": 39.840564,
     "lng": 116.318182
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-造甲南里",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 87.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-葛村西里",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 80.0,
     "lat": 39.845625,
     "lng": 116.302678
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-中景理想家",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 100.0,
     "lat": 39.853243,
     "lng": 116.355411
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀城",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 63.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 93.4,
     "lat": 39.8485,
     "lng": 116.328023
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.0,
     "lat": 39.842891,
     "lng": 116.33116
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 81.6,
     "lat": 39.840564,
     "lng": 116.318182
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀城",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 73.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.0,
     "lat": 39.84022,
     "lng": 116.317502
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城五期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.7,
     "lat": 39.844254,
     "lng": 116.310429
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.4,
     "lat": 39.842891,
     "lng": 116.33116
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.8,
     "lat": 39.840564,
     "lng": 116.318182
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 83.3,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 61.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 66.2,
     "lat": 39.84022,
     "lng": 116.317502
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:33",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 104.2,
     "lat": 39.847186,
     "lng": 116.313958
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-懋源",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 227.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 79.1,
     "lat": 39.84022,
     "lng": 116.317502
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 86.2,
     "lat": 39.84022,
     "lng": 116.317502
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 69.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 61.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 73.2,
     "lat": 39.847186,
     "lng": 116.313958
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 82.2,
     "lat": 39.84022,
     "lng": 116.317502
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 102.4,
     "lat": 39.847186,
     "lng": 116.313958
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 88.5,
     "lat": 39.84022,
     "lng": 116.317502
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 82.1,
     "lat": 39.84022,
     "lng": 116.317502
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 107.1,
     "lat": 39.842388,
     "lng": 116.339034
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-北京瑞府",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 191.5,
     "lat": 39.841421,
     "lng": 116.414176
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 104.6,
     "lat": 39.84022,
     "lng": 116.317502
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.0,
     "lat": 39.84022,
     "lng": 116.317502
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.3,
     "lat": 39.84022,
     "lng": 116.317502
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.3,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 95.0,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 75.2,
     "lat": 39.84022,
     "lng": 116.317502
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城一期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 79.1,
     "lat": 39.837515,
     "lng": 116.315277
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 78.3,
     "lat": 39.84022,
     "lng": 116.317502
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:18:36",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 95.2,
     "lat": 39.842891,
     "lng": 116.33116
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 82.9,
     "lat": 39.842891,
     "lng": 116.33116
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 118.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 98.4,
     "lat": 39.8485,
     "lng": 116.328023
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.3,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 74.7,
     "lat": 39.840564,
     "lng": 116.318182
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 88.8,
     "lat": 39.847186,
     "lng": 116.313958
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀雅苑",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 63.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-刘孟家园北区",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 89.3,
     "lat": 39.83639,
     "lng": 116.2974
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-造甲南里",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 75.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村三里",
     "scraped_at": "2026-05-02 22:18:59",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 74.5,
     "lat": 39.82206,
     "lng": 116.335836
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-汇丰家园",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 62.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育芳园",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 63.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-刘孟家园",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑二区",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.6,
     "lat": 39.842036,
     "lng": 116.329818
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 80.0,
     "lat": 39.842891,
     "lng": 116.33116
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 59.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-造甲南里",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 80.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育芳园",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 63.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-造甲南里",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 99.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 90.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 102.9,
     "lat": 39.847186,
     "lng": 116.313958
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 97.9,
     "lat": 39.840564,
     "lng": 116.318182
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城三期",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.4,
     "lat": 39.84022,
     "lng": 116.317502
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 73.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城四期",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 97.0,
     "lat": 39.84022,
     "lng": 116.317502
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 86.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 75.7,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-枫泽园",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 57.5,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 89.0,
     "lat": 39.840564,
     "lng": 116.318182
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:19:10",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 70.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-康庄东路",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 102.8,
     "lat": 39.842223,
     "lng": 116.304028
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 76.0,
     "lat": 39.847186,
     "lng": 116.313958
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-造甲南里",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 98.8,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 80.9,
     "lat": 39.840564,
     "lng": 116.318182
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 65.9,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 86.0,
     "lat": 39.8485,
     "lng": 116.328023
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-刘孟家园",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 83.5,
     "lat": 39.82507,
     "lng": 116.317781
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.0,
     "lat": 39.847186,
     "lng": 116.313958
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-青秀城",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 68.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-亿朋苑三区",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.7,
     "lat": 39.842891,
     "lng": 116.33116
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 74.3,
     "lat": 39.840564,
     "lng": 116.318182
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育芳园",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.4,
     "lat": 39.82507,
     "lng": 116.317781
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:19:15",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 88.5,
     "lat": 39.8485,
     "lng": 116.328023
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 65.5,
     "lat": 39.840564,
     "lng": 116.318182
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园二区",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城五期",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 75.7,
     "lat": 39.844254,
     "lng": 116.310429
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-首经贸中街",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 62.5,
     "lat": 39.840564,
     "lng": 116.318182
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城五期",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 118.6,
     "lat": 39.844254,
     "lng": 116.310429
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:19:24",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 59.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-新村二里",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 72.8,
     "lat": 39.824469,
     "lng": 116.343345
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-怡海花园恒丰园",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-三环新城",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 64.3,
     "lat": 39.82507,
     "lng": 116.317781
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-鸿业兴园一区",
     "scraped_at": "2026-05-02 22:19:24",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 86.2,
     "lat": 39.82507,
     "lng": 116.317781
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-育芳园",
     "scraped_at": "2026-05-02 22:19:24",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 95.1,
     "lat": 39.82507,
     "lng": 116.317781
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万柳园小区",
     "scraped_at": "2026-05-02 22:19:24",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 80.7,
     "lat": 39.8485,
     "lng": 116.328023
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-万年花城二期",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 71.0,
     "lat": 39.847186,
     "lng": 116.313958
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:19:19",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 107.6,
     "lat": 39.82507,
     "lng": 116.317781
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-丰台东路",
     "scraped_at": "2026-05-02 22:19:24",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 77.9,
     "lat": 39.846667,
     "lng": 116.323833
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "丰台区-玉泉营-优筑",
     "scraped_at": "2026-05-02 22:19:24",
-    "region": "yuquanying",
+    "region": "玉泉营",
     "unit_price": 67.1,
     "lat": 39.82507,
     "lng": 116.317781

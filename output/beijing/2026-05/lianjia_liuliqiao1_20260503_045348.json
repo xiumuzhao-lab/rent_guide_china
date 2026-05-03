@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 74.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲花池西里",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 74.1,
     "lat": 39.885031,
     "lng": 116.292781
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲香园",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 65.2,
     "lat": 39.885538,
     "lng": 116.296403
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 85.2,
     "lat": 39.890869,
     "lng": 116.297441
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园一区",
     "scraped_at": "2026-05-02 21:41:37",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 81.6,
     "lat": 39.885031,
     "lng": 116.292781
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 66.5,
     "lat": 39.890869,
     "lng": 116.297441
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 93.3,
     "lat": 39.882114,
     "lng": 116.296213
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲馨嘉园",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 68.5,
     "lat": 39.885031,
     "lng": 116.292781
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 71.1,
     "lat": 39.890869,
     "lng": 116.297441
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲香园",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 65.2,
     "lat": 39.885538,
     "lng": 116.296403
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 83.2,
     "lat": 39.888126,
     "lng": 116.291498
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 61.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 86.9,
     "lat": 39.890869,
     "lng": 116.297441
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲香园",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 67.5,
     "lat": 39.885538,
     "lng": 116.296403
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-澐澐国际",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 57.9,
     "lat": 39.890869,
     "lng": 116.297441
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲馨嘉园",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 78.2,
     "lat": 39.885031,
     "lng": 116.292781
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 89.8,
     "lat": 39.888126,
     "lng": 116.291498
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 67.2,
     "lat": 39.890869,
     "lng": 116.297441
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-铁路小区",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 80.6,
     "lat": 40.407295,
     "lng": 116.683194
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-澐澐国际",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 63.5,
     "lat": 39.890869,
     "lng": 116.297441
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 128.8,
     "lat": 39.890869,
     "lng": 116.297441
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:37",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 72.7,
     "lat": 39.890869,
     "lng": 116.297441
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 84.7,
     "lat": 39.888126,
     "lng": 116.291498
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园二区",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 62.4,
     "lat": 39.885031,
     "lng": 116.292781
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-六里桥",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 75.8,
     "lat": 39.880496,
     "lng": 116.291918
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲香园",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 59.8,
     "lat": 39.885538,
     "lng": 116.296403
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲香园",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 71.1,
     "lat": 39.885538,
     "lng": 116.296403
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲香园",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 74.2,
     "lat": 39.885538,
     "lng": 116.296403
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 88.7,
     "lat": 39.890869,
     "lng": 116.297441
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:40:46",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 126.3,
     "lat": 39.882114,
     "lng": 116.296213
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 63.1,
     "lat": 39.888126,
     "lng": 116.291498
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 84.9,
     "lat": 39.890869,
     "lng": 116.297441
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 94.5,
     "lat": 39.882114,
     "lng": 116.296213
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 75.8,
     "lat": 39.888126,
     "lng": 116.291498
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 83.2,
     "lat": 39.888126,
     "lng": 116.291498
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园一区",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 110.7,
     "lat": 39.885031,
     "lng": 116.292781
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-盛今大厦",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 64.1,
     "lat": 39.880496,
     "lng": 116.291918
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 76.5,
     "lat": 39.890866,
     "lng": 116.287048
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 74.0,
     "lat": 39.882114,
     "lng": 116.296213
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-盛今大厦",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 68.0,
     "lat": 39.880496,
     "lng": 116.291918
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 80.6,
     "lat": 39.890869,
     "lng": 116.297441
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲宝路",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 83.1,
     "lat": 39.889166,
     "lng": 116.294078
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-盛今大厦",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 123.9,
     "lat": 39.880496,
     "lng": 116.291918
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-靛厂绣园",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 72.7,
     "lat": 39.880496,
     "lng": 116.291918
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园一区",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 90.1,
     "lat": 39.885031,
     "lng": 116.292781
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲香园",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 82.7,
     "lat": 39.885538,
     "lng": 116.296403
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 121.4,
     "lat": 39.882114,
     "lng": 116.296213
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园一区",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 85.3,
     "lat": 39.885031,
     "lng": 116.292781
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 68.9,
     "lat": 39.890869,
     "lng": 116.297441
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 94.5,
     "lat": 39.882114,
     "lng": 116.296213
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-澐澐国际",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 62.7,
     "lat": 39.890869,
     "lng": 116.297441
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 70.9,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 93.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲馨嘉园",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 76.4,
     "lat": 39.885031,
     "lng": 116.292781
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 67.2,
     "lat": 39.890866,
     "lng": 116.287048
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 90.0,
     "lat": 39.888126,
     "lng": 116.291498
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 96.2,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 88.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-六里桥",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 122.5,
     "lat": 39.880496,
     "lng": 116.291918
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲花池西路",
     "scraped_at": "2026-05-02 21:41:09",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 101.1,
     "lat": 39.894992,
     "lng": 116.288736
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 93.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 85.0,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园二区",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 66.9,
     "lat": 39.885031,
     "lng": 116.292781
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-永翌公馆",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 89.3,
     "lat": 39.880496,
     "lng": 116.291918
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 89.7,
     "lat": 39.882114,
     "lng": 116.296213
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-六里桥北里",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 106.5,
     "lat": 39.880496,
     "lng": 116.291918
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 92.9,
     "lat": 39.894156,
     "lng": 116.287468
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲花池西路",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 99.3,
     "lat": 39.894992,
     "lng": 116.288736
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 97.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园一区",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 85.7,
     "lat": 39.885031,
     "lng": 116.292781
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-铁路小区",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 125.4,
     "lat": 40.407295,
     "lng": 116.683194
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-铁路小区",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 83.9,
     "lat": 40.407295,
     "lng": 116.683194
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲花池西路",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 68.6,
     "lat": 39.892076,
     "lng": 116.301498
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 77.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 82.7,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 150.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 74.8,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 87.5,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 90.7,
     "lat": 39.888126,
     "lng": 116.291498
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-永翌公馆",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 92.9,
     "lat": 39.880496,
     "lng": 116.291918
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 98.9,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 151.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 71.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 140.9,
     "lat": 39.882114,
     "lng": 116.296213
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-铁路小区",
     "scraped_at": "2026-05-02 21:41:37",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 82.7,
     "lat": 40.407295,
     "lng": 116.683194
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园北路",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 91.0,
     "lat": 39.885886,
     "lng": 116.291758
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 92.0,
     "lat": 39.890866,
     "lng": 116.287048
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-铁路小区",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 83.7,
     "lat": 40.407295,
     "lng": 116.683194
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 94.1,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:16",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 97.9,
     "lat": 39.888126,
     "lng": 116.291498
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 81.2,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 92.8,
     "lat": 39.894156,
     "lng": 116.287468
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-六里桥北里",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 102.6,
     "lat": 39.880496,
     "lng": 116.291918
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 116.2,
     "lat": 39.894156,
     "lng": 116.287468
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 125.5,
     "lat": 39.894156,
     "lng": 116.287468
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 151.2,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-铁路小区",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 101.3,
     "lat": 40.407295,
     "lng": 116.683194
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 76.2,
     "lat": 39.894156,
     "lng": 116.287468
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 92.4,
     "lat": 39.888126,
     "lng": 116.291498
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 81.2,
     "lat": 39.890869,
     "lng": 116.297441
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 73.3,
     "lat": 39.888126,
     "lng": 116.291498
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 96.5,
     "lat": 39.888126,
     "lng": 116.291498
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲馨嘉园",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 71.6,
     "lat": 39.885031,
     "lng": 116.292781
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 100.5,
     "lat": 39.888126,
     "lng": 116.291498
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 83.2,
     "lat": 39.888126,
     "lng": 116.291498
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 74.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-中景未山赋",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 96.3,
     "lat": 39.878685,
     "lng": 116.312404
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 113.1,
     "lat": 39.894156,
     "lng": 116.287468
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 73.5,
     "lat": 39.890866,
     "lng": 116.287048
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 120.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲花池西里",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 86.8,
     "lat": 39.885031,
     "lng": 116.292781
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 131.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-靛厂路",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 72.4,
     "lat": 39.886837,
     "lng": 116.286846
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 94.3,
     "lat": 39.888126,
     "lng": 116.291498
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 81.3,
     "lat": 39.888126,
     "lng": 116.291498
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-靛厂绣园",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 75.0,
     "lat": 39.880496,
     "lng": 116.291918
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 113.6,
     "lat": 39.894156,
     "lng": 116.287468
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 96.7,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 75.0,
     "lat": 39.890866,
     "lng": 116.287048
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-六里桥",
     "scraped_at": "2026-05-02 21:41:20",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 140.5,
     "lat": 39.880496,
     "lng": 116.291918
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 92.9,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 81.0,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 94.7,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-靛厂绣园",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 67.6,
     "lat": 39.880496,
     "lng": 116.291918
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 114.7,
     "lat": 39.882114,
     "lng": 116.296213
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 94.8,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 60.5,
     "lat": 39.890866,
     "lng": 116.287048
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲香园",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 60.4,
     "lat": 39.885538,
     "lng": 116.296403
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-六里桥小区",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 88.7,
     "lat": 39.880496,
     "lng": 116.291918
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 155.2,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 97.6,
     "lat": 39.882114,
     "lng": 116.296213
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 82.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 74.0,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 80.0,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 89.6,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 91.9,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 89.9,
     "lat": 39.882114,
     "lng": 116.296213
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 91.7,
     "lat": 39.882114,
     "lng": 116.296213
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-六里桥小区",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 102.2,
     "lat": 39.880496,
     "lng": 116.291918
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-六里桥小区",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 95.8,
     "lat": 39.880496,
     "lng": 116.291918
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 81.7,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园北路",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 95.6,
     "lat": 39.885886,
     "lng": 116.291758
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 102.1,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 74.3,
     "lat": 39.888126,
     "lng": 116.291498
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 86.5,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 73.5,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 112.4,
     "lat": 39.888126,
     "lng": 116.291498
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-风荷曲苑",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 94.5,
     "lat": 39.882114,
     "lng": 116.296213
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-澐澐国际",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 69.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:23",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 157.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-盛今大厦",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 75.2,
     "lat": 39.880496,
     "lng": 116.291918
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-铁路小区",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 107.8,
     "lat": 40.407295,
     "lng": 116.683194
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 153.7,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 149.9,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-铁路小区",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 91.3,
     "lat": 40.407295,
     "lng": 116.683194
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲怡园一区",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 81.6,
     "lat": 39.885031,
     "lng": 116.292781
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 161.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 72.1,
     "lat": 39.890866,
     "lng": 116.287048
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 90.0,
     "lat": 39.888126,
     "lng": 116.291498
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 206.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-六里桥",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 71.6,
     "lat": 39.880496,
     "lng": 116.291918
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 162.5,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:27",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 83.8,
     "lat": 39.894156,
     "lng": 116.287468
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 132.3,
     "lat": 39.894156,
     "lng": 116.287468
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-莲花小区",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 88.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 121.6,
     "lat": 39.894156,
     "lng": 116.287468
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 150.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 94.7,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 83.8,
     "lat": 39.894156,
     "lng": 116.287468
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 179.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 78.6,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-莲花池西路",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 82.0,
     "lat": 39.894992,
     "lng": 116.288736
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 104.5,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 185.2,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-盛今佳园",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 158.3,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 71.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 67.8,
     "lat": 39.888126,
     "lng": 116.291498
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-橙色年代",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 88.4,
     "lat": 39.890869,
     "lng": 116.297441
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-铁路小区",
     "scraped_at": "2026-05-02 21:41:31",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 103.8,
     "lat": 40.407295,
     "lng": 116.683194
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 81.7,
     "lat": 39.894156,
     "lng": 116.287468
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "丰台区-六里桥-金家村",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 82.0,
     "lat": 39.890866,
     "lng": 116.287048
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 94.5,
     "lat": 39.888126,
     "lng": 116.291498
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-吴家村路",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 90.0,
     "lat": 39.888126,
     "lng": 116.291498
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "海淀区-六里桥-海淀九号",
     "scraped_at": "2026-05-02 21:41:34",
-    "region": "liuliqiao1",
+    "region": "六里桥",
     "unit_price": 87.4,
     "lat": 39.890869,
     "lng": 116.297441

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 68.5,
     "lat": 39.841252,
     "lng": 116.383396
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 59.7,
     "lat": 39.840586,
     "lng": 116.392768
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 67.4,
     "lat": 39.841252,
     "lng": 116.383396
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 77.6,
     "lat": 39.85336,
     "lng": 116.39287
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 61.6,
     "lat": 39.840586,
     "lng": 116.392768
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": "",
     "lat": 39.842817,
     "lng": 116.379676
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 87.5,
     "lat": 39.841252,
     "lng": 116.383396
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景中区",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 83.8,
     "lat": 39.851807,
     "lng": 116.391028
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 78.6,
     "lat": 39.841252,
     "lng": 116.383396
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-鑫宝苑",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 45.8,
     "lat": 39.85336,
     "lng": 116.39287
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-中海和瑞叁號院",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 143.5,
     "lat": 39.85336,
     "lng": 116.39287
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-苗圃西里",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 75.3,
     "lat": 39.840427,
     "lng": 116.393972
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 87.9,
     "lat": 39.840586,
     "lng": 116.392768
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 68.5,
     "lat": 39.841252,
     "lng": 116.383396
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 82.8,
     "lat": 39.840586,
     "lng": 116.392768
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-金胜嘉谊家园",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 80.7,
     "lat": 39.85336,
     "lng": 116.39287
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑五里",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 68.8,
     "lat": 39.840586,
     "lng": 116.392768
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-翠源居",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 71.4,
     "lat": 39.85336,
     "lng": 116.39287
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 71.8,
     "lat": 39.85336,
     "lng": 116.39287
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-翠源居",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 81.6,
     "lat": 39.85336,
     "lng": 116.39287
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 61.4,
     "lat": 39.85336,
     "lng": 116.39287
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 77.0,
     "lat": 39.851807,
     "lng": 116.391028
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 67.6,
     "lat": 39.85336,
     "lng": 116.39287
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 78.3,
     "lat": 39.840586,
     "lng": 116.392768
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 66.7,
     "lat": 39.841252,
     "lng": 116.383396
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 133.2,
     "lat": 39.862566,
     "lng": 116.373948
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 72.2,
     "lat": 39.85336,
     "lng": 116.39287
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:25",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 82.1,
     "lat": 39.851807,
     "lng": 116.391028
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 93.1,
     "lat": 39.851807,
     "lng": 116.391028
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 89.4,
     "lat": 39.851807,
     "lng": 116.391028
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 71.9,
     "lat": 39.841252,
     "lng": 116.383396
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景中区",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 138.8,
     "lat": 39.851807,
     "lng": 116.391028
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-福海小区",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 65.4,
     "lat": 39.851807,
     "lng": 116.391028
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 68.4,
     "lat": 39.841252,
     "lng": 116.383396
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 58.4,
     "lat": 39.85336,
     "lng": 116.39287
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-大红门东门里",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 74.7,
     "lat": 39.834899,
     "lng": 116.396335
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-苗圃西里",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 78.0,
     "lat": 39.840427,
     "lng": 116.393972
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 91.5,
     "lat": 39.850764,
     "lng": 116.391748
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 65.2,
     "lat": 39.85336,
     "lng": 116.39287
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-苗圃西里",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 70.0,
     "lat": 39.840427,
     "lng": 116.393972
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 67.0,
     "lat": 39.841252,
     "lng": 116.383396
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-大红门东门里",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 77.3,
     "lat": 39.834899,
     "lng": 116.396335
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 65.4,
     "lat": 39.85336,
     "lng": 116.39287
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-永定金茂府",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 142.0,
     "lat": 39.836663,
     "lng": 116.394224
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-苗圃西里",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 62.8,
     "lat": 39.840427,
     "lng": 116.393972
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 94.8,
     "lat": 39.851807,
     "lng": 116.391028
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 86.0,
     "lat": 39.840586,
     "lng": 116.392768
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 66.2,
     "lat": 39.840586,
     "lng": 116.392768
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 84.2,
     "lat": 39.851807,
     "lng": 116.391028
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 95.4,
     "lat": 39.851807,
     "lng": 116.391028
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 70.7,
     "lat": 39.841252,
     "lng": 116.383396
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 74.8,
     "lat": 39.841252,
     "lng": 116.383396
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 79.8,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:28",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 84.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-苗圃西里",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 78.4,
     "lat": 39.840427,
     "lng": 116.393972
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 85.3,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 93.8,
     "lat": 39.841252,
     "lng": 116.383396
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-大红门东门里",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 79.9,
     "lat": 39.834899,
     "lng": 116.396335
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 60.6,
     "lat": 39.841252,
     "lng": 116.383396
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 81.9,
     "lat": 39.841252,
     "lng": 116.383396
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 81.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 74.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 82.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-苗圃西里",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 83.1,
     "lat": 39.840427,
     "lng": 116.393972
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 96.2,
     "lat": 39.850764,
     "lng": 116.391748
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 59.2,
     "lat": 39.841252,
     "lng": 116.383396
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 72.3,
     "lat": 39.85336,
     "lng": 116.39287
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 79.6,
     "lat": 39.840586,
     "lng": 116.392768
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景中区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 72.1,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 88.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑二里",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 63.2,
     "lat": 39.840586,
     "lng": 116.392768
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 85.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-福海小区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 64.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 67.3,
     "lat": 39.841252,
     "lng": 116.383396
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 86.8,
     "lat": 39.840586,
     "lng": 116.392768
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-鑫福里小区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 65.8,
     "lat": 39.85336,
     "lng": 116.39287
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-永定金茂府",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 146.8,
     "lat": 39.836663,
     "lng": 116.394224
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 80.4,
     "lat": 39.85336,
     "lng": 116.39287
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 75.1,
     "lat": 39.85336,
     "lng": 116.39287
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-临泓路",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 74.2,
     "lat": 39.843747,
     "lng": 116.391116
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 80.4,
     "lat": 39.850764,
     "lng": 116.391748
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-果园小区",
     "scraped_at": "2026-05-02 22:03:31",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 93.7,
     "lat": 39.851366,
     "lng": 116.389368
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 86.6,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 66.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 62.6,
     "lat": 39.841252,
     "lng": 116.383396
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 71.9,
     "lat": 39.85336,
     "lng": 116.39287
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-苗圃西里",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 76.2,
     "lat": 39.840427,
     "lng": 116.393972
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑二里",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 79.2,
     "lat": 39.840586,
     "lng": 116.392768
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 77.0,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 99.5,
     "lat": 39.850764,
     "lng": 116.391748
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 94.1,
     "lat": 39.840586,
     "lng": 116.392768
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 64.3,
     "lat": 39.841252,
     "lng": 116.383396
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景中区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 82.6,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 112.1,
     "lat": 39.840586,
     "lng": 116.392768
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-果园小区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 99.1,
     "lat": 39.851366,
     "lng": 116.389368
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 92.9,
     "lat": 39.85336,
     "lng": 116.39287
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-苗圃西里",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 86.3,
     "lat": 39.840427,
     "lng": 116.393972
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景中区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 67.0,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 88.3,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 71.3,
     "lat": 39.840586,
     "lng": 116.392768
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-临泓路",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 74.4,
     "lat": 39.843747,
     "lng": 116.391116
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑一里",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 72.4,
     "lat": 39.840586,
     "lng": 116.392768
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 70.0,
     "lat": 39.85336,
     "lng": 116.39287
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 75.3,
     "lat": 39.851807,
     "lng": 116.391028
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 90.2,
     "lat": 39.850764,
     "lng": 116.391748
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 109.5,
     "lat": 39.850764,
     "lng": 116.391748
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 83.6,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 93.7,
     "lat": 39.850764,
     "lng": 116.391748
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-鑫宝苑",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 60.1,
     "lat": 39.85336,
     "lng": 116.39287
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 56.2,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景中区",
     "scraped_at": "2026-05-02 22:03:35",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 103.3,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 92.2,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑一里",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 65.9,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 72.7,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 72.5,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 67.0,
     "lat": 39.841252,
     "lng": 116.383396
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 69.2,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-永定金茂府",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 142.0,
     "lat": 39.836663,
     "lng": 116.394224
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景中区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 85.4,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 63.9,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 76.1,
     "lat": 39.85336,
     "lng": 116.39287
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-金胜嘉谊家园",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 65.1,
     "lat": 39.85336,
     "lng": 116.39287
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 75.0,
     "lat": 39.85336,
     "lng": 116.39287
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-福海小区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 72.9,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 82.3,
     "lat": 39.850764,
     "lng": 116.391748
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 91.5,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 107.5,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 63.8,
     "lat": 39.841252,
     "lng": 116.383396
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 80.5,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 65.5,
     "lat": 39.841252,
     "lng": 116.383396
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-鑫福里小区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 77.0,
     "lat": 39.85336,
     "lng": 116.39287
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑五里",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 66.9,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 80.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 88.0,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 95.2,
     "lat": 39.850764,
     "lng": 116.391748
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 70.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-金胜嘉谊家园",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 72.6,
     "lat": 39.85336,
     "lng": 116.39287
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑五里",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 73.2,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:38",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 83.8,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 58.9,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 76.5,
     "lat": 39.850764,
     "lng": 116.391748
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 71.0,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 61.6,
     "lat": 39.841252,
     "lng": 116.383396
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-大红门东门里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 91.1,
     "lat": 39.834899,
     "lng": 116.396335
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-鑫宝苑",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 88.5,
     "lat": 39.85336,
     "lng": 116.39287
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-永定金茂府",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 156.2,
     "lat": 39.836663,
     "lng": 116.394224
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 69.2,
     "lat": 39.840586,
     "lng": 116.392768
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-苗圃西里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 90.6,
     "lat": 39.840427,
     "lng": 116.393972
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 63.9,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 66.2,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景中区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 68.9,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 75.8,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 83.8,
     "lat": 39.851807,
     "lng": 116.391028
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-大红门东门里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 66.2,
     "lat": 39.834899,
     "lng": 116.396335
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-洋桥职工住宅",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 66.0,
     "lat": 39.841252,
     "lng": 116.383396
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-上海建筑",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 74.1,
     "lat": 39.85336,
     "lng": 116.39287
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-远洋自然",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 69.4,
     "lat": 39.841252,
     "lng": 116.383396
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 77.0,
     "lat": 39.840586,
     "lng": 116.392768
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 80.6,
     "lat": 39.851807,
     "lng": 116.391028
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 76.4,
     "lat": 39.851807,
     "lng": 116.391028
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 77.6,
     "lat": 39.840586,
     "lng": 116.392768
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 87.5,
     "lat": 39.840586,
     "lng": 116.392768
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑三里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 89.2,
     "lat": 39.840586,
     "lng": 116.392768
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-建欣苑四里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 84.1,
     "lat": 39.840586,
     "lng": 116.392768
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-鑫福里小区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 103.8,
     "lat": 39.85336,
     "lng": 116.39287
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-大红门东门里",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 105.2,
     "lat": 39.834899,
     "lng": 116.396335
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景北区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 87.7,
     "lat": 39.851807,
     "lng": 116.391028
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-珠江骏景南区",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 91.9,
     "lat": 39.851807,
     "lng": 116.391028
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "丰台区-大红门-海户屯",
     "scraped_at": "2026-05-02 22:03:42",
-    "region": "dahongmen",
+    "region": "大红门",
     "unit_price": 92.5,
     "lat": 39.850764,
     "lng": 116.391748

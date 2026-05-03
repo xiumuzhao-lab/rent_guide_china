@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-中建壹品学府公馆",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 164.7,
     "lat": 39.984476,
     "lng": 116.345718
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-城华园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 70.8,
     "lat": 40.009556,
     "lng": 116.345628
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-建清园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 115.8,
     "lat": 40.013566,
     "lng": 116.340708
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-中铁翰庭",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 104.7,
     "lat": 39.996226,
     "lng": 116.341698
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-半导体宿舍",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 105.9,
     "lat": 40.00511,
     "lng": 116.337
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-城华园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 95.2,
     "lat": 40.009556,
     "lng": 116.345628
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-城华园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 96.2,
     "lat": 40.009556,
     "lng": 116.345628
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-清华东路",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 120.8,
     "lat": 40.000298,
     "lng": 116.343992
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-逸成东苑",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 103.2,
     "lat": 40.012466,
     "lng": 116.344338
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-双泉嘉苑",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 134.9,
     "lat": 40.010372,
     "lng": 116.352041
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-清枫华景园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 125.2,
     "lat": 40.008966,
     "lng": 116.342448
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-城华园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 89.4,
     "lat": 40.009556,
     "lng": 116.345628
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-清枫华景园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 98.5,
     "lat": 40.008966,
     "lng": 116.342448
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-林大北路",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 102.4,
     "lat": 40.007971,
     "lng": 116.343397
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-城华园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 96.5,
     "lat": 40.009556,
     "lng": 116.345628
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-静淑苑",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 117.7,
     "lat": 40.005754,
     "lng": 116.34289
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-双泉嘉苑",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 126.1,
     "lat": 40.010372,
     "lng": 116.352041
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-双泉嘉苑",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 107.8,
     "lat": 40.010372,
     "lng": 116.352041
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-八家嘉园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 107.0,
     "lat": 40.013816,
     "lng": 116.334268
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-八家嘉园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 103.4,
     "lat": 40.013816,
     "lng": 116.334268
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-双泉嘉苑",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 132.6,
     "lat": 40.010372,
     "lng": 116.352041
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-双清路",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 105.8,
     "lat": 40.006437,
     "lng": 116.336122
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-建清园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 104.7,
     "lat": 40.013566,
     "lng": 116.340708
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-逸成东苑",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 108.0,
     "lat": 40.012466,
     "lng": 116.344338
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-富润家园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 106.9,
     "lat": 39.998577,
     "lng": 116.348102
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-学知轩",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 89.1,
     "lat": 40.010876,
     "lng": 116.34675
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-建清园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 131.0,
     "lat": 40.013566,
     "lng": 116.340708
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-城华园",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 119.6,
     "lat": 40.009556,
     "lng": 116.345628
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-逸成东苑",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 107.8,
     "lat": 40.012466,
     "lng": 116.344338
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "海淀区-学院路-双泉嘉苑",
     "scraped_at": "2026-05-02 21:18:00",
-    "region": "xueyuanlu1",
+    "region": "学院路",
     "unit_price": 141.4,
     "lat": 40.010372,
     "lng": 116.352041

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-石景山路",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 94.2,
     "lat": 39.907616,
     "lng": 116.206818
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 54.0,
     "lat": 39.908129,
     "lng": 116.218344
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山西里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 73.6,
     "lat": 39.908794,
     "lng": 116.215229
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-石景山路",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 62.5,
     "lat": 39.907616,
     "lng": 116.206818
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 71.8,
     "lat": 39.908129,
     "lng": 116.218344
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": "",
     "lat": 39.875182,
     "lng": 116.317333
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山西里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 78.6,
     "lat": 39.908794,
     "lng": 116.215229
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 61.7,
     "lat": 39.908129,
     "lng": 116.218344
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 69.4,
     "lat": 39.908129,
     "lng": 116.218344
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 84.6,
     "lat": 39.908129,
     "lng": 116.218344
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山西里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 81.6,
     "lat": 39.908794,
     "lng": 116.215229
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 71.5,
     "lat": 39.908129,
     "lng": 116.218344
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-石景山路",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 68.1,
     "lat": 39.907616,
     "lng": 116.206818
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-石景山路",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 63.1,
     "lat": 39.907616,
     "lng": 116.206818
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山西里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 72.1,
     "lat": 39.908794,
     "lng": 116.215229
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 123.3,
     "lat": 39.919157,
     "lng": 116.454167
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-石景山路",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 54.6,
     "lat": 39.907616,
     "lng": 116.206818
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 75.6,
     "lat": 39.908129,
     "lng": 116.218344
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 78.9,
     "lat": 39.908129,
     "lng": 116.218344
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 80.0,
     "lat": 39.908129,
     "lng": 116.218344
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-石景山路",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 55.1,
     "lat": 39.907616,
     "lng": 116.206818
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山西里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 72.3,
     "lat": 39.908794,
     "lng": 116.215229
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山西里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 76.9,
     "lat": 39.908794,
     "lng": 116.215229
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-石景山路",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 49.2,
     "lat": 39.907616,
     "lng": 116.206818
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山西里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 72.5,
     "lat": 39.908794,
     "lng": 116.215229
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山西里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 70.3,
     "lat": 39.908794,
     "lng": 116.215229
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 116.0,
     "lat": 39.76766,
     "lng": 116.02877
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-石景山路",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 99.6,
     "lat": 39.907616,
     "lng": 116.206818
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "石景山区-老山-老山东里",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 77.8,
     "lat": 39.908129,
     "lng": 116.218344
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:23:07",
-    "region": "laoshan1",
+    "region": "老山",
     "unit_price": 99.3,
     "lat": 40.224861,
     "lng": 116.277663

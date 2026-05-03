@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙家园二期",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 110.4,
     "lat": 39.962006,
     "lng": 116.429708
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙家园二期",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 112.6,
     "lat": 39.962006,
     "lng": 116.429708
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙家园一期",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 105.8,
     "lat": 39.962006,
     "lng": 116.429708
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙门北里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 104.5,
     "lat": 39.962006,
     "lng": 116.429708
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河中里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 107.4,
     "lat": 39.966766,
     "lng": 116.429868
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-国展新座",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 102.1,
     "lat": 39.966525,
     "lng": 116.431868
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-圣馨家园",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 113.8,
     "lat": 39.966525,
     "lng": 116.431868
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙家园三期",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 132.3,
     "lat": 39.962006,
     "lng": 116.429708
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-国展新座",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 89.4,
     "lat": 39.966525,
     "lng": 116.431868
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河东里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 110.1,
     "lat": 39.966525,
     "lng": 116.431868
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河北里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 100.8,
     "lat": 39.972113,
     "lng": 116.43229
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-英特公寓",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 68.6,
     "lat": 39.966525,
     "lng": 116.431868
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙家园一期",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 116.0,
     "lat": 39.962006,
     "lng": 116.429708
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-国展新座",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 85.7,
     "lat": 39.966525,
     "lng": 116.431868
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河东里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 98.0,
     "lat": 39.966525,
     "lng": 116.431868
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙门北里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 134.7,
     "lat": 39.962006,
     "lng": 116.429708
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙家园二期",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 126.2,
     "lat": 39.962006,
     "lng": 116.429708
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河西里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 113.8,
     "lat": 39.966525,
     "lng": 116.431868
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河中里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 101.9,
     "lat": 39.966766,
     "lng": 116.429868
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙家园三期",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 171.8,
     "lat": 39.962006,
     "lng": 116.429708
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河东里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 100.7,
     "lat": 39.966525,
     "lng": 116.431868
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河东里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 100.0,
     "lat": 39.966525,
     "lng": 116.431868
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-国展新座",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 93.3,
     "lat": 39.966525,
     "lng": 116.431868
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙门北里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 98.7,
     "lat": 39.962006,
     "lng": 116.429708
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-柳芳北街",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 97.0,
     "lat": 39.958956,
     "lng": 116.426458
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-国展新座",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 97.1,
     "lat": 39.966525,
     "lng": 116.431868
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-光熙家园一期",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 127.4,
     "lat": 39.962006,
     "lng": 116.429708
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河东里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 125.6,
     "lat": 39.966525,
     "lng": 116.431868
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河北里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 126.1,
     "lat": 39.972113,
     "lng": 116.43229
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-西坝河-西坝河西里",
     "scraped_at": "2026-05-02 21:18:05",
-    "region": "xibahe",
+    "region": "西坝河",
     "unit_price": 108.0,
     "lat": 39.966525,
     "lng": 116.431868

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-天怡福园",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 65.9,
     "lat": 39.850081,
     "lng": 116.431368
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-福臻家园北区",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 68.6,
     "lat": 39.853669,
     "lng": 116.4278
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄小区",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 76.2,
     "lat": 39.85682,
     "lng": 116.428404
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府二期",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 151.9,
     "lat": 39.83984,
     "lng": 116.42329
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-翠庭园",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 56.5,
     "lat": 39.846236,
     "lng": 116.431208
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 121.7,
     "lat": 39.851987,
     "lng": 116.432421
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园三区",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 93.7,
     "lat": 39.843912,
     "lng": 116.424606
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-尚三环",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 71.8,
     "lat": 39.847716,
     "lng": 116.426938
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-华芳嘉园",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 68.1,
     "lat": 39.850233,
     "lng": 116.428312
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 84.0,
     "lat": 39.849653,
     "lng": 116.432204
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政怡家园",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 74.6,
     "lat": 39.851716,
     "lng": 116.424843
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 102.4,
     "lat": 39.856506,
     "lng": 116.430368
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀金瑞家园",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 81.8,
     "lat": 39.839106,
     "lng": 116.424918
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-宋庄路甲",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 68.3,
     "lat": 39.850417,
     "lng": 116.422545
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-日新家园",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 53.7,
     "lat": 39.838307,
     "lng": 116.419221
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方安苑",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 66.3,
     "lat": 39.856026,
     "lng": 116.430818
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-安馨家苑",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 85.5,
     "lat": 39.844525,
     "lng": 116.422186
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-宋庄欣园小区",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 73.5,
     "lat": 39.871651,
     "lng": 116.323358
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-尚三环",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 74.1,
     "lat": 39.847716,
     "lng": 116.426938
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-福臻家园南区",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 78.2,
     "lat": 39.852184,
     "lng": 116.427785
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 61.6,
     "lat": 39.856506,
     "lng": 116.430368
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政怡家园",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 73.3,
     "lat": 39.851716,
     "lng": 116.424843
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顺八条",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 72.0,
     "lat": 39.848418,
     "lng": 116.426754
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顺八条",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 70.0,
     "lat": 39.848418,
     "lng": 116.426754
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-尚三环",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 73.8,
     "lat": 39.847716,
     "lng": 116.426938
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 125.2,
     "lat": 39.848755,
     "lng": 116.426702
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-胜利家园西区小区",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 76.2,
     "lat": 39.844525,
     "lng": 116.422186
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条甲",
     "scraped_at": "2026-05-02 20:57:45",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 64.5,
     "lat": 39.849302,
     "lng": 116.429881
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-日新家园",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 66.2,
     "lat": 39.838307,
     "lng": 116.419221
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园二区",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 76.7,
     "lat": 39.845875,
     "lng": 116.425702
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-润都大厦",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 108.5,
     "lat": 39.854606,
     "lng": 116.430868
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄小区",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 74.1,
     "lat": 39.85682,
     "lng": 116.428404
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方于路",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 61.0,
     "lat": 39.84958,
     "lng": 116.4313
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方安苑",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 70.1,
     "lat": 39.856026,
     "lng": 116.430818
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-福臻家园南区",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 75.5,
     "lat": 39.852184,
     "lng": 116.427785
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 73.5,
     "lat": 39.849653,
     "lng": 116.432204
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 64.7,
     "lat": 39.849653,
     "lng": 116.432204
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-胜利家园西区小区",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 77.8,
     "lat": 39.844525,
     "lng": 116.422186
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-翠庭园",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 86.6,
     "lat": 39.846236,
     "lng": 116.431208
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顺八条",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 71.3,
     "lat": 39.848418,
     "lng": 116.426754
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-安馨家苑",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 72.2,
     "lat": 39.844525,
     "lng": 116.422186
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-尚三环",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 73.5,
     "lat": 39.847716,
     "lng": 116.426938
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顺八条",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 62.2,
     "lat": 39.848418,
     "lng": 116.426754
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀金瑞家园",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 113.3,
     "lat": 39.839106,
     "lng": 116.424918
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-映天朗",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 68.0,
     "lat": 39.850495,
     "lng": 116.424169
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 74.7,
     "lat": 39.849653,
     "lng": 116.432204
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 84.6,
     "lat": 39.854601,
     "lng": 116.429101
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方安苑",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 56.4,
     "lat": 39.856026,
     "lng": 116.430818
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 101.4,
     "lat": 39.83984,
     "lng": 116.42329
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园一区",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 66.0,
     "lat": 39.84781,
     "lng": 116.42633
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方安苑",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 59.8,
     "lat": 39.856026,
     "lng": 116.430818
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 91.5,
     "lat": 39.856506,
     "lng": 116.430368
@@ -1001,7 +1001,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 131.2,
     "lat": 39.844871,
     "lng": 116.424194
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 65.4,
     "lat": 39.847483,
     "lng": 116.427715
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政怡家园",
     "scraped_at": "2026-05-02 20:57:48",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 92.8,
     "lat": 39.851716,
     "lng": 116.424843
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-日新家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 69.0,
     "lat": 39.838307,
     "lng": 116.419221
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方安苑",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 62.2,
     "lat": 39.856026,
     "lng": 116.430818
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-安馨家苑",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 70.0,
     "lat": 39.844525,
     "lng": 116.422186
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 141.6,
     "lat": 39.844525,
     "lng": 116.422186
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园一区",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 96.4,
     "lat": 39.84781,
     "lng": 116.42633
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀金石家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 89.7,
     "lat": 39.839106,
     "lng": 116.424918
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方于路",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 68.2,
     "lat": 39.84958,
     "lng": 116.4313
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 87.7,
     "lat": 39.856506,
     "lng": 116.430368
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-尚三环",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 74.3,
     "lat": 39.847716,
     "lng": 116.426938
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-日新家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 75.1,
     "lat": 39.838307,
     "lng": 116.419221
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政怡家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 72.7,
     "lat": 39.851716,
     "lng": 116.424843
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-宋庄欣园小区",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 78.0,
     "lat": 39.871651,
     "lng": 116.323358
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 93.7,
     "lat": 39.849653,
     "lng": 116.432204
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顺八条",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 61.1,
     "lat": 39.848418,
     "lng": 116.426754
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-日新家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 79.1,
     "lat": 39.838307,
     "lng": 116.419221
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方泽园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 86.1,
     "lat": 39.852229,
     "lng": 116.430456
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顺八条",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 66.4,
     "lat": 39.848418,
     "lng": 116.426754
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-红狮家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 80.8,
     "lat": 39.846719,
     "lng": 116.423734
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园二区",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 109.4,
     "lat": 39.845875,
     "lng": 116.425702
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-润都大厦",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 89.7,
     "lat": 39.854606,
     "lng": 116.430868
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-万科红",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 99.2,
     "lat": 39.844871,
     "lng": 116.424194
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政怡家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 80.2,
     "lat": 39.851716,
     "lng": 116.424843
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园二区",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 99.6,
     "lat": 39.845875,
     "lng": 116.425702
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政怡家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 64.1,
     "lat": 39.851716,
     "lng": 116.424843
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园一区",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 84.6,
     "lat": 39.84781,
     "lng": 116.42633
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政怡家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 73.0,
     "lat": 39.851716,
     "lng": 116.424843
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政怡家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 56.3,
     "lat": 39.851716,
     "lng": 116.424843
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-红狮家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 91.2,
     "lat": 39.846719,
     "lng": 116.423734
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:57:50",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 99.0,
     "lat": 39.856506,
     "lng": 116.430368
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 101.1,
     "lat": 39.83984,
     "lng": 116.42329
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-日新家园",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 60.7,
     "lat": 39.838307,
     "lng": 116.419221
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-宋庄路",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 85.0,
     "lat": 39.846719,
     "lng": 116.423734
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 66.7,
     "lat": 39.847483,
     "lng": 116.427715
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀欣园东苑",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 76.6,
     "lat": 39.83607,
     "lng": 116.42251
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-日新家园",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 71.0,
     "lat": 39.838307,
     "lng": 116.419221
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-翠庭园",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 63.6,
     "lat": 39.846236,
     "lng": 116.431208
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄小区",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 81.8,
     "lat": 39.85682,
     "lng": 116.428404
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-胜利家园西区小区",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 87.6,
     "lat": 39.844525,
     "lng": 116.422186
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府二期",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 180.5,
     "lat": 39.83984,
     "lng": 116.42329
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-安馨家苑",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 77.5,
     "lat": 39.844525,
     "lng": 116.422186
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-胜利家园西区小区",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 70.9,
     "lat": 39.844525,
     "lng": 116.422186
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-宋庄欣园小区",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 83.3,
     "lat": 39.871651,
     "lng": 116.323358
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 114.3,
     "lat": 39.83984,
     "lng": 116.42329
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 71.3,
     "lat": 39.847483,
     "lng": 116.427715
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 86.6,
     "lat": 39.856506,
     "lng": 116.430368
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 96.3,
     "lat": 39.856506,
     "lng": 116.430368
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄小区",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 83.2,
     "lat": 39.85682,
     "lng": 116.428404
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 92.2,
     "lat": 39.856506,
     "lng": 116.430368
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园一区",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 79.2,
     "lat": 39.84781,
     "lng": 116.42633
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 89.3,
     "lat": 39.847483,
     "lng": 116.427715
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 69.9,
     "lat": 39.855594,
     "lng": 116.43084
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府二期",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 148.4,
     "lat": 39.83984,
     "lng": 116.42329
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-天怡福园",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 73.3,
     "lat": 39.850081,
     "lng": 116.431368
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-宋庄路",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 84.1,
     "lat": 39.852036,
     "lng": 116.423558
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 90.4,
     "lat": 39.847483,
     "lng": 116.427715
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 65.2,
     "lat": 39.849653,
     "lng": 116.432204
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄小区",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 81.2,
     "lat": 39.85682,
     "lng": 116.428404
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-华芳嘉园",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 67.6,
     "lat": 39.850233,
     "lng": 116.428312
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:57:53",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 76.0,
     "lat": 39.847483,
     "lng": 116.427715
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 78.4,
     "lat": 39.847483,
     "lng": 116.427715
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-宋庄路",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 89.3,
     "lat": 39.852036,
     "lng": 116.423558
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀欣园东苑",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 70.6,
     "lat": 39.83607,
     "lng": 116.42251
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 105.3,
     "lat": 39.849653,
     "lng": 116.432204
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄小区",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 82.1,
     "lat": 39.85682,
     "lng": 116.428404
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-万科红",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 97.6,
     "lat": 39.844871,
     "lng": 116.424194
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-安馨家苑",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 98.0,
     "lat": 39.844525,
     "lng": 116.422186
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀欣园东苑",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 81.0,
     "lat": 39.83607,
     "lng": 116.42251
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-翠庭园",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 70.9,
     "lat": 39.846236,
     "lng": 116.431208
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方泽园",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 74.3,
     "lat": 39.852229,
     "lng": 116.430456
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 76.3,
     "lat": 39.847483,
     "lng": 116.427715
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀欣园东苑",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 87.8,
     "lat": 39.83607,
     "lng": 116.42251
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀金石家园",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 86.2,
     "lat": 39.839106,
     "lng": 116.424918
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-红狮家园",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 76.3,
     "lat": 39.846719,
     "lng": 116.423734
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀欣园东苑",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 78.3,
     "lat": 39.83607,
     "lng": 116.42251
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园一区",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 99.2,
     "lat": 39.84781,
     "lng": 116.42633
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄甲",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 73.9,
     "lat": 39.854812,
     "lng": 116.43003
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-天怡福园",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 72.2,
     "lat": 39.850081,
     "lng": 116.431368
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-华芳嘉园",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 58.8,
     "lat": 39.850233,
     "lng": 116.428312
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 62.5,
     "lat": 39.849653,
     "lng": 116.432204
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府二期",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 149.5,
     "lat": 39.83984,
     "lng": 116.42329
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-南方庄",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 65.2,
     "lat": 39.855594,
     "lng": 116.43084
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园一区",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 81.9,
     "lat": 39.84781,
     "lng": 116.42633
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-红狮家园",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 74.2,
     "lat": 39.846719,
     "lng": 116.423734
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-宋庄路",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 85.8,
     "lat": 39.846719,
     "lng": 116.423734
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 92.9,
     "lat": 39.847483,
     "lng": 116.427715
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园一区",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 98.1,
     "lat": 39.84781,
     "lng": 116.42633
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园一区",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 88.7,
     "lat": 39.84781,
     "lng": 116.42633
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:57:56",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 122.5,
     "lat": 39.849653,
     "lng": 116.432204
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府二期",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 140.8,
     "lat": 39.83984,
     "lng": 116.42329
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方安苑",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 53.3,
     "lat": 39.856026,
     "lng": 116.430818
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 68.1,
     "lat": 39.856506,
     "lng": 116.430368
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 74.4,
     "lat": 39.847483,
     "lng": 116.427715
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-万科红",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 93.9,
     "lat": 39.844871,
     "lng": 116.424194
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-宋庄欣园小区",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 83.3,
     "lat": 39.871651,
     "lng": 116.323358
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 72.4,
     "lat": 39.847483,
     "lng": 116.427715
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 79.2,
     "lat": 39.849653,
     "lng": 116.432204
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园一区",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 79.1,
     "lat": 39.84781,
     "lng": 116.42633
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-万科红",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 104.4,
     "lat": 39.844871,
     "lng": 116.424194
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方安苑",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 61.5,
     "lat": 39.856026,
     "lng": 116.430818
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-安馨家苑",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 78.8,
     "lat": 39.844525,
     "lng": 116.422186
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-润都大厦",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 113.9,
     "lat": 39.854606,
     "lng": 116.430868
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-北京金茂府二期",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 176.7,
     "lat": 39.83984,
     "lng": 116.42329
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-横一条",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 80.4,
     "lat": 39.847483,
     "lng": 116.427715
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 109.7,
     "lat": 39.849653,
     "lng": 116.432204
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 113.8,
     "lat": 39.849653,
     "lng": 116.432204
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 63.1,
     "lat": 39.856506,
     "lng": 116.430368
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-政馨园二区",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 83.9,
     "lat": 39.845875,
     "lng": 116.425702
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀金瑞家园",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 85.7,
     "lat": 39.839106,
     "lng": 116.424918
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-映天朗",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 78.7,
     "lat": 39.850495,
     "lng": 116.424169
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-顶秀金瑞家园",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 88.3,
     "lat": 39.839106,
     "lng": 116.424918
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-润都大厦",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 100.0,
     "lat": 39.854606,
     "lng": 116.430868
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 62.1,
     "lat": 39.856506,
     "lng": 116.430368
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-万科红",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 107.8,
     "lat": 39.844871,
     "lng": 116.424194
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-世纪星家园",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 67.7,
     "lat": 39.856506,
     "lng": 116.430368
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-方恒偶寓",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 112.9,
     "lat": 39.849653,
     "lng": 116.432204
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-润都大厦",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 111.1,
     "lat": 39.854606,
     "lng": 116.430868
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-润都大厦",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 111.1,
     "lat": 39.854606,
     "lng": 116.430868
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "丰台区-宋家庄-红狮家园",
     "scraped_at": "2026-05-02 20:58:00",
-    "region": "songjiazhuang",
+    "region": "宋家庄",
     "unit_price": 72.9,
     "lat": 39.846719,
     "lng": 116.423734

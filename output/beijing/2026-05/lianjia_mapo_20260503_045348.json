@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.3,
     "lat": 40.178142,
     "lng": 116.645052
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中铁花溪渡",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.5,
     "lat": 40.182358,
     "lng": 116.65336
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.7,
     "lat": 40.176756,
     "lng": 116.648868
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步二区",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.8,
     "lat": 40.202579,
     "lng": 116.658502
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 42.4,
     "lat": 40.178735,
     "lng": 116.645917
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 59.8,
     "lat": 40.172556,
     "lng": 116.646038
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.7,
     "lat": 40.178735,
     "lng": 116.645917
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.2,
     "lat": 40.171536,
     "lng": 116.648088
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.0,
     "lat": 40.178142,
     "lng": 116.645052
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.9,
     "lat": 40.178142,
     "lng": 116.645052
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 42.7,
     "lat": 40.178735,
     "lng": 116.645917
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-维顺家园",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.3,
     "lat": 40.172556,
     "lng": 116.646038
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 23.6,
     "lat": 40.178142,
     "lng": 116.645052
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 39.6,
     "lat": 40.178735,
     "lng": 116.645917
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.0,
     "lat": 40.177526,
     "lng": 116.656443
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 69.5,
     "lat": 40.178735,
     "lng": 116.645917
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.2,
     "lat": 40.178142,
     "lng": 116.645052
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.0,
     "lat": 40.178142,
     "lng": 116.645052
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 50.0,
     "lat": 40.159379,
     "lng": 116.659231
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步二区",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.0,
     "lat": 40.202579,
     "lng": 116.658502
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-合景昕悦",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 46.8,
     "lat": 40.172556,
     "lng": 116.646038
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.0,
     "lat": 40.177859,
     "lng": 116.656378
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.9,
     "lat": 40.178735,
     "lng": 116.645917
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.3,
     "lat": 40.178142,
     "lng": 116.645052
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖大名居",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 22.3,
     "lat": 40.172556,
     "lng": 116.646038
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.0,
     "lat": 40.178735,
     "lng": 116.645917
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 63.8,
     "lat": 40.172556,
     "lng": 116.646038
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中铁花溪渡",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.9,
     "lat": 40.182358,
     "lng": 116.65336
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.7,
     "lat": 40.171536,
     "lng": 116.648088
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 22:59:45",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.1,
     "lat": 40.173757,
     "lng": 116.646137
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首创悦溪汇",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.4,
     "lat": 40.172556,
     "lng": 116.646038
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步二区",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.8,
     "lat": 40.202579,
     "lng": 116.658502
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新城国誉府",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 44.6,
     "lat": 40.175143,
     "lng": 116.644324
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.7,
     "lat": 40.175143,
     "lng": 116.644324
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 67.6,
     "lat": 40.178735,
     "lng": 116.645917
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.6,
     "lat": 40.170706,
     "lng": 116.656488
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中铁花溪渡",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.8,
     "lat": 40.182358,
     "lng": 116.65336
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:01:07",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.1,
     "lat": 40.185636,
     "lng": 116.606608
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-合景昕悦",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.9,
     "lat": 40.172556,
     "lng": 116.646038
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 65.6,
     "lat": 40.040039,
     "lng": 116.56117
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑小区四号院",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.3,
     "lat": 40.161052,
     "lng": 116.637834
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华湖公馆",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.4,
     "lat": 40.177526,
     "lng": 116.656443
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 39.1,
     "lat": 40.175143,
     "lng": 116.644324
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 55.8,
     "lat": 40.178735,
     "lng": 116.645917
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 53.6,
     "lat": 40.172556,
     "lng": 116.646038
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 41.7,
     "lat": 40.173757,
     "lng": 116.646137
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑小区四号院",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.2,
     "lat": 40.161052,
     "lng": 116.637834
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.6,
     "lat": 40.182428,
     "lng": 116.645586
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.6,
     "lat": 40.204426,
     "lng": 116.664598
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.2,
     "lat": 40.178142,
     "lng": 116.645052
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖北区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 24.6,
     "lat": 40.202563,
     "lng": 116.64999
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.2,
     "lat": 40.178142,
     "lng": 116.645052
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸北区",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.3,
     "lat": 40.206846,
     "lng": 116.664158
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.7,
     "lat": 40.161052,
     "lng": 116.637834
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.8,
     "lat": 40.175143,
     "lng": 116.644324
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 63.6,
     "lat": 40.172556,
     "lng": 116.646038
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.3,
     "lat": 40.204426,
     "lng": 116.664598
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步二区",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.3,
     "lat": 40.202579,
     "lng": 116.658502
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 22:59:49",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 72.6,
     "lat": 40.178735,
     "lng": 116.645917
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 27.7,
     "lat": 40.171536,
     "lng": 116.648088
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.2,
     "lat": 40.178735,
     "lng": 116.645917
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 44.8,
     "lat": 40.178735,
     "lng": 116.645917
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 46.9,
     "lat": 40.178735,
     "lng": 116.645917
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 47.8,
     "lat": 40.172556,
     "lng": 116.646038
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.8,
     "lat": 40.161052,
     "lng": 116.637834
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖北区",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.8,
     "lat": 40.202563,
     "lng": 116.64999
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.5,
     "lat": 40.173757,
     "lng": 116.646137
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.5,
     "lat": 40.178735,
     "lng": 116.645917
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-富力湾",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 69.9,
     "lat": 40.172556,
     "lng": 116.646038
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 42.4,
     "lat": 40.178735,
     "lng": 116.645917
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 24.6,
     "lat": 40.177526,
     "lng": 116.656443
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.4,
     "lat": 40.178142,
     "lng": 116.645052
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸北区",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.4,
     "lat": 40.206846,
     "lng": 116.664158
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 57.5,
     "lat": 40.179106,
     "lng": 116.602498
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首创悦溪汇",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.7,
     "lat": 40.172556,
     "lng": 116.646038
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.9,
     "lat": 40.185636,
     "lng": 116.606608
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 39.6,
     "lat": 40.182428,
     "lng": 116.645586
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-泰和宜园",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.0,
     "lat": 40.175181,
     "lng": 116.645568
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 53.5,
     "lat": 40.165841,
     "lng": 116.664869
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 39.5,
     "lat": 40.182428,
     "lng": 116.645586
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.3,
     "lat": 40.173757,
     "lng": 116.646137
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.5,
     "lat": 40.178142,
     "lng": 116.645052
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:01:07",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.4,
     "lat": 40.178142,
     "lng": 116.645052
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.0,
     "lat": 40.178142,
     "lng": 116.645052
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 52.7,
     "lat": 40.172556,
     "lng": 116.646038
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.6,
     "lat": 40.204426,
     "lng": 116.664598
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.0,
     "lat": 40.171536,
     "lng": 116.648088
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 22:59:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 69.1,
     "lat": 40.178735,
     "lng": 116.645917
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-安乐家园",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.0,
     "lat": 40.155885,
     "lng": 116.606892
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.2,
     "lat": 40.204426,
     "lng": 116.664598
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 58.1,
     "lat": 40.172556,
     "lng": 116.646038
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.3,
     "lat": 40.176756,
     "lng": 116.648868
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 49.6,
     "lat": 40.178735,
     "lng": 116.645917
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 22.4,
     "lat": 40.171536,
     "lng": 116.648088
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-合景昕悦",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.8,
     "lat": 40.172556,
     "lng": 116.646038
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-富力湾",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 18.4,
     "lat": 40.172556,
     "lng": 116.646038
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 21.7,
     "lat": 40.171536,
     "lng": 116.648088
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.8,
     "lat": 40.173757,
     "lng": 116.646137
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 60.9,
     "lat": 40.172556,
     "lng": 116.646038
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.0,
     "lat": 40.178142,
     "lng": 116.645052
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.9,
     "lat": 40.185636,
     "lng": 116.606608
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华湖公馆",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.2,
     "lat": 40.177526,
     "lng": 116.656443
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.2,
     "lat": 40.176756,
     "lng": 116.648868
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华湖公馆",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.6,
     "lat": 40.177526,
     "lng": 116.656443
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 54.6,
     "lat": 40.178735,
     "lng": 116.645917
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒大上和府",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 45.7,
     "lat": 40.177526,
     "lng": 116.656443
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-北辰墅院",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.9,
     "lat": 40.164459,
     "lng": 116.636473
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.3,
     "lat": 40.173757,
     "lng": 116.646137
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝花园北区",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.6,
     "lat": 40.177859,
     "lng": 116.656378
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 62.2,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步一区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.5,
     "lat": 40.202377,
     "lng": 116.661938
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 49.7,
     "lat": 40.177859,
     "lng": 116.656378
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:55",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 59.8,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑小区一号院",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 41.8,
     "lat": 40.161052,
     "lng": 116.637834
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.0,
     "lat": 40.185636,
     "lng": 116.606608
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 45.7,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒大上和府",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 47.4,
     "lat": 40.177526,
     "lng": 116.656443
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 59.6,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-合景昕悦",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 47.0,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.8,
     "lat": 40.173757,
     "lng": 116.646137
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新城国誉府",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 47.5,
     "lat": 40.175143,
     "lng": 116.644324
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.9,
     "lat": 40.173757,
     "lng": 116.646137
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.7,
     "lat": 40.178142,
     "lng": 116.645052
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.1,
     "lat": 40.173757,
     "lng": 116.646137
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.4,
     "lat": 40.170706,
     "lng": 116.656488
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.3,
     "lat": 40.161052,
     "lng": 116.637834
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.9,
     "lat": 40.178735,
     "lng": 116.645917
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 44.2,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.8,
     "lat": 40.178142,
     "lng": 116.645052
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.7,
     "lat": 40.178142,
     "lng": 116.645052
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 25.7,
     "lat": 40.173757,
     "lng": 116.646137
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.8,
     "lat": 40.178735,
     "lng": 116.645917
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.8,
     "lat": 40.178735,
     "lng": 116.645917
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.9,
     "lat": 40.173757,
     "lng": 116.646137
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.7,
     "lat": 40.170706,
     "lng": 116.656488
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.2,
     "lat": 40.178735,
     "lng": 116.645917
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步一区",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 78.4,
     "lat": 40.202377,
     "lng": 116.661938
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.5,
     "lat": 40.182428,
     "lng": 116.645586
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首创悦溪汇",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 25.3,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步一区",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.0,
     "lat": 40.202377,
     "lng": 116.661938
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 22:59:59",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.0,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.0,
     "lat": 40.178735,
     "lng": 116.645917
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.9,
     "lat": 40.178142,
     "lng": 116.645052
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-泰和宜园",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 47.7,
     "lat": 40.175181,
     "lng": 116.645568
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.3,
     "lat": 40.173757,
     "lng": 116.646137
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.4,
     "lat": 40.178735,
     "lng": 116.645917
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸北区",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 63.3,
     "lat": 40.206846,
     "lng": 116.664158
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 27.6,
     "lat": 40.178735,
     "lng": 116.645917
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 41.7,
     "lat": 40.178735,
     "lng": 116.645917
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.3,
     "lat": 40.182428,
     "lng": 116.645586
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步一区",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.7,
     "lat": 40.202377,
     "lng": 116.661938
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-合景昕悦",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 61.2,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.2,
     "lat": 40.178142,
     "lng": 116.645052
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.4,
     "lat": 40.175143,
     "lng": 116.644324
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 44.2,
     "lat": 40.178142,
     "lng": 116.645052
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.2,
     "lat": 40.175143,
     "lng": 116.644324
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖大名居",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.3,
     "lat": 40.172556,
     "lng": 116.646038
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.1,
     "lat": 40.178142,
     "lng": 116.645052
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.0,
     "lat": 40.182428,
     "lng": 116.645586
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.4,
     "lat": 40.178142,
     "lng": 116.645052
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-纳帕尔湾",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 58.4,
     "lat": 40.172556,
     "lng": 116.646038
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-合景昕悦",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.5,
     "lat": 40.172556,
     "lng": 116.646038
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首创悦溪汇",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.0,
     "lat": 40.172556,
     "lng": 116.646038
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝城南区",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.9,
     "lat": 40.177526,
     "lng": 116.656443
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝花园北区",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.1,
     "lat": 40.177859,
     "lng": 116.656378
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.7,
     "lat": 40.165841,
     "lng": 116.664869
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 45.5,
     "lat": 40.178735,
     "lng": 116.645917
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-张庄家园",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 27.7,
     "lat": 40.172556,
     "lng": 116.646038
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.2,
     "lat": 40.185636,
     "lng": 116.606608
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝花园北区",
     "scraped_at": "2026-05-02 23:00:01",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.9,
     "lat": 40.177859,
     "lng": 116.656378
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 73.2,
     "lat": 40.165841,
     "lng": 116.664869
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖北区",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.8,
     "lat": 40.202563,
     "lng": 116.64999
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-泰和宜园",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.2,
     "lat": 40.175181,
     "lng": 116.645568
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.0,
     "lat": 40.171536,
     "lng": 116.648088
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.8,
     "lat": 40.175143,
     "lng": 116.644324
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-泰和宜园",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.3,
     "lat": 40.175181,
     "lng": 116.645568
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟馨苑",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 41.5,
     "lat": 40.172556,
     "lng": 116.646038
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-合景昕悦",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 42.3,
     "lat": 40.172556,
     "lng": 116.646038
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.2,
     "lat": 40.175143,
     "lng": 116.644324
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 47.4,
     "lat": 40.178735,
     "lng": 116.645917
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.6,
     "lat": 40.178142,
     "lng": 116.645052
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.8,
     "lat": 40.178142,
     "lng": 116.645052
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 46.0,
     "lat": 40.185636,
     "lng": 116.606608
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华湖公馆",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 42.3,
     "lat": 40.177526,
     "lng": 116.656443
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.0,
     "lat": 40.185636,
     "lng": 116.606608
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.8,
     "lat": 40.178735,
     "lng": 116.645917
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.7,
     "lat": 40.178735,
     "lng": 116.645917
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.9,
     "lat": 40.182428,
     "lng": 116.645586
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 42.0,
     "lat": 40.182428,
     "lng": 116.645586
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:05",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.5,
     "lat": 40.175143,
     "lng": 116.644324
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖北区",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.6,
     "lat": 40.202563,
     "lng": 116.64999
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安納广场",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 53.5,
     "lat": 40.177526,
     "lng": 116.656443
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑小区四号院",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.5,
     "lat": 40.161052,
     "lng": 116.637834
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.1,
     "lat": 40.178735,
     "lng": 116.645917
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 39.9,
     "lat": 40.175143,
     "lng": 116.644324
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.0,
     "lat": 40.177526,
     "lng": 116.656443
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.7,
     "lat": 40.178142,
     "lng": 116.645052
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.0,
     "lat": 40.173757,
     "lng": 116.646137
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-泰和宜园",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.2,
     "lat": 40.175181,
     "lng": 116.645568
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖北区",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 24.7,
     "lat": 40.202563,
     "lng": 116.64999
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.6,
     "lat": 40.185636,
     "lng": 116.606608
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 50.0,
     "lat": 40.185636,
     "lng": 116.606608
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑小区一号院",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.3,
     "lat": 40.161052,
     "lng": 116.637834
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:09",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.2,
     "lat": 40.182428,
     "lng": 116.645586
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 50.0,
     "lat": 40.178735,
     "lng": 116.645917
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖北区",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.0,
     "lat": 40.202563,
     "lng": 116.64999
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中铁花溪渡",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.7,
     "lat": 40.182358,
     "lng": 116.65336
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华湖公馆",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 39.5,
     "lat": 40.177526,
     "lng": 116.656443
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华湖公馆",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.7,
     "lat": 40.177526,
     "lng": 116.656443
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.5,
     "lat": 40.170706,
     "lng": 116.656488
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安纳湖",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.8,
     "lat": 40.177526,
     "lng": 116.656443
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑小区四号院",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.0,
     "lat": 40.161052,
     "lng": 116.637834
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 50.0,
     "lat": 40.173757,
     "lng": 116.646137
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步二区",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 63.6,
     "lat": 40.202579,
     "lng": 116.658502
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-璞瑅润府",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 71.4,
     "lat": 40.172556,
     "lng": 116.646038
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中铁花溪渡",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 22.8,
     "lat": 40.182358,
     "lng": 116.65336
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-北辰墅院",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.1,
     "lat": 40.164459,
     "lng": 116.636473
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-富力湾",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 23.3,
     "lat": 40.172556,
     "lng": 116.646038
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 23:00:12",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 21.9,
     "lat": 40.171536,
     "lng": 116.648088
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.1,
     "lat": 40.178142,
     "lng": 116.645052
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.4,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 54.5,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华湖公馆",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 55.5,
     "lat": 40.177526,
     "lng": 116.656443
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-张庄家园",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 27.7,
     "lat": 40.172556,
     "lng": 116.646038
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.6,
     "lat": 40.170706,
     "lng": 116.656488
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 42.1,
     "lat": 40.178142,
     "lng": 116.645052
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中铁花溪渡",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 42.4,
     "lat": 40.182358,
     "lng": 116.65336
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 25.4,
     "lat": 40.176756,
     "lng": 116.648868
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-康乐小区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.8,
     "lat": 40.172556,
     "lng": 116.646038
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 50.0,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 76.4,
     "lat": 40.177859,
     "lng": 116.656378
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 47.2,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.3,
     "lat": 40.182428,
     "lng": 116.645586
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.8,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首创禧瑞山",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 64.0,
     "lat": 40.172556,
     "lng": 116.646038
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.7,
     "lat": 40.178142,
     "lng": 116.645052
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.8,
     "lat": 40.176756,
     "lng": 116.648868
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 58.8,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.6,
     "lat": 40.178142,
     "lng": 116.645052
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.3,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步二区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 77.5,
     "lat": 40.202579,
     "lng": 116.658502
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-恒华安納广场",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.2,
     "lat": 40.177526,
     "lng": 116.656443
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 46.4,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.5,
     "lat": 40.178142,
     "lng": 116.645052
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.0,
     "lat": 40.204426,
     "lng": 116.664598
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 51.7,
     "lat": 40.177859,
     "lng": 116.656378
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 65.8,
     "lat": 40.165841,
     "lng": 116.664869
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 44.1,
     "lat": 40.177859,
     "lng": 116.656378
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:33",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.7,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 27.5,
     "lat": 40.171536,
     "lng": 116.648088
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝花园北区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.2,
     "lat": 40.177859,
     "lng": 116.656378
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.2,
     "lat": 40.175143,
     "lng": 116.644324
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.9,
     "lat": 40.178142,
     "lng": 116.645052
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.0,
     "lat": 40.176756,
     "lng": 116.648868
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新城国誉府",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 47.1,
     "lat": 40.175143,
     "lng": 116.644324
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.6,
     "lat": 40.182428,
     "lng": 116.645586
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 52.9,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 39.9,
     "lat": 40.175143,
     "lng": 116.644324
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝花园北区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.6,
     "lat": 40.177859,
     "lng": 116.656378
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 25.3,
     "lat": 40.176756,
     "lng": 116.648868
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.5,
     "lat": 40.178735,
     "lng": 116.645917
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步二区",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 102.3,
     "lat": 40.202579,
     "lng": 116.658502
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:44",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.7,
     "lat": 40.175143,
     "lng": 116.644324
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 27.2,
     "lat": 40.176756,
     "lng": 116.648868
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.3,
     "lat": 40.173757,
     "lng": 116.646137
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 58.9,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.8,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 40.4,
     "lat": 40.173757,
     "lng": 116.646137
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖大名居",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.7,
     "lat": 40.172556,
     "lng": 116.646038
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 49.1,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-泰和宜园",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.3,
     "lat": 40.175181,
     "lng": 116.645568
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 44.8,
     "lat": 40.173757,
     "lng": 116.646137
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.5,
     "lat": 40.170706,
     "lng": 116.656488
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.6,
     "lat": 40.170706,
     "lng": 116.656488
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:48",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.6,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 44.3,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑小区四号院",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.8,
     "lat": 40.161052,
     "lng": 116.637834
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 41.1,
     "lat": 40.204426,
     "lng": 116.664598
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 50.9,
     "lat": 40.177859,
     "lng": 116.656378
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 50.6,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.0,
     "lat": 40.182428,
     "lng": 116.645586
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.6,
     "lat": 40.173757,
     "lng": 116.646137
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.5,
     "lat": 40.170706,
     "lng": 116.656488
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.7,
     "lat": 40.204426,
     "lng": 116.664598
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.3,
     "lat": 40.173757,
     "lng": 116.646137
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 39.1,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 50.0,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 29.9,
     "lat": 40.173757,
     "lng": 116.646137
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 38.9,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.9,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.0,
     "lat": 40.176756,
     "lng": 116.648868
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步三区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.3,
     "lat": 40.205096,
     "lng": 116.659198
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首创悦溪汇",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 23.9,
     "lat": 40.172556,
     "lng": 116.646038
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园一区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 27.5,
     "lat": 40.171536,
     "lng": 116.648088
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 45.5,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 19.2,
     "lat": 40.176756,
     "lng": 116.648868
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 37.2,
     "lat": 40.170706,
     "lng": 116.656488
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 42.6,
     "lat": 40.173757,
     "lng": 116.646137
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟馨苑",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 44.6,
     "lat": 40.172556,
     "lng": 116.646038
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-新马家园",
     "scraped_at": "2026-05-02 23:00:52",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.6,
     "lat": 40.175143,
     "lng": 116.644324
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-安乐家园",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.0,
     "lat": 40.155885,
     "lng": 116.606892
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中晟馨苑小区一号院",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 41.8,
     "lat": 40.161052,
     "lng": 116.637834
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步三区",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 33.5,
     "lat": 40.205096,
     "lng": 116.659198
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 46.5,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中铁花溪渡",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.8,
     "lat": 40.182358,
     "lng": 116.65336
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.6,
     "lat": 40.177859,
     "lng": 116.656378
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-鲁能",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 32.6,
     "lat": 40.178142,
     "lng": 116.645052
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍漫步一区",
     "scraped_at": "2026-05-02 23:01:07",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 49.0,
     "lat": 40.202377,
     "lng": 116.661938
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 23:01:07",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.2,
     "lat": 40.204426,
     "lng": 116.664598
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-马坡花园二区",
     "scraped_at": "2026-05-02 23:01:07",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 28.5,
     "lat": 40.176756,
     "lng": 116.648868
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 23:00:58",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 47.4,
     "lat": 40.204426,
     "lng": 116.664598
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 51.5,
     "lat": 40.178735,
     "lng": 116.645917
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺悦家园",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.8,
     "lat": 40.170706,
     "lng": 116.656488
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-顺兴街",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 35.3,
     "lat": 40.182428,
     "lng": 116.645586
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 52.0,
     "lat": 40.177859,
     "lng": 116.656378
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.9,
     "lat": 40.178735,
     "lng": 116.645917
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-中铁花溪渡",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 39.0,
     "lat": 40.182358,
     "lng": 116.65336
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 46.2,
     "lat": 40.177859,
     "lng": 116.656378
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季西区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 49.6,
     "lat": 40.178735,
     "lng": 116.645917
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-北辰墅院",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 30.4,
     "lat": 40.164459,
     "lng": 116.636473
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-泰和宜园",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 31.6,
     "lat": 40.175181,
     "lng": 116.645568
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-龙湖香醍溪岸南区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 43.6,
     "lat": 40.204426,
     "lng": 116.664598
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝花园北区",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 26.1,
     "lat": 40.177859,
     "lng": 116.656378
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-张庄家园",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 25.9,
     "lat": 40.172556,
     "lng": 116.646038
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-金宝天阶",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 48.7,
     "lat": 40.177859,
     "lng": 116.656378
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-佳和宜园",
     "scraped_at": "2026-05-02 23:01:07",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 34.3,
     "lat": 40.173757,
     "lng": 116.646137
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-兴白街",
     "scraped_at": "2026-05-02 23:01:02",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 46.8,
     "lat": 40.185636,
     "lng": 116.606608
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-首开中晟广场",
     "scraped_at": "2026-05-02 23:01:07",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 54.8,
     "lat": 40.172556,
     "lng": 116.646038
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-泰和宜园",
     "scraped_at": "2026-05-02 23:01:07",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 36.9,
     "lat": 40.175181,
     "lng": 116.645568
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "顺义区-马坡-香悦四季东区",
     "scraped_at": "2026-05-02 23:01:07",
-    "region": "mapo",
+    "region": "马坡",
     "unit_price": 55.0,
     "lat": 40.178735,
     "lng": 116.645917

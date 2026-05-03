@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 107.3,
     "lat": 40.053422,
     "lng": 116.297067
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-马连洼北路",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 91.7,
     "lat": 40.035647,
     "lng": 116.298915
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-和韵佳园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 90.0,
     "lat": 40.045856,
     "lng": 116.299078
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 105.9,
     "lat": 40.053422,
     "lng": 116.297067
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-宜品上层",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 103.9,
     "lat": 40.045856,
     "lng": 116.299078
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": "",
     "lat": 39.874882,
     "lng": 116.630125
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 88.2,
     "lat": 40.040932,
     "lng": 116.311568
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-怡美家园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 79.3,
     "lat": 40.045856,
     "lng": 116.299078
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 99.1,
     "lat": 40.053422,
     "lng": 116.297067
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 87.2,
     "lat": 40.040932,
     "lng": 116.311568
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-和韵佳园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 87.5,
     "lat": 40.045856,
     "lng": 116.299078
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 114.9,
     "lat": 40.053422,
     "lng": 116.297067
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 99.0,
     "lat": 40.040932,
     "lng": 116.311568
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 102.5,
     "lat": 40.040932,
     "lng": 116.311568
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 94.9,
     "lat": 40.053422,
     "lng": 116.297067
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": "",
     "lat": 39.91643,
     "lng": 116.446204
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-锦顺佳园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 78.6,
     "lat": 40.045856,
     "lng": 116.299078
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-颐泉汇",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 97.2,
     "lat": 40.034715,
     "lng": 116.309167
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地南路",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 75.8,
     "lat": 40.02844,
     "lng": 116.312377
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-怡美家园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 79.6,
     "lat": 40.045856,
     "lng": 116.299078
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 100.2,
     "lat": 40.051879,
     "lng": 116.295252
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-悦",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 96.5,
     "lat": 40.042708,
     "lng": 116.308709
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 104.1,
     "lat": 40.053422,
     "lng": 116.297067
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-和韵佳园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 90.9,
     "lat": 40.045856,
     "lng": 116.299078
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地南路",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 83.5,
     "lat": 40.02844,
     "lng": 116.312377
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-马连洼北路",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 106.4,
     "lat": 40.035647,
     "lng": 116.298915
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": "",
     "lat": 40.051992,
     "lng": 116.330738
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-马连洼北路",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 115.6,
     "lat": 40.035647,
     "lng": 116.298915
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:41",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 121.4,
     "lat": 40.040932,
     "lng": 116.311568
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 125.4,
     "lat": 40.040932,
     "lng": 116.311568
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 102.6,
     "lat": 40.040932,
     "lng": 116.311568
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 112.2,
     "lat": 40.053422,
     "lng": 116.297067
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 110.5,
     "lat": 40.027246,
     "lng": 116.305518
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-宣海家园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 72.6,
     "lat": 40.045856,
     "lng": 116.299078
@@ -659,7 +659,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 185.0,
     "lat": 40.049964,
     "lng": 116.282792
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 90.1,
     "lat": 40.051879,
     "lng": 116.295252
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 113.2,
     "lat": 40.027246,
     "lng": 116.305518
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 93.4,
     "lat": 40.040932,
     "lng": 116.311568
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-怡美家园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 80.0,
     "lat": 40.045856,
     "lng": 116.299078
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 98.1,
     "lat": 40.053422,
     "lng": 116.297067
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上第",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 82.5,
     "lat": 40.053422,
     "lng": 116.297067
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 117.8,
     "lat": 40.027246,
     "lng": 116.305518
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-和韵佳园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 85.2,
     "lat": 40.045856,
     "lng": 116.299078
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-宜品上层",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 78.6,
     "lat": 40.045856,
     "lng": 116.299078
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 95.2,
     "lat": 40.053422,
     "lng": 116.297067
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 95.2,
     "lat": 40.053422,
     "lng": 116.297067
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 79.8,
     "lat": 40.051879,
     "lng": 116.295252
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 80.4,
     "lat": 40.040932,
     "lng": 116.311568
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 119.4,
     "lat": 40.040932,
     "lng": 116.311568
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 84.8,
     "lat": 40.051879,
     "lng": 116.295252
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 94.8,
     "lat": 40.040932,
     "lng": 116.311568
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 125.4,
     "lat": 40.040932,
     "lng": 116.311568
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-宜品上层",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 108.7,
     "lat": 40.045856,
     "lng": 116.299078
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-马连洼北路",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 118.3,
     "lat": 40.035647,
     "lng": 116.298915
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 105.4,
     "lat": 40.051879,
     "lng": 116.295252
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-悦",
     "scraped_at": "2026-05-02 21:50:44",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 91.0,
     "lat": 40.042708,
     "lng": 116.308709
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 114.7,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 95.3,
     "lat": 40.040932,
     "lng": 116.311568
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 100.0,
     "lat": 40.040932,
     "lng": 116.311568
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地佳园",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 89.3,
     "lat": 40.031956,
     "lng": 116.313298
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 108.4,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地科贸大厦",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 70.1,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-宜品上层",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 84.2,
     "lat": 40.045856,
     "lng": 116.299078
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地西里",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 99.6,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 93.5,
     "lat": 40.051879,
     "lng": 116.295252
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地佳园",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 73.2,
     "lat": 40.031956,
     "lng": 116.313298
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 93.9,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 94.2,
     "lat": 40.051879,
     "lng": 116.295252
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地科贸大厦",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 66.2,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-马连洼北路",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 103.0,
     "lat": 40.035647,
     "lng": 116.298915
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-怡美家园",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 79.9,
     "lat": 40.045856,
     "lng": 116.299078
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上第",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 84.1,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 110.2,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地佳园",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 85.7,
     "lat": 40.031956,
     "lng": 116.313298
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-和韵佳园",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 79.0,
     "lat": 40.045856,
     "lng": 116.299078
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 124.4,
     "lat": 40.031806,
     "lng": 116.314045
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:47",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 121.9,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 115.5,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 90.0,
     "lat": 40.027246,
     "lng": 116.305518
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-锦顺佳园",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 82.2,
     "lat": 40.045856,
     "lng": 116.299078
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-马连洼北路",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 112.4,
     "lat": 40.035647,
     "lng": 116.298915
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-马连洼北路",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 97.8,
     "lat": 40.035647,
     "lng": 116.298915
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 80.6,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地国际创业园",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 74.5,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 115.6,
     "lat": 40.040932,
     "lng": 116.311568
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 109.0,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 98.3,
     "lat": 40.040932,
     "lng": 116.311568
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-怡美家园",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 80.7,
     "lat": 40.045856,
     "lng": 116.299078
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地国际创业园",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 71.4,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-宜品上层",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 86.2,
     "lat": 40.045856,
     "lng": 116.299078
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-马连洼北路",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 115.4,
     "lat": 40.035647,
     "lng": 116.298915
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 61.1,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 121.1,
     "lat": 40.040932,
     "lng": 116.311568
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 113.5,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地国际创业园",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 72.4,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地南路",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 96.7,
     "lat": 40.028006,
     "lng": 116.310908
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 119.9,
     "lat": 40.031806,
     "lng": 116.314045
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 105.8,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 117.6,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 98.8,
     "lat": 40.051879,
     "lng": 116.295252
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 108.3,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 118.8,
     "lat": 40.040932,
     "lng": 116.311568
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 112.5,
     "lat": 40.053422,
     "lng": 116.297067
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-和韵佳园",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 104.6,
     "lat": 40.045856,
     "lng": 116.299078
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-悦",
     "scraped_at": "2026-05-02 21:50:50",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 106.1,
     "lat": 40.042708,
     "lng": 116.308709
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 91.2,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 92.0,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 103.8,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 128.9,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-宣海家园",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 78.6,
     "lat": 40.045856,
     "lng": 116.299078
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地南路",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 77.0,
     "lat": 40.02844,
     "lng": 116.312377
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 75.9,
     "lat": 40.051879,
     "lng": 116.295252
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地佳园",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 101.9,
     "lat": 40.031956,
     "lng": 116.313298
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-颐泉汇",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 144.1,
     "lat": 40.034715,
     "lng": 116.309167
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-怡美家园",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 93.0,
     "lat": 40.045856,
     "lng": 116.299078
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 122.0,
     "lat": 40.031806,
     "lng": 116.314045
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上第",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 84.6,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 121.0,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 150.6,
     "lat": 40.040932,
     "lng": 116.311568
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-怡美家园",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 105.4,
     "lat": 40.045856,
     "lng": 116.299078
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 129.5,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地佳园",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 102.6,
     "lat": 40.031956,
     "lng": 116.313298
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 131.8,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 117.5,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地科贸大厦",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 110.9,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地科贸大厦",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 108.1,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 72.7,
     "lat": 40.051879,
     "lng": 116.295252
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 107.7,
     "lat": 40.051879,
     "lng": 116.295252
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地科贸大厦",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 107.6,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-马连洼北路",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 100.0,
     "lat": 40.035647,
     "lng": 116.298915
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-和韵佳园",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 111.9,
     "lat": 40.045856,
     "lng": 116.299078
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 100.8,
     "lat": 40.051879,
     "lng": 116.295252
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地科贸大厦",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 71.8,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:53",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 120.8,
     "lat": 40.040932,
     "lng": 116.311568
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 87.7,
     "lat": 40.040932,
     "lng": 116.311568
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 112.2,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 84.9,
     "lat": 40.051879,
     "lng": 116.295252
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地科贸大厦",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 105.0,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地科贸大厦",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 108.0,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 101.7,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 99.1,
     "lat": 40.051879,
     "lng": 116.295252
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-辉煌国际",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 80.1,
     "lat": 40.051879,
     "lng": 116.295252
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地国际创业园",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 77.7,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地南路",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 91.5,
     "lat": 40.028006,
     "lng": 116.310908
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 102.7,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-宜品上层",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 133.1,
     "lat": 40.045856,
     "lng": 116.299078
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 128.7,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 118.2,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 134.5,
     "lat": 40.040932,
     "lng": 116.311568
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 97.5,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-宜品上层",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 120.2,
     "lat": 40.045856,
     "lng": 116.299078
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 101.6,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 138.2,
     "lat": 40.040932,
     "lng": 116.311568
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 101.6,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 101.6,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 101.6,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-上地东里",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 122.9,
     "lat": 40.053422,
     "lng": 116.297067
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "海淀区-上地-当代城市家园",
     "scraped_at": "2026-05-02 21:50:56",
-    "region": "shangdi1",
+    "region": "上地",
     "unit_price": 116.9,
     "lat": 40.040932,
     "lng": 116.311568

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-广安门外南街",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 84.2,
     "lat": 39.894876,
     "lng": 116.340528
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺西里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 109.3,
     "lat": 39.891012,
     "lng": 116.341916
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-白菜湾社区",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 109.6,
     "lat": 39.894876,
     "lng": 116.340528
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-白菜湾四巷",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 89.7,
     "lat": 39.883291,
     "lng": 116.341231
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-广安门外南街",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 94.0,
     "lat": 39.894876,
     "lng": 116.340528
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 124.0,
     "lat": 40.145433,
     "lng": 116.287132
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-车站东街",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 79.8,
     "lat": 39.880495,
     "lng": 116.339743
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-车站东街甲",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 101.2,
     "lat": 39.884973,
     "lng": 116.339048
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺前街南里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 92.0,
     "lat": 39.89085,
     "lng": 116.33863
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺前街北里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 66.5,
     "lat": 39.891232,
     "lng": 116.339196
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺前街北里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 123.8,
     "lat": 39.891232,
     "lng": 116.339196
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺前街南里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 72.0,
     "lat": 39.89085,
     "lng": 116.33863
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-车站东街",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 94.5,
     "lat": 39.880495,
     "lng": 116.339743
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-源屋曲",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 110.9,
     "lat": 39.891012,
     "lng": 116.341916
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-广安门外车站东街",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 107.8,
     "lat": 39.887382,
     "lng": 116.338997
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺东里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 107.5,
     "lat": 39.891012,
     "lng": 116.341916
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-源屋曲",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 105.5,
     "lat": 39.891012,
     "lng": 116.341916
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-广安苑三期",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 93.8,
     "lat": 39.891012,
     "lng": 116.341916
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-广安门外南街",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 100.5,
     "lat": 39.894876,
     "lng": 116.340528
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-车站东街",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 88.8,
     "lat": 39.880495,
     "lng": 116.339743
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-广安门外南街",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 99.1,
     "lat": 39.894876,
     "lng": 116.340528
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺东里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 88.5,
     "lat": 39.891012,
     "lng": 116.341916
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-新居西里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 135.0,
     "lat": 39.891012,
     "lng": 116.341916
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺东里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 96.7,
     "lat": 39.891012,
     "lng": 116.341916
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺东里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 95.1,
     "lat": 39.891012,
     "lng": 116.341916
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-源屋曲",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 103.6,
     "lat": 39.891012,
     "lng": 116.341916
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺前街南里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 156.4,
     "lat": 39.89085,
     "lng": 116.33863
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺东里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 98.4,
     "lat": 39.891012,
     "lng": 116.341916
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺东里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 118.0,
     "lat": 39.891012,
     "lng": 116.341916
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "西城区-天宁寺-天宁寺西里",
     "scraped_at": "2026-05-02 20:22:06",
-    "region": "tianningsi1",
+    "region": "天宁寺",
     "unit_price": 97.6,
     "lat": 39.891012,
     "lng": 116.341916

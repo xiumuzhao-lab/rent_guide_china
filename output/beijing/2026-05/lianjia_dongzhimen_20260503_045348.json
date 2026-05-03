@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-华冠丽景",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 117.2,
     "lat": 39.946116,
     "lng": 116.402238
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 100.7,
     "lat": 39.938276,
     "lng": 116.429518
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东环广场",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 133.3,
     "lat": 39.933876,
     "lng": 116.430678
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 163.4,
     "lat": 39.946116,
     "lng": 116.402238
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门北大街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 89.1,
     "lat": 39.943576,
     "lng": 116.428171
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 182.2,
     "lat": 39.868538,
     "lng": 116.745513
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-元嘉国际公寓",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 111.4,
     "lat": 39.946116,
     "lng": 116.402238
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门南大街",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 136.6,
     "lat": 39.93915,
     "lng": 116.42582
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 131.9,
     "lat": 39.937825,
     "lng": 116.435473
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-新中西里",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 135.4,
     "lat": 39.939402,
     "lng": 116.433458
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东方银座",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 130.0,
     "lat": 39.938356,
     "lng": 116.428778
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 127.1,
     "lat": 39.937825,
     "lng": 116.435473
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东羊管胡同",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 113.1,
     "lat": 39.941053,
     "lng": 116.424927
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 85.3,
     "lat": 39.946116,
     "lng": 116.402238
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门北大街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 109.8,
     "lat": 39.943576,
     "lng": 116.428171
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东扬威街",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 110.6,
     "lat": 39.940376,
     "lng": 116.425631
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-使馆壹号院",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 251.8,
     "lat": 39.946116,
     "lng": 116.402238
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北官厅胡同",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 140.6,
     "lat": 39.945565,
     "lng": 116.420087
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区民安街",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 142.3,
     "lat": 39.943226,
     "lng": 116.419738
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 147.8,
     "lat": 39.946116,
     "lng": 116.402238
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东中街",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 106.8,
     "lat": 39.933876,
     "lng": 116.430678
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 128.6,
     "lat": 39.938276,
     "lng": 116.429518
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 94.5,
     "lat": 39.937825,
     "lng": 116.435473
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 106.0,
     "lat": 39.938276,
     "lng": 116.429518
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 114.6,
     "lat": 39.942266,
     "lng": 116.437168
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门北大街",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 101.1,
     "lat": 39.943576,
     "lng": 116.428171
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:58:38",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 115.7,
     "lat": 39.942266,
     "lng": 116.437168
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东环广场",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 132.9,
     "lat": 39.933876,
     "lng": 116.430678
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门南大街",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 129.4,
     "lat": 39.93915,
     "lng": 116.42582
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 144.4,
     "lat": 39.946116,
     "lng": 116.402238
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-使馆壹号院",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 273.3,
     "lat": 39.946116,
     "lng": 116.402238
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 121.4,
     "lat": 39.937825,
     "lng": 116.435473
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-雍和大厦",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 108.6,
     "lat": 39.946116,
     "lng": 116.402238
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-前永康二巷",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 149.0,
     "lat": 39.942188,
     "lng": 116.413975
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北官厅胡同",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 116.8,
     "lat": 39.945565,
     "lng": 116.420087
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门内北小街",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 110.7,
     "lat": 39.946016,
     "lng": 116.420098
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 152.3,
     "lat": 39.946116,
     "lng": 116.402238
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-察慈小区",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 102.4,
     "lat": 39.941042,
     "lng": 116.433341
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 105.9,
     "lat": 39.942266,
     "lng": 116.437168
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 119.2,
     "lat": 39.938276,
     "lng": 116.429518
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-后永康胡同",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 141.5,
     "lat": 39.94317,
     "lng": 116.41624
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 142.2,
     "lat": 39.937825,
     "lng": 116.435473
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里中街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 97.5,
     "lat": 39.945736,
     "lng": 116.439208
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门北大街",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 134.2,
     "lat": 39.943576,
     "lng": 116.428171
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-当代",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 185.9,
     "lat": 39.946116,
     "lng": 116.402238
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 148.9,
     "lat": 39.946116,
     "lng": 116.402238
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北官厅胡同",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 133.5,
     "lat": 39.945565,
     "lng": 116.420087
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-前永康二巷",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 138.1,
     "lat": 39.942188,
     "lng": 116.413975
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北官厅胡同",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 143.5,
     "lat": 39.945565,
     "lng": 116.420087
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东中街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 112.2,
     "lat": 39.933876,
     "lng": 116.430678
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东扬威街",
     "scraped_at": "2026-05-02 19:58:41",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 113.3,
     "lat": 39.940376,
     "lng": 116.425631
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北官厅胡同甲二号院",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 117.3,
     "lat": 39.945366,
     "lng": 116.421598
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-十字坡西里",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 118.7,
     "lat": 39.938203,
     "lng": 116.43307
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东直门内北小街",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 142.3,
     "lat": 39.946266,
     "lng": 116.420248
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外小街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 76.3,
     "lat": 39.94212,
     "lng": 116.439336
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东方银座",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 108.2,
     "lat": 39.938356,
     "lng": 116.428778
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-春秀路",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 150.4,
     "lat": 39.935336,
     "lng": 116.437378
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-十字坡西里",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 145.4,
     "lat": 39.938203,
     "lng": 116.43307
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 160.0,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 129.8,
     "lat": 39.937825,
     "lng": 116.435473
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-察慈小区",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 134.9,
     "lat": 39.941042,
     "lng": 116.433341
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东羊管胡同",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 135.7,
     "lat": 39.941053,
     "lng": 116.424927
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-察慈小区",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 126.5,
     "lat": 39.941042,
     "lng": 116.433341
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 121.5,
     "lat": 39.937825,
     "lng": 116.435473
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东中街",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 85.6,
     "lat": 39.933876,
     "lng": 116.430678
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 144.1,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 116.2,
     "lat": 39.942266,
     "lng": 116.437168
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 158.7,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东方银座",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 123.7,
     "lat": 39.938356,
     "lng": 116.428778
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 143.1,
     "lat": 39.937825,
     "lng": 116.435473
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 109.5,
     "lat": 39.942266,
     "lng": 116.437168
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 148.0,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-察慈小区",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 121.6,
     "lat": 39.941042,
     "lng": 116.433341
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东方银座",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 116.6,
     "lat": 39.938356,
     "lng": 116.428778
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-正东国际大厦",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 81.7,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东方银座",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 122.5,
     "lat": 39.938356,
     "lng": 116.428778
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 117.3,
     "lat": 39.942266,
     "lng": 116.437168
@@ -1476,7 +1476,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:58:45",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 132.7,
     "lat": 39.875182,
     "lng": 116.317333
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-十字坡西里",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 123.8,
     "lat": 39.938203,
     "lng": 116.43307
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-香河园街",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 124.1,
     "lat": 39.949282,
     "lng": 116.430299
@@ -1533,7 +1533,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 185.2,
     "lat": 39.9135,
     "lng": 116.399371
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-西香河园",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 116.2,
     "lat": 39.942234,
     "lng": 116.421287
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门南大街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 115.3,
     "lat": 39.93915,
     "lng": 116.42582
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门内北小街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 115.7,
     "lat": 39.946016,
     "lng": 116.420098
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-炮局头条",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 121.4,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东直门北中街",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 115.9,
     "lat": 39.941215,
     "lng": 116.425647
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门内大街",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 119.1,
     "lat": 39.939986,
     "lng": 116.420298
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓胡同",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 145.6,
     "lat": 39.93597,
     "lng": 116.421967
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-当代",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 154.7,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-后永康北巷",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 193.5,
     "lat": 39.94317,
     "lng": 116.41624
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 185.3,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东中街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 141.4,
     "lat": 39.933876,
     "lng": 116.430678
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东方银座",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 140.8,
     "lat": 39.938356,
     "lng": 116.428778
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-新中西里",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 105.6,
     "lat": 39.939402,
     "lng": 116.433458
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-宇飞大厦",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 145.0,
     "lat": 39.938983,
     "lng": 116.431241
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里东街",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 122.0,
     "lat": 39.946118,
     "lng": 116.444712
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门南大街",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 130.4,
     "lat": 39.93915,
     "lng": 116.42582
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北新桥三条",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 91.1,
     "lat": 39.940906,
     "lng": 116.415978
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门南大街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 156.5,
     "lat": 39.93915,
     "lng": 116.42582
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东直门北中街",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 123.1,
     "lat": 39.941215,
     "lng": 116.425647
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-香河园北里",
     "scraped_at": "2026-05-02 19:58:47",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 118.2,
     "lat": 39.950637,
     "lng": 116.429353
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-安定门东大街",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 129.3,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-梵悦万国府",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 279.8,
     "lat": 39.946116,
     "lng": 116.402238
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北官厅胡同",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 130.9,
     "lat": 39.945565,
     "lng": 116.420087
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门内大街",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 142.8,
     "lat": 39.939986,
     "lng": 116.420298
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东环广场",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 132.6,
     "lat": 39.933876,
     "lng": 116.430678
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 108.6,
     "lat": 39.937825,
     "lng": 116.435473
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 175.5,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-正东国际大厦",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 78.8,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-使馆壹号院",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 184.6,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 125.5,
     "lat": 39.937825,
     "lng": 116.435473
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-正东国际大厦",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 71.8,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 126.4,
     "lat": 39.938276,
     "lng": 116.429518
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门南大街",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 162.2,
     "lat": 39.93915,
     "lng": 116.42582
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-察慈小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 160.2,
     "lat": 39.941042,
     "lng": 116.433341
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-信达中心",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 211.7,
     "lat": 39.935386,
     "lng": 116.436458
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-使馆壹号院",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 245.1,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东直门内北小街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 109.8,
     "lat": 39.946266,
     "lng": 116.420248
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 157.1,
     "lat": 39.937825,
     "lng": 116.435473
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 129.9,
     "lat": 39.937825,
     "lng": 116.435473
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-西香河园",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 180.8,
     "lat": 39.942234,
     "lng": 116.421287
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 131.9,
     "lat": 39.937825,
     "lng": 116.435473
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 101.2,
     "lat": 39.942266,
     "lng": 116.437168
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 142.2,
     "lat": 39.937825,
     "lng": 116.435473
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-察慈小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 124.7,
     "lat": 39.941042,
     "lng": 116.433341
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东扬威街",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 114.9,
     "lat": 39.940376,
     "lng": 116.425631
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 135.8,
     "lat": 39.937825,
     "lng": 116.435473
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:58:50",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 137.7,
     "lat": 39.938276,
     "lng": 116.429518
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-新中西里",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 110.4,
     "lat": 39.939402,
     "lng": 116.433458
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-当代",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 197.7,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 137.0,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓小区",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 153.9,
     "lat": 39.937825,
     "lng": 116.435473
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门南大街",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 115.3,
     "lat": 39.93915,
     "lng": 116.42582
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-新中西里",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 144.7,
     "lat": 39.939402,
     "lng": 116.433458
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 122.4,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-春秀路",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 100.6,
     "lat": 39.935336,
     "lng": 116.437378
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东方银座",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 121.8,
     "lat": 39.938356,
     "lng": 116.428778
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 158.4,
     "lat": 39.938276,
     "lng": 116.429518
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门内大街",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 120.7,
     "lat": 39.939986,
     "lng": 116.420298
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-宇飞大厦",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 133.2,
     "lat": 39.938983,
     "lng": 116.431241
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓胡同",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 130.0,
     "lat": 39.93597,
     "lng": 116.421967
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-察慈小区",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 117.6,
     "lat": 39.941042,
     "lng": 116.433341
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 129.7,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 177.6,
     "lat": 39.938276,
     "lng": 116.429518
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 126.0,
     "lat": 39.938276,
     "lng": 116.429518
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北新仓胡同",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 107.3,
     "lat": 39.938778,
     "lng": 116.42381
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-察慈小区",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 116.3,
     "lat": 39.941042,
     "lng": 116.433341
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 93.9,
     "lat": 39.942266,
     "lng": 116.437168
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-春秀路",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 117.7,
     "lat": 39.935336,
     "lng": 116.437378
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-清水苑",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 116.9,
     "lat": 39.940866,
     "lng": 116.433058
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里东街",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 118.9,
     "lat": 39.946118,
     "lng": 116.444712
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里中街",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 125.0,
     "lat": 39.945736,
     "lng": 116.439208
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东羊管胡同",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 134.7,
     "lat": 39.941053,
     "lng": 116.424927
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 164.2,
     "lat": 39.946116,
     "lng": 116.402238
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-新中西里",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 131.9,
     "lat": 39.939402,
     "lng": 116.433458
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东环广场",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 132.9,
     "lat": 39.933876,
     "lng": 116.430678
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东扬威街",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 113.6,
     "lat": 39.940376,
     "lng": 116.425631
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:53",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 170.3,
     "lat": 39.946116,
     "lng": 116.402238
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区民安街",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 146.1,
     "lat": 39.943226,
     "lng": 116.419738
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门内北小街",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 114.5,
     "lat": 39.946016,
     "lng": 116.420098
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北新桥头条",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 148.6,
     "lat": 39.940906,
     "lng": 116.415978
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北新桥三条",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 224.6,
     "lat": 39.940906,
     "lng": 116.415978
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-万国城",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 145.6,
     "lat": 39.946116,
     "lng": 116.402238
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-后永康北巷",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 193.1,
     "lat": 39.94317,
     "lng": 116.41624
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东羊管胡同",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 190.8,
     "lat": 39.941053,
     "lng": 116.424927
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-宇飞大厦",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 158.7,
     "lat": 39.938983,
     "lng": 116.431241
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北官厅胡同甲二号院",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 117.5,
     "lat": 39.945366,
     "lng": 116.421598
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 147.3,
     "lat": 39.946116,
     "lng": 116.402238
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-华普花园",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 114.9,
     "lat": 39.946116,
     "lng": 116.402238
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门北大街",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 120.2,
     "lat": 39.943576,
     "lng": 116.428171
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 107.5,
     "lat": 39.938276,
     "lng": 116.429518
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 147.4,
     "lat": 39.942266,
     "lng": 116.437168
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-宇飞大厦",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 169.7,
     "lat": 39.938983,
     "lng": 116.431241
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:58:55",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 122.9,
     "lat": 39.942266,
     "lng": 116.437168
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 136.0,
     "lat": 39.942266,
     "lng": 116.437168
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-炮局头条",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 112.9,
     "lat": 39.946116,
     "lng": 116.402238
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-梵悦万国府",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 241.7,
     "lat": 39.946116,
     "lng": 116.402238
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门内大街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 125.9,
     "lat": 39.939986,
     "lng": 116.420298
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东中街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 118.1,
     "lat": 39.933876,
     "lng": 116.430678
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-安定门东大街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 106.0,
     "lat": 39.946116,
     "lng": 116.402238
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-民安小区东扬威街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 116.2,
     "lat": 39.940376,
     "lng": 116.425631
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北官厅胡同",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 99.3,
     "lat": 39.945565,
     "lng": 116.420087
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-藏经馆胡同",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 136.6,
     "lat": 39.945635,
     "lng": 116.412063
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-青龙胡同",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 154.1,
     "lat": 39.947116,
     "lng": 116.417968
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓胡同",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 115.9,
     "lat": 39.93597,
     "lng": 116.421967
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里东街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 114.6,
     "lat": 39.946118,
     "lng": 116.444712
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里中街",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 104.4,
     "lat": 39.945736,
     "lng": 116.439208
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-春秀路",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 112.7,
     "lat": 39.935336,
     "lng": 116.437378
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-香河园北里",
     "scraped_at": "2026-05-02 19:58:59",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 99.6,
     "lat": 39.950637,
     "lng": 116.429353
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 133.6,
     "lat": 39.942266,
     "lng": 116.437168
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 138.5,
     "lat": 39.938276,
     "lng": 116.429518
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里东街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 108.8,
     "lat": 39.946118,
     "lng": 116.444712
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东中街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 96.9,
     "lat": 39.933876,
     "lng": 116.430678
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门内大街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 118.5,
     "lat": 39.939986,
     "lng": 116.420298
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门南大街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 136.7,
     "lat": 39.93915,
     "lng": 116.42582
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里中街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 104.0,
     "lat": 39.945736,
     "lng": 116.439208
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-海运仓胡同",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 151.1,
     "lat": 39.93597,
     "lng": 116.421967
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 159.1,
     "lat": 39.938276,
     "lng": 116.429518
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东中街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 119.4,
     "lat": 39.933876,
     "lng": 116.430678
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 138.7,
     "lat": 39.938276,
     "lng": 116.429518
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-新中西里",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 130.5,
     "lat": 39.939402,
     "lng": 116.433458
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-香河园街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 105.2,
     "lat": 39.949282,
     "lng": 116.430299
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里东街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 101.2,
     "lat": 39.946118,
     "lng": 116.444712
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里东街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 118.7,
     "lat": 39.946118,
     "lng": 116.444712
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-察慈小区",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 127.8,
     "lat": 39.941042,
     "lng": 116.433341
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门外大街(东城)",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 95.8,
     "lat": 39.938276,
     "lng": 116.429518
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门内北小街",
     "scraped_at": "2026-05-02 19:59:03",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 101.4,
     "lat": 39.946016,
     "lng": 116.420098
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 124.6,
     "lat": 39.942266,
     "lng": 116.437168
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门北大街",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 126.0,
     "lat": 39.943576,
     "lng": 116.428171
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "朝阳区-东直门-新源西里东街",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 135.9,
     "lat": 39.946118,
     "lng": 116.444712
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-后永康胡同",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 137.2,
     "lat": 39.94317,
     "lng": 116.41624
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东中街",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 123.7,
     "lat": 39.933876,
     "lng": 116.430678
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-东直门北大街",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 106.3,
     "lat": 39.943576,
     "lng": 116.428171
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-春秀路",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 129.9,
     "lat": 39.935336,
     "lng": 116.437378
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-胡家园小区",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 116.9,
     "lat": 39.942266,
     "lng": 116.437168
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-香河园北里",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 112.5,
     "lat": 39.950637,
     "lng": 116.429353
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "东城区-东直门-北官厅胡同",
     "scraped_at": "2026-05-02 19:59:27",
-    "region": "dongzhimen",
+    "region": "东直门",
     "unit_price": 120.1,
     "lat": 39.945565,
     "lng": 116.420087

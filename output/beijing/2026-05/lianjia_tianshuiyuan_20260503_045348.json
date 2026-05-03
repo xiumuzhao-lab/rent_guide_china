@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静东里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 83.3,
     "lat": 39.928286,
     "lng": 116.472528
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 79.8,
     "lat": 39.928286,
     "lng": 116.472528
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 90.3,
     "lat": 39.922711,
     "lng": 116.47692
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 111.0,
     "lat": 39.924486,
     "lng": 116.471538
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 90.2,
     "lat": 39.927373,
     "lng": 116.474304
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静东里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 124.8,
     "lat": 39.928286,
     "lng": 116.472528
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静东里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 82.7,
     "lat": 39.928286,
     "lng": 116.472528
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 110.0,
     "lat": 39.924486,
     "lng": 116.471538
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 99.5,
     "lat": 39.928286,
     "lng": 116.472528
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 114.6,
     "lat": 39.924486,
     "lng": 116.471538
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 111.1,
     "lat": 39.924486,
     "lng": 116.471538
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 94.8,
     "lat": 39.927373,
     "lng": 116.474304
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 119.6,
     "lat": 39.924486,
     "lng": 116.471538
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-华阳家园",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 102.6,
     "lat": 39.928286,
     "lng": 116.472528
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-碧水园",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 101.1,
     "lat": 39.928286,
     "lng": 116.472528
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 112.3,
     "lat": 39.928286,
     "lng": 116.472528
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 114.6,
     "lat": 39.924486,
     "lng": 116.471538
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 133.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 102.4,
     "lat": 39.928286,
     "lng": 116.472528
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 102.0,
     "lat": 39.927373,
     "lng": 116.474304
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 111.1,
     "lat": 39.924486,
     "lng": 116.471538
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 96.4,
     "lat": 39.927373,
     "lng": 116.474304
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 83.8,
     "lat": 39.927373,
     "lng": 116.474304
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-华阳家园",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 101.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 98.2,
     "lat": 39.927373,
     "lng": 116.474304
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 84.8,
     "lat": 39.928286,
     "lng": 116.472528
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 113.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 96.5,
     "lat": 39.927373,
     "lng": 116.474304
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 95.5,
     "lat": 39.924486,
     "lng": 116.471538
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:09:58",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 111.6,
     "lat": 39.924486,
     "lng": 116.471538
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 94.4,
     "lat": 39.922711,
     "lng": 116.47692
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园街",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 107.6,
     "lat": 39.923826,
     "lng": 116.471568
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 94.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 90.5,
     "lat": 39.928286,
     "lng": 116.472528
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-马道口",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 103.5,
     "lat": 39.928286,
     "lng": 116.472528
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静东里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 89.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-万科东第",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 91.9,
     "lat": 39.9241,
     "lng": 116.47125
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 94.0,
     "lat": 39.927373,
     "lng": 116.474304
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-万科东第",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 109.0,
     "lat": 39.9241,
     "lng": 116.47125
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-马道口",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 100.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-水碓子东里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 123.3,
     "lat": 39.921978,
     "lng": 116.469569
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园街",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 141.2,
     "lat": 39.923826,
     "lng": 116.471568
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 87.5,
     "lat": 39.927373,
     "lng": 116.474304
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 92.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 115.9,
     "lat": 39.922711,
     "lng": 116.47692
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静东里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 87.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 115.0,
     "lat": 39.922711,
     "lng": 116.47692
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 100.2,
     "lat": 39.922711,
     "lng": 116.47692
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 100.0,
     "lat": 39.927373,
     "lng": 116.474304
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-华阳家园",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 112.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-碧水园",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 76.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 105.1,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 145.7,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-马道口",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 95.0,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 109.6,
     "lat": 39.924486,
     "lng": 116.471538
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 112.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 102.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园街",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 94.1,
     "lat": 39.923826,
     "lng": 116.471568
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:01",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 96.9,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-团圆居",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 100.6,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 90.3,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-万科东第",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 104.3,
     "lat": 39.9241,
     "lng": 116.47125
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 87.9,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 102.7,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 117.3,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 114.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 91.8,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 127.4,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 119.0,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 104.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 89.1,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 93.3,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 96.2,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 94.5,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 101.7,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 108.7,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 110.4,
     "lat": 39.924486,
     "lng": 116.471538
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-马道口",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 85.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 97.4,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 99.0,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-华阳家园",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 90.6,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 85.6,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 106.8,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 109.6,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 99.6,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 126.7,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 93.4,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 153.2,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:04",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 105.4,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 109.1,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 95.0,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 76.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 96.7,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 94.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 125.1,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-万科东第",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 131.6,
     "lat": 39.9241,
     "lng": 116.47125
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 105.7,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园街",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 96.0,
     "lat": 39.923826,
     "lng": 116.471568
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 115.5,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 104.3,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 114.1,
     "lat": 39.927373,
     "lng": 116.474304
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 96.9,
     "lat": 39.924486,
     "lng": 116.471538
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 94.8,
     "lat": 39.922711,
     "lng": 116.47692
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 91.4,
     "lat": 39.928286,
     "lng": 116.472528
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 131.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 124.9,
     "lat": 39.922711,
     "lng": 116.47692
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 99.1,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 95.1,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 79.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 131.5,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 115.8,
     "lat": 39.924486,
     "lng": 116.471538
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-碧水园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 105.8,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-碧水园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 93.5,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 120.5,
     "lat": 39.922711,
     "lng": 116.47692
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 93.3,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 128.3,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 137.5,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 133.1,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:07",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 139.9,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 109.9,
     "lat": 39.924486,
     "lng": 116.471538
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-马道口",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 129.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-华阳家园",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 81.3,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 91.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 101.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 103.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园街",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 86.7,
     "lat": 39.923826,
     "lng": 116.471568
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-万科东第",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 148.4,
     "lat": 39.9241,
     "lng": 116.47125
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 104.9,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 104.2,
     "lat": 39.922711,
     "lng": 116.47692
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 91.2,
     "lat": 39.922711,
     "lng": 116.47692
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 107.7,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 108.8,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 98.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 116.1,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-马道口",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 100.3,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-万科东第",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 118.4,
     "lat": 39.9241,
     "lng": 116.47125
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 120.1,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 98.2,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 103.7,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 86.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 72.8,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 114.9,
     "lat": 39.922711,
     "lng": 116.47692
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 134.0,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静东里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 80.5,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 113.2,
     "lat": 39.922711,
     "lng": 116.47692
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 155.0,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 90.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 119.2,
     "lat": 39.924486,
     "lng": 116.471538
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:10",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 113.1,
     "lat": 39.922711,
     "lng": 116.47692
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 105.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园北里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 98.1,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 112.0,
     "lat": 39.928286,
     "lng": 116.472528
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 159.4,
     "lat": 39.924486,
     "lng": 116.471538
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 119.4,
     "lat": 39.927373,
     "lng": 116.474304
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园街",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 119.3,
     "lat": 39.923826,
     "lng": 116.471568
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 103.9,
     "lat": 39.922711,
     "lng": 116.47692
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 98.1,
     "lat": 39.922711,
     "lng": 116.47692
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-水碓子东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 115.7,
     "lat": 39.921978,
     "lng": 116.469569
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 99.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-碧水园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 88.4,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-碧水园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 92.0,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 95.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 125.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 78.1,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-秀水园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 126.6,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-六里屯北里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 155.3,
     "lat": 39.922711,
     "lng": 116.47692
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 80.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 94.7,
     "lat": 39.927373,
     "lng": 116.474304
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 115.1,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 89.3,
     "lat": 39.927373,
     "lng": 116.474304
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-公园五号",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 115.7,
     "lat": 39.924486,
     "lng": 116.471538
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 90.6,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 116.5,
     "lat": 39.927373,
     "lng": 116.474304
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 108.8,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 77.3,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 99.0,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-延静东里",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 147.2,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-道家园",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 115.8,
     "lat": 39.928286,
     "lng": 116.472528
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甜水园-甜水园街",
     "scraped_at": "2026-05-02 21:10:12",
-    "region": "tianshuiyuan",
+    "region": "甜水园",
     "unit_price": 103.9,
     "lat": 39.923826,
     "lng": 116.471568

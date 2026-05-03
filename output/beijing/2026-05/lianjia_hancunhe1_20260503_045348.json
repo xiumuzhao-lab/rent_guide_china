@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "房山区-韩村河-大自然新城雅苑",
     "scraped_at": "2026-05-02 23:10:48",
-    "region": "hancunhe1",
+    "region": "韩村河",
     "unit_price": 12.3,
     "lat": 39.60277,
     "lng": 115.940789
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "房山区-韩村河-韩村河西小区",
     "scraped_at": "2026-05-02 23:10:48",
-    "region": "hancunhe1",
+    "region": "韩村河",
     "unit_price": 19.4,
     "lat": 39.602476,
     "lng": 115.944639
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "房山区-韩村河-韩村河西小区",
     "scraped_at": "2026-05-02 23:10:48",
-    "region": "hancunhe1",
+    "region": "韩村河",
     "unit_price": 21.8,
     "lat": 39.602476,
     "lng": 115.944639

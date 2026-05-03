@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线阁",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 81.5,
     "lat": 39.885166,
     "lng": 116.346226
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-春风胡同社区",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 107.5,
     "lat": 39.882426,
     "lng": 116.359783
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 113.6,
     "lat": 39.882356,
     "lng": 116.357106
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 122.7,
     "lat": 39.8836,
     "lng": 116.35366
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 93.9,
     "lat": 39.882036,
     "lng": 116.367158
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 115.6,
     "lat": 39.882036,
     "lng": 116.367158
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-似海怡家",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 123.0,
     "lat": 39.887293,
     "lng": 116.356621
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 95.5,
     "lat": 39.882036,
     "lng": 116.367158
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白纸坊东街",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 103.5,
     "lat": 39.877266,
     "lng": 116.363819
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-信恒大厦",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 117.3,
     "lat": 39.887576,
     "lng": 116.355588
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 98.0,
     "lat": 39.884116,
     "lng": 116.357721
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 92.7,
     "lat": 39.882356,
     "lng": 116.357106
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 109.9,
     "lat": 39.885139,
     "lng": 116.359369
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线阁",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 88.2,
     "lat": 39.885166,
     "lng": 116.346226
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 95.5,
     "lat": 39.88087,
     "lng": 116.36446
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 110.7,
     "lat": 39.884116,
     "lng": 116.357721
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-万和世家",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 178.6,
     "lat": 39.878256,
     "lng": 116.358098
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 100.0,
     "lat": 39.88087,
     "lng": 116.36446
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-法源寺西里小区",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 86.9,
     "lat": 39.883886,
     "lng": 116.362378
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 104.9,
     "lat": 39.88087,
     "lng": 116.36446
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-青春无限",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 98.9,
     "lat": 39.886559,
     "lng": 116.357067
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 89.9,
     "lat": 39.883128,
     "lng": 116.351378
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 123.0,
     "lat": 39.88087,
     "lng": 116.36446
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 123.7,
     "lat": 39.882356,
     "lng": 116.357106
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 97.7,
     "lat": 39.885139,
     "lng": 116.359369
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-祥和家苑",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 104.1,
     "lat": 39.882539,
     "lng": 116.355979
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 205.0,
     "lat": 39.886306,
     "lng": 116.367218
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 97.7,
     "lat": 39.885139,
     "lng": 116.359369
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 108.6,
     "lat": 39.882356,
     "lng": 116.357106
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-法源寺西里小区",
     "scraped_at": "2026-05-02 20:21:11",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 117.5,
     "lat": 39.883886,
     "lng": 116.362378
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 105.4,
     "lat": 39.88087,
     "lng": 116.36446
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路二条",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 95.3,
     "lat": 39.884752,
     "lng": 116.349936
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 100.0,
     "lat": 39.882356,
     "lng": 116.357106
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线阁",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 112.5,
     "lat": 39.884086,
     "lng": 116.346328
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-青春无限",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 74.1,
     "lat": 39.886559,
     "lng": 116.357067
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 110.1,
     "lat": 39.885139,
     "lng": 116.359369
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枣林前街",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 109.0,
     "lat": 39.882585,
     "lng": 116.347387
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 134.5,
     "lat": 39.8836,
     "lng": 116.35366
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 111.9,
     "lat": 39.884116,
     "lng": 116.357721
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-青春无限",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 91.9,
     "lat": 39.886559,
     "lng": 116.357067
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 108.5,
     "lat": 39.88087,
     "lng": 116.36446
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 118.8,
     "lat": 39.884116,
     "lng": 116.357721
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南横西街",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 103.2,
     "lat": 39.882138,
     "lng": 116.359275
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-法源寺西里小区",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 94.4,
     "lat": 39.883886,
     "lng": 116.362378
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-东华金座",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 85.1,
     "lat": 39.887466,
     "lng": 116.359148
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 130.3,
     "lat": 39.8836,
     "lng": 116.35366
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 108.3,
     "lat": 39.88087,
     "lng": 116.36446
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 85.7,
     "lat": 39.882036,
     "lng": 116.367158
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-凌云居",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 107.6,
     "lat": 39.887225,
     "lng": 116.360847
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-春风胡同社区",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 121.0,
     "lat": 39.882426,
     "lng": 116.359783
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路二条",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 104.0,
     "lat": 39.884752,
     "lng": 116.349936
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 100.5,
     "lat": 39.88087,
     "lng": 116.36446
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 110.1,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-凯迪尚府",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 135.8,
     "lat": 39.877109,
     "lng": 116.359128
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-青春无限",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 99.1,
     "lat": 39.886559,
     "lng": 116.357067
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 105.2,
     "lat": 39.882356,
     "lng": 116.357106
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-东华金座",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 127.8,
     "lat": 39.887466,
     "lng": 116.359148
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-广安门内大街",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 66.3,
     "lat": 39.88712,
     "lng": 116.35109
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-春风胡同社区",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 116.6,
     "lat": 39.882426,
     "lng": 116.359783
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-东华金座",
     "scraped_at": "2026-05-02 20:21:14",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 87.7,
     "lat": 39.887466,
     "lng": 116.359148
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-贵仁居",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 128.4,
     "lat": 39.879316,
     "lng": 116.367408
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路二条",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 117.1,
     "lat": 39.88399,
     "lng": 116.350292
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-青春无限",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 98.9,
     "lat": 39.886559,
     "lng": 116.357067
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 94.5,
     "lat": 39.885139,
     "lng": 116.359369
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-青春无限",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 87.8,
     "lat": 39.886559,
     "lng": 116.357067
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 112.5,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 110.6,
     "lat": 39.885139,
     "lng": 116.359369
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-贵仁居",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 106.2,
     "lat": 39.879316,
     "lng": 116.367408
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 90.0,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 98.9,
     "lat": 39.885139,
     "lng": 116.359369
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白纸坊东街",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 121.0,
     "lat": 39.877266,
     "lng": 116.363819
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-法源寺西里小区",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 100.2,
     "lat": 39.883886,
     "lng": 116.362378
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 107.8,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枣林前街",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 102.7,
     "lat": 39.882585,
     "lng": 116.347387
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 103.4,
     "lat": 39.885139,
     "lng": 116.359369
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-东华金座",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 127.9,
     "lat": 39.887466,
     "lng": 116.359148
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白纸坊东街",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 116.0,
     "lat": 39.877375,
     "lng": 116.366805
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 105.0,
     "lat": 39.884116,
     "lng": 116.357721
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-春风胡同社区",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 108.7,
     "lat": 39.882426,
     "lng": 116.359783
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 114.0,
     "lat": 39.882356,
     "lng": 116.357106
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-宣兴大厦",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 77.6,
     "lat": 39.882136,
     "lng": 116.35161
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 104.9,
     "lat": 39.885139,
     "lng": 116.359369
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线阁",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 99.6,
     "lat": 39.88262,
     "lng": 116.347
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 94.2,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 101.2,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白纸坊东街",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 92.8,
     "lat": 39.877375,
     "lng": 116.366805
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 126.3,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 110.2,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-东华金座",
     "scraped_at": "2026-05-02 20:21:17",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 104.2,
     "lat": 39.887466,
     "lng": 116.359148
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 133.6,
     "lat": 39.8836,
     "lng": 116.35366
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 109.7,
     "lat": 39.8836,
     "lng": 116.35366
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-青春无限",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 98.9,
     "lat": 39.886559,
     "lng": 116.357067
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-贵仁居",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 107.4,
     "lat": 39.879316,
     "lng": 116.367408
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 96.0,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-祥和家苑",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 106.5,
     "lat": 39.882539,
     "lng": 116.355979
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-宣兴大厦",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 74.8,
     "lat": 39.882136,
     "lng": 116.35161
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 114.6,
     "lat": 39.885139,
     "lng": 116.359369
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 110.6,
     "lat": 39.882356,
     "lng": 116.357106
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-似海怡家",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 120.8,
     "lat": 39.887293,
     "lng": 116.356621
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 96.6,
     "lat": 39.882356,
     "lng": 116.357106
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 98.6,
     "lat": 39.882036,
     "lng": 116.367158
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白纸坊东街",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 120.9,
     "lat": 39.877266,
     "lng": 116.363819
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 119.8,
     "lat": 39.885139,
     "lng": 116.359369
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 120.4,
     "lat": 39.8836,
     "lng": 116.35366
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白纸坊东街",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 92.3,
     "lat": 39.877266,
     "lng": 116.363819
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 106.6,
     "lat": 39.882356,
     "lng": 116.357106
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 111.8,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 111.5,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 108.9,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 96.5,
     "lat": 39.885139,
     "lng": 116.359369
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-贵仁居",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 96.0,
     "lat": 39.879316,
     "lng": 116.367408
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 129.5,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 113.4,
     "lat": 39.885139,
     "lng": 116.359369
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 109.7,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-东华金座",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 92.9,
     "lat": 39.887466,
     "lng": 116.359148
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 131.1,
     "lat": 39.882356,
     "lng": 116.357106
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线里小区",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 118.6,
     "lat": 39.885246,
     "lng": 116.346228
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:20",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 104.4,
     "lat": 39.8836,
     "lng": 116.35366
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枣林前街",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 102.4,
     "lat": 39.882585,
     "lng": 116.347387
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枣林前街",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 116.3,
     "lat": 39.882585,
     "lng": 116.347387
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 100.0,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路二条",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 95.1,
     "lat": 39.88399,
     "lng": 116.350292
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-广安门内大街",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 121.4,
     "lat": 39.88712,
     "lng": 116.35109
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-泰和嘉苑",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 139.7,
     "lat": 39.882471,
     "lng": 116.355413
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枣林前街",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 104.1,
     "lat": 39.882585,
     "lng": 116.347387
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-祥和家苑",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 100.5,
     "lat": 39.882539,
     "lng": 116.355979
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 97.0,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 98.3,
     "lat": 39.884116,
     "lng": 116.357721
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 114.8,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 125.2,
     "lat": 39.8836,
     "lng": 116.35366
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 108.3,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 104.9,
     "lat": 39.882356,
     "lng": 116.357106
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白纸坊东街",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 117.2,
     "lat": 39.877266,
     "lng": 116.363819
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 117.6,
     "lat": 39.885139,
     "lng": 116.359369
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 109.4,
     "lat": 39.883128,
     "lng": 116.351378
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-广安门内大街",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 144.2,
     "lat": 39.88712,
     "lng": 116.35109
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 100.0,
     "lat": 39.88087,
     "lng": 116.36446
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 75.6,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枣林前街",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 122.0,
     "lat": 39.882585,
     "lng": 116.347387
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 117.0,
     "lat": 39.885139,
     "lng": 116.359369
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枣林前街",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 118.3,
     "lat": 39.882585,
     "lng": 116.347387
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线里小区",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 100.5,
     "lat": 39.885246,
     "lng": 116.346228
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-春风胡同社区",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 85.4,
     "lat": 39.882426,
     "lng": 116.359783
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-凌云居",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 108.0,
     "lat": 39.887225,
     "lng": 116.360847
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 122.5,
     "lat": 39.8836,
     "lng": 116.35366
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线里小区",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 119.7,
     "lat": 39.885246,
     "lng": 116.346228
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-似海怡家",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 131.5,
     "lat": 39.887293,
     "lng": 116.356621
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-东华金座",
     "scraped_at": "2026-05-02 20:21:23",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 121.7,
     "lat": 39.887466,
     "lng": 116.359148
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 114.0,
     "lat": 39.885139,
     "lng": 116.359369
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 112.8,
     "lat": 39.885139,
     "lng": 116.359369
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 101.2,
     "lat": 39.882036,
     "lng": 116.367158
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 100.8,
     "lat": 39.882356,
     "lng": 116.357106
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线阁",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 110.4,
     "lat": 39.88481,
     "lng": 116.34694
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枫桦豪景一期",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 122.9,
     "lat": 39.886942,
     "lng": 116.365201
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线阁",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 124.4,
     "lat": 39.887548,
     "lng": 116.346473
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-盆儿胡同",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 86.5,
     "lat": 39.877699,
     "lng": 116.36477
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南横西街",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 134.3,
     "lat": 39.882138,
     "lng": 116.359275
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 105.9,
     "lat": 39.882356,
     "lng": 116.357106
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 132.0,
     "lat": 39.882036,
     "lng": 116.367158
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枫桦豪景一期",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 164.1,
     "lat": 39.886942,
     "lng": 116.365201
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-春风胡同社区",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 117.9,
     "lat": 39.882426,
     "lng": 116.359783
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-菜园北里",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 101.1,
     "lat": 39.883647,
     "lng": 116.345759
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-富明公寓",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 110.1,
     "lat": 39.887246,
     "lng": 116.352998
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 103.5,
     "lat": 39.885139,
     "lng": 116.359369
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 107.3,
     "lat": 39.884116,
     "lng": 116.357721
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 145.5,
     "lat": 39.88087,
     "lng": 116.36446
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线阁",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 165.3,
     "lat": 39.887548,
     "lng": 116.346473
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-东华金座",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 111.5,
     "lat": 39.887466,
     "lng": 116.359148
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 137.7,
     "lat": 39.885139,
     "lng": 116.359369
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-青春无限",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 107.6,
     "lat": 39.886559,
     "lng": 116.357067
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 128.9,
     "lat": 39.882036,
     "lng": 116.367158
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-广安门内大街",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 122.6,
     "lat": 39.88712,
     "lng": 116.35109
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-春风胡同社区",
     "scraped_at": "2026-05-02 20:21:26",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 121.7,
     "lat": 39.882426,
     "lng": 116.359783
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:29",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 112.4,
     "lat": 39.882036,
     "lng": 116.367158
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-菜园北里",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 111.2,
     "lat": 39.883647,
     "lng": 116.345759
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 101.8,
     "lat": 39.882036,
     "lng": 116.367158
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-平原里小区",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 105.6,
     "lat": 39.882036,
     "lng": 116.367158
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-祥和家苑",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 85.9,
     "lat": 39.882539,
     "lng": 116.355979
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-青春无限",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 104.6,
     "lat": 39.886559,
     "lng": 116.357067
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-泰和嘉苑",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 130.2,
     "lat": 39.882471,
     "lng": 116.355413
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-信恒大厦",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 116.8,
     "lat": 39.887576,
     "lng": 116.355588
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-枣林前街",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 112.5,
     "lat": 39.882585,
     "lng": 116.347387
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-白广路",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 103.3,
     "lat": 39.8836,
     "lng": 116.35366
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街西里",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 113.3,
     "lat": 39.882356,
     "lng": 116.357106
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-法源寺西里小区",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 117.2,
     "lat": 39.883886,
     "lng": 116.362378
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-双槐里",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 112.6,
     "lat": 39.88087,
     "lng": 116.36446
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-菜园北里",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 107.7,
     "lat": 39.883647,
     "lng": 116.345759
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-牛街东里",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 113.3,
     "lat": 39.885139,
     "lng": 116.359369
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线阁",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 147.3,
     "lat": 39.887548,
     "lng": 116.346473
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-似海怡家",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 101.7,
     "lat": 39.887293,
     "lng": 116.356621
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-南线阁",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 156.4,
     "lat": 39.887548,
     "lng": 116.346473
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "西城区-牛街-信恒大厦",
     "scraped_at": "2026-05-02 20:21:32",
-    "region": "niujie",
+    "region": "牛街",
     "unit_price": 125.4,
     "lat": 39.887576,
     "lng": 116.355588

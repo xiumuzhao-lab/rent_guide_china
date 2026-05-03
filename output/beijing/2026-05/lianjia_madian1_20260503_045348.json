@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 107.5,
     "lat": 39.967396,
     "lng": 116.378998
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 126.6,
     "lat": 39.969176,
     "lng": 116.367248
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-文联宿舍",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 117.9,
     "lat": 39.965216,
     "lng": 116.370818
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-吉第嘉园",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 131.2,
     "lat": 39.965216,
     "lng": 116.370818
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 105.2,
     "lat": 39.9702,
     "lng": 116.370046
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 112.1,
     "lat": 39.9702,
     "lng": 116.370046
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 125.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 125.7,
     "lat": 39.965216,
     "lng": 116.370818
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-吉第嘉园",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 129.0,
     "lat": 39.965216,
     "lng": 116.370818
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-凯德品元",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 139.5,
     "lat": 39.978239,
     "lng": 116.375459
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.1,
     "lat": 39.9702,
     "lng": 116.370046
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风街",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 166.7,
     "lat": 39.962081,
     "lng": 116.372066
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-中航宿舍",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 128.8,
     "lat": 39.9702,
     "lng": 116.370046
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 131.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风街",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 173.1,
     "lat": 39.962081,
     "lng": 116.372066
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.2,
     "lat": 39.967056,
     "lng": 116.365988
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 121.8,
     "lat": 39.9702,
     "lng": 116.370046
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北里",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.0,
     "lat": 39.967396,
     "lng": 116.378998
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 106.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:09:16",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 86.5,
     "lat": 39.965216,
     "lng": 116.370818
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 114.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 107.7,
     "lat": 39.97147,
     "lng": 116.384542
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 112.1,
     "lat": 39.9702,
     "lng": 116.370046
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-华展国际公寓",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 114.0,
     "lat": 39.978239,
     "lng": 116.375459
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": "",
     "lat": 39.961176,
     "lng": 116.356408
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.4,
     "lat": 39.9702,
     "lng": 116.370046
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北里",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 121.5,
     "lat": 39.967396,
     "lng": 116.378998
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.3,
     "lat": 39.965216,
     "lng": 116.370818
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:07:54",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 157.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 119.8,
     "lat": 39.967396,
     "lng": 116.378998
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:09:16",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 110.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 112.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 115.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:16",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 103.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明嘉园",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 104.1,
     "lat": 39.967396,
     "lng": 116.378998
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 110.5,
     "lat": 39.965216,
     "lng": 116.370818
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-冠城北园",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 117.6,
     "lat": 39.972508,
     "lng": 116.371481
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-吉第嘉园",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 128.9,
     "lat": 39.965216,
     "lng": 116.370818
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 127.3,
     "lat": 39.969176,
     "lng": 116.367248
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.0,
     "lat": 39.9702,
     "lng": 116.370046
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 119.6,
     "lat": 39.969176,
     "lng": 116.367248
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 137.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-凯德品元",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 145.5,
     "lat": 39.978239,
     "lng": 116.375459
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 122.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 154.5,
     "lat": 39.969176,
     "lng": 116.367248
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 123.6,
     "lat": 39.9702,
     "lng": 116.370046
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.4,
     "lat": 39.967396,
     "lng": 116.378998
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 138.3,
     "lat": 39.97147,
     "lng": 116.384542
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.4,
     "lat": 39.969176,
     "lng": 116.367248
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 121.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民路",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 109.2,
     "lat": 39.971696,
     "lng": 116.384448
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风街",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 142.9,
     "lat": 39.962081,
     "lng": 116.372066
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 114.5,
     "lat": 39.9702,
     "lng": 116.370046
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 115.6,
     "lat": 39.967396,
     "lng": 116.378998
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 155.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-鼓楼外大街",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 109.8,
     "lat": 39.971696,
     "lng": 116.384448
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 134.0,
     "lat": 39.967396,
     "lng": 116.378998
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 143.3,
     "lat": 39.967396,
     "lng": 116.378998
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:07:57",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 151.0,
     "lat": 39.967056,
     "lng": 116.365988
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 122.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民东里",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 148.8,
     "lat": 39.971696,
     "lng": 116.384448
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-华展国际公寓",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 136.3,
     "lat": 39.978239,
     "lng": 116.375459
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北街",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 136.1,
     "lat": 39.965435,
     "lng": 116.370252
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 171.1,
     "lat": 39.967396,
     "lng": 116.378998
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 103.3,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 183.8,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 105.9,
     "lat": 39.969176,
     "lng": 116.367248
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 108.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 117.6,
     "lat": 39.9702,
     "lng": 116.370046
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北街",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 102.4,
     "lat": 39.965435,
     "lng": 116.370252
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 142.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 102.1,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 99.7,
     "lat": 39.967396,
     "lng": 116.378998
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 154.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民东里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 106.0,
     "lat": 39.971696,
     "lng": 116.384448
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 143.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 139.9,
     "lat": 39.967396,
     "lng": 116.378998
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 116.2,
     "lat": 39.9702,
     "lng": 116.370046
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-冠城北园",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 115.4,
     "lat": 39.972508,
     "lng": 116.371481
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 104.4,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 215.2,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 165.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-金澳国际",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 125.1,
     "lat": 39.9702,
     "lng": 116.370046
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 145.6,
     "lat": 39.967056,
     "lng": 116.365988
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 143.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 114.6,
     "lat": 39.969176,
     "lng": 116.367248
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 85.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:01",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 175.3,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 91.4,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 99.6,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 137.5,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 128.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-电信宿舍",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 130.3,
     "lat": 39.9702,
     "lng": 116.370046
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 141.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 114.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 108.3,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 141.2,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-京友公寓",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 147.3,
     "lat": 39.978239,
     "lng": 116.375459
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 121.7,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 127.9,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 87.5,
     "lat": 39.965216,
     "lng": 116.370818
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新康街甲一号",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 141.9,
     "lat": 39.956356,
     "lng": 116.369388
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-文联宿舍",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 154.9,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 109.8,
     "lat": 39.969176,
     "lng": 116.367248
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 139.5,
     "lat": 39.969176,
     "lng": 116.367248
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 118.3,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.5,
     "lat": 39.96335,
     "lng": 116.364566
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 147.8,
     "lat": 39.967056,
     "lng": 116.365988
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:09:16",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 116.7,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 137.6,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:04",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 117.6,
     "lat": 39.967396,
     "lng": 116.378998
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-文联宿舍",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 176.6,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 139.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 154.5,
     "lat": 39.967396,
     "lng": 116.378998
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-电信宿舍",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.3,
     "lat": 39.9702,
     "lng": 116.370046
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-京友公寓",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 103.4,
     "lat": 39.978239,
     "lng": 116.375459
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北街",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.7,
     "lat": 39.965435,
     "lng": 116.370252
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-鼓楼外大街",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 127.8,
     "lat": 39.971696,
     "lng": 116.384448
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 250.0,
     "lat": 39.96335,
     "lng": 116.364566
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-吉第嘉园",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 143.4,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 109.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 104.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 149.6,
     "lat": 39.967056,
     "lng": 116.365988
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 108.5,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.3,
     "lat": 39.967396,
     "lng": 116.378998
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民东里",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 118.2,
     "lat": 39.971696,
     "lng": 116.384448
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 130.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 111.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风街",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 154.3,
     "lat": 39.962081,
     "lng": 116.372066
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.1,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-冠城北园",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 116.6,
     "lat": 39.972508,
     "lng": 116.371481
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 148.3,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 125.0,
     "lat": 39.96335,
     "lng": 116.364566
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 132.4,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北街",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 121.2,
     "lat": 39.965435,
     "lng": 116.370252
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 109.2,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 126.2,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风街",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 161.1,
     "lat": 39.961166,
     "lng": 116.370748
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.8,
     "lat": 39.967396,
     "lng": 116.378998
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 150.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:07",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 139.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-文联宿舍",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 155.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 112.5,
     "lat": 39.967056,
     "lng": 116.365988
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 121.0,
     "lat": 39.96335,
     "lng": 116.364566
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 157.2,
     "lat": 39.967056,
     "lng": 116.365988
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-吉第嘉园",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 116.7,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 118.6,
     "lat": 39.967396,
     "lng": 116.378998
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.6,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 140.7,
     "lat": 39.97147,
     "lng": 116.384542
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 160.4,
     "lat": 39.965216,
     "lng": 116.370818
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民东里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 142.5,
     "lat": 39.971696,
     "lng": 116.384448
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-冠城北园",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 122.6,
     "lat": 39.972508,
     "lng": 116.371481
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 110.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 165.3,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风街",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 155.2,
     "lat": 39.961166,
     "lng": 116.370748
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 165.1,
     "lat": 39.969176,
     "lng": 116.367248
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民路",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 154.2,
     "lat": 39.97196,
     "lng": 116.385587
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 167.0,
     "lat": 39.96335,
     "lng": 116.364566
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.8,
     "lat": 39.967396,
     "lng": 116.378998
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民路",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 138.0,
     "lat": 39.97196,
     "lng": 116.385587
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 122.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-鼓楼外大街",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 131.7,
     "lat": 39.971696,
     "lng": 116.384448
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:08:10",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 148.6,
     "lat": 39.96335,
     "lng": 116.364566
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 148.9,
     "lat": 39.967396,
     "lng": 116.378998
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 159.6,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 150.6,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北街",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 127.1,
     "lat": 39.965435,
     "lng": 116.370252
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-玉兰园",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 138.6,
     "lat": 39.968306,
     "lng": 116.371668
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 123.7,
     "lat": 39.967396,
     "lng": 116.378998
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-华龙大厦",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 122.6,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 118.0,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 207.4,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 117.8,
     "lat": 39.96641,
     "lng": 116.379564
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风街",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 156.5,
     "lat": 39.962081,
     "lng": 116.372066
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北里",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 134.8,
     "lat": 39.967396,
     "lng": 116.378998
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 130.3,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 155.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 124.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:08:13",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 146.9,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-凯德品元",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 174.7,
     "lat": 39.978239,
     "lng": 116.375459
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-马甸西路",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 130.8,
     "lat": 39.970046,
     "lng": 116.369118
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 70.2,
     "lat": 39.967396,
     "lng": 116.378998
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-冠城北园",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.0,
     "lat": 39.972508,
     "lng": 116.371481
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-华尊大厦",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 88.5,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民路",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 94.3,
     "lat": 39.97196,
     "lng": 116.385587
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 156.2,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 132.7,
     "lat": 39.966305,
     "lng": 116.376514
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-吉第嘉园",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 138.3,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.6,
     "lat": 39.96641,
     "lng": 116.379564
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民路",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 138.6,
     "lat": 39.97196,
     "lng": 116.385587
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 156.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 139.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-文联宿舍",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 146.8,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 118.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:17",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 124.5,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 136.8,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 139.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 128.6,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 98.7,
     "lat": 39.96641,
     "lng": 116.379564
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 204.0,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 123.7,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 131.0,
     "lat": 39.969176,
     "lng": 116.367248
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 125.9,
     "lat": 39.965216,
     "lng": 116.370818
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 129.5,
     "lat": 39.97147,
     "lng": 116.384542
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 115.2,
     "lat": 39.969176,
     "lng": 116.367248
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 116.5,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 133.8,
     "lat": 39.967056,
     "lng": 116.365988
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-华龙大厦",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 102.4,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 157.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风街",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 110.0,
     "lat": 39.961166,
     "lng": 116.370748
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 150.5,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 178.1,
     "lat": 39.96335,
     "lng": 116.364566
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 109.7,
     "lat": 39.969176,
     "lng": 116.367248
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 125.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 154.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 116.3,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:21",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 125.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 147.3,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-华龙大厦",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 116.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 128.5,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 117.8,
     "lat": 39.96335,
     "lng": 116.364566
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 178.1,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 122.5,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.0,
     "lat": 39.969176,
     "lng": 116.367248
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 143.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 134.2,
     "lat": 39.967396,
     "lng": 116.378998
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 162.8,
     "lat": 39.969176,
     "lng": 116.367248
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 106.3,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-文联宿舍",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 160.3,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.2,
     "lat": 39.969176,
     "lng": 116.367248
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-阳光丽景",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 182.4,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:08:51",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 123.6,
     "lat": 39.969176,
     "lng": 116.367248
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 111.3,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 134.2,
     "lat": 39.969176,
     "lng": 116.367248
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 119.6,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.8,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 129.7,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-中航宿舍",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 122.0,
     "lat": 39.9702,
     "lng": 116.370046
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 131.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 114.6,
     "lat": 39.965216,
     "lng": 116.370818
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 123.6,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 126.5,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 113.2,
     "lat": 39.967396,
     "lng": 116.378998
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民东里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 121.7,
     "lat": 39.971696,
     "lng": 116.384448
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 124.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 110.6,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月华轩",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 93.6,
     "lat": 39.969176,
     "lng": 116.367248
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 107.1,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 143.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:09:03",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 124.9,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 149.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 129.0,
     "lat": 39.967396,
     "lng": 116.378998
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 145.1,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 133.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 101.5,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 158.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 106.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-钟表北园",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 129.9,
     "lat": 39.969586,
     "lng": 116.369048
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 123.0,
     "lat": 39.965216,
     "lng": 116.370818
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:09:16",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 131.1,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 97.6,
     "lat": 39.967396,
     "lng": 116.378998
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民路",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 140.7,
     "lat": 39.97196,
     "lng": 116.385587
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-吉第嘉园",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 127.1,
     "lat": 39.965216,
     "lng": 116.370818
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 114.0,
     "lat": 39.965216,
     "lng": 116.370818
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 107.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 121.3,
     "lat": 39.965216,
     "lng": 116.370818
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 112.0,
     "lat": 39.96641,
     "lng": 116.379564
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:09:08",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 98.8,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 128.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风北街",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 117.3,
     "lat": 39.965435,
     "lng": 116.370252
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.7,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民东里",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 123.3,
     "lat": 39.971696,
     "lng": 116.384448
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.3,
     "lat": 39.969176,
     "lng": 116.367248
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-北三环中路",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 119.5,
     "lat": 39.967056,
     "lng": 116.365988
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 117.4,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中东里",
     "scraped_at": "2026-05-02 20:09:16",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 133.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-文联宿舍",
     "scraped_at": "2026-05-02 20:09:16",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 134.7,
     "lat": 39.965216,
     "lng": 116.370818
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "海淀区-马甸-月季园",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 126.1,
     "lat": 39.969176,
     "lng": 116.367248
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 125.1,
     "lat": 39.96335,
     "lng": 116.364566
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "朝阳区-马甸-裕民路",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 107.5,
     "lat": 39.971416,
     "lng": 116.379358
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-裕中西里",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 135.2,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 117.0,
     "lat": 39.97147,
     "lng": 116.384542
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-双旗杆东里",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 120.7,
     "lat": 39.965216,
     "lng": 116.370818
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-马甸南村",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 118.0,
     "lat": 39.965216,
     "lng": 116.370818
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新外大街甲",
     "scraped_at": "2026-05-02 20:09:12",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 118.6,
     "lat": 39.96335,
     "lng": 116.364566
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新风南里",
     "scraped_at": "2026-05-02 20:09:16",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 109.3,
     "lat": 39.967396,
     "lng": 116.378998
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "西城区-马甸-新明胡同",
     "scraped_at": "2026-05-02 20:09:16",
-    "region": "madian1",
+    "region": "马甸",
     "unit_price": 109.5,
     "lat": 39.97147,
     "lng": 116.384542

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-菊儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 161.2,
     "lat": 39.930996,
     "lng": 116.391638
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-豆角胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 119.0,
     "lat": 39.935389,
     "lng": 116.39227
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-东公街",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 193.3,
     "lat": 39.930996,
     "lng": 116.391638
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-北下洼子胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 136.0,
     "lat": 39.930996,
     "lng": 116.391638
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-菊儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 133.9,
     "lat": 39.930996,
     "lng": 116.391638
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-菊儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 170.1,
     "lat": 39.930996,
     "lng": 116.391638
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-车辇店胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 260.6,
     "lat": 39.930996,
     "lng": 116.391638
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-南锣鼓巷",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 188.5,
     "lat": 39.930956,
     "lng": 116.390848
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-菊儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 202.0,
     "lat": 39.930996,
     "lng": 116.391638
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-帽儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 203.2,
     "lat": 39.935696,
     "lng": 116.391134
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-豆角胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 165.0,
     "lat": 39.935389,
     "lng": 116.39227
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-帽儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 187.3,
     "lat": 39.935696,
     "lng": 116.391134
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-鼓楼东大街",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 680.0,
     "lat": 39.939857,
     "lng": 116.388034
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-帽儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 204.4,
     "lat": 39.935696,
     "lng": 116.391134
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-谢家胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 280.0,
     "lat": 39.930996,
     "lng": 116.391638
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-帽儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 213.3,
     "lat": 39.935696,
     "lng": 116.391134
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-辛安里",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 320.1,
     "lat": 39.933022,
     "lng": 116.390199
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-东公街",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 329.5,
     "lat": 39.930996,
     "lng": 116.391638
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-帽儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 188.1,
     "lat": 39.935696,
     "lng": 116.391134
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-鼓楼东大街",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 141.0,
     "lat": 39.939857,
     "lng": 116.388034
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-沙井胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 246.5,
     "lat": 39.932429,
     "lng": 116.396802
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-帽儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 266.8,
     "lat": 39.935696,
     "lng": 116.391134
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-草厂东巷",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 109.7,
     "lat": 39.930996,
     "lng": 116.391638
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-帽儿胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 232.3,
     "lat": 39.935696,
     "lng": 116.391134
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-地安门-羊角灯胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 292.4,
     "lat": 39.9286,
     "lng": 116.35106
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-沙井胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 301.2,
     "lat": 39.932429,
     "lng": 116.396802
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-辛安里",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 350.3,
     "lat": 39.933022,
     "lng": 116.390199
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-东棉花胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 154.5,
     "lat": 39.932223,
     "lng": 116.402259
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-蓑衣胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 1805.7,
     "lat": 39.930996,
     "lng": 116.391638
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "东城区-地安门-北兵马司胡同",
     "scraped_at": "2026-05-02 19:59:41",
-    "region": "dianmen",
+    "region": "地安门",
     "unit_price": 233.3,
     "lat": 39.930996,
     "lng": 116.391638

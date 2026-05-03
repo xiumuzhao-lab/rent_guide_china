@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 440.5,
     "lat": 39.93852,
     "lng": 116.269541
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 81.8,
     "lat": 39.940777,
     "lng": 116.27981
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城三区",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 114.3,
     "lat": 39.949531,
     "lng": 116.271008
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-汤泉逸墅",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 172.0,
     "lat": 39.937815,
     "lng": 116.271843
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-农林科学院宿舍",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 89.8,
     "lat": 39.945079,
     "lng": 116.285915
@@ -108,7 +108,7 @@
     "rent_type": "合租",
     "location": "海淀-四季青-和泓四季",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 144.1,
     "lat": 39.952309,
     "lng": 116.264402
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-玲珑花园",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 137.2,
     "lat": 39.93815,
     "lng": 116.293294
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城三区",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 116.0,
     "lat": 39.949531,
     "lng": 116.271008
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 114.5,
     "lat": 39.938003,
     "lng": 116.28622
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-和泓四季",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 94.4,
     "lat": 39.960685,
     "lng": 116.269742
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城果岭",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 82.7,
     "lat": 39.954334,
     "lng": 116.270847
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:52:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 85.2,
     "lat": 39.955715,
     "lng": 116.27143
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 99.6,
     "lat": 39.955715,
     "lng": 116.27143
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-汤泉逸墅",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 139.1,
     "lat": 39.937815,
     "lng": 116.271843
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-水云居",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 142.0,
     "lat": 39.935162,
     "lng": 116.28224
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": "",
     "lat": 40.149222,
     "lng": 116.419311
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 182.2,
     "lat": 39.93852,
     "lng": 116.269541
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园北里",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 84.4,
     "lat": 39.962786,
     "lng": 116.271556
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园北里",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 76.7,
     "lat": 39.962786,
     "lng": 116.271556
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 177.2,
     "lat": 39.933717,
     "lng": 116.290412
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-水云居",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 115.1,
     "lat": 39.935162,
     "lng": 116.28224
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-和泓四季",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 101.6,
     "lat": 39.960685,
     "lng": 116.269742
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 109.8,
     "lat": 39.940437,
     "lng": 116.286503
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-观澜国际",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.8,
     "lat": 39.943943,
     "lng": 116.292998
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-绿波漫板",
     "scraped_at": "2026-05-02 21:52:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 109.4,
     "lat": 39.936745,
     "lng": 116.292182
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-诚品建筑",
     "scraped_at": "2026-05-02 21:51:07",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 103.0,
     "lat": 39.945447,
     "lng": 116.27615
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 126.0,
     "lat": 39.913446,
     "lng": 116.452208
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽经典园",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 119.1,
     "lat": 39.937619,
     "lng": 116.282684
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 112.2,
     "lat": 39.935913,
     "lng": 116.28636
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 113.1,
     "lat": 39.939165,
     "lng": 116.27651
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-绿波漫板",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 142.0,
     "lat": 39.936745,
     "lng": 116.292182
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-观澜国际",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 93.0,
     "lat": 39.943943,
     "lng": 116.292998
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 97.8,
     "lat": 39.940777,
     "lng": 116.27981
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-玲珑花园",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 167.8,
     "lat": 39.93815,
     "lng": 116.293294
@@ -659,7 +659,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 135.6,
     "lat": 39.863269,
     "lng": 116.453636
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-诚品建筑",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 117.8,
     "lat": 39.945447,
     "lng": 116.27615
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城三区",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 154.1,
     "lat": 39.949531,
     "lng": 116.271008
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 90.3,
     "lat": 39.938003,
     "lng": 116.28622
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽园",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 130.0,
     "lat": 39.936144,
     "lng": 116.279392
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城二区",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 112.6,
     "lat": 39.95197,
     "lng": 116.271626
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 79.2,
     "lat": 39.940437,
     "lng": 116.286503
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 251.0,
     "lat": 39.93852,
     "lng": 116.269541
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-玲珑花园",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 214.5,
     "lat": 39.93815,
     "lng": 116.293294
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 84.5,
     "lat": 39.955715,
     "lng": 116.27143
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 80.9,
     "lat": 39.940777,
     "lng": 116.27981
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-和泓四季",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 105.7,
     "lat": 39.960685,
     "lng": 116.269742
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 77.0,
     "lat": 39.955715,
     "lng": 116.27143
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城工作区",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 119.5,
     "lat": 39.952089,
     "lng": 116.265231
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.6,
     "lat": 39.946786,
     "lng": 116.230458
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园北里",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 100.7,
     "lat": 39.962786,
     "lng": 116.271556
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 125.0,
     "lat": 39.970741,
     "lng": 116.217972
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-汤泉逸墅",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 89.8,
     "lat": 39.937815,
     "lng": 116.271843
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园北里",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 100.0,
     "lat": 39.962786,
     "lng": 116.271556
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.7,
     "lat": 39.938003,
     "lng": 116.28622
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 134.4,
     "lat": 39.970741,
     "lng": 116.217972
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽星苑",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.8,
     "lat": 39.931556,
     "lng": 116.215368
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 183.0,
     "lat": 39.93852,
     "lng": 116.269541
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:52:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 140.0,
     "lat": 39.970741,
     "lng": 116.217972
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-诸子阶",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 153.8,
     "lat": 39.942662,
     "lng": 116.263304
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-曙光花园",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 115.2,
     "lat": 39.931556,
     "lng": 116.215368
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-和泓四季",
     "scraped_at": "2026-05-02 21:52:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 91.8,
     "lat": 39.960685,
     "lng": 116.269742
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 94.1,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽星苑",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.7,
     "lat": 39.931556,
     "lng": 116.215368
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 76.9,
     "lat": 39.955715,
     "lng": 116.27143
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-曙光花园",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 100.0,
     "lat": 39.931556,
     "lng": 116.215368
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城果岭",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 74.1,
     "lat": 39.954334,
     "lng": 116.270847
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-金庄",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 86.2,
     "lat": 39.942657,
     "lng": 116.274306
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 99.4,
     "lat": 39.946786,
     "lng": 116.230458
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 73.1,
     "lat": 39.955715,
     "lng": 116.27143
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 90.4,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 113.8,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 104.6,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 78.7,
     "lat": 39.955715,
     "lng": 116.27143
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-诸子阶",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 168.7,
     "lat": 39.942662,
     "lng": 116.263304
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-诚品建筑",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 109.9,
     "lat": 39.945447,
     "lng": 116.27615
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 85.4,
     "lat": 39.955715,
     "lng": 116.27143
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 125.0,
     "lat": 39.970741,
     "lng": 116.217972
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 217.5,
     "lat": 39.933717,
     "lng": 116.290412
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-农林科学院宿舍",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 96.0,
     "lat": 39.945079,
     "lng": 116.285915
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 137.4,
     "lat": 39.970741,
     "lng": 116.217972
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-绿波漫板",
     "scraped_at": "2026-05-02 21:52:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 117.6,
     "lat": 39.936745,
     "lng": 116.292182
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:13",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 94.5,
     "lat": 39.982686,
     "lng": 116.255332
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 138.2,
     "lat": 39.970741,
     "lng": 116.217972
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 122.5,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-汤泉逸墅",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 134.7,
     "lat": 39.937815,
     "lng": 116.271843
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望河园",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 83.5,
     "lat": 39.931556,
     "lng": 116.215368
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:52:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 81.6,
     "lat": 39.955715,
     "lng": 116.27143
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 130.6,
     "lat": 39.938003,
     "lng": 116.28622
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 101.1,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-曙光花园",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.3,
     "lat": 39.931556,
     "lng": 116.215368
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 75.9,
     "lat": 39.955715,
     "lng": 116.27143
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 106.6,
     "lat": 39.982686,
     "lng": 116.255332
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 118.4,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:52:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.8,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-绿波漫板",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 96.3,
     "lat": 39.936745,
     "lng": 116.292182
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-金雅园南区",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 96.8,
     "lat": 39.954344,
     "lng": 116.226235
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 97.6,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 73.4,
     "lat": 39.955715,
     "lng": 116.27143
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 146.5,
     "lat": 39.970741,
     "lng": 116.217972
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-和泓四季",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 113.7,
     "lat": 39.960685,
     "lng": 116.269742
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城二区",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 105.7,
     "lat": 39.95197,
     "lng": 116.271626
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 128.6,
     "lat": 39.970741,
     "lng": 116.217972
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-金雅园北区",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 80.9,
     "lat": 39.954344,
     "lng": 116.226235
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 91.6,
     "lat": 39.940437,
     "lng": 116.286503
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 131.4,
     "lat": 39.970741,
     "lng": 116.217972
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园北里",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 88.9,
     "lat": 39.962786,
     "lng": 116.271556
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:52:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 88.2,
     "lat": 39.938003,
     "lng": 116.28622
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-诚品建筑",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 106.2,
     "lat": 39.945447,
     "lng": 116.27615
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 132.2,
     "lat": 39.940437,
     "lng": 116.286503
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 130.2,
     "lat": 39.970741,
     "lng": 116.217972
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:16",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.2,
     "lat": 39.946786,
     "lng": 116.230458
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 101.0,
     "lat": 39.935913,
     "lng": 116.28636
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-绿波漫板",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 89.3,
     "lat": 39.936745,
     "lng": 116.292182
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 92.9,
     "lat": 39.955715,
     "lng": 116.27143
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望河园",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 88.3,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 139.5,
     "lat": 39.970741,
     "lng": 116.217972
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 86.9,
     "lat": 39.940777,
     "lng": 116.27981
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望福园",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 105.6,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 108.8,
     "lat": 39.93852,
     "lng": 116.269541
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 108.4,
     "lat": 39.946786,
     "lng": 116.230458
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽西园",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.4,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-水云居",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 105.8,
     "lat": 39.935162,
     "lng": 116.28224
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 109.1,
     "lat": 39.940777,
     "lng": 116.27981
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 101.0,
     "lat": 39.946786,
     "lng": 116.230458
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 126.3,
     "lat": 39.940437,
     "lng": 116.286503
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-曙光花园",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 91.3,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城三区",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 101.6,
     "lat": 39.949531,
     "lng": 116.271008
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 121.0,
     "lat": 39.940437,
     "lng": 116.286503
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-和泓四季",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 75.8,
     "lat": 39.960685,
     "lng": 116.269742
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽星苑",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 119.4,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 92.1,
     "lat": 39.955715,
     "lng": 116.27143
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望塔园",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 89.0,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园北里",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 76.5,
     "lat": 39.962786,
     "lng": 116.271556
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望塔园",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 96.3,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 140.5,
     "lat": 39.970741,
     "lng": 116.217972
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽西园",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 91.9,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-汤泉逸墅",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 121.5,
     "lat": 39.937815,
     "lng": 116.271843
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 110.8,
     "lat": 39.938003,
     "lng": 116.28622
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 345.7,
     "lat": 39.93852,
     "lng": 116.269541
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 103.0,
     "lat": 39.982686,
     "lng": 116.255332
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:20",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 126.7,
     "lat": 39.938003,
     "lng": 116.28622
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 120.8,
     "lat": 39.940437,
     "lng": 116.286503
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城果岭",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 81.5,
     "lat": 39.954334,
     "lng": 116.270847
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 137.4,
     "lat": 39.938003,
     "lng": 116.28622
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 102.0,
     "lat": 39.955715,
     "lng": 116.27143
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城二区",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 102.5,
     "lat": 39.95197,
     "lng": 116.271626
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 90.4,
     "lat": 39.946786,
     "lng": 116.230458
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-观澜国际",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 107.4,
     "lat": 39.943943,
     "lng": 116.292998
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 108.5,
     "lat": 39.940437,
     "lng": 116.286503
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 100.0,
     "lat": 39.982686,
     "lng": 116.255332
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽星苑",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 109.3,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 132.4,
     "lat": 39.970741,
     "lng": 116.217972
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五棵松",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 69.5,
     "lat": 39.967211,
     "lng": 116.212975
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 131.5,
     "lat": 39.982686,
     "lng": 116.255332
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城果岭",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 75.2,
     "lat": 39.954334,
     "lng": 116.270847
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-农林科学院宿舍",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 116.1,
     "lat": 39.945079,
     "lng": 116.285915
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望塔园",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 90.9,
     "lat": 39.931556,
     "lng": 116.215368
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 116.7,
     "lat": 39.970741,
     "lng": 116.217972
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 127.9,
     "lat": 39.970741,
     "lng": 116.217972
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-金雅园南区",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 85.4,
     "lat": 39.954344,
     "lng": 116.226235
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望塔园",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 86.2,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽星苑",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 110.3,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-金雅园南区",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 86.3,
     "lat": 39.954344,
     "lng": 116.226235
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 140.1,
     "lat": 39.982686,
     "lng": 116.255332
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-水云居",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 142.8,
     "lat": 39.935162,
     "lng": 116.28224
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 109.4,
     "lat": 39.946786,
     "lng": 116.230458
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-农林科学院宿舍",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 139.8,
     "lat": 39.945079,
     "lng": 116.285915
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:23",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 107.7,
     "lat": 39.940437,
     "lng": 116.286503
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 155.7,
     "lat": 39.970741,
     "lng": 116.217972
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-曙光花园",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 87.5,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 162.3,
     "lat": 39.933717,
     "lng": 116.290412
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽经典园",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 138.9,
     "lat": 39.937619,
     "lng": 116.282684
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 125.0,
     "lat": 39.970741,
     "lng": 116.217972
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 271.0,
     "lat": 39.93852,
     "lng": 116.269541
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-曙光花园",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 70.9,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园北里",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 85.0,
     "lat": 39.962786,
     "lng": 116.271556
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-盲人学校家属楼",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 109.3,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 216.0,
     "lat": 39.933717,
     "lng": 116.290412
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 134.7,
     "lat": 39.970741,
     "lng": 116.217972
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽园",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 117.5,
     "lat": 39.936144,
     "lng": 116.279392
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-京投银泰琨御府",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 138.3,
     "lat": 39.970741,
     "lng": 116.217972
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 79.1,
     "lat": 39.955715,
     "lng": 116.27143
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-和泓四季",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 94.1,
     "lat": 39.960685,
     "lng": 116.269742
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 109.1,
     "lat": 39.946786,
     "lng": 116.230458
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-汤泉逸墅",
     "scraped_at": "2026-05-02 21:51:26",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 140.7,
     "lat": 39.937815,
     "lng": 116.271843
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 113.2,
     "lat": 39.938003,
     "lng": 116.28622
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 100.5,
     "lat": 39.938003,
     "lng": 116.28622
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-美丽星苑",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 106.2,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 129.3,
     "lat": 39.982686,
     "lng": 116.255332
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-汤泉逸墅",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 138.4,
     "lat": 39.937815,
     "lng": 116.271843
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 123.1,
     "lat": 39.946786,
     "lng": 116.230458
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 96.2,
     "lat": 39.955715,
     "lng": 116.27143
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望河园",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.1,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-农林科学院宿舍",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 132.4,
     "lat": 39.945079,
     "lng": 116.285915
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 95.7,
     "lat": 39.938003,
     "lng": 116.28622
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城二区",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 103.3,
     "lat": 39.95197,
     "lng": 116.271626
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望河园",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 80.5,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-汤泉逸墅",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 133.6,
     "lat": 39.937815,
     "lng": 116.271843
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-东冉家园",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 101.4,
     "lat": 39.950906,
     "lng": 116.261508
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望河园",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 90.8,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-望塔园",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 85.3,
     "lat": 39.931556,
     "lng": 116.215368
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-和泓四季",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 94.7,
     "lat": 39.960685,
     "lng": 116.269742
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-农林科学院宿舍",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 111.1,
     "lat": 39.945079,
     "lng": 116.285915
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-汤泉逸墅",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 125.7,
     "lat": 39.937815,
     "lng": 116.271843
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:29",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 126.3,
     "lat": 39.982686,
     "lng": 116.255332
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 79.5,
     "lat": 39.955715,
     "lng": 116.27143
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-郦城三区",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 115.0,
     "lat": 39.949531,
     "lng": 116.271008
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居北区",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 98.9,
     "lat": 39.940437,
     "lng": 116.286503
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-颐慧佳园",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 113.1,
     "lat": 39.935913,
     "lng": 116.28636
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:33",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 74.4,
     "lat": 39.955715,
     "lng": 116.27143
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-水云居",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 139.1,
     "lat": 39.935162,
     "lng": 116.28224
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-常青园一区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 81.8,
     "lat": 39.955715,
     "lng": 116.27143
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-曙光花园",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 87.4,
     "lat": 39.931556,
     "lng": 116.215368
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-五福玲珑居南区",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 108.8,
     "lat": 39.938003,
     "lng": 116.28622
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:51:56",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 78.3,
     "lat": 39.940777,
     "lng": 116.27981
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "海淀区-四季青-西荣阁",
     "scraped_at": "2026-05-02 21:52:10",
-    "region": "sijiqing",
+    "region": "四季青",
     "unit_price": 101.3,
     "lat": 39.940777,
     "lng": 116.27981

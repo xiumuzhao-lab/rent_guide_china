@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 35.6,
     "lat": 40.212275,
     "lng": 116.241958
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.7,
     "lat": 40.227406,
     "lng": 116.235038
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京怡园",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 64.0,
     "lat": 40.227406,
     "lng": 116.235038
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-建安里小区",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 25.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 48.1,
     "lat": 40.212275,
     "lng": 116.241958
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 129.0,
     "lat": 40.222276,
     "lng": 116.245418
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 44.8,
     "lat": 40.227406,
     "lng": 116.235038
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.3,
     "lat": 40.227406,
     "lng": 116.235038
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 32.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-随园",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.1,
     "lat": 40.212275,
     "lng": 116.241958
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 34.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-建安里小区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 34.6,
     "lat": 40.212275,
     "lng": 116.241958
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-畅椿阁",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 34.7,
     "lat": 40.212275,
     "lng": 116.241958
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.5,
     "lat": 40.227406,
     "lng": 116.235038
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅嘉和园",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.5,
     "lat": 40.224226,
     "lng": 116.262318
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 52.6,
     "lat": 40.224226,
     "lng": 116.262318
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-景昌南街",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.0,
     "lat": 40.224226,
     "lng": 116.262318
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-梧桐山语",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 50.5,
     "lat": 40.212275,
     "lng": 116.241958
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅澜湾",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 88.1,
     "lat": 40.224226,
     "lng": 116.262318
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-梧桐山语",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 57.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-景昌南街",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.0,
     "lat": 40.224226,
     "lng": 116.262318
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东环路小区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 60.2,
     "lat": 40.223246,
     "lng": 116.237708
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 36.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 38.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-宁馨苑",
     "scraped_at": "2026-05-02 22:36:40",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-建安里小区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.1,
     "lat": 40.212275,
     "lng": 116.241958
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 52.3,
     "lat": 40.224226,
     "lng": 116.262318
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-何营路回迁小区三期",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 42.2,
     "lat": 40.211326,
     "lng": 116.284248
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 59.5,
     "lat": 40.212275,
     "lng": 116.241958
@@ -602,7 +602,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 94.7,
     "lat": 40.064709,
     "lng": 116.300447
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 34.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园南区",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 35.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 37.0,
     "lat": 40.215804,
     "lng": 116.237225
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:36:44",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 56.4,
     "lat": 40.215804,
     "lng": 116.237225
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 64.5,
     "lat": 40.215804,
     "lng": 116.237225
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-建安里小区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 27.5,
     "lat": 40.212275,
     "lng": 116.241958
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京怡园",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 59.5,
     "lat": 40.227406,
     "lng": 116.235038
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 42.7,
     "lat": 40.212275,
     "lng": 116.241958
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 53.1,
     "lat": 40.224226,
     "lng": 116.262318
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-畅椿阁",
     "scraped_at": "2026-05-02 22:36:44",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 34.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.4,
     "lat": 40.221488,
     "lng": 116.255078
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:36:44",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.2,
     "lat": 40.212275,
     "lng": 116.241958
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:36:44",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 51.7,
     "lat": 40.224226,
     "lng": 116.262318
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 44.0,
     "lat": 40.215804,
     "lng": 116.237225
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-亢山佳园小区",
     "scraped_at": "2026-05-02 22:36:44",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 50.0,
     "lat": 40.227406,
     "lng": 116.235038
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.8,
     "lat": 40.211424,
     "lng": 116.237077
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-富泉花园",
     "scraped_at": "2026-05-02 22:36:44",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.6,
     "lat": 40.212275,
     "lng": 116.241958
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.6,
     "lat": 40.223246,
     "lng": 116.237708
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.2,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-果岭小镇",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.3,
     "lat": 40.224226,
     "lng": 116.262318
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 66.5,
     "lat": 40.211424,
     "lng": 116.237077
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-亢山佳园小区",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 42.7,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.6,
     "lat": 40.223246,
     "lng": 116.237708
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 45.9,
     "lat": 40.221488,
     "lng": 116.255078
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 53.5,
     "lat": 40.224226,
     "lng": 116.262318
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-畅椿阁",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.6,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园二区",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 29.0,
     "lat": 40.209976,
     "lng": 116.251448
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-亢山前路",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 55.3,
     "lat": 40.216478,
     "lng": 116.247211
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 27.6,
     "lat": 40.223246,
     "lng": 116.237708
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.9,
     "lat": 40.224226,
     "lng": 116.262318
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 54.9,
     "lat": 40.215804,
     "lng": 116.237225
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 37.7,
     "lat": 40.221488,
     "lng": 116.255078
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 55.1,
     "lat": 40.224226,
     "lng": 116.262318
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 76.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 28.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园一区",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.0,
     "lat": 40.210272,
     "lng": 116.246074
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园二区",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 38.1,
     "lat": 40.209976,
     "lng": 116.251448
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园一区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 30.6,
     "lat": 40.210272,
     "lng": 116.246074
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-创新路",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 45.3,
     "lat": 40.209566,
     "lng": 116.235268
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-龙水路",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 50.4,
     "lat": 40.211048,
     "lng": 116.252569
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 58.1,
     "lat": 40.215804,
     "lng": 116.237225
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-宁馨苑",
     "scraped_at": "2026-05-02 22:36:47",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 44.5,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-梧桐山语",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 53.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 34.7,
     "lat": 40.211424,
     "lng": 116.237077
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 54.9,
     "lat": 40.224226,
     "lng": 116.262318
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-管厂宿舍",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 35.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.4,
     "lat": 40.223246,
     "lng": 116.237708
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 36.6,
     "lat": 40.223246,
     "lng": 116.237708
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 48.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 58.6,
     "lat": 40.223246,
     "lng": 116.237708
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-富泉花园",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.3,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 57.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-随园",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 47.7,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-燕平家园",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.8,
     "lat": 40.217146,
     "lng": 116.238278
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-宁馨苑",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 45.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-果岭小镇",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 30.5,
     "lat": 40.224226,
     "lng": 116.262318
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 73.5,
     "lat": 40.221488,
     "lng": 116.255078
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 51.7,
     "lat": 40.215804,
     "lng": 116.237225
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-佳莲二期",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.9,
     "lat": 40.227416,
     "lng": 116.234888
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-亢山佳园小区",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 45.2,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 49.3,
     "lat": 40.223246,
     "lng": 116.237708
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 37.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园二区",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 27.9,
     "lat": 40.209976,
     "lng": 116.251448
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 59.9,
     "lat": 40.215804,
     "lng": 116.237225
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 48.7,
     "lat": 40.227406,
     "lng": 116.235038
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-龙水路",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 54.3,
     "lat": 40.211048,
     "lng": 116.252569
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-宁馨苑",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.7,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.3,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 35.7,
     "lat": 40.212275,
     "lng": 116.241958
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 59.3,
     "lat": 40.223246,
     "lng": 116.237708
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 30.4,
     "lat": 40.211424,
     "lng": 116.237077
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园一区",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 44.3,
     "lat": 40.210272,
     "lng": 116.246074
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.3,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 51.8,
     "lat": 40.227406,
     "lng": 116.235038
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园三区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 37.6,
     "lat": 40.207586,
     "lng": 116.248988
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.2,
     "lat": 40.223246,
     "lng": 116.237708
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-何营路回迁小区三期",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 45.5,
     "lat": 40.211326,
     "lng": 116.284248
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-宁馨苑",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 42.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-随园",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 44.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-建安里小区",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 68.2,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园一区",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 32.8,
     "lat": 40.210272,
     "lng": 116.246074
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 49.1,
     "lat": 40.223246,
     "lng": 116.237708
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-燕平家园",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 37.9,
     "lat": 40.217146,
     "lng": 116.238278
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园三区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 45.4,
     "lat": 40.207586,
     "lng": 116.248988
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园三区",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.1,
     "lat": 40.207586,
     "lng": 116.248988
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-梧桐山语",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 27.6,
     "lat": 40.223246,
     "lng": 116.237708
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-随园",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 35.3,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:37:23",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 51.5,
     "lat": 40.211424,
     "lng": 116.237077
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关二条",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 44.4,
     "lat": 40.223246,
     "lng": 116.237708
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 123.3,
     "lat": 40.211424,
     "lng": 116.237077
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金地家园",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 37.4,
     "lat": 40.224226,
     "lng": 116.262318
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.8,
     "lat": 40.215804,
     "lng": 116.237225
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 47.8,
     "lat": 40.223246,
     "lng": 116.237708
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-果岭小镇",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 48.5,
     "lat": 40.224226,
     "lng": 116.262318
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金地家园",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 50.4,
     "lat": 40.224226,
     "lng": 116.262318
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 75.8,
     "lat": 40.215804,
     "lng": 116.237225
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-建安里小区",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 28.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-果岭小镇",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.1,
     "lat": 40.224226,
     "lng": 116.262318
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 67.9,
     "lat": 40.215804,
     "lng": 116.237225
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 37.7,
     "lat": 40.211424,
     "lng": 116.237077
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-龙水路",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 65.5,
     "lat": 40.211048,
     "lng": 116.252569
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京怡园",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 57.2,
     "lat": 40.227406,
     "lng": 116.235038
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅嘉和园",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 53.6,
     "lat": 40.224226,
     "lng": 116.262318
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-随园",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 53.5,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 50.4,
     "lat": 40.211424,
     "lng": 116.237077
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关二条",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 37.9,
     "lat": 40.223246,
     "lng": 116.237708
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 73.3,
     "lat": 40.215804,
     "lng": 116.237225
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅嘉和园",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 47.8,
     "lat": 40.224226,
     "lng": 116.262318
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-建安里小区",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 36.7,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.3,
     "lat": 40.223246,
     "lng": 116.237708
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.1,
     "lat": 40.211424,
     "lng": 116.237077
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-亢山佳园小区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.8,
     "lat": 40.215804,
     "lng": 116.237225
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-亢山佳园小区",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 70.3,
     "lat": 40.215804,
     "lng": 116.237225
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.2,
     "lat": 40.227406,
     "lng": 116.235038
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.8,
     "lat": 40.211424,
     "lng": 116.237077
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-畅椿阁",
     "scraped_at": "2026-05-02 22:37:27",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.9,
     "lat": 40.223246,
     "lng": 116.237708
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-畅椿阁",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-何营路回迁小区三期",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.8,
     "lat": 40.211326,
     "lng": 116.284248
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 70.3,
     "lat": 40.215804,
     "lng": 116.237225
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 44.1,
     "lat": 40.215804,
     "lng": 116.237225
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.1,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 64.8,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 55.0,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-亢山佳园小区",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 32.1,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:31",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.3,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京怡园",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 52.3,
     "lat": 40.227406,
     "lng": 116.235038
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园二区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 30.9,
     "lat": 40.209976,
     "lng": 116.251448
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅嘉和园",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 53.6,
     "lat": 40.224226,
     "lng": 116.262318
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-宁馨苑",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.3,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园二区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.1,
     "lat": 40.209976,
     "lng": 116.251448
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅嘉和园",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 60.0,
     "lat": 40.224226,
     "lng": 116.262318
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.1,
     "lat": 40.227406,
     "lng": 116.235038
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-建安里小区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 56.2,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-佳莲二期",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 36.7,
     "lat": 40.227416,
     "lng": 116.234888
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.4,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-交通队宿舍楼",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.6,
     "lat": 40.226,
     "lng": 116.24458
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 73.5,
     "lat": 40.215804,
     "lng": 116.237225
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园二区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 44.2,
     "lat": 40.209976,
     "lng": 116.251448
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 34.5,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-随园",
     "scraped_at": "2026-05-02 22:37:34",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-随园",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 60.0,
     "lat": 40.224226,
     "lng": 116.262318
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-亢山佳园小区",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 37.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 45.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 96.1,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 48.5,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关二条",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.8,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.2,
     "lat": 40.215804,
     "lng": 116.237225
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.5,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 39.1,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关二条",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 36.2,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.6,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 67.4,
     "lat": 40.215804,
     "lng": 116.237225
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-景昌南街",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.8,
     "lat": 40.224226,
     "lng": 116.262318
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 52.4,
     "lat": 40.211424,
     "lng": 116.237077
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:37:38",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 51.6,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 50.5,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 61.3,
     "lat": 40.215804,
     "lng": 116.237225
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 55.3,
     "lat": 40.227406,
     "lng": 116.235038
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 66.5,
     "lat": 40.215804,
     "lng": 116.237225
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东环路小区",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 54.8,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.0,
     "lat": 40.223246,
     "lng": 116.237708
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-随园",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 50.2,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 48.5,
     "lat": 40.212275,
     "lng": 116.241958
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 54.9,
     "lat": 40.221488,
     "lng": 116.255078
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅观澜时代",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 50.3,
     "lat": 40.224226,
     "lng": 116.262318
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-景昌南街",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.5,
     "lat": 40.224226,
     "lng": 116.262318
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-宁馨苑",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园南区",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 28.6,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 35.3,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 43.9,
     "lat": 40.221488,
     "lng": 116.255078
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-金隅嘉和园",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 47.8,
     "lat": 40.224226,
     "lng": 116.262318
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-佳莲二期",
     "scraped_at": "2026-05-02 22:38:02",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.3,
     "lat": 40.227416,
     "lng": 116.234888
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园二区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 42.3,
     "lat": 40.209976,
     "lng": 116.251448
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-亢山佳园小区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园二区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 38.5,
     "lat": 40.209976,
     "lng": 116.251448
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-龙水路",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 57.8,
     "lat": 40.211048,
     "lng": 116.252569
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 44.2,
     "lat": 40.223246,
     "lng": 116.237708
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 31.9,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 38.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园一区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 33.1,
     "lat": 40.210272,
     "lng": 116.246074
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.4,
     "lat": 40.221488,
     "lng": 116.255078
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 40.3,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 36.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-红石座",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 57.7,
     "lat": 40.221488,
     "lng": 116.255078
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-建安里小区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 34.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.2,
     "lat": 40.223246,
     "lng": 116.237708
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.4,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-景昌南街",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.1,
     "lat": 40.224226,
     "lng": 116.262318
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京怡园",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 42.9,
     "lat": 40.227406,
     "lng": 116.235038
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 52.0,
     "lat": 40.211424,
     "lng": 116.237077
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京怡园",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 47.6,
     "lat": 40.227406,
     "lng": 116.235038
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京怡园",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 63.6,
     "lat": 40.227406,
     "lng": 116.235038
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关北里小区",
     "scraped_at": "2026-05-02 22:38:13",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 41.7,
     "lat": 40.223246,
     "lng": 116.237708
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 73.8,
     "lat": 40.211424,
     "lng": 116.237077
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-京科苑",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 60.5,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.3,
     "lat": 40.215804,
     "lng": 116.237225
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-果岭小镇",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 45.4,
     "lat": 40.224226,
     "lng": 116.262318
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-昌盛园二区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 35.9,
     "lat": 40.209976,
     "lng": 116.251448
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-世涛天朗",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 46.0,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-清秀园北区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 74.3,
     "lat": 40.215804,
     "lng": 116.237225
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京怡园",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 61.2,
     "lat": 40.227406,
     "lng": 116.235038
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关二条",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.5,
     "lat": 40.223246,
     "lng": 116.237708
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水关新村",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 38.9,
     "lat": 40.211424,
     "lng": 116.237077
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 42.8,
     "lat": 40.227406,
     "lng": 116.235038
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-景昌南街",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 48.3,
     "lat": 40.224226,
     "lng": 116.262318
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-水晶屿",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 62.8,
     "lat": 40.212275,
     "lng": 116.241958
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-北京风景",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 53.6,
     "lat": 40.227406,
     "lng": 116.235038
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "昌平区-东关-东关南里小区",
     "scraped_at": "2026-05-02 22:38:17",
-    "region": "dongguan",
+    "region": "东关",
     "unit_price": 50.0,
     "lat": 40.223246,
     "lng": 116.237708

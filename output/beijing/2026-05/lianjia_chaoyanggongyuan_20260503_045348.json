@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海世家东府",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 270.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东润枫景一期",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 53.9,
     "lat": 39.953924,
     "lng": 116.489714
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 394.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 104.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风苑小区",
     "scraped_at": "2026-05-02 20:38:59",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 93.4,
     "lat": 39.953924,
     "lng": 116.489714
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": "",
     "lat": 39.942413,
     "lng": 116.483387
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际樱海园",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 131.5,
     "lat": 39.94854,
     "lng": 116.47039
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际碧海园",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 115.5,
     "lat": 39.94854,
     "lng": 116.47039
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-亮马水晶",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 88.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 123.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 79.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东润枫景二期",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 74.2,
     "lat": 39.953924,
     "lng": 116.489714
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 132.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 113.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 71.2,
     "lat": 39.9303,
     "lng": 116.47969
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 201.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 127.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-公园大道",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 184.0,
     "lat": 39.931346,
     "lng": 116.480128
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 102.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际樱海园",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 134.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-公园大道",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 167.8,
     "lat": 39.931346,
     "lng": 116.480128
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十一街坊",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 97.0,
     "lat": 39.927466,
     "lng": 116.490208
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泰华滨河苑",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 86.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-公园大道",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 153.4,
     "lat": 39.931346,
     "lng": 116.480128
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泰华滨河苑",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 80.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 101.9,
     "lat": 39.94854,
     "lng": 116.47039
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 149.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 105.9,
     "lat": 39.94854,
     "lng": 116.47039
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 249.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际碧海园",
     "scraped_at": "2026-05-02 20:38:37",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 168.4,
     "lat": 39.94854,
     "lng": 116.47039
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-亮马桥路九号院",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 86.4,
     "lat": 39.958576,
     "lng": 116.483858
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 95.9,
     "lat": 39.94854,
     "lng": 116.47039
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风家园",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 71.4,
     "lat": 39.953924,
     "lng": 116.489714
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泰华滨河苑",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 69.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -659,7 +659,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 100.0,
     "lat": 39.963526,
     "lng": 116.704618
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东润枫景二期",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 78.6,
     "lat": 39.953924,
     "lng": 116.489714
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 103.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十二街坊",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 77.1,
     "lat": 39.927466,
     "lng": 116.490208
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际碧海园",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 140.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风苑小区",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 92.1,
     "lat": 39.953924,
     "lng": 116.489714
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 84.5,
     "lat": 39.9303,
     "lng": 116.47969
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 87.2,
     "lat": 39.9303,
     "lng": 116.47969
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 122.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 89.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际樱海园",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 122.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泰华滨河苑",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 83.5,
     "lat": 39.94854,
     "lng": 116.47039
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 81.2,
     "lat": 39.9303,
     "lng": 116.47969
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 124.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-星火西路八号院",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 100.0,
     "lat": 39.940124,
     "lng": 116.497051
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风苑小区",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 93.1,
     "lat": 39.953924,
     "lng": 116.489714
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 82.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 145.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 134.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泰华滨河苑",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 76.9,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 100.6,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 150.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:40",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 215.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际居住区兰海园",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 138.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泰华滨河苑",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 79.5,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:59",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 84.4,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际居住区兰海园",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 158.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泰华滨河苑",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 73.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际樱海园",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 141.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 70.5,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 124.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际樱海园",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 118.4,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:59",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 113.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风家园",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 58.4,
     "lat": 39.953924,
     "lng": 116.489714
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 88.3,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东润枫景三期",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 91.4,
     "lat": 39.953924,
     "lng": 116.489714
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泰华滨河苑",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 83.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十一街坊",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 96.6,
     "lat": 39.927466,
     "lng": 116.490208
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 122.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 123.4,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风苑小区",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 89.3,
     "lat": 39.953924,
     "lng": 116.489714
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 103.5,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 102.7,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-星火西路八号院",
     "scraped_at": "2026-05-02 20:38:43",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 135.0,
     "lat": 39.940124,
     "lng": 116.497051
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 92.5,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 125.4,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 151.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-公园大道",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 197.8,
     "lat": 39.931346,
     "lng": 116.480128
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:59",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 93.7,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十二街坊",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 94.4,
     "lat": 39.927466,
     "lng": 116.490208
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 112.4,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 96.6,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 97.4,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际樱海园",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 145.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 82.9,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-公园大道",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 136.8,
     "lat": 39.931346,
     "lng": 116.480128
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 82.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 70.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-亮马桥路九号院",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 83.5,
     "lat": 39.958576,
     "lng": 116.483858
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 148.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 98.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 121.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风苑小区",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 100.0,
     "lat": 39.953924,
     "lng": 116.489714
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十一街坊",
     "scraped_at": "2026-05-02 20:38:59",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 115.6,
     "lat": 39.927466,
     "lng": 116.490208
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东润枫景一期",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 72.1,
     "lat": 39.953924,
     "lng": 116.489714
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 117.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 84.4,
     "lat": 39.9303,
     "lng": 116.47969
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 149.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东润枫景一期",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 68.7,
     "lat": 39.953924,
     "lng": 116.489714
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:59",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 125.4,
     "lat": 39.94854,
     "lng": 116.47039
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 144.4,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泰华滨河苑",
     "scraped_at": "2026-05-02 20:38:46",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 62.5,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 106.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 93.9,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十二街坊",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 101.9,
     "lat": 39.927466,
     "lng": 116.490208
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际居住区兰海园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 155.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-亮马水晶",
     "scraped_at": "2026-05-02 20:38:59",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 120.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 90.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 110.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 141.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 98.3,
     "lat": 39.9303,
     "lng": 116.47969
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 138.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 125.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 130.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-星火西路八号院",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 135.3,
     "lat": 39.940124,
     "lng": 116.497051
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 102.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 166.7,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 122.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 75.4,
     "lat": 39.9303,
     "lng": 116.47969
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 113.7,
     "lat": 39.9303,
     "lng": 116.47969
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 148.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 127.9,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十一街坊",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 109.1,
     "lat": 39.927466,
     "lng": 116.490208
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 175.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 119.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际碧海园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 151.5,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际碧海园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 135.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海容郡",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 211.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风苑小区",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 125.0,
     "lat": 39.953924,
     "lng": 116.489714
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 110.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际碧海园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 137.9,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风家园",
     "scraped_at": "2026-05-02 20:38:49",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 68.2,
     "lat": 39.953924,
     "lng": 116.489714
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际樱海园",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 122.4,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-公园大道",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 136.8,
     "lat": 39.931346,
     "lng": 116.480128
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 131.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 159.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际碧海园",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 139.1,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风苑小区",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 91.8,
     "lat": 39.953924,
     "lng": 116.489714
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东山",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 150.1,
     "lat": 39.931616,
     "lng": 116.478508
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 100.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 124.0,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 104.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十一街坊",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 107.6,
     "lat": 39.927466,
     "lng": 116.490208
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-南十里居",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 96.0,
     "lat": 39.9303,
     "lng": 116.47969
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 186.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-公园大道",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 181.9,
     "lat": 39.931346,
     "lng": 116.480128
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-公园大道",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 152.5,
     "lat": 39.931346,
     "lng": 116.480128
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 123.3,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东山",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 289.5,
     "lat": 39.931616,
     "lng": 116.478508
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-公园大道",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 228.7,
     "lat": 39.931346,
     "lng": 116.480128
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十一街坊",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 104.9,
     "lat": 39.927466,
     "lng": 116.490208
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 168.9,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 143.8,
     "lat": 39.94854,
     "lng": 116.47039
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-泛海国际居住区兰海园",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 145.5,
     "lat": 39.94854,
     "lng": 116.47039
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-棕榈泉国际公寓",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 181.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-亮马桥路九号院",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 80.0,
     "lat": 39.958576,
     "lng": 116.483858
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 129.6,
     "lat": 39.94854,
     "lng": 116.47039
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十二街坊",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 98.1,
     "lat": 39.927466,
     "lng": 116.490208
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-瞰都国际",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 135.2,
     "lat": 39.94854,
     "lng": 116.47039
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-观湖国际",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 124.5,
     "lat": 39.94854,
     "lng": 116.47039
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-东风苑小区",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 89.2,
     "lat": 39.953924,
     "lng": 116.489714
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-酒仙桥十二街坊",
     "scraped_at": "2026-05-02 20:38:53",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 122.9,
     "lat": 39.927466,
     "lng": 116.490208
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳公园-丽水嘉园",
     "scraped_at": "2026-05-02 20:38:56",
-    "region": "chaoyanggongyuan",
+    "region": "朝阳公园",
     "unit_price": 117.1,
     "lat": 39.94854,
     "lng": 116.47039

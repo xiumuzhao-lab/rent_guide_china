@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-天坛南里西区",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 103.8,
     "lat": 39.873045,
     "lng": 116.396871
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-永定门东街西里",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 84.5,
     "lat": 39.872266,
     "lng": 116.396558
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-金鱼池中区",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 96.3,
     "lat": 39.887824,
     "lng": 116.408518
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 90.0,
     "lat": 39.887824,
     "lng": 116.408518
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 95.6,
     "lat": 39.887824,
     "lng": 116.408518
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 175.0,
     "lat": 39.847129,
     "lng": 116.558006
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-天坛西里北区",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 109.2,
     "lat": 39.887824,
     "lng": 116.408518
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 96.0,
     "lat": 39.888666,
     "lng": 116.396148
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 100.8,
     "lat": 39.887824,
     "lng": 116.408518
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 110.2,
     "lat": 39.887824,
     "lng": 116.408518
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 95.8,
     "lat": 39.887824,
     "lng": 116.408518
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-天坛西里东区",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 83.3,
     "lat": 39.874021,
     "lng": 116.396816
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 95.6,
     "lat": 39.887824,
     "lng": 116.408518
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 114.6,
     "lat": 39.887824,
     "lng": 116.408518
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-金鱼池中区",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 87.7,
     "lat": 39.887824,
     "lng": 116.408518
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 150.0,
     "lat": 39.663674,
     "lng": 116.516859
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 104.2,
     "lat": 39.888666,
     "lng": 116.396148
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 104.8,
     "lat": 39.887824,
     "lng": 116.408518
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-金鱼池西区",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 108.7,
     "lat": 39.887824,
     "lng": 116.408518
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 114.7,
     "lat": 39.887824,
     "lng": 116.408518
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 103.2,
     "lat": 39.887824,
     "lng": 116.408518
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-金鱼池中区",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 103.5,
     "lat": 39.887824,
     "lng": 116.408518
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 103.2,
     "lat": 39.887824,
     "lng": 116.408518
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-金鱼池东区",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 112.0,
     "lat": 39.887824,
     "lng": 116.408518
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-天坛东里中区",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 95.9,
     "lat": 39.887824,
     "lng": 116.408518
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 133.8,
     "lat": 39.887824,
     "lng": 116.408518
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 160.0,
     "lat": 39.891884,
     "lng": 116.412673
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-前门前酒店公寓",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 94.4,
     "lat": 39.887824,
     "lng": 116.408518
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "东城区-天坛-永定门东街东里",
     "scraped_at": "2026-05-02 20:12:19",
-    "region": "tiantan",
+    "region": "天坛",
     "unit_price": 90.0,
     "lat": 39.871936,
     "lng": 116.406878

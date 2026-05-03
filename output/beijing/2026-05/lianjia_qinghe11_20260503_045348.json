@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰西里",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 108.2,
     "lat": 40.032246,
     "lng": 116.349818
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 83.3,
     "lat": 40.04211,
     "lng": 116.343053
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.1,
     "lat": 40.038696,
     "lng": 116.325668
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观林园",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园新地标",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 56.8,
     "lat": 40.033556,
     "lng": 116.343768
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 144.0,
     "lat": 39.956726,
     "lng": 116.468428
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 81.4,
     "lat": 40.040322,
     "lng": 116.326585
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 113.0,
     "lat": 40.026057,
     "lng": 116.328343
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 56.8,
     "lat": 40.038696,
     "lng": 116.325668
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 83.3,
     "lat": 40.031196,
     "lng": 116.361018
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 93.1,
     "lat": 40.026057,
     "lng": 116.328343
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 71.9,
     "lat": 40.031196,
     "lng": 116.361018
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 109.5,
     "lat": 40.026057,
     "lng": 116.328343
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-金隅美和园",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.8,
     "lat": 40.029556,
     "lng": 116.337358
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 78.8,
     "lat": 40.027973,
     "lng": 116.341353
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-高巢",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 103.5,
     "lat": 40.039674,
     "lng": 116.308242
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-芳清园",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.7,
     "lat": 40.040322,
     "lng": 116.326585
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-怡清园",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 72.3,
     "lat": 40.040322,
     "lng": 116.326585
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾二期",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 130.2,
     "lat": 40.04211,
     "lng": 116.343053
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-芳清园",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 79.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 81.1,
     "lat": 40.038696,
     "lng": 116.325668
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 85.1,
     "lat": 40.040322,
     "lng": 116.326585
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.2,
     "lat": 40.027973,
     "lng": 116.341353
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-金隅美和园",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.3,
     "lat": 40.029556,
     "lng": 116.337358
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 105.0,
     "lat": 40.04211,
     "lng": 116.343053
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 93.3,
     "lat": 40.10331,
     "lng": 116.31071
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:45:23",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 111.3,
     "lat": 40.026057,
     "lng": 116.328343
@@ -545,7 +545,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 150.0,
     "lat": 39.92238,
     "lng": 116.28048
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-怡清园",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 98.0,
     "lat": 40.040322,
     "lng": 116.326585
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-昆鹏小区",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.3,
     "lat": 40.040322,
     "lng": 116.326585
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 79.0,
     "lat": 40.027973,
     "lng": 116.341353
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 79.6,
     "lat": 40.040322,
     "lng": 116.326585
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 101.2,
     "lat": 40.026057,
     "lng": 116.328343
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡林郡",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 139.9,
     "lat": 40.026057,
     "lng": 116.328343
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 102.4,
     "lat": 40.026057,
     "lng": 116.328343
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-燕清源",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 83.4,
     "lat": 40.033346,
     "lng": 116.331528
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清河文苑",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 81.8,
     "lat": 40.038696,
     "lng": 116.325668
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.8,
     "lat": 40.038696,
     "lng": 116.325668
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观林园",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.0,
     "lat": 40.040322,
     "lng": 116.326585
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观林园",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡林郡",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 130.3,
     "lat": 40.026057,
     "lng": 116.328343
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾二期",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 91.8,
     "lat": 40.026057,
     "lng": 116.328343
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 125.0,
     "lat": 40.038696,
     "lng": 116.325668
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.0,
     "lat": 40.026057,
     "lng": 116.328343
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-金隅美和园",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.7,
     "lat": 40.029556,
     "lng": 116.337358
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-福美苑",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 77.1,
     "lat": 40.041447,
     "lng": 116.334867
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡林郡",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 134.6,
     "lat": 40.026057,
     "lng": 116.328343
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-公交党校宿舍",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 95.9,
     "lat": 40.041329,
     "lng": 116.334053
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园新地标",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 76.1,
     "lat": 40.033556,
     "lng": 116.343768
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观景园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.9,
     "lat": 40.040322,
     "lng": 116.326585
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 93.6,
     "lat": 40.04211,
     "lng": 116.343053
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-专家国际花园",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 103.6,
     "lat": 40.040366,
     "lng": 116.347958
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.2,
     "lat": 40.038696,
     "lng": 116.325668
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-芳清园",
     "scraped_at": "2026-05-02 21:45:26",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 81.0,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 121.2,
     "lat": 40.032087,
     "lng": 116.340901
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.5,
     "lat": 40.04211,
     "lng": 116.343053
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾四期",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 113.3,
     "lat": 40.026057,
     "lng": 116.328343
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 97.6,
     "lat": 40.029383,
     "lng": 116.33438
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-小营干休所",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 98.7,
     "lat": 40.037176,
     "lng": 116.333418
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 110.3,
     "lat": 40.027973,
     "lng": 116.341353
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 95.5,
     "lat": 40.031196,
     "lng": 116.361018
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 98.6,
     "lat": 40.027973,
     "lng": 116.341353
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-福美苑",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.9,
     "lat": 40.041447,
     "lng": 116.334867
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-金隅美和园",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.3,
     "lat": 40.029556,
     "lng": 116.337358
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 112.3,
     "lat": 40.026057,
     "lng": 116.328343
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 93.4,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-力度家园",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 75.7,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 97.0,
     "lat": 40.026057,
     "lng": 116.328343
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-砂轮厂宿舍",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 84.3,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 97.2,
     "lat": 40.04211,
     "lng": 116.343053
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-水木天成",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 92.4,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-花园楼",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 94.5,
     "lat": 40.026399,
     "lng": 116.33247
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰西里",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 102.1,
     "lat": 40.032246,
     "lng": 116.349818
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 109.4,
     "lat": 40.026057,
     "lng": 116.328343
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 98.1,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 104.4,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 64.6,
     "lat": 40.031196,
     "lng": 116.361018
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-花园楼",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 94.5,
     "lat": 40.026399,
     "lng": 116.33247
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.0,
     "lat": 40.04211,
     "lng": 116.343053
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 145.0,
     "lat": 40.027973,
     "lng": 116.341353
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-燕清源",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 128.5,
     "lat": 40.033346,
     "lng": 116.331528
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-小营东路",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 97.0,
     "lat": 40.039686,
     "lng": 116.346228
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:45:30",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 104.1,
     "lat": 40.026057,
     "lng": 116.328343
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-水木天成",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 71.7,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-燕清源",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 92.1,
     "lat": 40.033346,
     "lng": 116.331528
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 75.0,
     "lat": 40.038696,
     "lng": 116.325668
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 118.0,
     "lat": 40.04211,
     "lng": 116.343053
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 114.5,
     "lat": 40.029383,
     "lng": 116.33438
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清河文苑",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 108.5,
     "lat": 40.038696,
     "lng": 116.325668
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 100.3,
     "lat": 40.031196,
     "lng": 116.361018
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 97.0,
     "lat": 40.038696,
     "lng": 116.325668
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-力度家园",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 79.2,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清润家园",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 100.0,
     "lat": 40.038696,
     "lng": 116.325668
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 105.8,
     "lat": 40.04211,
     "lng": 116.343053
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-砂轮厂宿舍",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 92.3,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 126.0,
     "lat": 40.027973,
     "lng": 116.341353
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-怡清园",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 90.0,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-高巢",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 60.0,
     "lat": 40.039674,
     "lng": 116.308242
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-燕清源",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 126.0,
     "lat": 40.033346,
     "lng": 116.331528
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 116.8,
     "lat": 40.04211,
     "lng": 116.343053
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清秀阁",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 80.4,
     "lat": 40.038696,
     "lng": 116.325668
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-力度家园",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.1,
     "lat": 40.040322,
     "lng": 116.326585
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 83.6,
     "lat": 40.038696,
     "lng": 116.325668
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-花园楼",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 116.3,
     "lat": 40.026399,
     "lng": 116.33247
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.6,
     "lat": 40.032087,
     "lng": 116.340901
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-北京机械学院家属楼",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 91.7,
     "lat": 40.036095,
     "lng": 116.341411
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-福美苑",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.3,
     "lat": 40.041447,
     "lng": 116.334867
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 79.3,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-花园楼",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 71.1,
     "lat": 40.026399,
     "lng": 116.33247
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 68.6,
     "lat": 40.031196,
     "lng": 116.361018
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:32",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.4,
     "lat": 40.027973,
     "lng": 116.341353
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-砂轮厂宿舍",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 95.3,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 105.7,
     "lat": 40.026057,
     "lng": 116.328343
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾二期",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 133.3,
     "lat": 40.026057,
     "lng": 116.328343
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-水木天成",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 81.0,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 102.4,
     "lat": 40.026057,
     "lng": 116.328343
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 93.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 85.7,
     "lat": 40.032285,
     "lng": 116.350542
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观景园",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 79.5,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-福美苑",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 107.8,
     "lat": 40.041447,
     "lng": 116.334867
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-燕清源",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 119.9,
     "lat": 40.033346,
     "lng": 116.331528
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰中路",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 61.6,
     "lat": 40.030376,
     "lng": 116.350568
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-海清园",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 91.4,
     "lat": 40.030831,
     "lng": 116.336866
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 77.9,
     "lat": 40.038696,
     "lng": 116.325668
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-高巢",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 111.4,
     "lat": 40.039674,
     "lng": 116.308242
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-芳清园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 80.0,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.1,
     "lat": 40.038696,
     "lng": 116.325668
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 66.7,
     "lat": 40.031196,
     "lng": 116.361018
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-美欣家园",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.5,
     "lat": 40.041447,
     "lng": 116.334867
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.4,
     "lat": 40.038696,
     "lng": 116.325668
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-加气混凝土厂宿舍",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 101.9,
     "lat": 40.015546,
     "lng": 116.346518
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 84.6,
     "lat": 40.032285,
     "lng": 116.350542
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-花园楼",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 102.3,
     "lat": 40.026399,
     "lng": 116.33247
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾四期",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 119.5,
     "lat": 40.026057,
     "lng": 116.328343
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰西里",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 90.4,
     "lat": 40.032246,
     "lng": 116.349818
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.2,
     "lat": 40.031196,
     "lng": 116.361018
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 92.1,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 109.2,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:45:34",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 83.3,
     "lat": 40.038696,
     "lng": 116.325668
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 78.3,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-砂轮厂宿舍",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 115.5,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-福美苑",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 79.5,
     "lat": 40.041447,
     "lng": 116.334867
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 91.4,
     "lat": 40.027973,
     "lng": 116.341353
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 117.1,
     "lat": 40.032285,
     "lng": 116.350542
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰庄北路",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 117.9,
     "lat": 40.036021,
     "lng": 116.346778
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 102.2,
     "lat": 40.029383,
     "lng": 116.33438
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.5,
     "lat": 40.027973,
     "lng": 116.341353
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-芳清园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.9,
     "lat": 40.040322,
     "lng": 116.326585
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 94.1,
     "lat": 40.032087,
     "lng": 116.340901
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾二期",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 103.8,
     "lat": 40.026057,
     "lng": 116.328343
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 81.8,
     "lat": 40.038696,
     "lng": 116.325668
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园新地标",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 72.2,
     "lat": 40.033556,
     "lng": 116.343768
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 117.2,
     "lat": 40.029383,
     "lng": 116.33438
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 109.4,
     "lat": 40.026057,
     "lng": 116.328343
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 86.6,
     "lat": 40.04211,
     "lng": 116.343053
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 99.3,
     "lat": 40.04211,
     "lng": 116.343053
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.4,
     "lat": 40.032087,
     "lng": 116.340901
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.3,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-美欣家园",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 72.2,
     "lat": 40.041447,
     "lng": 116.334867
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-芳清园",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 77.9,
     "lat": 40.040322,
     "lng": 116.326585
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-高巢",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 50.8,
     "lat": 40.039674,
     "lng": 116.308242
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 92.6,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 159.7,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 109.4,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-燕清源",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 75.3,
     "lat": 40.033346,
     "lng": 116.331528
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 95.8,
     "lat": 40.031196,
     "lng": 116.361018
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 104.9,
     "lat": 40.038696,
     "lng": 116.325668
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:38",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 114.3,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 72.8,
     "lat": 40.031196,
     "lng": 116.361018
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂西小区",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 92.1,
     "lat": 40.029383,
     "lng": 116.33438
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 84.0,
     "lat": 40.032087,
     "lng": 116.340901
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-中央财经大学家属楼",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 84.2,
     "lat": 40.029276,
     "lng": 116.330198
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-阳光南里",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 91.9,
     "lat": 40.040322,
     "lng": 116.326585
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 92.9,
     "lat": 40.038696,
     "lng": 116.325668
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园新地标",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 73.1,
     "lat": 40.033556,
     "lng": 116.343768
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 114.7,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 78.6,
     "lat": 40.040322,
     "lng": 116.326585
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-电力宿舍",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 91.0,
     "lat": 40.029657,
     "lng": 116.335838
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 100.0,
     "lat": 40.040322,
     "lng": 116.326585
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 69.5,
     "lat": 40.031196,
     "lng": 116.361018
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 86.6,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡林郡",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 138.8,
     "lat": 40.026057,
     "lng": 116.328343
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-阳光南里",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.3,
     "lat": 40.040322,
     "lng": 116.326585
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛北里",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 80.6,
     "lat": 40.038016,
     "lng": 116.369268
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡林郡",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 134.7,
     "lat": 40.026057,
     "lng": 116.328343
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清秀阁",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 91.5,
     "lat": 40.038696,
     "lng": 116.325668
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.4,
     "lat": 40.032285,
     "lng": 116.350542
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾五期",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 153.8,
     "lat": 40.026057,
     "lng": 116.328343
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观景园",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 84.0,
     "lat": 40.040322,
     "lng": 116.326585
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:45:42",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.9,
     "lat": 40.038696,
     "lng": 116.325668
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-花园楼",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.2,
     "lat": 40.026399,
     "lng": 116.33247
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 143.2,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 84.0,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 119.4,
     "lat": 40.027973,
     "lng": 116.341353
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛北里",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 78.3,
     "lat": 40.038016,
     "lng": 116.369268
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾四期",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 123.7,
     "lat": 40.026057,
     "lng": 116.328343
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-信息学院家属楼",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 98.2,
     "lat": 40.029533,
     "lng": 116.337099
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 83.9,
     "lat": 40.031196,
     "lng": 116.361018
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-水木天成",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 76.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 116.8,
     "lat": 40.026057,
     "lng": 116.328343
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-雪梨澳乡",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 128.2,
     "lat": 40.044906,
     "lng": 116.332948
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 101.9,
     "lat": 40.040322,
     "lng": 116.326585
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-专家国际花园",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 77.8,
     "lat": 40.040366,
     "lng": 116.347958
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 90.7,
     "lat": 40.032087,
     "lng": 116.340901
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 112.7,
     "lat": 40.040322,
     "lng": 116.326585
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-燕清源",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 100.0,
     "lat": 40.033346,
     "lng": 116.331528
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 113.5,
     "lat": 40.026057,
     "lng": 116.328343
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡林郡",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 130.9,
     "lat": 40.026057,
     "lng": 116.328343
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 148.9,
     "lat": 40.026057,
     "lng": 116.328343
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 179.2,
     "lat": 40.027973,
     "lng": 116.341353
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾四期",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 166.6,
     "lat": 40.04211,
     "lng": 116.343053
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:46:05",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 95.1,
     "lat": 40.032087,
     "lng": 116.340901
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-莱圳家园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 84.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 155.3,
     "lat": 40.027973,
     "lng": 116.341353
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 125.7,
     "lat": 40.029383,
     "lng": 116.33438
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛北里",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 79.9,
     "lat": 40.038016,
     "lng": 116.369268
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-君安家园东区",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 73.0,
     "lat": 40.040996,
     "lng": 116.338968
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-高巢",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 94.5,
     "lat": 40.039674,
     "lng": 116.308242
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-专家国际花园",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 103.2,
     "lat": 40.040366,
     "lng": 116.347958
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-高巢",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 116.1,
     "lat": 40.039674,
     "lng": 116.308242
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-海清园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.0,
     "lat": 40.030831,
     "lng": 116.336866
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-砂轮厂宿舍",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.7,
     "lat": 40.040322,
     "lng": 116.326585
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 100.0,
     "lat": 40.029383,
     "lng": 116.33438
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-花园楼",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 100.9,
     "lat": 40.026399,
     "lng": 116.33247
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰西里",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.9,
     "lat": 40.032246,
     "lng": 116.349818
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 85.0,
     "lat": 40.027973,
     "lng": 116.341353
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 95.5,
     "lat": 40.040322,
     "lng": 116.326585
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡林郡",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 140.0,
     "lat": 40.026057,
     "lng": 116.328343
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 103.9,
     "lat": 40.027973,
     "lng": 116.341353
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾二期",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 109.2,
     "lat": 40.026057,
     "lng": 116.328343
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-金隅美和园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 106.7,
     "lat": 40.029556,
     "lng": 116.337358
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.7,
     "lat": 40.038696,
     "lng": 116.325668
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 95.8,
     "lat": 40.04211,
     "lng": 116.343053
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 86.8,
     "lat": 40.031196,
     "lng": 116.361018
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 114.3,
     "lat": 40.026057,
     "lng": 116.328343
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观林园",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 64.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:46:13",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 103.3,
     "lat": 40.026057,
     "lng": 116.328343
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-芳清园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 83.4,
     "lat": 40.040322,
     "lng": 116.326585
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 81.0,
     "lat": 40.038696,
     "lng": 116.325668
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-高巢",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 100.5,
     "lat": 40.039674,
     "lng": 116.308242
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡林郡",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 128.1,
     "lat": 40.026057,
     "lng": 116.328343
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-力度家园",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 85.3,
     "lat": 40.040322,
     "lng": 116.326585
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-砂轮厂宿舍",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-金隅美和园东区",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.1,
     "lat": 40.032833,
     "lng": 116.317433
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清河文苑",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.9,
     "lat": 40.038696,
     "lng": 116.325668
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-小营东路",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 85.7,
     "lat": 40.039686,
     "lng": 116.346228
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:46:37",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 85.2,
     "lat": 40.032285,
     "lng": 116.350542
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.4,
     "lat": 40.027973,
     "lng": 116.341353
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.5,
     "lat": 40.029383,
     "lng": 116.33438
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 86.5,
     "lat": 40.029383,
     "lng": 116.33438
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 66.7,
     "lat": 40.032087,
     "lng": 116.340901
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-海清园",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 90.0,
     "lat": 40.030831,
     "lng": 116.336866
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.3,
     "lat": 40.032285,
     "lng": 116.350542
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 80.7,
     "lat": 40.038696,
     "lng": 116.325668
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清润家园",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 79.7,
     "lat": 40.038696,
     "lng": 116.325668
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 80.7,
     "lat": 40.038696,
     "lng": 116.325668
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-小营东路",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 97.3,
     "lat": 40.038011,
     "lng": 116.344685
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰西里",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 76.1,
     "lat": 40.032246,
     "lng": 116.349818
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 111.5,
     "lat": 40.04211,
     "lng": 116.343053
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 159.1,
     "lat": 40.027973,
     "lng": 116.341353
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.5,
     "lat": 40.032087,
     "lng": 116.340901
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛北里",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.4,
     "lat": 40.038016,
     "lng": 116.369268
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-前屯路",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 101.1,
     "lat": 40.037498,
     "lng": 116.34291
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.1,
     "lat": 40.038696,
     "lng": 116.325668
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-小营东路",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 104.8,
     "lat": 40.039686,
     "lng": 116.346228
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛北里",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 67.9,
     "lat": 40.038016,
     "lng": 116.369268
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 115.5,
     "lat": 40.032285,
     "lng": 116.350542
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰西里",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.0,
     "lat": 40.032246,
     "lng": 116.349818
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.5,
     "lat": 40.04211,
     "lng": 116.343053
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 76.6,
     "lat": 40.031196,
     "lng": 116.361018
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 99.6,
     "lat": 40.027973,
     "lng": 116.341353
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 75.4,
     "lat": 40.032087,
     "lng": 116.340901
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:46:50",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.1,
     "lat": 40.031196,
     "lng": 116.361018
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛北里",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.3,
     "lat": 40.038016,
     "lng": 116.369268
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-专家国际公馆",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.0,
     "lat": 40.040366,
     "lng": 116.347958
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 107.1,
     "lat": 40.040322,
     "lng": 116.326585
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 95.5,
     "lat": 40.027973,
     "lng": 116.341353
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 182.0,
     "lat": 40.027973,
     "lng": 116.341353
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 134.8,
     "lat": 40.026057,
     "lng": 116.328343
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.7,
     "lat": 40.032285,
     "lng": 116.350542
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.1,
     "lat": 40.038696,
     "lng": 116.325668
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾一期",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 99.8,
     "lat": 40.026057,
     "lng": 116.328343
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-小营干休所",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 80.4,
     "lat": 40.037176,
     "lng": 116.333418
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰西里",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 77.0,
     "lat": 40.032246,
     "lng": 116.349818
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 102.8,
     "lat": 40.029383,
     "lng": 116.33438
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-金隅美和园",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 102.4,
     "lat": 40.029556,
     "lng": 116.337358
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 125.7,
     "lat": 40.029383,
     "lng": 116.33438
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-高巢",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 86.0,
     "lat": 40.039674,
     "lng": 116.308242
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛里",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.4,
     "lat": 40.031196,
     "lng": 116.361018
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园新地标",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 67.7,
     "lat": 40.033556,
     "lng": 116.343768
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 86.2,
     "lat": 40.032285,
     "lng": 116.350542
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰西里",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 85.9,
     "lat": 40.032246,
     "lng": 116.349818
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 97.9,
     "lat": 40.027973,
     "lng": 116.341353
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 100.6,
     "lat": 40.026057,
     "lng": 116.328343
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 84.5,
     "lat": 40.04211,
     "lng": 116.343053
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 71.9,
     "lat": 40.032285,
     "lng": 116.350542
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:46:54",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 95.3,
     "lat": 40.032285,
     "lng": 116.350542
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-力度家园",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 76.5,
     "lat": 40.040322,
     "lng": 116.326585
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-砂轮厂宿舍",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 81.6,
     "lat": 40.027973,
     "lng": 116.341353
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰西里",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 93.0,
     "lat": 40.032246,
     "lng": 116.349818
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘里中区",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 84.5,
     "lat": 40.038696,
     "lng": 116.325668
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 131.7,
     "lat": 40.032087,
     "lng": 116.340901
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 81.0,
     "lat": 40.038696,
     "lng": 116.325668
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛北里",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 73.1,
     "lat": 40.038016,
     "lng": 116.369268
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清润家园",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 104.1,
     "lat": 40.038696,
     "lng": 116.325668
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-儿童福利院家属楼",
     "scraped_at": "2026-05-02 21:46:59",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 105.0,
     "lat": 40.040322,
     "lng": 116.326585
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 107.6,
     "lat": 40.026057,
     "lng": 116.328343
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰庄北路",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.9,
     "lat": 40.036021,
     "lng": 116.346778
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 80.3,
     "lat": 40.032087,
     "lng": 116.340901
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 102.9,
     "lat": 40.029383,
     "lng": 116.33438
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.3,
     "lat": 40.032087,
     "lng": 116.340901
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 96.0,
     "lat": 40.04211,
     "lng": 116.343053
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 123.6,
     "lat": 40.027973,
     "lng": 116.341353
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-世华龙樾一期西区",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 108.4,
     "lat": 40.04211,
     "lng": 116.343053
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-小营东路",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 74.8,
     "lat": 40.039686,
     "lng": 116.346228
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-水木天成",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 99.1,
     "lat": 40.040322,
     "lng": 116.326585
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 83.3,
     "lat": 40.032285,
     "lng": 116.350542
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾二期",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 121.9,
     "lat": 40.026057,
     "lng": 116.328343
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂西小区",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 90.2,
     "lat": 40.029383,
     "lng": 116.33438
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 152.3,
     "lat": 40.027973,
     "lng": 116.341353
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 100.9,
     "lat": 40.032285,
     "lng": 116.350542
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-宝盛北里",
     "scraped_at": "2026-05-02 21:47:04",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.6,
     "lat": 40.038016,
     "lng": 116.369268
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-观澳园",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 109.2,
     "lat": 40.040322,
     "lng": 116.326585
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-砂轮厂宿舍",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 92.2,
     "lat": 40.040322,
     "lng": 116.326585
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰园",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 87.5,
     "lat": 40.032087,
     "lng": 116.340901
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-毛纺厂南小区",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 102.0,
     "lat": 40.029383,
     "lng": 116.33438
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-燕清源",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 76.6,
     "lat": 40.033346,
     "lng": 116.331528
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-海清园",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 89.9,
     "lat": 40.030831,
     "lng": 116.336866
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-金隅美和园",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 88.1,
     "lat": 40.029556,
     "lng": 116.337358
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-水木天成",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 76.8,
     "lat": 40.040322,
     "lng": 116.326585
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-强佑清河新城府学上院",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 82.9,
     "lat": 40.027973,
     "lng": 116.341353
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-清缘东里",
     "scraped_at": "2026-05-02 21:47:10",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 160.6,
     "lat": 40.038696,
     "lng": 116.325668
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-永泰东里",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 83.3,
     "lat": 40.032285,
     "lng": 116.350542
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "海淀区-清河-橡树湾三期",
     "scraped_at": "2026-05-02 21:47:15",
-    "region": "qinghe11",
+    "region": "清河",
     "unit_price": 115.6,
     "lat": 40.026057,
     "lng": 116.328343

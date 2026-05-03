@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 86.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 99.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 67.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 99.8,
     "lat": 39.919106,
     "lng": 116.472258
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 115.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 244.4,
     "lat": 39.892365,
     "lng": 116.476215
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 85.7,
     "lat": 39.911629,
     "lng": 116.480981
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业国际公寓",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 87.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 106.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 84.4,
     "lat": 39.911629,
     "lng": 116.480981
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业玫瑰东方",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 103.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-西大望路",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 116.1,
     "lat": 39.913978,
     "lng": 116.473152
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 106.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业玫瑰东方",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 100.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 92.5,
     "lat": 39.912496,
     "lng": 116.470358
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": "",
     "lat": 39.867526,
     "lng": 116.401718
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 118.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 97.6,
     "lat": 39.911629,
     "lng": 116.480981
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼南里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 113.8,
     "lat": 39.920136,
     "lng": 116.459018
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 86.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静西里",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 116.9,
     "lat": 39.916653,
     "lng": 116.475597
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 99.8,
     "lat": 39.912496,
     "lng": 116.470358
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 76.1,
     "lat": 39.911629,
     "lng": 116.480981
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业国际公寓",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 92.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 88.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 80.6,
     "lat": 39.911629,
     "lng": 116.480981
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": "",
     "lat": 39.910795,
     "lng": 116.468762
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 74.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-机械学院家属楼",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 131.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:51:52",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": "",
     "lat": 39.849224,
     "lng": 116.299272
@@ -583,7 +583,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 190.0,
     "lat": 39.920927,
     "lng": 116.473081
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静里中街",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 70.5,
     "lat": 39.916846,
     "lng": 116.482298
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 70.0,
     "lat": 39.911629,
     "lng": 116.480981
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业玫瑰东方",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 96.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 124.5,
     "lat": 39.919106,
     "lng": 116.472258
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 66.9,
     "lat": 39.911629,
     "lng": 116.480981
@@ -697,7 +697,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 185.0,
     "lat": 39.875182,
     "lng": 116.317333
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 113.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 106.9,
     "lat": 39.911629,
     "lng": 116.480981
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 67.6,
     "lat": 39.911629,
     "lng": 116.480981
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 109.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 97.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业国际公寓",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 80.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 104.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业玫瑰东方",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 93.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 86.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-泰达时代",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 119.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 131.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼南里",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 113.5,
     "lat": 39.920136,
     "lng": 116.459018
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-光华路",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 110.6,
     "lat": 39.912502,
     "lng": 116.470895
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业国际公寓",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 110.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 133.3,
     "lat": 39.912496,
     "lng": 116.470358
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 90.8,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 97.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 84.6,
     "lat": 39.911629,
     "lng": 116.480981
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 90.8,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 127.7,
     "lat": 39.912496,
     "lng": 116.470358
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 136.5,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 85.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北里",
     "scraped_at": "2026-05-02 20:51:56",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 115.0,
     "lat": 39.920136,
     "lng": 116.459018
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 137.8,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-西大望路",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 86.1,
     "lat": 39.913978,
     "lng": 116.473152
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼新街大院",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 131.4,
     "lat": 39.920136,
     "lng": 116.459018
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 148.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 80.3,
     "lat": 39.911629,
     "lng": 116.480981
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 101.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 119.5,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 96.0,
     "lat": 39.912496,
     "lng": 116.470358
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 101.8,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 100.9,
     "lat": 39.911629,
     "lng": 116.480981
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 85.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业国际公寓",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 104.2,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-禧瑞都",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 188.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 98.5,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-柴家湾",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 95.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业玫瑰东方",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 107.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-光华路",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 101.2,
     "lat": 39.912502,
     "lng": 116.470895
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 80.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业国际公寓",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 129.5,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 78.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业国际公寓",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 72.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 136.8,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 115.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-禧瑞都",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 170.5,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼新苑",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 109.8,
     "lat": 39.920136,
     "lng": 116.459018
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:51:59",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 118.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 111.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 96.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-西大望路",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 89.3,
     "lat": 39.913978,
     "lng": 116.473152
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-光华路",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 115.0,
     "lat": 39.912502,
     "lng": 116.470895
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 80.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼西里",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 126.4,
     "lat": 39.920136,
     "lng": 116.459018
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 94.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-禧瑞都",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 163.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 102.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 84.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼新街大院",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 100.0,
     "lat": 39.920136,
     "lng": 116.459018
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 94.2,
     "lat": 39.911629,
     "lng": 116.480981
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 102.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台北街",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 94.2,
     "lat": 39.920786,
     "lng": 116.47265
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业玫瑰东方",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 120.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 116.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼南里",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 104.4,
     "lat": 39.920136,
     "lng": 116.459018
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静西里",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 98.5,
     "lat": 39.916653,
     "lng": 116.475597
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:02",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 72.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 105.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 107.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 83.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 80.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 142.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 124.2,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-泰达时代",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 93.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 116.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静西里",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 108.6,
     "lat": 39.916653,
     "lng": 116.475597
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 73.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-西大望路",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 95.3,
     "lat": 39.913978,
     "lng": 116.473152
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 102.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼南里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 121.5,
     "lat": 39.920136,
     "lng": 116.459018
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-柴家湾",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 114.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台北街",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 89.2,
     "lat": 39.920786,
     "lng": 116.47265
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静西里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 92.7,
     "lat": 39.916653,
     "lng": 116.475597
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 98.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 132.8,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 97.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台北街",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 134.5,
     "lat": 39.920786,
     "lng": 116.47265
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静里中街",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 90.4,
     "lat": 39.916846,
     "lng": 116.482298
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 108.2,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 94.2,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:52:06",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 147.1,
     "lat": 39.912496,
     "lng": 116.470358
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-禧瑞都",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 160.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台北街",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 121.0,
     "lat": 39.920786,
     "lng": 116.47265
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-西大望路",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 103.2,
     "lat": 39.913978,
     "lng": 116.473152
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静西里",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 91.6,
     "lat": 39.916653,
     "lng": 116.475597
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 92.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静里中街",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 79.0,
     "lat": 39.916846,
     "lng": 116.482298
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 84.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业国际公寓",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 90.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北里",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 144.0,
     "lat": 39.920136,
     "lng": 116.459018
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-泰达时代",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 85.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 80.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 73.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 83.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 78.8,
     "lat": 39.911629,
     "lng": 116.480981
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 128.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静里中街",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 93.9,
     "lat": 39.916846,
     "lng": 116.482298
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 100.2,
     "lat": 39.912496,
     "lng": 116.470358
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 118.6,
     "lat": 39.912496,
     "lng": 116.470358
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 121.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业玫瑰东方",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 118.5,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 93.2,
     "lat": 39.911629,
     "lng": 116.480981
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-华业国际公寓",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 91.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 147.5,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 114.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台北街",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 113.9,
     "lat": 39.920786,
     "lng": 116.47265
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 165.8,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼西里",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 135.2,
     "lat": 39.920136,
     "lng": 116.459018
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 171.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 103.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼新苑",
     "scraped_at": "2026-05-02 20:52:09",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 110.6,
     "lat": 39.920136,
     "lng": 116.459018
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 101.4,
     "lat": 39.912496,
     "lng": 116.470358
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 134.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静西里",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 101.8,
     "lat": 39.916653,
     "lng": 116.475597
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 106.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 97.1,
     "lat": 39.911629,
     "lng": 116.480981
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 150.6,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静里中街",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 98.2,
     "lat": 39.916846,
     "lng": 116.482298
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静里中街",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 93.8,
     "lat": 39.913156,
     "lng": 116.478988
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 110.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙西里",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 85.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 97.5,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-纽约豪园",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 118.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-慈云寺",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 91.7,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:13",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 77.8,
     "lat": 39.911629,
     "lng": 116.480981
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:21",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 110.1,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:21",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 101.3,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:21",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 106.2,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-金台里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 105.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 105.4,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 109.0,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-东区国际",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 78.9,
     "lat": 39.911629,
     "lng": 116.480981
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-呼家楼北街",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 92.3,
     "lat": 39.912496,
     "lng": 116.470358
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 108.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-人民日报社家属区",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 104.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静西里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 108.1,
     "lat": 39.916653,
     "lng": 116.475597
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-红庙北里",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 97.9,
     "lat": 39.919106,
     "lng": 116.472258
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-西大望路",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 98.9,
     "lat": 39.913978,
     "lng": 116.473152
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "朝阳区-红庙-延静里中街",
     "scraped_at": "2026-05-02 20:52:17",
-    "region": "hongmiao",
+    "region": "红庙",
     "unit_price": 78.6,
     "lat": 39.916846,
     "lng": 116.482298

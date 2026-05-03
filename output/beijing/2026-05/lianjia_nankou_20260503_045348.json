@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-鹿牌家园小区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 30.6,
     "lat": 40.240136,
     "lng": 116.132488
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-水厂路",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 26.7,
     "lat": 40.232587,
     "lng": 116.122163
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂住宅中区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 35.3,
     "lat": 40.241921,
     "lng": 116.11972
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂住宅中区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 34.5,
     "lat": 40.241921,
     "lng": 116.11972
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂北区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 32.8,
     "lat": 40.241921,
     "lng": 116.11972
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂北区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 48.0,
     "lat": 40.241921,
     "lng": 116.11972
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂北区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 31.0,
     "lat": 40.241921,
     "lng": 116.11972
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-兴隆小区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 29.5,
     "lat": 40.23261,
     "lng": 116.122824
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-旺和家园",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 24.7,
     "lat": 40.250286,
     "lng": 116.116528
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南大街",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 29.0,
     "lat": 40.234242,
     "lng": 116.12542
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂住宅西区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 31.7,
     "lat": 40.242524,
     "lng": 116.117409
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂住宅西区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 31.7,
     "lat": 40.242524,
     "lng": 116.117409
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂北区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 31.2,
     "lat": 40.241921,
     "lng": 116.11972
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南农家园",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 26.7,
     "lat": 40.210495,
     "lng": 116.10971
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂住宅中区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 31.1,
     "lat": 40.241921,
     "lng": 116.11972
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-鹿牌家园小区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 30.7,
     "lat": 40.240136,
     "lng": 116.132488
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南辛路供销社宿舍楼",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 29.0,
     "lat": 40.227186,
     "lng": 116.134518
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南大街",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 23.0,
     "lat": 40.234242,
     "lng": 116.12542
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂住宅中区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 33.3,
     "lat": 40.241921,
     "lng": 116.11972
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂住宅中区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 28.4,
     "lat": 40.241921,
     "lng": 116.11972
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-新西广街",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 32.1,
     "lat": 40.234509,
     "lng": 116.115292
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南农家园",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 29.3,
     "lat": 40.210495,
     "lng": 116.10971
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-南厂住宅西区",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 37.0,
     "lat": 40.242524,
     "lng": 116.117409
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "昌平区-南口-水厂路",
     "scraped_at": "2026-05-02 22:40:27",
-    "region": "nankou",
+    "region": "南口",
     "unit_price": 30.1,
     "lat": 40.232587,
     "lng": 116.122163

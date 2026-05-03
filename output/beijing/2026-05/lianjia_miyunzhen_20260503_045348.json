@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-赏星悦木",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 66.7,
     "lat": 40.360086,
     "lng": 116.799018
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-康馨雅苑",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 24.0,
     "lat": 40.37541,
     "lng": 116.818534
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-季庄小区",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 17.5,
     "lat": 40.376884,
     "lng": 116.824797
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-中加福园",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 23.3,
     "lat": 40.369403,
     "lng": 116.805165
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-华远澜悦",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 31.9,
     "lat": 40.396846,
     "lng": 116.836978
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-华远澜悦",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 37.1,
     "lat": 40.396846,
     "lng": 116.836978
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-北京液压件厂家属区",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 23.4,
     "lat": 40.388386,
     "lng": 116.825948
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-季庄小区",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 18.7,
     "lat": 40.376884,
     "lng": 116.824797
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-华远澜悦",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 35.1,
     "lat": 40.396846,
     "lng": 116.836978
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-华远澜悦",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 37.8,
     "lat": 40.396846,
     "lng": 116.836978
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-康馨雅苑",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 22.1,
     "lat": 40.37541,
     "lng": 116.818534
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-路劲云河上苑",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 26.0,
     "lat": 40.396286,
     "lng": 116.838768
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-城建上河湾北区",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 26.9,
     "lat": 40.399045,
     "lng": 116.838971
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-城建上河湾北区",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 11.1,
     "lat": 40.399045,
     "lng": 116.838971
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-博世庄园",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 11.4,
     "lat": 40.361013,
     "lng": 116.801359
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-通用博园",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 32.2,
     "lat": 40.36777,
     "lng": 116.80951
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-海阔水岸花墅",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 29.8,
     "lat": 40.410196,
     "lng": 116.839048
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-海阔水岸花墅",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 23.8,
     "lat": 40.410196,
     "lng": 116.839048
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-云江苑",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 22.9,
     "lat": 40.377715,
     "lng": 116.828142
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-华远澜悦",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 31.9,
     "lat": 40.396846,
     "lng": 116.836978
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-通用博园",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 28.9,
     "lat": 40.36777,
     "lng": 116.80951
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-富帛家属院",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 31.6,
     "lat": 40.366057,
     "lng": 116.809353
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-鹊巢公寓",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 48.6,
     "lat": 40.373626,
     "lng": 116.818865
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-通用博园",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 19.2,
     "lat": 40.36777,
     "lng": 116.80951
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-华远澜悦",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 35.8,
     "lat": 40.396846,
     "lng": 116.836978
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-华远澜悦",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 33.3,
     "lat": 40.396846,
     "lng": 116.836978
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-中加福园",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 23.6,
     "lat": 40.369403,
     "lng": 116.805165
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-华远澜悦",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 34.7,
     "lat": 40.396846,
     "lng": 116.836978
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-学府花园",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 23.1,
     "lat": 40.373851,
     "lng": 116.815891
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "密云区-密云镇-华远澜悦",
     "scraped_at": "2026-05-02 23:22:13",
-    "region": "miyunzhen",
+    "region": "密云镇",
     "unit_price": 45.0,
     "lat": 40.396846,
     "lng": 116.836978

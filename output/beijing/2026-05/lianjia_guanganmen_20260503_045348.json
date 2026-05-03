@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.5,
     "lat": 39.881813,
     "lng": 116.323388
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 103.4,
     "lat": 39.890398,
     "lng": 116.332982
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 99.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 102.9,
     "lat": 39.890398,
     "lng": 116.332982
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 115.4,
     "lat": 39.875182,
     "lng": 116.317333
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙南里",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 107.5,
     "lat": 39.877492,
     "lng": 116.330915
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 104.3,
     "lat": 39.897696,
     "lng": 116.346018
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 122.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 87.2,
     "lat": 39.887282,
     "lng": 116.336018
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 89.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 142.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-恒昌花园",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 72.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 91.0,
     "lat": 39.876525,
     "lng": 116.332461
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 129.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 104.6,
     "lat": 39.881813,
     "lng": 116.323388
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 86.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 107.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 79.3,
     "lat": 39.876525,
     "lng": 116.332461
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 74.2,
     "lat": 39.882146,
     "lng": 116.335225
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 124.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.7,
     "lat": 39.890398,
     "lng": 116.332982
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 131.1,
     "lat": 39.933016,
     "lng": 116.438768
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 102.1,
     "lat": 39.882146,
     "lng": 116.335225
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:06",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 131.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 85.2,
     "lat": 39.897696,
     "lng": 116.346018
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 125.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广华轩",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 88.8,
     "lat": 39.890805,
     "lng": 116.349399
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 126.5,
     "lat": 39.881813,
     "lng": 116.323388
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.6,
     "lat": 39.897696,
     "lng": 116.346018
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 119.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 92.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 103.9,
     "lat": 39.881813,
     "lng": 116.323388
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 97.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口南街",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 85.4,
     "lat": 39.886366,
     "lng": 116.335308
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 104.3,
     "lat": 39.890398,
     "lng": 116.332982
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 96.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 151.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 84.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.3,
     "lat": 39.881813,
     "lng": 116.323388
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 79.2,
     "lat": 39.877081,
     "lng": 116.334014
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.9,
     "lat": 39.890493,
     "lng": 116.316335
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 87.3,
     "lat": 39.890398,
     "lng": 116.332982
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.9,
     "lat": 39.887282,
     "lng": 116.336018
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 102.0,
     "lat": 39.897696,
     "lng": 116.346018
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 147.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 114.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-蝶翠华庭",
     "scraped_at": "2026-05-02 20:15:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 94.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 112.1,
     "lat": 39.887282,
     "lng": 116.336018
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 155.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.0,
     "lat": 39.881813,
     "lng": 116.323388
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.6,
     "lat": 39.881813,
     "lng": 116.323388
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口北街",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 87.8,
     "lat": 39.890251,
     "lng": 116.336242
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.9,
     "lat": 39.887282,
     "lng": 116.336018
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 138.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口南街",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.9,
     "lat": 39.886366,
     "lng": 116.335308
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 155.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 98.4,
     "lat": 39.897696,
     "lng": 116.346018
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广华轩",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 116.7,
     "lat": 39.890805,
     "lng": 116.349399
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 93.8,
     "lat": 39.877081,
     "lng": 116.334014
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.7,
     "lat": 39.881813,
     "lng": 116.323388
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 104.5,
     "lat": 39.881813,
     "lng": 116.323388
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 151.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 129.8,
     "lat": 39.890493,
     "lng": 116.316335
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 96.4,
     "lat": 39.881567,
     "lng": 116.332059
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.0,
     "lat": 39.887282,
     "lng": 116.336018
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 135.2,
     "lat": 39.876525,
     "lng": 116.332461
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.5,
     "lat": 39.887282,
     "lng": 116.336018
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 150.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 139.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 97.2,
     "lat": 39.881813,
     "lng": 116.323388
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口南街",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 104.6,
     "lat": 39.886366,
     "lng": 116.335308
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 86.4,
     "lat": 39.882146,
     "lng": 116.335225
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广源小区西区",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 109.7,
     "lat": 39.889852,
     "lng": 116.327281
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 152.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 135.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:15:12",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 102.7,
     "lat": 39.890493,
     "lng": 116.316335
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.3,
     "lat": 39.887282,
     "lng": 116.336018
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.3,
     "lat": 39.891706,
     "lng": 116.321008
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-莲花池东路",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 96.7,
     "lat": 39.8955,
     "lng": 116.332549
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 98.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑二期",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.4,
     "lat": 39.88366,
     "lng": 116.331337
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 154.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 123.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 93.9,
     "lat": 39.890398,
     "lng": 116.332982
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-莲花池东路",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.7,
     "lat": 39.8955,
     "lng": 116.332549
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.2,
     "lat": 39.897696,
     "lng": 116.346018
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 93.0,
     "lat": 39.897696,
     "lng": 116.346018
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑二期",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 103.8,
     "lat": 39.88366,
     "lng": 116.331337
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 88.1,
     "lat": 39.881567,
     "lng": 116.332059
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广华轩",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 116.4,
     "lat": 39.890805,
     "lng": 116.349399
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 147.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑二期",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 99.8,
     "lat": 39.88366,
     "lng": 116.331337
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 156.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-恒昌花园",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 83.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.1,
     "lat": 39.897696,
     "lng": 116.346018
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 165.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 126.5,
     "lat": 39.881813,
     "lng": 116.323388
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:15",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 103.0,
     "lat": 39.887282,
     "lng": 116.336018
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 137.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 91.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 127.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口北街",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.7,
     "lat": 39.890251,
     "lng": 116.336242
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 101.1,
     "lat": 39.876525,
     "lng": 116.332461
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 120.7,
     "lat": 39.881813,
     "lng": 116.323388
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 101.8,
     "lat": 39.891706,
     "lng": 116.321008
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.6,
     "lat": 39.891706,
     "lng": 116.321008
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 161.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 124.9,
     "lat": 39.881813,
     "lng": 116.323388
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小马厂东里",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.9,
     "lat": 39.89812,
     "lng": 116.345089
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 172.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑二期",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 99.8,
     "lat": 39.88366,
     "lng": 116.331337
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 190.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 120.0,
     "lat": 39.891706,
     "lng": 116.321008
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 148.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口北街",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 107.8,
     "lat": 39.890251,
     "lng": 116.336242
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 104.1,
     "lat": 39.891706,
     "lng": 116.321008
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 179.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 116.7,
     "lat": 39.881813,
     "lng": 116.323388
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-恒昌花园",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 80.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 170.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口北街",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 140.0,
     "lat": 39.890251,
     "lng": 116.336242
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 107.5,
     "lat": 39.887282,
     "lng": 116.336018
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 128.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑二期",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 114.5,
     "lat": 39.88366,
     "lng": 116.331337
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.3,
     "lat": 39.887282,
     "lng": 116.336018
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:15:19",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 104.2,
     "lat": 39.890398,
     "lng": 116.332982
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 171.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 84.0,
     "lat": 39.877081,
     "lng": 116.334014
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 94.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口北街",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 118.2,
     "lat": 39.890251,
     "lng": 116.336242
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.5,
     "lat": 39.897696,
     "lng": 116.346018
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 131.2,
     "lat": 39.890398,
     "lng": 116.332982
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 123.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 172.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 132.5,
     "lat": 39.887282,
     "lng": 116.336018
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.7,
     "lat": 39.891706,
     "lng": 116.321008
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-恒昌花园",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 89.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.5,
     "lat": 39.891706,
     "lng": 116.321008
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.2,
     "lat": 39.887282,
     "lng": 116.336018
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 92.6,
     "lat": 39.897696,
     "lng": 116.346018
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.8,
     "lat": 39.891706,
     "lng": 116.321008
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.7,
     "lat": 39.887282,
     "lng": 116.336018
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 86.1,
     "lat": 39.897696,
     "lng": 116.346018
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-蝶翠华庭",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 161.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 188.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.3,
     "lat": 39.891706,
     "lng": 116.321008
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 148.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 159.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 170.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.6,
     "lat": 39.881567,
     "lng": 116.332059
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 115.5,
     "lat": 39.897696,
     "lng": 116.346018
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口北街",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 113.9,
     "lat": 39.890251,
     "lng": 116.336242
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 114.4,
     "lat": 39.890398,
     "lng": 116.332982
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:23",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.7,
     "lat": 39.887282,
     "lng": 116.336018
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 176.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 118.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 79.8,
     "lat": 39.882146,
     "lng": 116.335225
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 115.6,
     "lat": 39.891706,
     "lng": 116.321008
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 177.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 172.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-恒昌花园",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.0,
     "lat": 39.876525,
     "lng": 116.332461
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 154.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 173.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 183.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 112.9,
     "lat": 39.881813,
     "lng": 116.323388
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-水口子村",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 87.2,
     "lat": 39.885536,
     "lng": 116.306477
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 155.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 138.3,
     "lat": 39.890398,
     "lng": 116.332982
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 94.8,
     "lat": 39.881567,
     "lng": 116.332059
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:26",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 116.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.9,
     "lat": 39.887282,
     "lng": 116.336018
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 229.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 118.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 158.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小马厂西里",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 101.2,
     "lat": 39.89812,
     "lng": 116.345089
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 89.7,
     "lat": 39.890493,
     "lng": 116.316335
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 142.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 163.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-国投财富广场",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 118.1,
     "lat": 39.890493,
     "lng": 116.316335
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 96.2,
     "lat": 39.877081,
     "lng": 116.334014
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 149.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 145.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 156.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 176.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.5,
     "lat": 39.887282,
     "lng": 116.336018
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 102.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.7,
     "lat": 39.897696,
     "lng": 116.346018
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广安门小区",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 63.1,
     "lat": 39.890805,
     "lng": 116.349399
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:15:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 126.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红居南街",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 99.4,
     "lat": 39.881913,
     "lng": 116.332335
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 109.7,
     "lat": 39.890398,
     "lng": 116.332982
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 113.5,
     "lat": 39.887282,
     "lng": 116.336018
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 141.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 82.3,
     "lat": 39.879696,
     "lng": 116.334168
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 132.4,
     "lat": 39.881813,
     "lng": 116.323388
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.8,
     "lat": 39.877081,
     "lng": 116.334014
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红居南街",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 102.2,
     "lat": 39.882086,
     "lng": 116.333928
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 86.3,
     "lat": 39.877081,
     "lng": 116.334014
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 76.8,
     "lat": 39.877081,
     "lng": 116.334014
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 99.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红居南街",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.6,
     "lat": 39.882186,
     "lng": 116.333158
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 98.9,
     "lat": 39.891706,
     "lng": 116.321008
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 136.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 159.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红居街",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 129.3,
     "lat": 39.887186,
     "lng": 116.333208
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口南街",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 99.7,
     "lat": 39.884986,
     "lng": 116.337068
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-恒昌花园",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 102.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 87.9,
     "lat": 39.877081,
     "lng": 116.334014
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 138.7,
     "lat": 39.887282,
     "lng": 116.336018
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.1,
     "lat": 39.897696,
     "lng": 116.346018
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:15:32",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 109.2,
     "lat": 39.897696,
     "lng": 116.346018
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小马厂东里",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 91.7,
     "lat": 39.89812,
     "lng": 116.345089
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 102.8,
     "lat": 39.891706,
     "lng": 116.321008
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 123.2,
     "lat": 39.881813,
     "lng": 116.323388
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 152.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 106.1,
     "lat": 39.890398,
     "lng": 116.332982
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 89.1,
     "lat": 39.887282,
     "lng": 116.336018
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 104.5,
     "lat": 39.891706,
     "lng": 116.321008
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 118.8,
     "lat": 39.881567,
     "lng": 116.332059
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 131.8,
     "lat": 39.881813,
     "lng": 116.323388
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 138.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 93.9,
     "lat": 39.876525,
     "lng": 116.332461
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 165.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-新纪元公寓",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 80.9,
     "lat": 39.887476,
     "lng": 116.340779
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-汇融大厦",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 134.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红居街",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.5,
     "lat": 39.887186,
     "lng": 116.333208
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 118.6,
     "lat": 39.881813,
     "lng": 116.323388
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 151.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 150.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 113.5,
     "lat": 39.881813,
     "lng": 116.323388
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:15:56",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑二期",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.1,
     "lat": 39.88366,
     "lng": 116.331337
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广华轩",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 109.7,
     "lat": 39.890805,
     "lng": 116.349399
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-熔炼厂宿舍",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 88.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 126.4,
     "lat": 39.881813,
     "lng": 116.323388
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红居南街",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 91.3,
     "lat": 39.882086,
     "lng": 116.333928
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广华轩",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 109.0,
     "lat": 39.890805,
     "lng": 116.349399
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 94.0,
     "lat": 39.890398,
     "lng": 116.332982
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 92.2,
     "lat": 39.887282,
     "lng": 116.336018
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙南里",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 103.5,
     "lat": 39.877492,
     "lng": 116.330915
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 113.5,
     "lat": 39.890398,
     "lng": 116.332982
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 102.4,
     "lat": 39.890398,
     "lng": 116.332982
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广华轩",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 127.7,
     "lat": 39.890805,
     "lng": 116.349399
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 103.4,
     "lat": 39.897696,
     "lng": 116.346018
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 109.7,
     "lat": 39.881813,
     "lng": 116.323388
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.4,
     "lat": 39.890398,
     "lng": 116.332982
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 155.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 129.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 94.7,
     "lat": 39.877081,
     "lng": 116.334014
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广华轩",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 82.9,
     "lat": 39.890805,
     "lng": 116.349399
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:16:08",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.4,
     "lat": 39.890493,
     "lng": 116.316335
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.2,
     "lat": 39.891706,
     "lng": 116.321008
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 126.4,
     "lat": 39.887282,
     "lng": 116.336018
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 121.1,
     "lat": 39.877081,
     "lng": 116.334014
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 130.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 151.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 149.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 164.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 103.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 90.6,
     "lat": 39.890493,
     "lng": 116.316335
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 158.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 112.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 150.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口西一巷",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 89.2,
     "lat": 39.881326,
     "lng": 116.335668
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 131.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.5,
     "lat": 39.891706,
     "lng": 116.321008
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-广华轩",
     "scraped_at": "2026-05-02 20:16:11",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 91.1,
     "lat": 39.890805,
     "lng": 116.349399
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 127.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-西豪逸景",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 94.8,
     "lat": 39.897696,
     "lng": 116.346018
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 145.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红居南街",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.9,
     "lat": 39.881913,
     "lng": 116.332335
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 156.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.1,
     "lat": 39.890493,
     "lng": 116.316335
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 147.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 86.4,
     "lat": 39.877081,
     "lng": 116.334014
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 109.2,
     "lat": 39.881567,
     "lng": 116.332059
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.0,
     "lat": 39.890398,
     "lng": 116.332982
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙南里",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 114.7,
     "lat": 39.877492,
     "lng": 116.330915
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 116.1,
     "lat": 39.887282,
     "lng": 116.336018
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 139.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 131.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 114.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-丽水莲花",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.2,
     "lat": 39.891706,
     "lng": 116.321008
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 179.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 132.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 118.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.1,
     "lat": 39.890493,
     "lng": 116.316335
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 153.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 178.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 89.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:16",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 103.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 116.1,
     "lat": 39.890398,
     "lng": 116.332982
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小马厂东里",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.3,
     "lat": 39.89812,
     "lng": 116.345089
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 91.8,
     "lat": 39.890493,
     "lng": 116.316335
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 147.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 160.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑二期",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 123.9,
     "lat": 39.88366,
     "lng": 116.331337
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 138.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见国际公寓",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 100.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 170.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 150.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 141.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 135.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 156.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 139.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 118.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 146.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红居南街",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 107.2,
     "lat": 39.882086,
     "lng": 116.333928
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 182.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 104.0,
     "lat": 39.887282,
     "lng": 116.336018
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:16:20",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 125.2,
     "lat": 39.881813,
     "lng": 116.323388
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.4,
     "lat": 39.876525,
     "lng": 116.332461
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 154.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 99.3,
     "lat": 39.887282,
     "lng": 116.336018
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 96.8,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 186.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 151.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 145.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 164.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口北街",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 97.3,
     "lat": 39.890251,
     "lng": 116.336242
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 118.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 173.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6606,7 +6606,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 133.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6625,7 +6625,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 112.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6644,7 +6644,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 165.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6663,7 +6663,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 179.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6682,7 +6682,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-玺源台",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 115.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6701,7 +6701,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 137.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6720,7 +6720,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 148.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6739,7 +6739,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 165.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6758,7 +6758,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:24",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 163.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6777,7 +6777,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 139.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6796,7 +6796,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 139.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6815,7 +6815,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 69.0,
     "lat": 39.882146,
     "lng": 116.335225
@@ -6834,7 +6834,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 175.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6853,7 +6853,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 143.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6872,7 +6872,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 188.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6891,7 +6891,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 114.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6910,7 +6910,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:29",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 159.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -6929,7 +6929,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-朗琴园",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.2,
     "lat": 39.887282,
     "lng": 116.336018
@@ -6948,7 +6948,7 @@
     "rent_type": "整租",
     "location": "丰台区-广安门-莲花池南里小区",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 89.8,
     "lat": 39.890493,
     "lng": 116.316335
@@ -6967,7 +6967,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑二期",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 109.4,
     "lat": 39.88366,
     "lng": 116.331337
@@ -6986,7 +6986,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 147.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7005,7 +7005,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 175.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7024,7 +7024,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 125.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7043,7 +7043,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 152.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7062,7 +7062,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 152.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7081,7 +7081,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 87.3,
     "lat": 39.881567,
     "lng": 116.332059
@@ -7100,7 +7100,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 120.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7119,7 +7119,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 179.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7138,7 +7138,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 137.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7157,7 +7157,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-车站西街",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 97.5,
     "lat": 39.876525,
     "lng": 116.332461
@@ -7176,7 +7176,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口北街",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 94.8,
     "lat": 39.890251,
     "lng": 116.336242
@@ -7195,7 +7195,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 92.1,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7214,7 +7214,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 141.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7233,7 +7233,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 167.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7252,7 +7252,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 183.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7271,7 +7271,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-红山世家",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 105.5,
     "lat": 39.881813,
     "lng": 116.323388
@@ -7290,7 +7290,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:16:34",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7309,7 +7309,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 148.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7328,7 +7328,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 151.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7347,7 +7347,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-小红庙",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 110.2,
     "lat": 39.881567,
     "lng": 116.332059
@@ -7366,7 +7366,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 166.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7385,7 +7385,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 165.4,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7404,7 +7404,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-莲花池东路",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 108.6,
     "lat": 39.8955,
     "lng": 116.332549
@@ -7423,7 +7423,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 116.9,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7442,7 +7442,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 163.2,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7461,7 +7461,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 113.4,
     "lat": 39.890398,
     "lng": 116.332982
@@ -7480,7 +7480,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 113.0,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7499,7 +7499,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 111.5,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7518,7 +7518,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 123.6,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7537,7 +7537,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 119.5,
     "lat": 39.890398,
     "lng": 116.332982
@@ -7556,7 +7556,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 160.3,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7575,7 +7575,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 151.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7594,7 +7594,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-京铁和园",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 88.4,
     "lat": 39.890398,
     "lng": 116.332982
@@ -7613,7 +7613,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-远见名苑",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 103.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7632,7 +7632,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-手帕口西一巷",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 95.3,
     "lat": 39.881326,
     "lng": 116.335668
@@ -7651,7 +7651,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 158.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7670,7 +7670,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 117.7,
     "lat": 39.877427,
     "lng": 116.320983
@@ -7689,7 +7689,7 @@
     "rent_type": "整租",
     "location": "西城区-广安门-荣丰",
     "scraped_at": "2026-05-02 20:17:09",
-    "region": "guanganmen",
+    "region": "广安门",
     "unit_price": 196.7,
     "lat": 39.877427,
     "lng": 116.320983

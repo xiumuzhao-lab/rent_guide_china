@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 46.4,
     "lat": 40.021702,
     "lng": 116.297091
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.7,
     "lat": 40.03565,
     "lng": 116.209
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 43.6,
     "lat": 40.04702,
     "lng": 116.20343
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北辰香麓",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 47.6,
     "lat": 40.043736,
     "lng": 116.173548
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 53.4,
     "lat": 40.034496,
     "lng": 116.211838
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": "",
     "lat": 39.978263,
     "lng": 116.300457
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.8,
     "lat": 40.048426,
     "lng": 116.165478
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-三嘉信苑",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.7,
     "lat": 40.127386,
     "lng": 116.200078
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 63.5,
     "lat": 40.03565,
     "lng": 116.209
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 63.3,
     "lat": 40.08794,
     "lng": 116.24943
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.6,
     "lat": 40.08794,
     "lng": 116.24943
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.0,
     "lat": 40.077457,
     "lng": 116.252275
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海汇德里",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.1,
     "lat": 40.03496,
     "lng": 116.30208
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.2,
     "lat": 40.079647,
     "lng": 116.151138
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.9,
     "lat": 40.079647,
     "lng": 116.151138
@@ -298,7 +298,7 @@
     "rent_type": "合租",
     "location": "海淀-海淀北部新区-万和嘉园二区",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 206.6,
     "lat": 40.064613,
     "lng": 116.276852
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 56.2,
     "lat": 40.079647,
     "lng": 116.151138
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-幸福里润园",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 91.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-幸福里润园",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 88.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊三期",
     "scraped_at": "2026-05-02 21:34:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 76.2,
     "lat": 40.082196,
     "lng": 116.221032
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-栖海澐颂",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.0,
     "lat": 40.048426,
     "lng": 116.165478
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 60.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-栖海澐颂",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 76.2,
     "lat": 40.079647,
     "lng": 116.151138
@@ -507,7 +507,7 @@
     "rent_type": "合租",
     "location": "海淀-海淀北部新区-万和嘉园三区",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 164.0,
     "lat": 40.064613,
     "lng": 116.276852
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.6,
     "lat": 40.03565,
     "lng": 116.209
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-栖海澐颂",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -564,7 +564,7 @@
     "rent_type": "合租",
     "location": "海淀区-海淀北部新区-万和嘉园三区",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 129.4,
     "lat": 40.064613,
     "lng": 116.276852
@@ -583,7 +583,7 @@
     "rent_type": "合租",
     "location": "海淀-海淀北部新区-万和嘉园二区",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 151.2,
     "lat": 40.064613,
     "lng": 116.276852
@@ -602,7 +602,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:35",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": "",
     "lat": 39.981427,
     "lng": 116.487867
@@ -621,7 +621,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 143.2,
     "lat": 39.747322,
     "lng": 116.141142
@@ -640,7 +640,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 110.0,
     "lat": 39.984609,
     "lng": 116.286923
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.2,
     "lat": 40.04702,
     "lng": 116.20343
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-温泉路",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 57.2,
     "lat": 40.040406,
     "lng": 116.184838
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 53.8,
     "lat": 40.03565,
     "lng": 116.209
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万科翡翠云图",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 60.0,
     "lat": 40.079286,
     "lng": 116.220638
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园三期",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.7,
     "lat": 40.084854,
     "lng": 116.255618
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园三期",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.3,
     "lat": 40.084854,
     "lng": 116.255618
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-明信家园",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.8,
     "lat": 40.095312,
     "lng": 116.21121
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 56.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.7,
     "lat": 40.082196,
     "lng": 116.221032
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 120.6,
     "lat": 40.077457,
     "lng": 116.252275
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 57.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.7,
     "lat": 40.082196,
     "lng": 116.221032
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀幸福里",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 90.9,
     "lat": 40.079647,
     "lng": 116.151138
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 75.4,
     "lat": 40.065992,
     "lng": 116.159142
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 61.8,
     "lat": 40.08794,
     "lng": 116.24943
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.8,
     "lat": 40.077457,
     "lng": 116.252275
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 58.7,
     "lat": 40.034496,
     "lng": 116.211838
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园三区",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 76.4,
     "lat": 40.064613,
     "lng": 116.276852
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-馨悦家园",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 44.3,
     "lat": 40.126716,
     "lng": 116.209788
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.5,
     "lat": 40.048426,
     "lng": 116.165478
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.9,
     "lat": 40.03565,
     "lng": 116.209
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 56.1,
     "lat": 40.034496,
     "lng": 116.211838
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园二区",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 85.8,
     "lat": 40.064613,
     "lng": 116.276852
@@ -1115,7 +1115,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 130.9,
     "lat": 39.984609,
     "lng": 116.286923
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:31:38",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.5,
     "lat": 40.04702,
     "lng": 116.20343
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊三期",
     "scraped_at": "2026-05-02 21:34:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.4,
     "lat": 40.082196,
     "lng": 116.221032
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园三区",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.0,
     "lat": 40.064613,
     "lng": 116.276852
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 55.7,
     "lat": 40.044286,
     "lng": 116.197368
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 85.2,
     "lat": 40.084045,
     "lng": 116.25317
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.3,
     "lat": 40.08794,
     "lng": 116.24943
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.2,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 60.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 49.2,
     "lat": 40.021702,
     "lng": 116.297091
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 94.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 97.5,
     "lat": 40.064613,
     "lng": 116.276852
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 56.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西山锦绣府",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 53.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.0,
     "lat": 40.077457,
     "lng": 116.252275
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 71.3,
     "lat": 40.084045,
     "lng": 116.25317
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.9,
     "lat": 40.077457,
     "lng": 116.252275
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海汇德里",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.1,
     "lat": 40.03496,
     "lng": 116.30208
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊三期",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.7,
     "lat": 40.082196,
     "lng": 116.221032
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-颐丰庄园",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.2,
     "lat": 40.080886,
     "lng": 116.224868
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.0,
     "lat": 40.048426,
     "lng": 116.165478
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西山锦绣府",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海汇德里",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 88.0,
     "lat": 40.03496,
     "lng": 116.30208
@@ -1628,7 +1628,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:41",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": "",
     "lat": 39.984609,
     "lng": 116.286923
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊二期",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.6,
     "lat": 40.082196,
     "lng": 116.221032
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-福溪家园",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 44.4,
     "lat": 40.045071,
     "lng": 116.185035
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北辰香麓",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 57.8,
     "lat": 40.043736,
     "lng": 116.173548
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.3,
     "lat": 40.048426,
     "lng": 116.165478
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 88.7,
     "lat": 40.077457,
     "lng": 116.252275
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创天阅西山",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 104.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.1,
     "lat": 40.08794,
     "lng": 116.24943
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园二区",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 87.2,
     "lat": 40.064613,
     "lng": 116.276852
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 84.8,
     "lat": 40.065992,
     "lng": 116.159142
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 98.3,
     "lat": 40.03565,
     "lng": 116.209
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 87.9,
     "lat": 40.082196,
     "lng": 116.221032
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.7,
     "lat": 40.044286,
     "lng": 116.197368
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-唐家岭新城",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 100.9,
     "lat": 40.064759,
     "lng": 116.268914
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊二期",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.3,
     "lat": 40.082196,
     "lng": 116.221032
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.4,
     "lat": 40.08794,
     "lng": 116.24943
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-馨悦家园",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.0,
     "lat": 40.126716,
     "lng": 116.209788
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.8,
     "lat": 40.04702,
     "lng": 116.20343
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 85.9,
     "lat": 40.064613,
     "lng": 116.276852
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯四区",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 94.5,
     "lat": 40.065903,
     "lng": 116.249832
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万科翡翠云图",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 91.5,
     "lat": 40.079286,
     "lng": 116.220638
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 58.8,
     "lat": 40.03565,
     "lng": 116.209
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.4,
     "lat": 40.08794,
     "lng": 116.24943
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 128.1,
     "lat": 40.077457,
     "lng": 116.252275
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-福溪家园",
     "scraped_at": "2026-05-02 21:31:44",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.0,
     "lat": 40.045071,
     "lng": 116.185035
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.6,
     "lat": 40.077457,
     "lng": 116.252275
@@ -2122,7 +2122,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 46.7,
     "lat": 39.915106,
     "lng": 116.654508
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 56.2,
     "lat": 40.048426,
     "lng": 116.165478
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.1,
     "lat": 40.03565,
     "lng": 116.209
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-聚辛里",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西六砖瓦厂家属楼",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.3,
     "lat": 40.034496,
     "lng": 116.211838
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 56.6,
     "lat": 40.04702,
     "lng": 116.20343
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-温泉路",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.0,
     "lat": 40.040406,
     "lng": 116.184838
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 61.6,
     "lat": 40.04702,
     "lng": 116.20343
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海汇德里",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 90.7,
     "lat": 40.03496,
     "lng": 116.30208
@@ -2293,7 +2293,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 90.0,
     "lat": 40.046685,
     "lng": 116.173665
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀上郡",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 48.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园三期",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.3,
     "lat": 40.084854,
     "lng": 116.255618
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯三区",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 86.7,
     "lat": 40.065903,
     "lng": 116.249832
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-栖海澐颂",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 79.3,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.5,
     "lat": 40.034496,
     "lng": 116.211838
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 90.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 97.3,
     "lat": 40.077457,
     "lng": 116.252275
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.4,
     "lat": 40.08794,
     "lng": 116.24943
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯一区",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 85.2,
     "lat": 40.065903,
     "lng": 116.249832
@@ -2502,7 +2502,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.0,
     "lat": 39.95809,
     "lng": 116.292453
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 87.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.3,
     "lat": 40.021702,
     "lng": 116.297091
@@ -2559,7 +2559,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:47",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.0,
     "lat": 39.82325,
     "lng": 116.308696
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 60.5,
     "lat": 40.077457,
     "lng": 116.252275
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.7,
     "lat": 40.08794,
     "lng": 116.24943
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.5,
     "lat": 40.08794,
     "lng": 116.24943
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.2,
     "lat": 40.03565,
     "lng": 116.209
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-香麓雅庭",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 48.6,
     "lat": 40.047767,
     "lng": 116.172258
@@ -2673,7 +2673,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 84.0,
     "lat": null,
     "lng": null
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-瑞泽家园",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 83.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北辰香麓",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.9,
     "lat": 40.043736,
     "lng": 116.173548
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.6,
     "lat": 40.04702,
     "lng": 116.20343
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.9,
     "lat": 40.064613,
     "lng": 116.276852
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.9,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 58.4,
     "lat": 40.021702,
     "lng": 116.297091
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.5,
     "lat": 40.04702,
     "lng": 116.20343
@@ -2863,7 +2863,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 100.0,
     "lat": 39.898106,
     "lng": 116.635188
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-颐丰庄园",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.2,
     "lat": 40.080886,
     "lng": 116.224868
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.3,
     "lat": 40.034496,
     "lng": 116.211838
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万泽嘉园一期",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 105.8,
     "lat": 39.932566,
     "lng": 116.292978
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 109.1,
     "lat": 40.064613,
     "lng": 116.276852
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 100.0,
     "lat": 40.034496,
     "lng": 116.211838
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-明信家园",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.4,
     "lat": 40.095312,
     "lng": 116.21121
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-老年医院家属楼",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.6,
     "lat": 40.077457,
     "lng": 116.252275
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-温泉人家",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 51.1,
     "lat": 40.042769,
     "lng": 116.184548
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 89.9,
     "lat": 40.04702,
     "lng": 116.20343
@@ -3072,7 +3072,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 126.7,
     "lat": 39.980456,
     "lng": 116.298598
@@ -3091,7 +3091,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 110.0,
     "lat": 40.053286,
     "lng": 116.331738
@@ -3110,7 +3110,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:50",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.0,
     "lat": 40.053363,
     "lng": 116.331738
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 89.8,
     "lat": 40.084045,
     "lng": 116.25317
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.3,
     "lat": 40.08794,
     "lng": 116.24943
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 99.4,
     "lat": 40.034496,
     "lng": 116.211838
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯三区",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 109.2,
     "lat": 40.065903,
     "lng": 116.249832
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 79.6,
     "lat": 40.084045,
     "lng": 116.25317
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 93.7,
     "lat": 40.034496,
     "lng": 116.211838
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.1,
     "lat": 40.044286,
     "lng": 116.197368
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 83.3,
     "lat": 40.034496,
     "lng": 116.211838
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 50.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯三区",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.9,
     "lat": 40.065903,
     "lng": 116.249832
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-图景嘉园",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 116.7,
     "lat": 40.061538,
     "lng": 116.26559
@@ -3395,7 +3395,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 171.2,
     "lat": 39.875182,
     "lng": 116.317333
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 60.9,
     "lat": 40.03565,
     "lng": 116.209
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 111.6,
     "lat": 40.064613,
     "lng": 116.276852
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 75.1,
     "lat": 40.021702,
     "lng": 116.297091
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.3,
     "lat": 40.077457,
     "lng": 116.252275
@@ -3490,7 +3490,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:31:53",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 112.0,
     "lat": 39.863579,
     "lng": 116.458775
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.8,
     "lat": 40.048426,
     "lng": 116.165478
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园二区",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 85.3,
     "lat": 40.064613,
     "lng": 116.276852
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 85.8,
     "lat": 40.064613,
     "lng": 116.276852
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-唐家岭新城",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 85.4,
     "lat": 40.064759,
     "lng": 116.268914
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 106.7,
     "lat": 40.064613,
     "lng": 116.276852
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 56.3,
     "lat": 40.034496,
     "lng": 116.211838
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.4,
     "lat": 40.034496,
     "lng": 116.211838
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园二区",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 117.0,
     "lat": 40.064613,
     "lng": 116.276852
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-栖海澐颂",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西六砖瓦厂家属楼",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.2,
     "lat": 40.034496,
     "lng": 116.211838
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-唐家岭新城",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 109.9,
     "lat": 40.064759,
     "lng": 116.268914
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 53.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊二期",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 108.8,
     "lat": 40.082196,
     "lng": 116.221032
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-图景嘉园",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 102.6,
     "lat": 40.061538,
     "lng": 116.26559
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊二期",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 105.5,
     "lat": 40.082196,
     "lng": 116.221032
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西山锦绣府",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 86.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯五区",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 100.0,
     "lat": 40.065903,
     "lng": 116.249832
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园三期",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 87.7,
     "lat": 40.084854,
     "lng": 116.255618
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 96.1,
     "lat": 40.065992,
     "lng": 116.159142
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 99.5,
     "lat": 40.064613,
     "lng": 116.276852
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:31:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.6,
     "lat": 40.08794,
     "lng": 116.24943
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 63.5,
     "lat": 40.03565,
     "lng": 116.209
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-上庄馨瑞嘉园",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 51.5,
     "lat": 40.124951,
     "lng": 116.210199
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万科翡翠云图",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.8,
     "lat": 40.079286,
     "lng": 116.220638
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.2,
     "lat": 40.048426,
     "lng": 116.165478
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-栖海澐颂",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 79.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 58.8,
     "lat": 40.034496,
     "lng": 116.211838
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 58.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万科翡翠云图",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.3,
     "lat": 40.079286,
     "lng": 116.220638
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-林科院宿舍",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 95.1,
     "lat": 39.944658,
     "lng": 116.281247
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 76.7,
     "lat": 40.034496,
     "lng": 116.211838
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 103.1,
     "lat": 40.034496,
     "lng": 116.211838
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 102.3,
     "lat": 40.065992,
     "lng": 116.159142
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.0,
     "lat": 40.03565,
     "lng": 116.209
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.3,
     "lat": 40.077457,
     "lng": 116.252275
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北辰香麓",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.3,
     "lat": 40.043736,
     "lng": 116.173548
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 63.9,
     "lat": 40.034496,
     "lng": 116.211838
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-明信家园",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.0,
     "lat": 40.095312,
     "lng": 116.21121
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 71.3,
     "lat": 40.08794,
     "lng": 116.24943
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西六砖瓦厂家属楼",
     "scraped_at": "2026-05-02 21:31:59",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 95.6,
     "lat": 40.034496,
     "lng": 116.211838
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.1,
     "lat": 40.03565,
     "lng": 116.209
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-潭韵雅庭北区",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.7,
     "lat": 40.08794,
     "lng": 116.24943
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.0,
     "lat": 40.04702,
     "lng": 116.20343
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊二期",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.7,
     "lat": 40.082196,
     "lng": 116.221032
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园三区",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 100.0,
     "lat": 40.064613,
     "lng": 116.276852
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯三区",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 86.7,
     "lat": 40.065903,
     "lng": 116.249832
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 49.5,
     "lat": 40.034496,
     "lng": 116.211838
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创天阅西山",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 109.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.2,
     "lat": 40.048426,
     "lng": 116.165478
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西山锦绣府",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 91.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-幸福里润园",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 83.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西六砖瓦厂家属楼",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 57.8,
     "lat": 40.034496,
     "lng": 116.211838
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-幸福里润园",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 84.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-三嘉信苑",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.4,
     "lat": 40.127386,
     "lng": 116.200078
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.0,
     "lat": 40.034496,
     "lng": 116.211838
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊",
     "scraped_at": "2026-05-02 21:32:22",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.8,
     "lat": 40.082196,
     "lng": 116.221032
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北辰香麓",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.5,
     "lat": 40.043736,
     "lng": 116.173548
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.3,
     "lat": 40.021702,
     "lng": 116.297091
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀幸福里",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 84.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北辰香麓",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.0,
     "lat": 40.043736,
     "lng": 116.173548
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 83.8,
     "lat": 40.03565,
     "lng": 116.209
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-图景嘉园",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 111.8,
     "lat": 40.061538,
     "lng": 116.26559
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.1,
     "lat": 40.03565,
     "lng": 116.209
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中铁碧桂园丰锦苑",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.8,
     "lat": 40.064613,
     "lng": 116.276852
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海汇德里",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 90.9,
     "lat": 40.03496,
     "lng": 116.30208
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 76.9,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 61.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 114.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 49.6,
     "lat": 40.021702,
     "lng": 116.297091
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 46.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.6,
     "lat": 40.077457,
     "lng": 116.252275
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.5,
     "lat": 40.034496,
     "lng": 116.211838
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园一期",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.2,
     "lat": 40.08535,
     "lng": 116.254779
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀幸福里",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 90.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 71.8,
     "lat": 40.077457,
     "lng": 116.252275
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园二区",
     "scraped_at": "2026-05-02 21:32:33",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 75.2,
     "lat": 40.064613,
     "lng": 116.276852
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.0,
     "lat": 40.03565,
     "lng": 116.209
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.2,
     "lat": 40.048426,
     "lng": 116.165478
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.7,
     "lat": 40.084045,
     "lng": 116.25317
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-图景嘉园",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 101.8,
     "lat": 40.061538,
     "lng": 116.26559
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-福溪家园",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 53.3,
     "lat": 40.045071,
     "lng": 116.185035
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.5,
     "lat": 40.044286,
     "lng": 116.197368
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.6,
     "lat": 40.084045,
     "lng": 116.25317
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.2,
     "lat": 40.065992,
     "lng": 116.159142
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.5,
     "lat": 40.034496,
     "lng": 116.211838
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 92.0,
     "lat": 40.03565,
     "lng": 116.209
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-栖海澐颂",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.9,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯三区",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 86.7,
     "lat": 40.065903,
     "lng": 116.249832
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀幸福里",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 101.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.0,
     "lat": 40.08794,
     "lng": 116.24943
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯五区",
     "scraped_at": "2026-05-02 21:32:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 96.4,
     "lat": 40.065903,
     "lng": 116.249832
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 53.8,
     "lat": 40.021702,
     "lng": 116.297091
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 87.0,
     "lat": 40.021702,
     "lng": 116.297091
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 105.3,
     "lat": 40.077457,
     "lng": 116.252275
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.2,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西山林场家属院",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.3,
     "lat": 40.010223,
     "lng": 116.244853
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.0,
     "lat": 40.048426,
     "lng": 116.165478
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 55.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.9,
     "lat": 40.08794,
     "lng": 116.24943
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北辰香麓",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 57.0,
     "lat": 40.043736,
     "lng": 116.173548
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 54.3,
     "lat": 40.021702,
     "lng": 116.297091
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.5,
     "lat": 40.021702,
     "lng": 116.297091
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.9,
     "lat": 40.03565,
     "lng": 116.209
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海汇德里",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.4,
     "lat": 40.03496,
     "lng": 116.30208
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-图景嘉园",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 94.6,
     "lat": 40.061538,
     "lng": 116.26559
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.4,
     "lat": 40.034496,
     "lng": 116.211838
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 61.5,
     "lat": 40.03565,
     "lng": 116.209
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯四区",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.5,
     "lat": 40.065903,
     "lng": 116.249832
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:32:40",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园一期",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.1,
     "lat": 40.08535,
     "lng": 116.254779
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.4,
     "lat": 40.064613,
     "lng": 116.276852
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.5,
     "lat": 40.03565,
     "lng": 116.209
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.6,
     "lat": 40.034496,
     "lng": 116.211838
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 61.3,
     "lat": 40.034496,
     "lng": 116.211838
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.0,
     "lat": 40.021702,
     "lng": 116.297091
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯四区",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 84.2,
     "lat": 40.065903,
     "lng": 116.249832
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.9,
     "lat": 40.077457,
     "lng": 116.252275
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创天阅西山",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 113.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西山锦绣府",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 83.3,
     "lat": 40.079647,
     "lng": 116.151138
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-翠北嘉园西里",
     "scraped_at": "2026-05-02 21:32:43",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 40.7,
     "lat": 40.124897,
     "lng": 116.196504
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 39.5,
     "lat": 40.04702,
     "lng": 116.20343
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-翠北嘉园东里",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 43.7,
     "lat": 40.123671,
     "lng": 116.19897
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-三嘉信苑",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 44.4,
     "lat": 40.127386,
     "lng": 116.200078
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.7,
     "lat": 40.077457,
     "lng": 116.252275
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海汇德里",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 88.0,
     "lat": 40.03496,
     "lng": 116.30208
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.6,
     "lat": 40.03565,
     "lng": 116.209
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 87.4,
     "lat": 40.034496,
     "lng": 116.211838
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园三期",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.0,
     "lat": 40.084854,
     "lng": 116.255618
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 75.3,
     "lat": 40.077457,
     "lng": 116.252275
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊二期",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.3,
     "lat": 40.082196,
     "lng": 116.221032
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创天阅西山",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 57.3,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-唐家岭新城",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.5,
     "lat": 40.064759,
     "lng": 116.268914
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.1,
     "lat": 40.03565,
     "lng": 116.209
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海汇德里",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 85.6,
     "lat": 40.03496,
     "lng": 116.30208
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-温泉人家",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 50.0,
     "lat": 40.042769,
     "lng": 116.184548
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.8,
     "lat": 40.064613,
     "lng": 116.276852
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.2,
     "lat": 40.04702,
     "lng": 116.20343
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 83.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 55.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯四区",
     "scraped_at": "2026-05-02 21:32:49",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 100.0,
     "lat": 40.065903,
     "lng": 116.249832
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.8,
     "lat": 40.077457,
     "lng": 116.252275
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 79.3,
     "lat": 40.077457,
     "lng": 116.252275
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 86.9,
     "lat": 40.08794,
     "lng": 116.24943
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-香麓雅庭",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.5,
     "lat": 40.047767,
     "lng": 116.172258
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.8,
     "lat": 40.03565,
     "lng": 116.209
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀上郡",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 50.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6606,7 +6606,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 113.5,
     "lat": 40.065992,
     "lng": 116.159142
@@ -6625,7 +6625,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯四区",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 98.2,
     "lat": 40.065903,
     "lng": 116.249832
@@ -6644,7 +6644,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.3,
     "lat": 40.077457,
     "lng": 116.252275
@@ -6663,7 +6663,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-上庄馨瑞嘉园",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 53.2,
     "lat": 40.124951,
     "lng": 116.210199
@@ -6682,7 +6682,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-上庄馨瑞嘉园",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 47.2,
     "lat": 40.124951,
     "lng": 116.210199
@@ -6701,7 +6701,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.1,
     "lat": 40.084045,
     "lng": 116.25317
@@ -6720,7 +6720,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-三嘉信苑",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 43.5,
     "lat": 40.127386,
     "lng": 116.200078
@@ -6739,7 +6739,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.0,
     "lat": 40.08794,
     "lng": 116.24943
@@ -6758,7 +6758,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 51.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6777,7 +6777,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.3,
     "lat": 40.048426,
     "lng": 116.165478
@@ -6796,7 +6796,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 61.1,
     "lat": 40.03565,
     "lng": 116.209
@@ -6815,7 +6815,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.7,
     "lat": 40.065992,
     "lng": 116.159142
@@ -6834,7 +6834,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 85.2,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6853,7 +6853,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-颐丰庄园",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 27.0,
     "lat": 40.080886,
     "lng": 116.224868
@@ -6872,7 +6872,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.5,
     "lat": 40.064613,
     "lng": 116.276852
@@ -6891,7 +6891,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-幸福里润园",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -6910,7 +6910,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.6,
     "lat": 40.03565,
     "lng": 116.209
@@ -6929,7 +6929,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 60.0,
     "lat": 40.048426,
     "lng": 116.165478
@@ -6948,7 +6948,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 55.8,
     "lat": 40.034496,
     "lng": 116.211838
@@ -6967,7 +6967,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.2,
     "lat": 40.034496,
     "lng": 116.211838
@@ -6986,7 +6986,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.9,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7005,7 +7005,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 98.0,
     "lat": 40.077457,
     "lng": 116.252275
@@ -7024,7 +7024,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 87.0,
     "lat": 40.077457,
     "lng": 116.252275
@@ -7043,7 +7043,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:32:54",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 54.9,
     "lat": 40.034496,
     "lng": 116.211838
@@ -7062,7 +7062,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 60.4,
     "lat": 40.03565,
     "lng": 116.209
@@ -7081,7 +7081,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.1,
     "lat": 40.08794,
     "lng": 116.24943
@@ -7100,7 +7100,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西山锦绣府",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7119,7 +7119,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.4,
     "lat": 40.03565,
     "lng": 116.209
@@ -7138,7 +7138,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 83.0,
     "lat": 40.065992,
     "lng": 116.159142
@@ -7157,7 +7157,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 132.7,
     "lat": 40.077457,
     "lng": 116.252275
@@ -7176,7 +7176,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯五区",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 84.6,
     "lat": 40.065903,
     "lng": 116.249832
@@ -7195,7 +7195,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-图景嘉园",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.9,
     "lat": 40.061538,
     "lng": 116.26559
@@ -7214,7 +7214,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-老年医院家属楼",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7233,7 +7233,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 84.9,
     "lat": 40.077457,
     "lng": 116.252275
@@ -7252,7 +7252,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.8,
     "lat": 40.082196,
     "lng": 116.221032
@@ -7271,7 +7271,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀幸福里",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 90.9,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7290,7 +7290,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 83.9,
     "lat": 40.064613,
     "lng": 116.276852
@@ -7309,7 +7309,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯四区",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.2,
     "lat": 40.065903,
     "lng": 116.249832
@@ -7328,7 +7328,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-明信家园",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 60.0,
     "lat": 40.095312,
     "lng": 116.21121
@@ -7347,7 +7347,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西山锦绣府",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.9,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7366,7 +7366,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 54.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7385,7 +7385,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 47.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7404,7 +7404,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 79.5,
     "lat": 40.08794,
     "lng": 116.24943
@@ -7423,7 +7423,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 58.2,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7442,7 +7442,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-冠城大通百旺府",
     "scraped_at": "2026-05-02 21:33:00",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 91.9,
     "lat": 40.077457,
     "lng": 116.252275
@@ -7461,7 +7461,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7480,7 +7480,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园三期",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.0,
     "lat": 40.084854,
     "lng": 116.255618
@@ -7499,7 +7499,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.2,
     "lat": 40.03565,
     "lng": 116.209
@@ -7518,7 +7518,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 101.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7537,7 +7537,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯四区",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 101.8,
     "lat": 40.065903,
     "lng": 116.249832
@@ -7556,7 +7556,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.9,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7575,7 +7575,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.8,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7594,7 +7594,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.7,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7613,7 +7613,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.2,
     "lat": 40.03565,
     "lng": 116.209
@@ -7632,7 +7632,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 95.6,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7651,7 +7651,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.5,
     "lat": 40.034496,
     "lng": 116.211838
@@ -7670,7 +7670,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 54.4,
     "lat": 40.034496,
     "lng": 116.211838
@@ -7689,7 +7689,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.5,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7708,7 +7708,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 63.3,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7727,7 +7727,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 75.6,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7746,7 +7746,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.0,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7765,7 +7765,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-香麓雅庭",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 97.5,
     "lat": 40.047767,
     "lng": 116.172258
@@ -7784,7 +7784,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 63.3,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7803,7 +7803,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 104.0,
     "lat": 40.065992,
     "lng": 116.159142
@@ -7822,7 +7822,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.5,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7841,7 +7841,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 61.3,
     "lat": 40.048426,
     "lng": 116.165478
@@ -7860,7 +7860,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:33:27",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 155.8,
     "lat": 40.065992,
     "lng": 116.159142
@@ -7879,7 +7879,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.3,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7898,7 +7898,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 63.1,
     "lat": 40.034496,
     "lng": 116.211838
@@ -7917,7 +7917,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.1,
     "lat": 40.065992,
     "lng": 116.159142
@@ -7936,7 +7936,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 98.5,
     "lat": 40.034496,
     "lng": 116.211838
@@ -7955,7 +7955,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 86.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7974,7 +7974,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:34:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 50.3,
     "lat": 40.079647,
     "lng": 116.151138
@@ -7993,7 +7993,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.9,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8012,7 +8012,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:34:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.9,
     "lat": 40.04702,
     "lng": 116.20343
@@ -8031,7 +8031,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:34:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 54.2,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8050,7 +8050,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8069,7 +8069,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯三区",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 97.6,
     "lat": 40.065903,
     "lng": 116.249832
@@ -8088,7 +8088,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯五区",
     "scraped_at": "2026-05-02 21:33:37",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.0,
     "lat": 40.065903,
     "lng": 116.249832
@@ -8107,7 +8107,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-上庄馨瑞嘉园",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 51.6,
     "lat": 40.124951,
     "lng": 116.210199
@@ -8126,7 +8126,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 60.5,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8145,7 +8145,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.5,
     "lat": 40.044286,
     "lng": 116.197368
@@ -8164,7 +8164,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.1,
     "lat": 40.03565,
     "lng": 116.209
@@ -8183,7 +8183,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-葛洲坝北京紫郡兰园",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 76.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8202,7 +8202,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 54.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8221,7 +8221,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 59.9,
     "lat": 40.044286,
     "lng": 116.197368
@@ -8240,7 +8240,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-唐家岭新城",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.5,
     "lat": 40.064759,
     "lng": 116.268914
@@ -8259,7 +8259,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀上郡",
     "scraped_at": "2026-05-02 21:34:56",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 50.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8278,7 +8278,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 84.8,
     "lat": 40.044286,
     "lng": 116.197368
@@ -8297,7 +8297,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-明信家园",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 79.4,
     "lat": 40.095312,
     "lng": 116.21121
@@ -8316,7 +8316,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-唐家岭新城",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 76.4,
     "lat": 40.064759,
     "lng": 116.268914
@@ -8335,7 +8335,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:33:45",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.3,
     "lat": 40.065992,
     "lng": 116.159142
@@ -8354,7 +8354,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊二期",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.7,
     "lat": 40.082196,
     "lng": 116.221032
@@ -8373,7 +8373,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 92.2,
     "lat": 40.03565,
     "lng": 116.209
@@ -8392,7 +8392,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.2,
     "lat": 40.048426,
     "lng": 116.165478
@@ -8411,7 +8411,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 82.2,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8430,7 +8430,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 55.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8449,7 +8449,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海汇德里",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 108.9,
     "lat": 40.03496,
     "lng": 116.30208
@@ -8468,7 +8468,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.1,
     "lat": 40.08794,
     "lng": 116.24943
@@ -8487,7 +8487,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.1,
     "lat": 40.03565,
     "lng": 116.209
@@ -8506,7 +8506,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.4,
     "lat": 40.044286,
     "lng": 116.197368
@@ -8525,7 +8525,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 94.1,
     "lat": 40.03565,
     "lng": 116.209
@@ -8544,7 +8544,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.6,
     "lat": 40.065992,
     "lng": 116.159142
@@ -8563,7 +8563,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 57.9,
     "lat": 40.048426,
     "lng": 116.165478
@@ -8582,7 +8582,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中海富华里",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 94.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8601,7 +8601,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-保利西山林语",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.3,
     "lat": 40.03565,
     "lng": 116.209
@@ -8620,7 +8620,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.1,
     "lat": 40.048426,
     "lng": 116.165478
@@ -8639,7 +8639,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-山屿西山著",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.0,
     "lat": 40.04702,
     "lng": 116.20343
@@ -8658,7 +8658,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-福溪家园",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 53.6,
     "lat": 40.045071,
     "lng": 116.185035
@@ -8677,7 +8677,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 55.0,
     "lat": 40.044286,
     "lng": 116.197368
@@ -8696,7 +8696,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 56.7,
     "lat": 40.034496,
     "lng": 116.211838
@@ -8715,7 +8715,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-首创悦榕汇",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 79.3,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8734,7 +8734,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊二期",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 64.0,
     "lat": 40.082196,
     "lng": 116.221032
@@ -8753,7 +8753,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:33:57",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.6,
     "lat": 40.034496,
     "lng": 116.211838
@@ -8772,7 +8772,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:33:57",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 48.0,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8791,7 +8791,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊四期",
     "scraped_at": "2026-05-02 21:33:57",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 72.0,
     "lat": 40.082196,
     "lng": 116.221032
@@ -8810,7 +8810,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:33:57",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.6,
     "lat": 40.048426,
     "lng": 116.165478
@@ -8829,7 +8829,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-环山村",
     "scraped_at": "2026-05-02 21:33:57",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 66.9,
     "lat": 40.021702,
     "lng": 116.297091
@@ -8848,7 +8848,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 71.4,
     "lat": 40.08794,
     "lng": 116.24943
@@ -8867,7 +8867,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.8,
     "lat": 40.084045,
     "lng": 116.25317
@@ -8886,7 +8886,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 49.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8905,7 +8905,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 54.3,
     "lat": 40.079647,
     "lng": 116.151138
@@ -8924,7 +8924,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯四区",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 92.5,
     "lat": 40.065903,
     "lng": 116.249832
@@ -8943,7 +8943,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园三期",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 80.6,
     "lat": 40.084854,
     "lng": 116.255618
@@ -8962,7 +8962,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 87.2,
     "lat": 40.065992,
     "lng": 116.159142
@@ -8981,7 +8981,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-西山锦绣府",
     "scraped_at": "2026-05-02 21:34:04",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.1,
     "lat": 40.079647,
     "lng": 116.151138
@@ -9000,7 +9000,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 81.2,
     "lat": 40.08794,
     "lng": 116.24943
@@ -9019,7 +9019,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-栖海澐颂",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 75.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -9038,7 +9038,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 51.8,
     "lat": 40.079647,
     "lng": 116.151138
@@ -9057,7 +9057,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万泽嘉园一期",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 94.5,
     "lat": 39.932566,
     "lng": 116.292978
@@ -9076,7 +9076,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 52.4,
     "lat": 40.048426,
     "lng": 116.165478
@@ -9095,7 +9095,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 78.2,
     "lat": 40.08794,
     "lng": 116.24943
@@ -9114,7 +9114,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 67.9,
     "lat": 40.065992,
     "lng": 116.159142
@@ -9133,7 +9133,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊三期",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.9,
     "lat": 40.082196,
     "lng": 116.221032
@@ -9152,7 +9152,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.7,
     "lat": 40.079647,
     "lng": 116.151138
@@ -9171,7 +9171,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-三嘉信苑",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 47.8,
     "lat": 40.127386,
     "lng": 116.200078
@@ -9190,7 +9190,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-大牛坊",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 84.7,
     "lat": 40.082196,
     "lng": 116.221032
@@ -9209,7 +9209,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-六里屯三区",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 100.0,
     "lat": 40.065903,
     "lng": 116.249832
@@ -9228,7 +9228,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-航天城小区",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 71.1,
     "lat": 40.08794,
     "lng": 116.24943
@@ -9247,7 +9247,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.2,
     "lat": 40.084045,
     "lng": 116.25317
@@ -9266,7 +9266,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:34:11",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 65.4,
     "lat": 40.084045,
     "lng": 116.25317
@@ -9285,7 +9285,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 91.4,
     "lat": 40.044286,
     "lng": 116.197368
@@ -9304,7 +9304,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园三区",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 90.0,
     "lat": 40.064613,
     "lng": 116.276852
@@ -9323,7 +9323,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园三期",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 75.4,
     "lat": 40.084854,
     "lng": 116.255618
@@ -9342,7 +9342,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-唐家岭新城",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 71.4,
     "lat": 40.064759,
     "lng": 116.268914
@@ -9361,7 +9361,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-中国铁建环保嘉苑",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 77.4,
     "lat": 40.079647,
     "lng": 116.151138
@@ -9380,7 +9380,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.5,
     "lat": 40.034496,
     "lng": 116.211838
@@ -9399,7 +9399,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 70.0,
     "lat": 40.048426,
     "lng": 116.165478
@@ -9418,7 +9418,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 74.5,
     "lat": 40.048426,
     "lng": 116.165478
@@ -9437,7 +9437,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-正源尚峰尚水",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 69.1,
     "lat": 40.034496,
     "lng": 116.211838
@@ -9456,7 +9456,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-温泉人家",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 75.6,
     "lat": 40.042769,
     "lng": 116.184548
@@ -9475,7 +9475,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-水岸温泉",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 91.4,
     "lat": 40.044286,
     "lng": 116.197368
@@ -9494,7 +9494,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 96.5,
     "lat": 40.084045,
     "lng": 116.25317
@@ -9513,7 +9513,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园三期",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 71.5,
     "lat": 40.084854,
     "lng": 116.255618
@@ -9532,7 +9532,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 75.2,
     "lat": 40.065992,
     "lng": 116.159142
@@ -9551,7 +9551,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-上庄馨瑞嘉园",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 53.8,
     "lat": 40.124951,
     "lng": 116.210199
@@ -9570,7 +9570,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 68.0,
     "lat": 40.048426,
     "lng": 116.165478
@@ -9589,7 +9589,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园一期",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 76.8,
     "lat": 40.08535,
     "lng": 116.254779
@@ -9608,7 +9608,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-清泽园",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 56.3,
     "lat": 40.079647,
     "lng": 116.151138
@@ -9627,7 +9627,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 79.9,
     "lat": 40.065992,
     "lng": 116.159142
@@ -9646,7 +9646,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-友谊嘉园二期",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 62.4,
     "lat": 40.084045,
     "lng": 116.25317
@@ -9665,7 +9665,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 88.5,
     "lat": 40.065992,
     "lng": 116.159142
@@ -9684,7 +9684,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-万和嘉园一区",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 73.0,
     "lat": 40.064613,
     "lng": 116.276852
@@ -9703,7 +9703,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-凯盛家园",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 58.2,
     "lat": 40.048426,
     "lng": 116.165478
@@ -9722,7 +9722,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-北分厂",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 76.6,
     "lat": 40.065992,
     "lng": 116.159142
@@ -9741,7 +9741,7 @@
     "rent_type": "整租",
     "location": "海淀区-海淀北部新区-海淀嘉郡",
     "scraped_at": "2026-05-02 21:34:20",
-    "region": "haidianbeibuxinqu1",
+    "region": "海淀北部新区",
     "unit_price": 47.0,
     "lat": 40.079647,
     "lng": 116.151138

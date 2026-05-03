@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-鸿泽园",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.1,
     "lat": 40.388316,
     "lng": 116.844938
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳西里北区",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.2,
     "lat": 40.380232,
     "lng": 116.84944
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-西源里",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 34.4,
     "lat": 40.381396,
     "lng": 116.845222
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.9,
     "lat": 40.369016,
     "lng": 116.857828
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-蓝河湾",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.4,
     "lat": 40.35783,
     "lng": 116.830099
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.2,
     "lat": 40.369016,
     "lng": 116.857828
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-钻石公寓",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 33.9,
     "lat": 31.219,
     "lng": 121.39436
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-东菜园社区",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.5,
     "lat": 40.374316,
     "lng": 116.857408
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-阳光街",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 1.6,
     "lat": 40.37236,
     "lng": 116.86167
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫小区",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.4,
     "lat": 40.37874,
     "lng": 116.85962
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳北里",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.9,
     "lat": 40.387192,
     "lng": 116.854812
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-首创禧悦府",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 32.5,
     "lat": 40.382906,
     "lng": 116.852408
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-久润花园西区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.9,
     "lat": 40.391771,
     "lng": 116.855978
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-银河湾",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.3,
     "lat": 40.370326,
     "lng": 116.856158
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳北里",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.8,
     "lat": 40.387192,
     "lng": 116.854812
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-绿地朗山公馆南区",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 37.5,
     "lat": 40.35316,
     "lng": 116.83514
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫南区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.8,
     "lat": 40.378418,
     "lng": 116.860753
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀城家园北区",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.7,
     "lat": 40.372152,
     "lng": 116.842905
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-阳光街",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 23.6,
     "lat": 40.368346,
     "lng": 116.853558
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-国祥府",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 29.1,
     "lat": 40.370494,
     "lng": 116.859474
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-恋日水岸",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 13.1,
     "lat": 40.389314,
     "lng": 116.850138
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-鼓楼东区",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.2,
     "lat": 40.376731,
     "lng": 116.843139
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-北源里",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 24.4,
     "lat": 40.383251,
     "lng": 116.847573
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫小区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.9,
     "lat": 40.37874,
     "lng": 116.85962
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.2,
     "lat": 40.377461,
     "lng": 116.856303
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-世豪公寓",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 28.9,
     "lat": 40.382799,
     "lng": 116.843002
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-西源里",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.6,
     "lat": 40.381396,
     "lng": 116.845222
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-东菜园社区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.5,
     "lat": 40.374316,
     "lng": 116.857408
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-云秀花园",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 28.3,
     "lat": 40.394161,
     "lng": 116.845734
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳北里",
     "scraped_at": "2026-05-02 23:21:01",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.4,
     "lat": 40.387192,
     "lng": 116.854812
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-绿地朗山公馆北区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 23.4,
     "lat": 40.35316,
     "lng": 116.83514
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-国祥府",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 34.7,
     "lat": 40.370494,
     "lng": 116.859474
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳西里南区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 27.1,
     "lat": 40.379052,
     "lng": 116.851475
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀城西区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.1,
     "lat": 40.364456,
     "lng": 116.844248
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.7,
     "lat": 40.377461,
     "lng": 116.856303
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-久润花园西区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 31.2,
     "lat": 40.391771,
     "lng": 116.855978
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-财智国际中心",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 37.2,
     "lat": 40.374585,
     "lng": 116.836783
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.6,
     "lat": 40.369016,
     "lng": 116.857828
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀城东区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.0,
     "lat": 40.36648,
     "lng": 116.849746
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 27.0,
     "lat": 40.377461,
     "lng": 116.856303
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-绿地朗山公馆南区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.5,
     "lat": 40.35316,
     "lng": 116.83514
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳西里北区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 13.6,
     "lat": 40.380232,
     "lng": 116.84944
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.4,
     "lat": 40.377461,
     "lng": 116.856303
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-柏林山水",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.2,
     "lat": 40.370156,
     "lng": 116.860334
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫小区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.0,
     "lat": 40.37874,
     "lng": 116.85962
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-恋日水岸",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.2,
     "lat": 40.389314,
     "lng": 116.850138
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀州家园西区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.1,
     "lat": 40.366666,
     "lng": 116.835138
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳北里",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.4,
     "lat": 40.387192,
     "lng": 116.854812
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-绿地朗山公馆南区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.4,
     "lat": 40.35316,
     "lng": 116.83514
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.7,
     "lat": 40.377461,
     "lng": 116.856303
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀州家园西区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 12.8,
     "lat": 40.366666,
     "lng": 116.835138
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫东区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.0,
     "lat": 40.377523,
     "lng": 116.859462
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫南区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.9,
     "lat": 40.378418,
     "lng": 116.860753
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.9,
     "lat": 40.369016,
     "lng": 116.857828
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫南区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.5,
     "lat": 40.378418,
     "lng": 116.860753
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 13.2,
     "lat": 40.382332,
     "lng": 116.841551
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 30.6,
     "lat": 40.370126,
     "lng": 116.857578
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-长安小区",
     "scraped_at": "2026-05-02 23:21:03",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.0,
     "lat": 40.37194,
     "lng": 116.836889
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-绿地朗山公馆北区",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 30.0,
     "lat": 40.35316,
     "lng": 116.83514
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.0,
     "lat": 40.369016,
     "lng": 116.857828
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 16.6,
     "lat": 40.380684,
     "lng": 116.842329
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-车站路小区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 42.5,
     "lat": 40.386446,
     "lng": 116.849578
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫小区",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.2,
     "lat": 40.37874,
     "lng": 116.85962
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-城后小区",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.9,
     "lat": 40.384032,
     "lng": 116.848356
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-鸿泽园",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.2,
     "lat": 40.388316,
     "lng": 116.844938
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀营小区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 16.4,
     "lat": 40.387127,
     "lng": 116.854465
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-密云橡树湾西区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 35.0,
     "lat": 40.380189,
     "lng": 116.846939
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-长安小区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.5,
     "lat": 40.37194,
     "lng": 116.836889
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-绿地朗山公馆北区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 24.4,
     "lat": 40.35316,
     "lng": 116.83514
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-密云橡树湾西区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 30.2,
     "lat": 40.380189,
     "lng": 116.846939
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-久润花园东区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 16.0,
     "lat": 40.389816,
     "lng": 116.856878
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-蓝河湾",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 9.7,
     "lat": 40.35783,
     "lng": 116.830099
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-东菜园社区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.6,
     "lat": 40.374316,
     "lng": 116.857408
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-清鑫家园",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 23.1,
     "lat": 40.382696,
     "lng": 116.858828
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-百合园",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 16.9,
     "lat": 40.387836,
     "lng": 116.853158
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-柏林山水",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 24.8,
     "lat": 40.370156,
     "lng": 116.860334
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-太扬家园",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.2,
     "lat": 40.358939,
     "lng": 116.831613
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-京投发展",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 25.8,
     "lat": 40.36213,
     "lng": 116.8376
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-柏林山水",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.1,
     "lat": 40.370156,
     "lng": 116.860334
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-世豪公寓",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.8,
     "lat": 40.382799,
     "lng": 116.843002
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-鸿泽园",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.8,
     "lat": 40.388316,
     "lng": 116.844938
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-密云橡树湾西区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.8,
     "lat": 40.380189,
     "lng": 116.846939
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 25.3,
     "lat": 40.377461,
     "lng": 116.856303
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-白檀小区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 24.7,
     "lat": 40.373686,
     "lng": 116.841458
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-石桥小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.7,
     "lat": 40.38402,
     "lng": 116.865475
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-开园小区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 25.4,
     "lat": 40.360743,
     "lng": 116.833866
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-久润花园西区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 16.1,
     "lat": 40.391771,
     "lng": 116.855978
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-恋日水岸",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.1,
     "lat": 40.389314,
     "lng": 116.850138
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.1,
     "lat": 40.380684,
     "lng": 116.842329
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫小区",
     "scraped_at": "2026-05-02 23:21:06",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 29.7,
     "lat": 40.37874,
     "lng": 116.85962
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-久润花园西区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 39.5,
     "lat": 40.391771,
     "lng": 116.855978
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 30.0,
     "lat": 40.370126,
     "lng": 116.857578
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-东源路",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.8,
     "lat": 40.380026,
     "lng": 116.850854
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳西里南区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 13.2,
     "lat": 40.379052,
     "lng": 116.851475
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.6,
     "lat": 40.373317,
     "lng": 116.85012
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-亚澜湾",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 25.1,
     "lat": 40.350886,
     "lng": 116.824708
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-世纪家园",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.3,
     "lat": 40.37978,
     "lng": 116.84669
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 24.0,
     "lat": 40.382332,
     "lng": 116.841551
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-车站路小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 33.4,
     "lat": 40.386446,
     "lng": 116.849578
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀营国际生态城南区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.8,
     "lat": 40.389635,
     "lng": 116.868648
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫小区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.8,
     "lat": 40.37874,
     "lng": 116.85962
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.2,
     "lat": 40.370126,
     "lng": 116.857578
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-久润花园西区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 36.9,
     "lat": 40.391771,
     "lng": 116.855978
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-鼓楼东区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.5,
     "lat": 40.376731,
     "lng": 116.843139
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-溪水雅地尚著",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.6,
     "lat": 40.385554,
     "lng": 116.845875
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 27.8,
     "lat": 40.370126,
     "lng": 116.857578
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-西源里",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.9,
     "lat": 40.381396,
     "lng": 116.845222
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀城东区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.3,
     "lat": 40.36648,
     "lng": 116.849746
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.9,
     "lat": 40.380684,
     "lng": 116.842329
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.1,
     "lat": 40.373486,
     "lng": 116.834887
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-东菜园社区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.8,
     "lat": 40.374316,
     "lng": 116.857408
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳北里",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.9,
     "lat": 40.387192,
     "lng": 116.854812
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-嘉玺园",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 24.4,
     "lat": 40.373024,
     "lng": 116.840082
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 29.0,
     "lat": 40.380684,
     "lng": 116.842329
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-行宫御东园",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.7,
     "lat": 40.38633,
     "lng": 116.85819
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:09",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.6,
     "lat": 40.380684,
     "lng": 116.842329
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳西里南区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 27.4,
     "lat": 40.379052,
     "lng": 116.851475
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-云秀花园",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.5,
     "lat": 40.394161,
     "lng": 116.845734
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-东菜园社区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.8,
     "lat": 40.374316,
     "lng": 116.857408
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-长安小区",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.5,
     "lat": 40.37194,
     "lng": 116.836889
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-金寓大厦",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.0,
     "lat": 40.367851,
     "lng": 116.840176
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-京投发展",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.2,
     "lat": 40.36213,
     "lng": 116.8376
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-密云橡树湾西区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 29.4,
     "lat": 40.380189,
     "lng": 116.846939
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-石桥西区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.4,
     "lat": 40.38272,
     "lng": 116.86051
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-首创禧悦府",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.1,
     "lat": 40.382906,
     "lng": 116.852408
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.2,
     "lat": 40.373317,
     "lng": 116.85012
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.0,
     "lat": 40.382332,
     "lng": 116.841551
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-财智国际中心",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 32.7,
     "lat": 40.374585,
     "lng": 116.836783
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-上营东区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.3,
     "lat": 40.377684,
     "lng": 116.849277
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.0,
     "lat": 40.382332,
     "lng": 116.841551
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀州家园西区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.8,
     "lat": 40.366666,
     "lng": 116.835138
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳西里北区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 16.0,
     "lat": 40.380232,
     "lng": 116.84944
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.4,
     "lat": 40.373317,
     "lng": 116.85012
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳北里",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.8,
     "lat": 40.387192,
     "lng": 116.854812
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 16.8,
     "lat": 40.380684,
     "lng": 116.842329
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-首创禧悦嘉园",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 29.6,
     "lat": 40.382906,
     "lng": 116.852408
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-矿山家属院",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.3,
     "lat": 40.376898,
     "lng": 116.857997
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-柏林山水",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 23.2,
     "lat": 40.370156,
     "lng": 116.860334
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.9,
     "lat": 40.377461,
     "lng": 116.856303
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 23.9,
     "lat": 40.377461,
     "lng": 116.856303
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.3,
     "lat": 40.377461,
     "lng": 116.856303
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-石桥西区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.5,
     "lat": 40.38272,
     "lng": 116.86051
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-亚澜湾",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 31.2,
     "lat": 40.350886,
     "lng": 116.824708
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳里小区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.3,
     "lat": 40.377461,
     "lng": 116.856303
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-北源里",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 27.8,
     "lat": 40.383251,
     "lng": 116.847573
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-绿地朗山公馆南区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 28.7,
     "lat": 40.35316,
     "lng": 116.83514
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-长安小区",
     "scraped_at": "2026-05-02 23:21:12",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.6,
     "lat": 40.37194,
     "lng": 116.836889
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 30.0,
     "lat": 40.369016,
     "lng": 116.857828
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-钻石公寓",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 35.0,
     "lat": 31.219,
     "lng": 121.39436
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-通城胡同",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 24.6,
     "lat": 40.373093,
     "lng": 116.841474
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-东菜园社区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.7,
     "lat": 40.374316,
     "lng": 116.857408
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.8,
     "lat": 40.380684,
     "lng": 116.842329
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.5,
     "lat": 40.373317,
     "lng": 116.85012
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-亚澜湾",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 31.2,
     "lat": 40.350886,
     "lng": 116.824708
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-东菜园社区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.2,
     "lat": 40.374316,
     "lng": 116.857408
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-密云滨河路小区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 24.2,
     "lat": 40.355287,
     "lng": 116.82918
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 11.8,
     "lat": 40.373317,
     "lng": 116.85012
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.1,
     "lat": 40.373317,
     "lng": 116.85012
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳西里南区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.8,
     "lat": 40.379052,
     "lng": 116.851475
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳北里",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.6,
     "lat": 40.387192,
     "lng": 116.854812
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-密云橡树湾西区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 32.2,
     "lat": 40.380189,
     "lng": 116.846939
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-白檀小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.6,
     "lat": 40.373686,
     "lng": 116.841458
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.4,
     "lat": 40.382332,
     "lng": 116.841551
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳西里北区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.9,
     "lat": 40.380232,
     "lng": 116.84944
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-矿山家属院",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.9,
     "lat": 40.376898,
     "lng": 116.857997
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.2,
     "lat": 40.380684,
     "lng": 116.842329
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 10.8,
     "lat": 40.382332,
     "lng": 116.841551
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀城东区",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.1,
     "lat": 40.36648,
     "lng": 116.849746
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-东菜园社区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.6,
     "lat": 40.374316,
     "lng": 116.857408
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-车站路小区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.3,
     "lat": 40.386446,
     "lng": 116.849578
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 25.0,
     "lat": 40.369016,
     "lng": 116.857828
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-鼓楼东区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.4,
     "lat": 40.376731,
     "lng": 116.843139
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀城家园",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 14.8,
     "lat": 40.372193,
     "lng": 116.842344
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.7,
     "lat": 40.382332,
     "lng": 116.841551
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-白檀小区",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.6,
     "lat": 40.373686,
     "lng": 116.841458
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳北里",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.0,
     "lat": 40.387192,
     "lng": 116.854812
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-通城胡同",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.5,
     "lat": 40.373093,
     "lng": 116.841474
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:15",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.7,
     "lat": 40.369016,
     "lng": 116.857828
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-开园小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 25.1,
     "lat": 40.360743,
     "lng": 116.833866
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.9,
     "lat": 40.369016,
     "lng": 116.857828
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.7,
     "lat": 40.382332,
     "lng": 116.841551
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-亚澜湾",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 31.2,
     "lat": 40.350886,
     "lng": 116.824708
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-鼓楼东区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.6,
     "lat": 40.376731,
     "lng": 116.843139
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 17.0,
     "lat": 40.380684,
     "lng": 116.842329
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-西源里",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 34.4,
     "lat": 40.381396,
     "lng": 116.845222
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-柏林山水",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 21.9,
     "lat": 40.370156,
     "lng": 116.860334
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-车站路小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 29.1,
     "lat": 40.386446,
     "lng": 116.849578
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-白檀小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.1,
     "lat": 40.373686,
     "lng": 116.841458
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 31.9,
     "lat": 40.369016,
     "lng": 116.857828
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 23.1,
     "lat": 40.373317,
     "lng": 116.85012
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀城家园",
     "scraped_at": "2026-05-02 23:21:19",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 47.9,
     "lat": 40.372193,
     "lng": 116.842344
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 29.6,
     "lat": 40.373317,
     "lng": 116.85012
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-车站路小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 46.7,
     "lat": 40.386446,
     "lng": 116.849578
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区南区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 58.4,
     "lat": 40.380684,
     "lng": 116.842329
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-宾阳西里北区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 28.4,
     "lat": 40.380232,
     "lng": 116.84944
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-云湖家属院",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.0,
     "lat": 40.37891,
     "lng": 116.860764
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-白檀小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.8,
     "lat": 40.373686,
     "lng": 116.841458
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 16.1,
     "lat": 40.373317,
     "lng": 116.85012
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-长安小区",
     "scraped_at": "2026-05-02 23:21:23",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 24.3,
     "lat": 40.37194,
     "lng": 116.836889
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.1,
     "lat": 40.373317,
     "lng": 116.85012
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-保利花园",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 22.0,
     "lat": 40.370126,
     "lng": 116.857578
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 15.2,
     "lat": 40.373317,
     "lng": 116.85012
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-世纪家园",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 19.2,
     "lat": 40.37978,
     "lng": 116.84669
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 20.3,
     "lat": 40.382332,
     "lng": 116.841551
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-花园小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.4,
     "lat": 40.373317,
     "lng": 116.85012
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-沿湖小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 18.1,
     "lat": 40.382332,
     "lng": 116.841551
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-长安小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 26.6,
     "lat": 40.37194,
     "lng": 116.836889
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-车站路小区",
     "scraped_at": "2026-05-02 23:21:25",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 32.6,
     "lat": 40.386446,
     "lng": 116.849578
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "密云区-鼓楼街道-檀城西区",
     "scraped_at": "2026-05-02 23:21:53",
-    "region": "guloujiedao",
+    "region": "鼓楼街道",
     "unit_price": 40.9,
     "lat": 40.364456,
     "lng": 116.844248

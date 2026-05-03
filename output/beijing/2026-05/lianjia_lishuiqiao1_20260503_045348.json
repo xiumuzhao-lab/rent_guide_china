@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 67.0,
     "lat": 40.063917,
     "lng": 116.410481
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 63.7,
     "lat": 40.04007,
     "lng": 116.383987
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-中东路",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 79.2,
     "lat": 40.057159,
     "lng": 116.403683
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园东区",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.2,
     "lat": 40.040265,
     "lng": 116.394973
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天生活馆",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 87.6,
     "lat": 40.04874,
     "lng": 116.407107
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 148.0,
     "lat": 39.956726,
     "lng": 116.468428
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园西区",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 66.9,
     "lat": 40.040389,
     "lng": 116.396228
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-顶秀青溪",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 66.6,
     "lat": 40.04007,
     "lng": 116.383987
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 119.9,
     "lat": 40.075855,
     "lng": 116.422397
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园西区",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 62.3,
     "lat": 40.040389,
     "lng": 116.396228
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-顶秀青溪",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 61.5,
     "lat": 40.04007,
     "lng": 116.383987
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 69.4,
     "lat": 40.045465,
     "lng": 116.401952
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 119.2,
     "lat": 40.045465,
     "lng": 116.401952
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-公园两栋",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 103.8,
     "lat": 40.049332,
     "lng": 116.401939
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-公园两栋",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 87.5,
     "lat": 40.049332,
     "lng": 116.401939
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 78.0,
     "lat": 40.045465,
     "lng": 116.401952
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 94.2,
     "lat": 40.052514,
     "lng": 116.403806
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东辰小区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.2,
     "lat": 40.075855,
     "lng": 116.422397
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-东方郁金香",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 75.6,
     "lat": 40.05293,
     "lng": 116.40947
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 75.9,
     "lat": 40.045465,
     "lng": 116.401952
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 77.9,
     "lat": 40.04007,
     "lng": 116.383987
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园东区",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 65.7,
     "lat": 40.040265,
     "lng": 116.394973
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-合立方",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 73.4,
     "lat": 40.04007,
     "lng": 116.383987
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 97.5,
     "lat": 40.045465,
     "lng": 116.401952
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-卢卡新天地",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 72.2,
     "lat": 40.04007,
     "lng": 116.383987
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-公园两栋",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 109.9,
     "lat": 40.049332,
     "lng": 116.401939
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:55:07",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 104.2,
     "lat": 40.075855,
     "lng": 116.422397
@@ -526,7 +526,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 104.3,
     "lat": null,
     "lng": null
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 71.2,
     "lat": 40.052514,
     "lng": 116.403806
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 109.8,
     "lat": 40.075855,
     "lng": 116.422397
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-东方郁金香",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 96.3,
     "lat": 40.05293,
     "lng": 116.40947
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 73.2,
     "lat": 40.04007,
     "lng": 116.383987
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园东区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 60.6,
     "lat": 40.040265,
     "lng": 116.394973
@@ -640,7 +640,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 120.0,
     "lat": 39.732962,
     "lng": 116.141948
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-顶秀青溪",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 70.8,
     "lat": 40.04007,
     "lng": 116.383987
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 76.2,
     "lat": 40.045465,
     "lng": 116.401952
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-嘉诚花园二期",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 43.6,
     "lat": 40.042138,
     "lng": 116.399724
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-正辰小区",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 62.2,
     "lat": 40.056999,
     "lng": 116.405364
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天生活馆",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 85.2,
     "lat": 40.04874,
     "lng": 116.407107
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 72.4,
     "lat": 40.056156,
     "lng": 116.408808
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-顶秀青溪",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 60.0,
     "lat": 40.04007,
     "lng": 116.383987
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 135.3,
     "lat": 40.075855,
     "lng": 116.422397
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-合立方",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 72.9,
     "lat": 40.04007,
     "lng": 116.383987
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 69.4,
     "lat": 40.063917,
     "lng": 116.410481
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-卢卡新天地",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.1,
     "lat": 40.04007,
     "lng": 116.383987
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园西区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 65.6,
     "lat": 40.040389,
     "lng": 116.396228
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 79.2,
     "lat": 40.04007,
     "lng": 116.383987
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 79.3,
     "lat": 40.047586,
     "lng": 116.383498
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.6,
     "lat": 40.045465,
     "lng": 116.401952
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 67.4,
     "lat": 40.056156,
     "lng": 116.408808
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-佳运园二期",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 58.4,
     "lat": 40.043791,
     "lng": 116.397759
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 64.4,
     "lat": 40.045465,
     "lng": 116.401952
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 106.5,
     "lat": 40.045465,
     "lng": 116.401952
@@ -1020,7 +1020,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 132.1,
     "lat": 39.834947,
     "lng": 116.185131
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-合立方",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 61.8,
     "lat": 40.04007,
     "lng": 116.383987
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 115.0,
     "lat": 40.045465,
     "lng": 116.401952
@@ -1077,7 +1077,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:55:10",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 112.5,
     "lat": 40.362726,
     "lng": 115.984238
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-顶秀青溪",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 72.1,
     "lat": 40.04007,
     "lng": 116.383987
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-佳运园一期",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 66.9,
     "lat": 40.045586,
     "lng": 116.395648
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 86.2,
     "lat": 40.056156,
     "lng": 116.408808
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 91.9,
     "lat": 40.045465,
     "lng": 116.401952
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 77.1,
     "lat": 40.04007,
     "lng": 116.383987
@@ -1191,7 +1191,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 205.0,
     "lat": 40.0514,
     "lng": 116.407401
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 83.3,
     "lat": 40.047586,
     "lng": 116.383498
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-中东路",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 63.8,
     "lat": 40.057159,
     "lng": 116.403683
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天生活馆",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 95.6,
     "lat": 40.04874,
     "lng": 116.407107
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-中东路",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.0,
     "lat": 40.057159,
     "lng": 116.403683
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-中东路",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 70.2,
     "lat": 40.057159,
     "lng": 116.403683
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 80.1,
     "lat": 40.063917,
     "lng": 116.410481
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园东区",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 68.1,
     "lat": 40.040265,
     "lng": 116.394973
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 86.0,
     "lat": 40.052514,
     "lng": 116.403806
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-清水园一期",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 60.6,
     "lat": 40.046326,
     "lng": 116.395488
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 67.8,
     "lat": 40.063917,
     "lng": 116.410481
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-中东路",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 75.4,
     "lat": 40.057159,
     "lng": 116.403683
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-立城苑",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.7,
     "lat": 40.048056,
     "lng": 116.400618
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-佳运园三期",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 67.3,
     "lat": 40.043791,
     "lng": 116.397759
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 66.0,
     "lat": 40.056156,
     "lng": 116.408808
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天生活馆",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 100.0,
     "lat": 40.04874,
     "lng": 116.407107
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-卢卡新天地",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 60.0,
     "lat": 40.04007,
     "lng": 116.383987
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园西区",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 67.8,
     "lat": 40.040389,
     "lng": 116.396228
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-合立方",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 76.3,
     "lat": 40.04007,
     "lng": 116.383987
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 98.0,
     "lat": 40.045465,
     "lng": 116.401952
@@ -1571,7 +1571,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:55:12",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 152.1,
     "lat": 40.05743,
     "lng": 116.40348
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 104.9,
     "lat": 40.052514,
     "lng": 116.403806
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 82.9,
     "lat": 40.04007,
     "lng": 116.383987
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.2,
     "lat": 40.045465,
     "lng": 116.401952
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-佳运园一期",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 66.6,
     "lat": 40.045586,
     "lng": 116.395648
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 69.5,
     "lat": 40.045465,
     "lng": 116.401952
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-肿瘤医院宿舍",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 89.6,
     "lat": 40.04007,
     "lng": 116.383987
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-公园两栋",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 88.9,
     "lat": 40.049332,
     "lng": 116.401939
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 58.4,
     "lat": 40.056156,
     "lng": 116.408808
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-嘉诚花园一期",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 57.2,
     "lat": 40.041741,
     "lng": 116.399752
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东辰小区",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 62.3,
     "lat": 40.075855,
     "lng": 116.422397
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 70.8,
     "lat": 40.063917,
     "lng": 116.410481
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-东方郁金香",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 99.3,
     "lat": 40.05293,
     "lng": 116.40947
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 76.5,
     "lat": 40.056156,
     "lng": 116.408808
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-清水园二期",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 54.7,
     "lat": 40.046326,
     "lng": 116.395488
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园西区",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 69.8,
     "lat": 40.040389,
     "lng": 116.396228
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-塞纳维拉",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 97.0,
     "lat": 40.054414,
     "lng": 116.409624
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-合立方",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 68.5,
     "lat": 40.04007,
     "lng": 116.383987
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园东区",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 65.2,
     "lat": 40.040265,
     "lng": 116.394973
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:15",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 97.7,
     "lat": 40.063917,
     "lng": 116.410481
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-立城苑",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 68.4,
     "lat": 40.048056,
     "lng": 116.400618
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-合立方",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 75.5,
     "lat": 40.04007,
     "lng": 116.383987
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 69.3,
     "lat": 40.045465,
     "lng": 116.401952
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 80.6,
     "lat": 40.063917,
     "lng": 116.410481
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 89.3,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 86.5,
     "lat": 40.045465,
     "lng": 116.401952
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-肿瘤医院宿舍",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 81.1,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园东区",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 65.1,
     "lat": 40.040265,
     "lng": 116.394973
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 100.8,
     "lat": 40.045465,
     "lng": 116.401952
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 100.0,
     "lat": 40.063917,
     "lng": 116.410481
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-佳运园三期",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 67.6,
     "lat": 40.043791,
     "lng": 116.397759
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 78.8,
     "lat": 40.045465,
     "lng": 116.401952
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 32.4,
     "lat": 40.056156,
     "lng": 116.408808
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-肿瘤医院宿舍",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 86.0,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 72.3,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 94.6,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:18",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 101.4,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 69.4,
     "lat": 40.045465,
     "lng": 116.401952
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-清水园一期",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 76.8,
     "lat": 40.046326,
     "lng": 116.395488
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 72.1,
     "lat": 40.056156,
     "lng": 116.408808
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 77.4,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-公园两栋",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 142.2,
     "lat": 40.049332,
     "lng": 116.401939
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东辰小区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 65.9,
     "lat": 40.075855,
     "lng": 116.422397
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-塞纳维拉",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 124.4,
     "lat": 40.054414,
     "lng": 116.409624
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-嘉诚花园一期",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 54.2,
     "lat": 40.041741,
     "lng": 116.399752
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 111.6,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 112.2,
     "lat": 40.045465,
     "lng": 116.401952
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 78.6,
     "lat": 40.063917,
     "lng": 116.410481
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 88.1,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-佳运园一期",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 70.5,
     "lat": 40.045586,
     "lng": 116.395648
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-卢卡新天地",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 67.9,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-合立方",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 123.5,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-合立方",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 75.8,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 77.2,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 94.5,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 92.3,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 155.0,
     "lat": 40.075855,
     "lng": 116.422397
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-正辰小区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 68.8,
     "lat": 40.056999,
     "lng": 116.405364
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 69.6,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 143.5,
     "lat": 40.075855,
     "lng": 116.422397
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:21",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 83.9,
     "lat": 40.056156,
     "lng": 116.408808
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 59.3,
     "lat": 40.056156,
     "lng": 116.408808
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-公园两栋",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 125.9,
     "lat": 40.049332,
     "lng": 116.401939
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 95.1,
     "lat": 40.045465,
     "lng": 116.401952
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-卢卡新天地",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 100.6,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 89.8,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 75.3,
     "lat": 40.063917,
     "lng": 116.410481
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 133.3,
     "lat": 40.052514,
     "lng": 116.403806
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 81.8,
     "lat": 40.063917,
     "lng": 116.410481
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 98.3,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园西区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 64.0,
     "lat": 40.040389,
     "lng": 116.396228
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 112.6,
     "lat": 40.045465,
     "lng": 116.401952
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园西区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 79.7,
     "lat": 40.040389,
     "lng": 116.396228
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 86.0,
     "lat": 40.04007,
     "lng": 116.383987
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-公园两栋",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 85.6,
     "lat": 40.049332,
     "lng": 116.401939
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-顶秀青溪",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.9,
     "lat": 40.04007,
     "lng": 116.383987
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:55:24",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 104.9,
     "lat": 40.075855,
     "lng": 116.422397
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天生活馆",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 86.0,
     "lat": 40.04874,
     "lng": 116.407107
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 107.7,
     "lat": 40.075855,
     "lng": 116.422397
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 130.9,
     "lat": 40.052514,
     "lng": 116.403806
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 98.9,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:27",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 77.9,
     "lat": 40.052667,
     "lng": 116.403566
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北京北",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 94.8,
     "lat": 40.063917,
     "lng": 116.410481
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-肿瘤医院宿舍",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 64.9,
     "lat": 40.04007,
     "lng": 116.383987
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:27",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 79.3,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-正辰小区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 80.6,
     "lat": 40.056999,
     "lng": 116.405364
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:27",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 75.5,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:27",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 83.6,
     "lat": 40.056156,
     "lng": 116.408808
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 66.9,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 75.7,
     "lat": 40.04007,
     "lng": 116.383987
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 85.3,
     "lat": 40.056156,
     "lng": 116.408808
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-顶秀青溪",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 73.6,
     "lat": 40.04007,
     "lng": 116.383987
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 100.0,
     "lat": 40.052667,
     "lng": 116.403566
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东辰小区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 73.3,
     "lat": 40.075855,
     "lng": 116.422397
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.0,
     "lat": 40.04007,
     "lng": 116.383987
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 90.8,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:27",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 69.3,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-正辰小区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 62.2,
     "lat": 40.056999,
     "lng": 116.405364
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:27",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 82.3,
     "lat": 40.056156,
     "lng": 116.408808
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-佳运园二期",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 64.6,
     "lat": 40.043791,
     "lng": 116.397759
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 76.0,
     "lat": 40.052514,
     "lng": 116.403806
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 80.2,
     "lat": 40.056156,
     "lng": 116.408808
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-合立方",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 98.6,
     "lat": 40.04007,
     "lng": 116.383987
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 75.8,
     "lat": 40.056156,
     "lng": 116.408808
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 131.2,
     "lat": 40.052514,
     "lng": 116.403806
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 135.3,
     "lat": 40.075855,
     "lng": 116.422397
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-卢卡新天地",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 79.4,
     "lat": 40.04007,
     "lng": 116.383987
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 102.6,
     "lat": 40.075855,
     "lng": 116.422397
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园西区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 74.9,
     "lat": 40.040389,
     "lng": 116.396228
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天生活馆",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 84.1,
     "lat": 40.04874,
     "lng": 116.407107
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 112.7,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-佳运园一期",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 63.9,
     "lat": 40.045586,
     "lng": 116.395648
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园西区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 72.4,
     "lat": 40.040389,
     "lng": 116.396228
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 77.2,
     "lat": 40.052514,
     "lng": 116.403806
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:55:31",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 63.4,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 125.5,
     "lat": 40.052514,
     "lng": 116.403806
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-润枫欣尚",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 76.3,
     "lat": 40.04007,
     "lng": 116.383987
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 122.4,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 64.5,
     "lat": 40.075855,
     "lng": 116.422397
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 63.2,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 79.4,
     "lat": 40.045465,
     "lng": 116.401952
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-溪城家园东区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 68.0,
     "lat": 40.040265,
     "lng": 116.394973
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-中东路",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 77.3,
     "lat": 40.057159,
     "lng": 116.403683
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-正辰小区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 80.6,
     "lat": 40.056999,
     "lng": 116.405364
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-奥北南区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 99.4,
     "lat": 40.052514,
     "lng": 116.403806
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天生活馆",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 86.3,
     "lat": 40.04874,
     "lng": 116.407107
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-公园两栋",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 109.1,
     "lat": 40.049332,
     "lng": 116.401939
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-北方明珠",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 80.3,
     "lat": 40.056156,
     "lng": 116.408808
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 123.3,
     "lat": 40.075855,
     "lng": 116.422397
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 92.8,
     "lat": 40.045465,
     "lng": 116.401952
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 138.8,
     "lat": 40.075855,
     "lng": 116.422397
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-公园两栋",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 118.6,
     "lat": 40.049332,
     "lng": 116.401939
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "昌平区-立水桥-东亚奥北中心北区",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 123.3,
     "lat": 40.075855,
     "lng": 116.422397
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:16",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 102.7,
     "lat": 40.045465,
     "lng": 116.401952
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天第一城",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 117.5,
     "lat": 40.045465,
     "lng": 116.401952
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "朝阳区-立水桥-明天生活馆",
     "scraped_at": "2026-05-02 20:56:28",
-    "region": "lishuiqiao1",
+    "region": "立水桥",
     "unit_price": 87.8,
     "lat": 40.04874,
     "lng": 116.407107

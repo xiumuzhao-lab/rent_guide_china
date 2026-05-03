@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院南-汇贤家园二里",
     "scraped_at": "2026-05-02 22:52:26",
-    "region": "tiangongyuannan",
+    "region": "天宫院南",
     "unit_price": 31.2,
     "lat": 39.662862,
     "lng": 116.313736
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院南-绿茵花园",
     "scraped_at": "2026-05-02 22:52:26",
-    "region": "tiangongyuannan",
+    "region": "天宫院南",
     "unit_price": 38.4,
     "lat": 39.662862,
     "lng": 116.313736

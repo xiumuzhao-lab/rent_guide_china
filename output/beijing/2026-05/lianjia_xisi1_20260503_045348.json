@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-爱民里小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 159.9,
     "lat": 39.928245,
     "lng": 116.374147
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-爱民里小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 139.9,
     "lat": 39.928245,
     "lng": 116.374147
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-大拐棒胡同",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 172.4,
     "lat": 39.924556,
     "lng": 116.367858
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-警尔胡同",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 124.8,
     "lat": 39.925186,
     "lng": 116.370286
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-西四北大街",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 153.4,
     "lat": 39.925355,
     "lng": 116.36765
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 335.7,
     "lat": 40.135682,
     "lng": 116.389489
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-爱民里小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 182.3,
     "lat": 39.928245,
     "lng": 116.374147
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-西安门大街",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 165.6,
     "lat": 39.920926,
     "lng": 116.367518
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-爱民里小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 196.0,
     "lat": 39.928245,
     "lng": 116.374147
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-大拐棒胡同",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 160.6,
     "lat": 39.924556,
     "lng": 116.367858
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-西什库大街",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 140.6,
     "lat": 39.926009,
     "lng": 116.373273
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-爱民里小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 157.4,
     "lat": 39.928245,
     "lng": 116.374147
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-西安门",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 134.9,
     "lat": 39.922784,
     "lng": 116.376131
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-爱民里小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 157.9,
     "lat": 39.928245,
     "lng": 116.374147
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-大拐棒胡同",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 137.9,
     "lat": 39.924556,
     "lng": 116.367858
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-大拐棒胡同",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 200.0,
     "lat": 39.924556,
     "lng": 116.367858
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-爱民里小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 200.0,
     "lat": 39.928245,
     "lng": 116.374147
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-华裕园小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 180.0,
     "lat": 39.92523,
     "lng": 116.374612
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-西黄城根北街甲",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 254.4,
     "lat": 39.921376,
     "lng": 116.370878
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-刘兰塑",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 127.7,
     "lat": 39.923397,
     "lng": 116.374862
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-爱民里小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 165.8,
     "lat": 39.928245,
     "lng": 116.374147
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-大拐棒胡同",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 169.6,
     "lat": 39.924556,
     "lng": 116.367858
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-西什库大街",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 153.1,
     "lat": 39.926009,
     "lng": 116.373273
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-爱民里小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 177.6,
     "lat": 39.928245,
     "lng": 116.374147
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-华裕园小区",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 242.3,
     "lat": 39.92523,
     "lng": 116.374612
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-大拐棒胡同",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 178.1,
     "lat": 39.924556,
     "lng": 116.367858
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "西城区-西四-大拐棒胡同",
     "scraped_at": "2026-05-02 20:12:23",
-    "region": "xisi1",
+    "region": "西四",
     "unit_price": 226.8,
     "lat": 39.924556,
     "lng": 116.367858

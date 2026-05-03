@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-朝阳无限芳菁苑",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 83.4,
     "lat": 39.917426,
     "lng": 116.506738
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露园南里",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 93.3,
     "lat": 39.912736,
     "lng": 116.506164
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 83.5,
     "lat": 39.912736,
     "lng": 116.506164
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-康家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 77.2,
     "lat": 39.916106,
     "lng": 116.506867
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露园南里",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 89.1,
     "lat": 39.912736,
     "lng": 116.506164
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露晴苑",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 78.0,
     "lat": 39.912736,
     "lng": 116.506164
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-都市经典家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 69.8,
     "lat": 39.913049,
     "lng": 116.514716
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露园南里",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 99.7,
     "lat": 39.912736,
     "lng": 116.506164
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 89.8,
     "lat": 39.912736,
     "lng": 116.506164
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-朝阳无限芳菁苑",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 61.4,
     "lat": 39.917426,
     "lng": 116.506738
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露园西里",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 96.6,
     "lat": 39.912736,
     "lng": 116.506164
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-康家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 55.9,
     "lat": 39.916106,
     "lng": 116.506867
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-白领家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 71.3,
     "lat": 39.916106,
     "lng": 116.506867
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-朝阳无限芳菁苑",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 61.0,
     "lat": 39.917426,
     "lng": 116.506738
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露晴苑",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 70.3,
     "lat": 39.912736,
     "lng": 116.506164
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-天天朝阳",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 112.1,
     "lat": 39.916106,
     "lng": 116.506867
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露园南里",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 71.3,
     "lat": 39.912736,
     "lng": 116.506164
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-康家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 93.0,
     "lat": 39.916106,
     "lng": 116.506867
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露园南里",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 84.0,
     "lat": 39.912736,
     "lng": 116.506164
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-康家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 97.2,
     "lat": 39.916106,
     "lng": 116.506867
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-天天朝阳",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 99.8,
     "lat": 39.916106,
     "lng": 116.506867
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露园南里",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 85.5,
     "lat": 39.912736,
     "lng": 116.506164
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-丽景馨居",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 61.7,
     "lat": 39.916106,
     "lng": 116.506867
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-康家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 86.5,
     "lat": 39.916106,
     "lng": 116.506867
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-朝阳无限芳菁苑",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 48.7,
     "lat": 39.917426,
     "lng": 116.506738
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-甘露园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 72.1,
     "lat": 39.912736,
     "lng": 116.506164
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 100.0,
     "lat": 39.12045,
     "lng": 116.01997
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-丽景馨居",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 68.5,
     "lat": 39.916106,
     "lng": 116.506867
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-甘露园-都市经典家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 78.6,
     "lat": 39.913049,
     "lng": 116.514716
@@ -564,7 +564,7 @@
     "rent_type": "合租",
     "location": "朝阳区-甘露园-甘露家园",
     "scraped_at": "2026-05-02 20:46:21",
-    "region": "ganluyuan",
+    "region": "甘露园",
     "unit_price": 155.0,
     "lat": 39.912736,
     "lng": 116.506164

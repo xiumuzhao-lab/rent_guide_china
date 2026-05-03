@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-金隅凤栖家园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 104.5,
     "lat": 40.048954,
     "lng": 116.319133
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁里",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 81.0,
     "lat": 40.044746,
     "lng": 116.325358
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-金隅凤栖家园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 112.6,
     "lat": 40.048954,
     "lng": 116.319133
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-金隅凤栖家园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 98.5,
     "lat": 40.048954,
     "lng": 116.319133
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-水利局一处宿舍",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 99.5,
     "lat": 40.048299,
     "lng": 116.321302
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 126.7,
     "lat": 39.875182,
     "lng": 116.317333
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-清上园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 88.1,
     "lat": 40.03732,
     "lng": 116.3259
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-上林溪",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 121.2,
     "lat": 40.045989,
     "lng": 116.321137
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-上林溪",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 90.5,
     "lat": 40.045989,
     "lng": 116.321137
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-清上园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 65.4,
     "lat": 40.03732,
     "lng": 116.3259
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁里南区",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 85.3,
     "lat": 40.041378,
     "lng": 116.325789
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁里",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 91.2,
     "lat": 40.044746,
     "lng": 116.325358
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁佳园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 102.7,
     "lat": 40.051228,
     "lng": 116.321129
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-清上园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 97.8,
     "lat": 40.03732,
     "lng": 116.3259
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁佳园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 129.7,
     "lat": 40.051228,
     "lng": 116.321129
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁佳园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 96.2,
     "lat": 40.051228,
     "lng": 116.321129
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-清上园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 119.7,
     "lat": 40.03732,
     "lng": 116.3259
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁佳园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 130.8,
     "lat": 40.051228,
     "lng": 116.321129
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-金隅凤栖家园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 121.9,
     "lat": 40.048954,
     "lng": 116.319133
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁里",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 115.3,
     "lat": 40.044746,
     "lng": 116.325358
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁佳园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 70.0,
     "lat": 40.051228,
     "lng": 116.321129
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-清上园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 81.9,
     "lat": 40.03732,
     "lng": 116.3259
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁佳园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 92.8,
     "lat": 40.051228,
     "lng": 116.321129
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-清上园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 116.5,
     "lat": 40.03732,
     "lng": 116.3259
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-安宁佳园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 82.4,
     "lat": 40.051228,
     "lng": 116.321129
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-动力厂宿舍",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 87.0,
     "lat": 40.045452,
     "lng": 116.313571
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-安宁庄-金隅凤栖家园",
     "scraped_at": "2026-05-02 21:27:23",
-    "region": "anningzhuang1",
+    "region": "安宁庄",
     "unit_price": 111.4,
     "lat": 40.048954,
     "lng": 116.319133

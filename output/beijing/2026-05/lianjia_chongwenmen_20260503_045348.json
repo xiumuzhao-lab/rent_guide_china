@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 118.6,
     "lat": 39.896847,
     "lng": 116.413484
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 82.9,
     "lat": 39.892111,
     "lng": 116.41542
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 89.6,
     "lat": 39.895393,
     "lng": 116.411572
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 114.4,
     "lat": 39.896847,
     "lng": 116.413484
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 120.9,
     "lat": 39.896847,
     "lng": 116.413484
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 209.8,
     "lat": 40.43787,
     "lng": 115.94103
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 109.1,
     "lat": 39.896847,
     "lng": 116.413484
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 113.4,
     "lat": 39.895131,
     "lng": 116.408568
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 121.4,
     "lat": 39.896847,
     "lng": 116.413484
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 102.9,
     "lat": 39.895393,
     "lng": 116.411572
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 114.5,
     "lat": 39.892111,
     "lng": 116.41542
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 98.8,
     "lat": 39.897279,
     "lng": 116.406091
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 94.2,
     "lat": 39.897279,
     "lng": 116.406091
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新裕家园",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 119.1,
     "lat": 39.891287,
     "lng": 116.415123
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 91.9,
     "lat": 39.90026,
     "lng": 116.4299
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 95.3,
     "lat": 39.895534,
     "lng": 116.410708
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 121.5,
     "lat": 39.895393,
     "lng": 116.411572
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 122.3,
     "lat": 39.892111,
     "lng": 116.41542
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 121.8,
     "lat": 39.896847,
     "lng": 116.413484
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 116.2,
     "lat": 39.895131,
     "lng": 116.408568
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 96.7,
     "lat": 39.897279,
     "lng": 116.406091
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 121.3,
     "lat": 39.895131,
     "lng": 116.408568
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 120.5,
     "lat": 39.895131,
     "lng": 116.408568
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 115.6,
     "lat": 39.896847,
     "lng": 116.413484
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 110.5,
     "lat": 39.895393,
     "lng": 116.411572
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 132.3,
     "lat": 39.896847,
     "lng": 116.413484
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:36",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 107.4,
     "lat": 39.892111,
     "lng": 116.41542
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 117.7,
     "lat": 39.895131,
     "lng": 116.408568
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 106.2,
     "lat": 39.895393,
     "lng": 116.411572
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 84.1,
     "lat": 39.895534,
     "lng": 116.410708
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 115.6,
     "lat": 39.896847,
     "lng": 116.413484
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 97.6,
     "lat": 39.896847,
     "lng": 116.413484
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 91.0,
     "lat": 39.897279,
     "lng": 116.406091
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 85.0,
     "lat": 39.892111,
     "lng": 116.41542
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 131.2,
     "lat": 39.89982,
     "lng": 116.409515
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 147.4,
     "lat": 39.895131,
     "lng": 116.408568
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 96.5,
     "lat": 39.896847,
     "lng": 116.413484
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 114.0,
     "lat": 39.896847,
     "lng": 116.413484
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 95.2,
     "lat": 39.897279,
     "lng": 116.406091
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 110.2,
     "lat": 39.895393,
     "lng": 116.411572
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 78.0,
     "lat": 39.895534,
     "lng": 116.410708
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 143.9,
     "lat": 39.896847,
     "lng": 116.413484
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 111.2,
     "lat": 39.895131,
     "lng": 116.408568
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 116.9,
     "lat": 39.896847,
     "lng": 116.413484
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 150.5,
     "lat": 39.895393,
     "lng": 116.411572
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 119.9,
     "lat": 39.896847,
     "lng": 116.413484
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 119.9,
     "lat": 39.896847,
     "lng": 116.413484
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 113.5,
     "lat": 39.896847,
     "lng": 116.413484
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 119.0,
     "lat": 39.90026,
     "lng": 116.4299
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 120.5,
     "lat": 39.896847,
     "lng": 116.413484
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 137.1,
     "lat": 39.896847,
     "lng": 116.413484
@@ -982,7 +982,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:56:39",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 168.0,
     "lat": 40.387846,
     "lng": 116.853818
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 142.8,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 102.1,
     "lat": 39.896847,
     "lng": 116.413484
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 141.4,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 139.8,
     "lat": 39.895393,
     "lng": 116.411572
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 110.9,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 105.2,
     "lat": 39.895393,
     "lng": 116.411572
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 109.1,
     "lat": 39.895393,
     "lng": 116.411572
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 116.8,
     "lat": 39.892111,
     "lng": 116.41542
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 109.9,
     "lat": 39.897279,
     "lng": 116.406091
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 118.0,
     "lat": 39.895393,
     "lng": 116.411572
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 110.3,
     "lat": 39.896847,
     "lng": 116.413484
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-营房西街",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 89.9,
     "lat": 39.899656,
     "lng": 116.410916
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 97.5,
     "lat": 39.892111,
     "lng": 116.41542
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 111.5,
     "lat": 39.90026,
     "lng": 116.4299
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 145.8,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 154.8,
     "lat": 39.896847,
     "lng": 116.413484
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 107.6,
     "lat": 39.896847,
     "lng": 116.413484
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 117.1,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 106.2,
     "lat": 39.895393,
     "lng": 116.411572
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-东后河沿",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 122.6,
     "lat": 39.898968,
     "lng": 116.420771
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 105.1,
     "lat": 39.897279,
     "lng": 116.406091
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-东后河沿",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 108.3,
     "lat": 39.898968,
     "lng": 116.420771
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 109.5,
     "lat": 39.892111,
     "lng": 116.41542
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 113.6,
     "lat": 39.896847,
     "lng": 116.413484
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 91.4,
     "lat": 39.90026,
     "lng": 116.4299
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 77.9,
     "lat": 39.895534,
     "lng": 116.410708
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 111.4,
     "lat": 39.90026,
     "lng": 116.4299
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 100.1,
     "lat": 39.90026,
     "lng": 116.4299
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新世界中心",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 120.2,
     "lat": 39.896496,
     "lng": 116.411019
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:42",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 187.2,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-天华公馆",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 124.3,
     "lat": 39.897279,
     "lng": 116.406091
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-东后河沿",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 94.2,
     "lat": 39.898968,
     "lng": 116.420771
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 142.9,
     "lat": 39.895393,
     "lng": 116.411572
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新裕家园",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 154.1,
     "lat": 39.891287,
     "lng": 116.415123
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 106.9,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 193.3,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 138.6,
     "lat": 39.892111,
     "lng": 116.41542
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 108.9,
     "lat": 39.895393,
     "lng": 116.411572
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 127.8,
     "lat": 39.899166,
     "lng": 116.411228
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 95.8,
     "lat": 39.895534,
     "lng": 116.410708
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 98.7,
     "lat": 39.895534,
     "lng": 116.410708
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-前门东小街",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 105.9,
     "lat": 39.899006,
     "lng": 116.405398
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新世界家园",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 145.7,
     "lat": 39.895393,
     "lng": 116.411572
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 116.7,
     "lat": 39.896847,
     "lng": 116.413484
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 137.9,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 135.8,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 140.3,
     "lat": 39.896847,
     "lng": 116.413484
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 116.8,
     "lat": 39.897279,
     "lng": 116.406091
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 130.0,
     "lat": 39.899166,
     "lng": 116.411228
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 137.8,
     "lat": 39.895393,
     "lng": 116.411572
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 146.9,
     "lat": 39.895131,
     "lng": 116.408568
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 130.0,
     "lat": 39.899166,
     "lng": 116.411228
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-东后河沿",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 90.2,
     "lat": 39.898968,
     "lng": 116.420771
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 135.3,
     "lat": 39.895393,
     "lng": 116.411572
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 126.3,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 112.8,
     "lat": 39.892111,
     "lng": 116.41542
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 150.7,
     "lat": 39.899166,
     "lng": 116.411228
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 92.4,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 114.6,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:46",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 113.3,
     "lat": 39.895393,
     "lng": 116.411572
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 103.1,
     "lat": 39.895393,
     "lng": 116.411572
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 141.9,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 108.3,
     "lat": 39.895393,
     "lng": 116.411572
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 117.5,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-信用北里",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 80.8,
     "lat": 39.897279,
     "lng": 116.406091
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 146.9,
     "lat": 39.895131,
     "lng": 116.408568
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 130.4,
     "lat": 39.897279,
     "lng": 116.406091
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新怡家园",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 134.1,
     "lat": 39.896626,
     "lng": 116.410658
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 107.3,
     "lat": 39.892111,
     "lng": 116.41542
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新怡家园",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 123.8,
     "lat": 39.896626,
     "lng": 116.410658
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 108.4,
     "lat": 39.897279,
     "lng": 116.406091
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 187.1,
     "lat": 39.895131,
     "lng": 116.408568
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 124.1,
     "lat": 39.899166,
     "lng": 116.411228
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 122.1,
     "lat": 39.897279,
     "lng": 116.406091
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 91.9,
     "lat": 39.895534,
     "lng": 116.410708
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 161.4,
     "lat": 39.895131,
     "lng": 116.408568
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 124.7,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 135.9,
     "lat": 39.899166,
     "lng": 116.411228
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 155.6,
     "lat": 39.895131,
     "lng": 116.408568
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 140.1,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 152.5,
     "lat": 39.895131,
     "lng": 116.408568
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新怡家园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 141.7,
     "lat": 39.896626,
     "lng": 116.410658
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:49",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 104.6,
     "lat": 39.897279,
     "lng": 116.406091
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 100.0,
     "lat": 39.895534,
     "lng": 116.410708
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 105.6,
     "lat": 39.90026,
     "lng": 116.4299
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 160.8,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 95.9,
     "lat": 39.895534,
     "lng": 116.410708
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-体育馆西路",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 124.5,
     "lat": 39.885618,
     "lng": 116.41695
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 121.2,
     "lat": 39.895393,
     "lng": 116.411572
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新世界家园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 132.6,
     "lat": 39.895393,
     "lng": 116.411572
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 137.6,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-营房西街",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 111.0,
     "lat": 39.899656,
     "lng": 116.410916
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 115.7,
     "lat": 39.895393,
     "lng": 116.411572
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 102.3,
     "lat": 39.90026,
     "lng": 116.4299
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-体育馆西路",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 113.1,
     "lat": 39.885618,
     "lng": 116.41695
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-东河沿",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 112.5,
     "lat": 39.898641,
     "lng": 116.417012
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新怡家园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 129.2,
     "lat": 39.896626,
     "lng": 116.410658
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 145.6,
     "lat": 39.895131,
     "lng": 116.408568
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-天华公馆",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 142.9,
     "lat": 39.897279,
     "lng": 116.406091
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 181.8,
     "lat": 39.896847,
     "lng": 116.413484
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 166.4,
     "lat": 39.895131,
     "lng": 116.408568
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 131.7,
     "lat": 39.895131,
     "lng": 116.408568
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 175.8,
     "lat": 39.895131,
     "lng": 116.408568
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 134.4,
     "lat": 39.89982,
     "lng": 116.409515
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 175.0,
     "lat": 39.895393,
     "lng": 116.411572
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 125.7,
     "lat": 39.892111,
     "lng": 116.41542
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 167.4,
     "lat": 39.895131,
     "lng": 116.408568
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 159.4,
     "lat": 39.895131,
     "lng": 116.408568
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 119.1,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 157.3,
     "lat": 39.895131,
     "lng": 116.408568
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 172.3,
     "lat": 39.895131,
     "lng": 116.408568
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:53",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 110.6,
     "lat": 39.897279,
     "lng": 116.406091
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-前门东小街",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 125.0,
     "lat": 39.899006,
     "lng": 116.405398
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 114.1,
     "lat": 39.90026,
     "lng": 116.4299
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-营房西街",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 127.5,
     "lat": 39.899656,
     "lng": 116.410916
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-体育馆西路",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 114.0,
     "lat": 39.885618,
     "lng": 116.41695
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 152.1,
     "lat": 39.895131,
     "lng": 116.408568
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-北京汇",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 133.4,
     "lat": 39.915773,
     "lng": 116.406575
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 149.1,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 140.4,
     "lat": 39.895131,
     "lng": 116.408568
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 117.2,
     "lat": 39.90026,
     "lng": 116.4299
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 103.1,
     "lat": 39.896847,
     "lng": 116.413484
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 118.0,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 147.2,
     "lat": 39.895131,
     "lng": 116.408568
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 106.7,
     "lat": 39.896847,
     "lng": 116.413484
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 125.8,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 145.7,
     "lat": 39.899166,
     "lng": 116.411228
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 93.8,
     "lat": 39.897279,
     "lng": 116.406091
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 121.5,
     "lat": 39.90026,
     "lng": 116.4299
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 137.1,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 127.4,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 112.3,
     "lat": 39.892111,
     "lng": 116.41542
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-北京汇",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 107.5,
     "lat": 39.915773,
     "lng": 116.406575
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 106.2,
     "lat": 39.892111,
     "lng": 116.41542
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新怡家园",
     "scraped_at": "2026-05-02 19:56:56",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 98.9,
     "lat": 39.896626,
     "lng": 116.410658
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 106.2,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新怡家园",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 158.4,
     "lat": 39.896626,
     "lng": 116.410658
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 126.3,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 81.2,
     "lat": 39.895534,
     "lng": 116.410708
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 131.8,
     "lat": 39.90026,
     "lng": 116.4299
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-西打磨厂街",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 83.3,
     "lat": 39.898126,
     "lng": 116.405222
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-北京汇",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 125.0,
     "lat": 39.915773,
     "lng": 116.406575
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-北京汇",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 129.7,
     "lat": 39.915773,
     "lng": 116.406575
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 105.2,
     "lat": 39.896847,
     "lng": 116.413484
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 100.6,
     "lat": 39.895131,
     "lng": 116.408568
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 121.3,
     "lat": 39.90026,
     "lng": 116.4299
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 121.8,
     "lat": 39.90026,
     "lng": 116.4299
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:57:44",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 127.7,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-南岗子",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 121.0,
     "lat": 39.896026,
     "lng": 116.415118
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新世界家园",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 130.4,
     "lat": 39.895393,
     "lng": 116.411572
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 144.6,
     "lat": 39.899166,
     "lng": 116.411228
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 105.2,
     "lat": 39.896847,
     "lng": 116.413484
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 84.0,
     "lat": 39.895534,
     "lng": 116.410708
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 123.9,
     "lat": 39.90026,
     "lng": 116.4299
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 108.4,
     "lat": 39.896847,
     "lng": 116.413484
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 123.3,
     "lat": 39.896847,
     "lng": 116.413484
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 135.9,
     "lat": 39.899166,
     "lng": 116.411228
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 108.3,
     "lat": 39.897279,
     "lng": 116.406091
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 117.5,
     "lat": 39.90026,
     "lng": 116.4299
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 118.5,
     "lat": 39.895131,
     "lng": 116.408568
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 137.1,
     "lat": 39.896847,
     "lng": 116.413484
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:57:51",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 82.5,
     "lat": 39.897279,
     "lng": 116.406091
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 142.7,
     "lat": 39.899166,
     "lng": 116.411228
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 225.5,
     "lat": 39.895131,
     "lng": 116.408568
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 129.4,
     "lat": 39.899166,
     "lng": 116.411228
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城中区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 118.1,
     "lat": 39.896847,
     "lng": 116.413484
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 180.1,
     "lat": 39.895393,
     "lng": 116.411572
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 150.8,
     "lat": 39.895131,
     "lng": 116.408568
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门西大街",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 151.8,
     "lat": 39.899166,
     "lng": 116.411228
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-太华公寓",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 79.3,
     "lat": 39.895534,
     "lng": 116.410708
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城东区",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 103.6,
     "lat": 39.896847,
     "lng": 116.413484
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-崇文门东大街",
     "scraped_at": "2026-05-02 19:58:15",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 101.3,
     "lat": 39.90026,
     "lng": 116.4299
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-兴隆都市馨园",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 112.6,
     "lat": 39.895131,
     "lng": 116.408568
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园西区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 120.7,
     "lat": 39.892111,
     "lng": 116.41542
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新裕家园",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 132.5,
     "lat": 39.891287,
     "lng": 116.415123
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 229.7,
     "lat": 39.895393,
     "lng": 116.411572
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-新景家园东区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 112.4,
     "lat": 39.895393,
     "lng": 116.411572
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-国瑞城西区",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 117.8,
     "lat": 39.896847,
     "lng": 116.413484
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "东城区-崇文门-法华南里",
     "scraped_at": "2026-05-02 19:58:27",
-    "region": "chongwenmen",
+    "region": "崇文门",
     "unit_price": 97.5,
     "lat": 39.897279,
     "lng": 116.406091

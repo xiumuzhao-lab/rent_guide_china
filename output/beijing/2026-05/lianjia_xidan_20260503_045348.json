@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-新壁街",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 142.1,
     "lat": 39.901071,
     "lng": 116.37231
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-新壁街",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 103.1,
     "lat": 39.901071,
     "lng": 116.37231
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-复地西绒线",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 312.2,
     "lat": 39.9019,
     "lng": 116.37156
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-西黄城根南街一区",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 184.0,
     "lat": 39.913488,
     "lng": 116.371675
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-新壁街",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 135.2,
     "lat": 39.901071,
     "lng": 116.37231
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-西绒线",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 159.1,
     "lat": 39.901446,
     "lng": 116.370278
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-新壁街",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 163.1,
     "lat": 39.901071,
     "lng": 116.37231
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-新壁街",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 104.3,
     "lat": 39.901071,
     "lng": 116.37231
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-西绒线",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 137.4,
     "lat": 39.901446,
     "lng": 116.370278
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-横二条",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 169.6,
     "lat": 39.908466,
     "lng": 116.370458
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-西绒线",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 155.2,
     "lat": 39.901446,
     "lng": 116.370278
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-新壁街",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 134.2,
     "lat": 39.901071,
     "lng": 116.37231
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-新壁街",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 126.9,
     "lat": 39.901071,
     "lng": 116.37231
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-新壁街",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 153.9,
     "lat": 39.901071,
     "lng": 116.37231
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-新壁街",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 164.7,
     "lat": 39.901071,
     "lng": 116.37231
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-灵境胡同",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 162.9,
     "lat": 39.915,
     "lng": 116.36928
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-英嘉公寓",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 136.1,
     "lat": 39.908096,
     "lng": 116.368448
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-背阴胡同",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 144.4,
     "lat": 39.912293,
     "lng": 116.370193
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-大六部口",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 136.8,
     "lat": 39.909427,
     "lng": 116.367236
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-北安里",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 192.0,
     "lat": 39.908096,
     "lng": 116.368448
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-西绒线",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 139.4,
     "lat": 39.901446,
     "lng": 116.370278
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-西绒线",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 158.7,
     "lat": 39.901446,
     "lng": 116.370278
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-灵境胡同",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 161.9,
     "lat": 39.915,
     "lng": 116.36928
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-佳慧雅园",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 168.5,
     "lat": 39.901446,
     "lng": 116.370278
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-灵境胡同",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 134.3,
     "lat": 39.915,
     "lng": 116.36928
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-佳慧雅园",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 181.4,
     "lat": 39.901446,
     "lng": 116.370278
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-西黄城根",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 181.5,
     "lat": 39.908096,
     "lng": 116.368448
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-西黄城根",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 173.1,
     "lat": 39.908096,
     "lng": 116.368448
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "西城区-西单-西绒线",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": 135.1,
     "lat": 39.901446,
     "lng": 116.370278
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:12:33",
-    "region": "xidan",
+    "region": "西单",
     "unit_price": "",
     "lat": 39.879896,
     "lng": 116.322968

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园四期",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 420.3,
     "lat": 39.86617,
     "lng": 116.4766
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-周庄嘉园东里",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 84.7,
     "lat": 39.862779,
     "lng": 116.469992
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 98.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 69.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 88.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 116.7,
     "lat": 40.046556,
     "lng": 116.424289
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园二期",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 77.5,
     "lat": 39.866131,
     "lng": 116.47411
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 82.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 104.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 61.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 86.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 91.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 71.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园四期",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 108.7,
     "lat": 39.86617,
     "lng": 116.4766
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-周庄嘉园东里",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 72.1,
     "lat": 39.862779,
     "lng": 116.469992
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 109.8,
     "lat": 39.878725,
     "lng": 116.450195
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 93.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-汉华苑",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 60.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-周庄嘉园东里",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 87.1,
     "lat": 39.862779,
     "lng": 116.469992
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园二期",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 133.0,
     "lat": 39.866131,
     "lng": 116.47411
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 90.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 97.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园二期",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 117.6,
     "lat": 39.866131,
     "lng": 116.47411
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 81.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 103.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 100.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 68.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:54",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 85.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园四期",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 105.1,
     "lat": 39.86617,
     "lng": 116.4766
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-香榭舍",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 89.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 92.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 95.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 72.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 77.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-香榭舍",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 93.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 63.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 91.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园二期",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 124.6,
     "lat": 39.866131,
     "lng": 116.47411
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 73.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 78.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-周庄嘉园东里",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 73.4,
     "lat": 39.862779,
     "lng": 116.469992
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 54.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -811,7 +811,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 141.5,
     "lat": 39.853396,
     "lng": 116.309008
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 132.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园四期",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 109.5,
     "lat": 39.86617,
     "lng": 116.4766
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 82.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 86.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 141.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 78.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园一期",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 103.2,
     "lat": 39.866406,
     "lng": 116.462368
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园四期",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 156.4,
     "lat": 39.86617,
     "lng": 116.4766
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 92.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 89.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-方华苑",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 72.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:52:56",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 89.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 123.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 80.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 94.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园二期",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 105.0,
     "lat": 39.866131,
     "lng": 116.47411
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 88.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 76.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 80.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-弘燕路小区",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 76.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-弘燕路小区",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 73.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 102.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 88.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-御景园",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 77.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-周庄嘉园东里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 67.4,
     "lat": 39.862779,
     "lng": 116.469992
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 74.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1324,7 +1324,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 190.9,
     "lat": 39.875182,
     "lng": 116.317333
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 109.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 88.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 100.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 90.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-香榭舍",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 77.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-弘燕路小区",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 90.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园一期",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 86.5,
     "lat": 39.866406,
     "lng": 116.462368
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 71.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 108.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-书香亭",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 84.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-周庄嘉园东里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 64.6,
     "lat": 39.862779,
     "lng": 116.469992
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:00",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 85.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 97.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 81.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 87.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园一期",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 111.1,
     "lat": 39.866406,
     "lng": 116.462368
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 80.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 77.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 148.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 109.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-香榭舍",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 100.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园二期",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 91.4,
     "lat": 39.866131,
     "lng": 116.47411
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 79.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 70.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园一期",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 108.2,
     "lat": 39.866406,
     "lng": 116.462368
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-周庄嘉园东里",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 94.1,
     "lat": 39.862779,
     "lng": 116.469992
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-东景苑",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 78.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 98.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 111.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 70.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园一期",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 103.6,
     "lat": 39.866406,
     "lng": 116.462368
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 77.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 144.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 135.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-东景苑",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 57.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园一期",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 100.2,
     "lat": 39.866406,
     "lng": 116.462368
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 75.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:03",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 117.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 85.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 125.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 129.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 138.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 106.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-弘燕路小区",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 85.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-方华苑",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 67.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-御景园",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 65.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-汉华苑",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 81.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 84.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-香榭舍",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 89.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 169.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园二期",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 107.8,
     "lat": 39.866131,
     "lng": 116.47411
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 72.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-御景园",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 91.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 78.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园一期",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 99.4,
     "lat": 39.866406,
     "lng": 116.462368
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 65.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 159.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 91.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 136.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 87.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:06",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 123.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 145.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园四期",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 162.8,
     "lat": 39.86617,
     "lng": 116.4766
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 92.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园四期",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 135.3,
     "lat": 39.86617,
     "lng": 116.4766
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 100.6,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园二期",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 100.6,
     "lat": 39.866131,
     "lng": 116.47411
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 85.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 73.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园四期",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 147.5,
     "lat": 39.86617,
     "lng": 116.4766
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-御景园",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 69.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 73.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-东景苑",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 66.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-山水文园四期",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 229.7,
     "lat": 39.86617,
     "lng": 116.4766
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 106.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 97.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 103.9,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-书香亭",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 83.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 121.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-龙头公寓",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 148.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-御景园",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 72.3,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 76.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-东景苑",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 79.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 88.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-美景东方",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 116.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 81.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-南新园",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 90.1,
     "lat": 39.870105,
     "lng": 116.45493
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 79.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 124.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-弘燕路小区",
     "scraped_at": "2026-05-02 20:53:09",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 91.2,
     "lat": 39.870105,
     "lng": 116.45493
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 77.0,
     "lat": 39.870105,
     "lng": 116.45493
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 81.4,
     "lat": 39.870105,
     "lng": 116.45493
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-周庄嘉园东里",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 55.7,
     "lat": 39.862779,
     "lng": 116.469992
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 82.8,
     "lat": 39.870105,
     "lng": 116.45493
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 66.5,
     "lat": 39.870105,
     "lng": 116.45493
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-双龙南里",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 106.7,
     "lat": 39.870105,
     "lng": 116.45493
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-华威桥-御景园",
     "scraped_at": "2026-05-02 20:53:14",
-    "region": "huaweiqiao",
+    "region": "华威桥",
     "unit_price": 91.3,
     "lat": 39.870105,
     "lng": 116.45493

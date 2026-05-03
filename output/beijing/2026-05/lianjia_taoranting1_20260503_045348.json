@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 112.7,
     "lat": 39.869547,
     "lng": 116.386319
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 100.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 127.8,
     "lat": 39.869547,
     "lng": 116.386319
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-永内西街北里",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 119.5,
     "lat": 39.871626,
     "lng": 116.384358
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-红土店南里",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 92.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 138.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-一瓶",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 161.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 119.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 63.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 113.3,
     "lat": 39.869547,
     "lng": 116.386319
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 118.0,
     "lat": 39.869547,
     "lng": 116.386319
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 101.2,
     "lat": 39.882583,
     "lng": 116.378308
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-盛景嘉园",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 125.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-一瓶",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 88.8,
     "lat": 39.885041,
     "lng": 116.370622
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路南巷",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 92.2,
     "lat": 39.878312,
     "lng": 116.384918
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 119.8,
     "lat": 39.87935,
     "lng": 116.3736
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 123.8,
     "lat": 39.869547,
     "lng": 116.386319
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-一瓶",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 97.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-华仁路小区",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 98.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 114.6,
     "lat": 39.869547,
     "lng": 116.386319
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 116.8,
     "lat": 39.869547,
     "lng": 116.386319
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 92.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 120.8,
     "lat": 39.869547,
     "lng": 116.386319
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-龙爪槐胡同",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 106.0,
     "lat": 39.871636,
     "lng": 116.371138
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 97.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 122.1,
     "lat": 39.869547,
     "lng": 116.386319
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂东街",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 117.1,
     "lat": 39.880189,
     "lng": 116.37634
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 93.7,
     "lat": 39.87935,
     "lng": 116.3736
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-高家寨",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 124.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:10:50",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 114.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 105.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 123.2,
     "lat": 39.869547,
     "lng": 116.386319
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 117.1,
     "lat": 39.87935,
     "lng": 116.3736
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂东街",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 136.7,
     "lat": 39.880189,
     "lng": 116.37634
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-耕天下",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 125.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂西里",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 147.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-先农坛街甲",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 94.9,
     "lat": 39.871277,
     "lng": 116.387208
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 110.8,
     "lat": 39.878449,
     "lng": 116.388181
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-永安路小区",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 90.1,
     "lat": 40.208476,
     "lng": 116.228328
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 104.9,
     "lat": 39.878449,
     "lng": 116.388181
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街头条",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 112.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 147.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 88.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-陶然北岸",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 124.8,
     "lat": 39.870206,
     "lng": 116.373898
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街头条",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 99.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 114.0,
     "lat": 39.87935,
     "lng": 116.3736
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 130.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-东经路",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 91.6,
     "lat": 39.880416,
     "lng": 116.387198
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街头条",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 87.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街头条",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 89.2,
     "lat": 39.885041,
     "lng": 116.370622
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街头条",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 105.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 114.6,
     "lat": 39.878989,
     "lng": 116.383378
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 100.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 93.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂西里",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 172.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂西里",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 122.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 112.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-姚家井二巷",
     "scraped_at": "2026-05-02 20:11:13",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 108.9,
     "lat": 39.873419,
     "lng": 116.369751
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-朱雀门",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 140.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 96.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信禧园",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 155.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-高家寨",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 132.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 101.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂西里",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 165.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 123.0,
     "lat": 39.869547,
     "lng": 116.386319
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 104.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 102.0,
     "lat": 39.878989,
     "lng": 116.383378
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 103.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 129.7,
     "lat": 39.869547,
     "lng": 116.386319
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信禧园",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 165.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-姚家井二巷",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 121.2,
     "lat": 39.873419,
     "lng": 116.369751
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信禧园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 165.2,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街头条",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 120.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 103.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 96.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 132.6,
     "lat": 39.882583,
     "lng": 116.378308
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-华仁路小区",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 114.8,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街头条",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 107.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-一瓶",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 87.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 109.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 153.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信沁园",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 147.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-一瓶",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 111.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信沁园",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 157.8,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 104.6,
     "lat": 39.882583,
     "lng": 116.378308
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-里仁东街",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 133.3,
     "lat": 39.874463,
     "lng": 116.369799
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 103.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街二条",
     "scraped_at": "2026-05-02 20:11:19",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 126.8,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 113.0,
     "lat": 39.869547,
     "lng": 116.386319
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-先农坛街甲",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 128.1,
     "lat": 39.871277,
     "lng": 116.387208
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 117.7,
     "lat": 39.869547,
     "lng": 116.386319
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-龙爪槐胡同",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 119.3,
     "lat": 39.871636,
     "lng": 116.371138
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 107.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 99.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 109.2,
     "lat": 39.87935,
     "lng": 116.3736
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 161.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-姚家井二巷",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 112.7,
     "lat": 39.873419,
     "lng": 116.369751
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 118.9,
     "lat": 39.869547,
     "lng": 116.386319
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 102.2,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 184.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 103.8,
     "lat": 39.87935,
     "lng": 116.3736
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-朱雀门",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 145.2,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 168.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 117.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 123.0,
     "lat": 39.869547,
     "lng": 116.386319
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥南里",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 91.8,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 110.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 104.2,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-太平街",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 126.9,
     "lat": 39.878124,
     "lng": 116.380816
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-盛景嘉园",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 106.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 152.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-红土店南里",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 92.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-儒福里",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 124.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 109.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 141.1,
     "lat": 39.878449,
     "lng": 116.388181
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 122.6,
     "lat": 39.878449,
     "lng": 116.388181
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 128.8,
     "lat": 39.882583,
     "lng": 116.378308
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:23",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 131.9,
     "lat": 39.882583,
     "lng": 116.378308
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 127.6,
     "lat": 39.87935,
     "lng": 116.3736
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 121.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-太平街",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 127.1,
     "lat": 39.878124,
     "lng": 116.380816
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信禧园",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 176.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 151.8,
     "lat": 39.869547,
     "lng": 116.386319
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-高家寨",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 102.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-先农坛街甲",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 105.1,
     "lat": 39.871277,
     "lng": 116.387208
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 183.5,
     "lat": 39.882583,
     "lng": 116.378308
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信沁园",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 177.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-盛景嘉园",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 115.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-龙泉胡同",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 113.3,
     "lat": 39.875336,
     "lng": 116.375168
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-陶然亭路",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 105.5,
     "lat": 39.877529,
     "lng": 116.372494
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 127.8,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 124.6,
     "lat": 39.882583,
     "lng": 116.378308
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-陶然北岸",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 152.6,
     "lat": 39.870206,
     "lng": 116.373898
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 128.4,
     "lat": 39.869547,
     "lng": 116.386319
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 123.4,
     "lat": 39.882583,
     "lng": 116.378308
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 103.5,
     "lat": 39.87935,
     "lng": 116.3736
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街头条",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 141.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 98.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信沁园",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 178.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:26",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 119.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信禧园",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 165.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 102.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-富力信然庭",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 143.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥南里",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 115.8,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 132.8,
     "lat": 39.878449,
     "lng": 116.388181
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂东街",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 119.2,
     "lat": 39.880189,
     "lng": 116.37634
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-朱雀门",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 170.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "东城区-陶然亭-中海紫御公馆",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 133.8,
     "lat": 39.869547,
     "lng": 116.386319
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 149.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 128.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-太平街",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 118.9,
     "lat": 39.878124,
     "lng": 116.380816
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-禄长街头条",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 125.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中海都阙台",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 223.2,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-耕天下",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 145.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 97.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信沁园",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 165.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 117.6,
     "lat": 39.878449,
     "lng": 116.388181
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-陶然北岸",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 161.8,
     "lat": 39.870206,
     "lng": 116.373898
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-万明路",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 113.3,
     "lat": 39.886756,
     "lng": 116.384098
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-东经路",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 108.5,
     "lat": 39.878258,
     "lng": 116.386368
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-双柳树头条",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 124.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信沁园",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 166.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南华东街",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 103.7,
     "lat": 39.880127,
     "lng": 116.379887
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 142.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信沁园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 179.2,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 188.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信禧园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 185.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 96.4,
     "lat": 39.87935,
     "lng": 116.3736
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 121.7,
     "lat": 39.882583,
     "lng": 116.378308
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-骡马市大街",
     "scraped_at": "2026-05-02 20:11:30",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 117.7,
     "lat": 39.887435,
     "lng": 116.372741
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-红土店南里",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 145.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-一瓶",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 139.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-红土店南里",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 100.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 131.2,
     "lat": 39.878449,
     "lng": 116.388181
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 114.3,
     "lat": 39.878989,
     "lng": 116.383378
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信禧园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 202.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-骡马市大街",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 118.8,
     "lat": 39.887435,
     "lng": 116.372741
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 106.8,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-姚家井二巷",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 120.3,
     "lat": 39.873419,
     "lng": 116.369751
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 108.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 132.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂西里",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 146.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-北纬路",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 103.3,
     "lat": 39.877092,
     "lng": 116.368125
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信禧园",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 188.6,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 109.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-万明路",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 111.4,
     "lat": 39.886756,
     "lng": 116.384098
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中海都阙台",
     "scraped_at": "2026-05-02 20:11:33",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 211.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂西里",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 171.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 100.3,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 93.2,
     "lat": 39.87935,
     "lng": 116.3736
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-盛景嘉园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 142.0,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 162.2,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信禧园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 190.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 93.5,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 115.2,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 98.9,
     "lat": 39.882583,
     "lng": 116.378308
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-富力信然庭",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 142.8,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥南里",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 112.1,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-黑窑厂西里",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 129.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 96.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 136.1,
     "lat": 39.882583,
     "lng": 116.378308
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-永安路小区",
     "scraped_at": "2026-05-02 20:11:37",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 85.0,
     "lat": 40.208476,
     "lng": 116.228328
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-陶然北岸",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 125.4,
     "lat": 39.870206,
     "lng": 116.373898
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-灵佑胡同",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 91.4,
     "lat": 39.877092,
     "lng": 116.368125
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 114.1,
     "lat": 39.882583,
     "lng": 116.378308
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-畅柳园",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 102.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-四平园",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 108.6,
     "lat": 39.87935,
     "lng": 116.3736
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-南纬路",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 105.3,
     "lat": 39.878989,
     "lng": 116.383378
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-中信锦园",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 161.7,
     "lat": 39.885041,
     "lng": 116.370622
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 101.5,
     "lat": 39.882583,
     "lng": 116.378308
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥北里",
     "scraped_at": "2026-05-02 20:11:40",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 91.4,
     "lat": 39.885041,
     "lng": 116.370622
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-三四零一小区",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 114.9,
     "lat": 39.885041,
     "lng": 116.370622
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-虎坊路小区",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 136.1,
     "lat": 39.882583,
     "lng": 116.378308
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "西城区-陶然亭-天桥南里",
     "scraped_at": "2026-05-02 20:12:02",
-    "region": "taoranting1",
+    "region": "陶然亭",
     "unit_price": 96.9,
     "lat": 39.885041,
     "lng": 116.370622

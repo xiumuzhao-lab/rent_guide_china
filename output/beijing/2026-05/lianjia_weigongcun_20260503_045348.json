@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-魏公村佳苑",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 141.4,
     "lat": 40.032916,
     "lng": 116.264658
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-中央社会主义学院宿舍",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 108.5,
     "lat": 39.952786,
     "lng": 116.311308
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-民族大学南路",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 180.3,
     "lat": 39.946106,
     "lng": 116.310348
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-北外东院",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 133.3,
     "lat": 39.953977,
     "lng": 116.311348
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-北京理工大学家属区",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 138.0,
     "lat": 39.959232,
     "lng": 116.313029
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-鑫德嘉园",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 130.9,
     "lat": 39.948016,
     "lng": 116.311448
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-私摩空间",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 144.3,
     "lat": 39.954592,
     "lng": 116.313824
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-民族大学南路",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 103.9,
     "lat": 39.945616,
     "lng": 116.310616
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-魏公村佳苑",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 151.8,
     "lat": 40.032916,
     "lng": 116.264658
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-韦伯豪家园",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 131.2,
     "lat": 39.953378,
     "lng": 116.313771
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-民族大学南路",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 134.6,
     "lat": 39.954415,
     "lng": 116.311596
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-魏公村小区",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 163.9,
     "lat": 39.952046,
     "lng": 116.311218
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-北京理工大学家属区",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 175.0,
     "lat": 39.959232,
     "lng": 116.313029
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-韦伯豪家园",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 133.0,
     "lat": 39.953378,
     "lng": 116.313771
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-北京理工大学家属区",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 117.7,
     "lat": 39.959232,
     "lng": 116.313029
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-韦伯豪家园",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 99.8,
     "lat": 39.953378,
     "lng": 116.313771
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-魏公村",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 128.8,
     "lat": 39.954592,
     "lng": 116.313824
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-民族大学西路",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 120.6,
     "lat": 39.949059,
     "lng": 116.31153
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-私摩空间",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 144.7,
     "lat": 39.954592,
     "lng": 116.313824
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-魏公村佳苑",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 159.6,
     "lat": 40.032916,
     "lng": 116.264658
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-魏公村佳苑",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 145.2,
     "lat": 40.032916,
     "lng": 116.264658
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-法华寺小区",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 122.8,
     "lat": 39.949686,
     "lng": 116.311078
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-私摩空间",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 153.1,
     "lat": 39.954592,
     "lng": 116.313824
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-韦伯豪家园",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 130.1,
     "lat": 39.953378,
     "lng": 116.313771
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-私摩空间",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 131.5,
     "lat": 39.954592,
     "lng": 116.313824
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-魏公村佳苑",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 140.5,
     "lat": 40.032916,
     "lng": 116.264658
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-北京理工大学家属区",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 136.1,
     "lat": 39.959232,
     "lng": 116.313029
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-民族大学附属中学家属楼",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 105.1,
     "lat": 39.954415,
     "lng": 116.311596
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-北京理工大学家属区",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 169.2,
     "lat": 39.959232,
     "lng": 116.313029
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "海淀区-魏公村-万寿寺甲",
     "scraped_at": "2026-05-02 21:56:46",
-    "region": "weigongcun",
+    "region": "魏公村",
     "unit_price": 162.2,
     "lat": 39.954592,
     "lng": 116.313824

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.8,
     "lat": 39.889776,
     "lng": 116.463068
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.8,
     "lat": 39.893626,
     "lng": 116.459768
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.3,
     "lat": 39.889776,
     "lng": 116.463068
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 89.6,
     "lat": 39.898598,
     "lng": 116.463
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 73.1,
     "lat": 39.897806,
     "lng": 116.453825
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 90.5,
     "lat": 39.896204,
     "lng": 116.464005
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.1,
     "lat": 39.894851,
     "lng": 116.44865
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 90.4,
     "lat": 39.896204,
     "lng": 116.464005
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 67.1,
     "lat": 39.889376,
     "lng": 116.457248
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力十号",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 404.6,
     "lat": 39.894851,
     "lng": 116.44865
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.5,
     "lat": 39.889776,
     "lng": 116.463068
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 70.2,
     "lat": 39.892332,
     "lng": 116.462496
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 93.5,
     "lat": 39.892472,
     "lng": 116.472119
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 116.9,
     "lat": 39.892472,
     "lng": 116.472119
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 176.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力十号",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 469.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.5,
     "lat": 39.889776,
     "lng": 116.463068
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 116.1,
     "lat": 39.894851,
     "lng": 116.44865
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.7,
     "lat": 39.898598,
     "lng": 116.463
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.1,
     "lat": 39.894851,
     "lng": 116.44865
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 69.5,
     "lat": 39.897806,
     "lng": 116.453825
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 92.5,
     "lat": 39.889776,
     "lng": 116.463068
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 97.2,
     "lat": 39.898598,
     "lng": 116.463
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 91.3,
     "lat": 39.898598,
     "lng": 116.463
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-世桥国贸",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 98.0,
     "lat": 39.895774,
     "lng": 116.445502
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 160.1,
     "lat": 39.894851,
     "lng": 116.44865
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井东院",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 91.3,
     "lat": 39.892596,
     "lng": 116.457968
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 98.9,
     "lat": 39.889776,
     "lng": 116.463068
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:32",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 185.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-天之骄子",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 93.8,
     "lat": 39.895774,
     "lng": 116.445502
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-广渠门外大街路北区",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.6,
     "lat": 39.892958,
     "lng": 116.449826
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.9,
     "lat": 39.895774,
     "lng": 116.445502
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 111.8,
     "lat": 39.892472,
     "lng": 116.472119
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 68.1,
     "lat": 39.892332,
     "lng": 116.462496
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.1,
     "lat": 39.897806,
     "lng": 116.453825
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.4,
     "lat": 39.889776,
     "lng": 116.463068
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里二区",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.0,
     "lat": 39.897806,
     "lng": 116.453825
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 86.2,
     "lat": 39.895774,
     "lng": 116.445502
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 87.1,
     "lat": 39.896204,
     "lng": 116.464005
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 92.5,
     "lat": 39.889776,
     "lng": 116.463068
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.6,
     "lat": 39.892472,
     "lng": 116.472119
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.0,
     "lat": 39.892332,
     "lng": 116.462496
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.9,
     "lat": 39.889776,
     "lng": 116.463068
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.6,
     "lat": 39.895774,
     "lng": 116.445502
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 98.6,
     "lat": 39.896204,
     "lng": 116.464005
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 114.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 102.9,
     "lat": 39.898598,
     "lng": 116.463
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际中心",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.9,
     "lat": 39.889776,
     "lng": 116.463068
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 79.0,
     "lat": 39.898598,
     "lng": 116.463
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.3,
     "lat": 39.898598,
     "lng": 116.463
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 115.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.0,
     "lat": 39.896204,
     "lng": 116.464005
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.0,
     "lat": 39.896204,
     "lng": 116.464005
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 99.0,
     "lat": 39.896204,
     "lng": 116.464005
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 92.9,
     "lat": 39.896204,
     "lng": 116.464005
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 99.0,
     "lat": 39.896204,
     "lng": 116.464005
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.9,
     "lat": 39.896204,
     "lng": 116.464005
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井东院",
     "scraped_at": "2026-05-02 20:59:36",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 131.6,
     "lat": 39.892596,
     "lng": 116.457968
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 133.5,
     "lat": 39.892453,
     "lng": 116.454314
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 98.8,
     "lat": 39.897806,
     "lng": 116.453825
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 120.6,
     "lat": 39.892453,
     "lng": 116.454314
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 116.0,
     "lat": 39.895774,
     "lng": 116.445502
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 115.7,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 116.9,
     "lat": 39.896204,
     "lng": 116.464005
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.0,
     "lat": 39.892472,
     "lng": 116.472119
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 74.1,
     "lat": 39.889376,
     "lng": 116.457248
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.4,
     "lat": 39.897806,
     "lng": 116.453825
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 90.4,
     "lat": 39.889376,
     "lng": 116.457248
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-天之骄子",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 90.9,
     "lat": 39.895774,
     "lng": 116.445502
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 114.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.5,
     "lat": 39.889776,
     "lng": 116.463068
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.4,
     "lat": 39.897806,
     "lng": 116.453825
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井东院",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 103.5,
     "lat": 39.892596,
     "lng": 116.457968
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 99.4,
     "lat": 39.898598,
     "lng": 116.463
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.7,
     "lat": 39.889776,
     "lng": 116.463068
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 124.7,
     "lat": 39.892453,
     "lng": 116.454314
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.7,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里二区",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 92.0,
     "lat": 39.897806,
     "lng": 116.453825
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 114.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 113.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 124.8,
     "lat": 39.893626,
     "lng": 116.459768
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 111.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 112.8,
     "lat": 39.897806,
     "lng": 116.453825
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.7,
     "lat": 39.889776,
     "lng": 116.463068
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 78.3,
     "lat": 39.889376,
     "lng": 116.457248
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.6,
     "lat": 39.892332,
     "lng": 116.462496
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-怡馨园",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 85.4,
     "lat": 39.895774,
     "lng": 116.445502
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 20:59:39",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.2,
     "lat": 39.892472,
     "lng": 116.472119
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 115.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 98.7,
     "lat": 39.896204,
     "lng": 116.464005
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-乐成国际",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 110.2,
     "lat": 39.893137,
     "lng": 116.456501
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-天之骄子",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.4,
     "lat": 39.895774,
     "lng": 116.445502
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 128.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 88.1,
     "lat": 39.889376,
     "lng": 116.457248
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 114.5,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-世桥国贸",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 103.4,
     "lat": 39.895774,
     "lng": 116.445502
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 123.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 99.3,
     "lat": 39.889776,
     "lng": 116.463068
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-天之骄子",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 108.6,
     "lat": 39.895774,
     "lng": 116.445502
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井北里",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 119.6,
     "lat": 39.897806,
     "lng": 116.453825
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 71.5,
     "lat": 39.895774,
     "lng": 116.445502
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.6,
     "lat": 39.889776,
     "lng": 116.463068
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 89.6,
     "lat": 39.898598,
     "lng": 116.463
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 87.8,
     "lat": 39.889376,
     "lng": 116.457248
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井黄木厂",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 83.0,
     "lat": 39.897806,
     "lng": 116.453825
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 110.6,
     "lat": 39.892472,
     "lng": 116.472119
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 98.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 67.2,
     "lat": 39.892332,
     "lng": 116.462496
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.6,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:43",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 125.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 77.1,
     "lat": 39.892332,
     "lng": 116.462496
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-怡馨园",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 66.2,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 127.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 74.6,
     "lat": 39.892332,
     "lng": 116.462496
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.5,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 86.1,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 43.9,
     "lat": 39.897806,
     "lng": 116.453825
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 140.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 80.0,
     "lat": 39.897806,
     "lng": 116.453825
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.6,
     "lat": 39.889776,
     "lng": 116.463068
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 138.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 109.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 103.0,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 116.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 75.5,
     "lat": 39.892332,
     "lng": 116.462496
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 102.2,
     "lat": 39.889776,
     "lng": 116.463068
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 129.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-天之骄子",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 82.6,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.2,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 143.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-乐成国际",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 92.6,
     "lat": 39.893137,
     "lng": 116.456501
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-乐成国际",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 116.8,
     "lat": 39.893137,
     "lng": 116.456501
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 143.6,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 78.9,
     "lat": 39.897806,
     "lng": 116.453825
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 92.4,
     "lat": 39.898598,
     "lng": 116.463
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.2,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 149.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 86.1,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 110.4,
     "lat": 39.896204,
     "lng": 116.464005
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 20:59:47",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.8,
     "lat": 39.898598,
     "lng": 116.463
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-非常生活",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 130.8,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 134.7,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东环",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.0,
     "lat": 39.890146,
     "lng": 116.454778
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.0,
     "lat": 39.889776,
     "lng": 116.463068
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 167.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 108.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 175.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 126.9,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 65.6,
     "lat": 39.897806,
     "lng": 116.453825
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 110.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.3,
     "lat": 39.895774,
     "lng": 116.445502
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.5,
     "lat": 39.893626,
     "lng": 116.459768
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.6,
     "lat": 39.893626,
     "lng": 116.459768
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 132.8,
     "lat": 39.892453,
     "lng": 116.454314
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 97.0,
     "lat": 39.889776,
     "lng": 116.463068
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 20:59:49",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.9,
     "lat": 39.893626,
     "lng": 116.459768
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.3,
     "lat": 39.898598,
     "lng": 116.463
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 140.6,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.1,
     "lat": 39.889776,
     "lng": 116.463068
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 116.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.6,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 99.4,
     "lat": 39.897806,
     "lng": 116.453825
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 139.1,
     "lat": 39.893626,
     "lng": 116.459768
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 131.0,
     "lat": 39.896204,
     "lng": 116.464005
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.4,
     "lat": 39.898598,
     "lng": 116.463
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东环",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.6,
     "lat": 39.890146,
     "lng": 116.454778
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 135.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 124.6,
     "lat": 39.892472,
     "lng": 116.472119
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 138.5,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里一区",
     "scraped_at": "2026-05-02 21:00:16",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 66.0,
     "lat": 39.897806,
     "lng": 116.453825
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.4,
     "lat": 39.889776,
     "lng": 116.463068
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 118.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 169.0,
     "lat": 39.898598,
     "lng": 116.463
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井东院",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 148.6,
     "lat": 39.892596,
     "lng": 116.457968
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-广渠门外大街路北区",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.3,
     "lat": 39.892958,
     "lng": 116.449826
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 78.8,
     "lat": 39.892332,
     "lng": 116.462496
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里一区",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 80.6,
     "lat": 39.897806,
     "lng": 116.453825
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 137.6,
     "lat": 39.893626,
     "lng": 116.459768
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 169.6,
     "lat": 39.893626,
     "lng": 116.459768
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 135.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 83.0,
     "lat": 39.895774,
     "lng": 116.445502
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.8,
     "lat": 39.895774,
     "lng": 116.445502
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 149.2,
     "lat": 39.895774,
     "lng": 116.445502
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.7,
     "lat": 39.896204,
     "lng": 116.464005
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-怡馨园",
     "scraped_at": "2026-05-02 21:00:22",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 73.0,
     "lat": 39.895774,
     "lng": 116.445502
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 118.1,
     "lat": 39.889776,
     "lng": 116.463068
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 107.1,
     "lat": 39.889776,
     "lng": 116.463068
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 75.6,
     "lat": 39.889376,
     "lng": 116.457248
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 159.1,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 123.2,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-乐成国际",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 119.4,
     "lat": 39.893137,
     "lng": 116.456501
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 118.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 87.0,
     "lat": 39.896204,
     "lng": 116.464005
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东环",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 99.6,
     "lat": 39.890146,
     "lng": 116.454778
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 113.0,
     "lat": 39.896204,
     "lng": 116.464005
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.9,
     "lat": 39.896204,
     "lng": 116.464005
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井北里",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.5,
     "lat": 39.897806,
     "lng": 116.453825
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际中心",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 125.4,
     "lat": 39.889776,
     "lng": 116.463068
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 82.6,
     "lat": 39.895774,
     "lng": 116.445502
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 125.3,
     "lat": 39.892453,
     "lng": 116.454314
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东三环南路",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 120.2,
     "lat": 39.889746,
     "lng": 116.454718
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 99.0,
     "lat": 39.895774,
     "lng": 116.445502
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 85.1,
     "lat": 39.892332,
     "lng": 116.462496
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.4,
     "lat": 39.893626,
     "lng": 116.459768
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:00:25",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 102.2,
     "lat": 39.892472,
     "lng": 116.472119
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.5,
     "lat": 39.889776,
     "lng": 116.463068
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 97.0,
     "lat": 39.889776,
     "lng": 116.463068
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东三环南路",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 127.9,
     "lat": 39.889746,
     "lng": 116.454718
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 77.5,
     "lat": 39.892332,
     "lng": 116.462496
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 140.5,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:00:53",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.4,
     "lat": 39.889776,
     "lng": 116.463068
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-天之骄子",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 86.4,
     "lat": 39.895774,
     "lng": 116.445502
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 129.6,
     "lat": 39.893626,
     "lng": 116.459768
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 149.5,
     "lat": 39.898598,
     "lng": 116.463
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 130.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 85.0,
     "lat": 39.889376,
     "lng": 116.457248
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 115.1,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-乐成国际",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.6,
     "lat": 39.893137,
     "lng": 116.456501
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里一区",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 68.9,
     "lat": 39.897806,
     "lng": 116.453825
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.6,
     "lat": 39.897806,
     "lng": 116.453825
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 90.4,
     "lat": 39.897806,
     "lng": 116.453825
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 116.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.1,
     "lat": 39.897806,
     "lng": 116.453825
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 130.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 91.7,
     "lat": 39.889376,
     "lng": 116.457248
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 119.0,
     "lat": 39.893626,
     "lng": 116.459768
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 121.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 114.1,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 97.8,
     "lat": 39.889776,
     "lng": 116.463068
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 131.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 122.7,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 98.0,
     "lat": 39.898598,
     "lng": 116.463
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.3,
     "lat": 39.896204,
     "lng": 116.464005
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 136.9,
     "lat": 39.898598,
     "lng": 116.463
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.5,
     "lat": 39.892472,
     "lng": 116.472119
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 75.5,
     "lat": 39.895774,
     "lng": 116.445502
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 141.6,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 132.6,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 124.6,
     "lat": 39.892453,
     "lng": 116.454314
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里二区",
     "scraped_at": "2026-05-02 21:01:05",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 99.1,
     "lat": 39.897806,
     "lng": 116.453825
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里一区",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 70.3,
     "lat": 39.897806,
     "lng": 116.453825
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 134.9,
     "lat": 39.893626,
     "lng": 116.459768
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东三环南路",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 128.3,
     "lat": 39.889746,
     "lng": 116.454718
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 173.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 74.6,
     "lat": 39.898598,
     "lng": 116.463
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 155.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.7,
     "lat": 39.892332,
     "lng": 116.462496
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-广渠门外大街路北区",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 89.8,
     "lat": 39.892958,
     "lng": 116.449826
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井北里",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 103.5,
     "lat": 39.897806,
     "lng": 116.453825
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 110.8,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东环",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 99.7,
     "lat": 39.890146,
     "lng": 116.454778
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 148.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 107.1,
     "lat": 39.889776,
     "lng": 116.463068
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 138.5,
     "lat": 39.898598,
     "lng": 116.463
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.0,
     "lat": 39.893626,
     "lng": 116.459768
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 155.4,
     "lat": 39.893626,
     "lng": 116.459768
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里一区",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 72.7,
     "lat": 39.897806,
     "lng": 116.453825
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 109.8,
     "lat": 39.889776,
     "lng": 116.463068
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 86.2,
     "lat": 39.897806,
     "lng": 116.453825
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井东院",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 132.7,
     "lat": 39.892596,
     "lng": 116.457968
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.8,
     "lat": 39.898598,
     "lng": 116.463
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.9,
     "lat": 39.895774,
     "lng": 116.445502
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 121.7,
     "lat": 39.896204,
     "lng": 116.464005
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 77.2,
     "lat": 39.889376,
     "lng": 116.457248
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 111.1,
     "lat": 39.896204,
     "lng": 116.464005
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 152.3,
     "lat": 39.893626,
     "lng": 116.459768
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 115.6,
     "lat": 39.895774,
     "lng": 116.445502
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 134.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.1,
     "lat": 39.889776,
     "lng": 116.463068
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-天之骄子",
     "scraped_at": "2026-05-02 21:01:09",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 91.8,
     "lat": 39.895774,
     "lng": 116.445502
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 129.5,
     "lat": 39.894851,
     "lng": 116.44865
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.3,
     "lat": 39.889776,
     "lng": 116.463068
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井东院",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 125.0,
     "lat": 39.892596,
     "lng": 116.457968
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 128.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 137.1,
     "lat": 39.895774,
     "lng": 116.445502
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 146.2,
     "lat": 39.898598,
     "lng": 116.463
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 97.9,
     "lat": 39.889776,
     "lng": 116.463068
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 93.9,
     "lat": 39.898598,
     "lng": 116.463
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.5,
     "lat": 39.895774,
     "lng": 116.445502
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 121.7,
     "lat": 39.894851,
     "lng": 116.44865
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 83.8,
     "lat": 39.895774,
     "lng": 116.445502
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.1,
     "lat": 39.889776,
     "lng": 116.463068
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 82.1,
     "lat": 39.898598,
     "lng": 116.463
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里一区",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 90.9,
     "lat": 39.897806,
     "lng": 116.453825
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 147.6,
     "lat": 39.894851,
     "lng": 116.44865
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:14",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.1,
     "lat": 39.889776,
     "lng": 116.463068
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 88.9,
     "lat": 39.895774,
     "lng": 116.445502
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 106.2,
     "lat": 39.894851,
     "lng": 116.44865
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 78.1,
     "lat": 39.895774,
     "lng": 116.445502
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 113.3,
     "lat": 39.896204,
     "lng": 116.464005
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 118.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 138.5,
     "lat": 39.894851,
     "lng": 116.44865
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-乐成国际",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 118.0,
     "lat": 39.893137,
     "lng": 116.456501
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 109.5,
     "lat": 39.896204,
     "lng": 116.464005
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-广渠门外大街路北区",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 121.0,
     "lat": 39.892958,
     "lng": 116.449826
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 73.9,
     "lat": 39.898598,
     "lng": 116.463
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 93.9,
     "lat": 39.889776,
     "lng": 116.463068
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 71.1,
     "lat": 39.889376,
     "lng": 116.457248
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 76.3,
     "lat": 39.892332,
     "lng": 116.462496
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里一区",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 79.2,
     "lat": 39.897806,
     "lng": 116.453825
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 69.9,
     "lat": 39.892332,
     "lng": 116.462496
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 90.1,
     "lat": 39.893626,
     "lng": 116.459768
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.8,
     "lat": 39.889376,
     "lng": 116.457248
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 121.8,
     "lat": 39.892472,
     "lng": 116.472119
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 112.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 115.9,
     "lat": 39.893626,
     "lng": 116.459768
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:01:19",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.0,
     "lat": 39.892332,
     "lng": 116.462496
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 89.4,
     "lat": 39.895774,
     "lng": 116.445502
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.9,
     "lat": 39.897806,
     "lng": 116.453825
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 116.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 81.2,
     "lat": 39.892332,
     "lng": 116.462496
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.8,
     "lat": 39.898598,
     "lng": 116.463
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 118.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-广渠门外大街路北区",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 87.3,
     "lat": 39.892958,
     "lng": 116.449826
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 112.7,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里二区",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 93.2,
     "lat": 39.897806,
     "lng": 116.453825
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 97.6,
     "lat": 39.898598,
     "lng": 116.463
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 112.7,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东环",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 87.1,
     "lat": 39.890146,
     "lng": 116.454778
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 90.8,
     "lat": 39.897806,
     "lng": 116.453825
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 91.6,
     "lat": 39.896204,
     "lng": 116.464005
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.9,
     "lat": 39.892332,
     "lng": 116.462496
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 110.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 118.4,
     "lat": 39.895774,
     "lng": 116.445502
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-怡馨园",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 79.9,
     "lat": 39.895774,
     "lng": 116.445502
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 132.2,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 77.9,
     "lat": 39.898598,
     "lng": 116.463
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 111.2,
     "lat": 39.896204,
     "lng": 116.464005
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.0,
     "lat": 39.896204,
     "lng": 116.464005
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 108.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 88.2,
     "lat": 39.889376,
     "lng": 116.457248
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 109.5,
     "lat": 39.893626,
     "lng": 116.459768
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 121.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.7,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 86.1,
     "lat": 39.892332,
     "lng": 116.462496
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:24",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 85.7,
     "lat": 39.897806,
     "lng": 116.453825
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 135.9,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 102.9,
     "lat": 39.898598,
     "lng": 116.463
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 102.0,
     "lat": 39.897806,
     "lng": 116.453825
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 98.4,
     "lat": 39.895774,
     "lng": 116.445502
@@ -6606,7 +6606,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 102.0,
     "lat": 39.897806,
     "lng": 116.453825
@@ -6625,7 +6625,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 117.3,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6644,7 +6644,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.6,
     "lat": 39.895774,
     "lng": 116.445502
@@ -6663,7 +6663,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 131.0,
     "lat": 39.892472,
     "lng": 116.472119
@@ -6682,7 +6682,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.1,
     "lat": 39.897806,
     "lng": 116.453825
@@ -6701,7 +6701,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 129.5,
     "lat": 39.889776,
     "lng": 116.463068
@@ -6720,7 +6720,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 111.8,
     "lat": 39.889776,
     "lng": 116.463068
@@ -6739,7 +6739,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 115.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6758,7 +6758,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东环",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.8,
     "lat": 39.890146,
     "lng": 116.454778
@@ -6777,7 +6777,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 126.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6796,7 +6796,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 86.2,
     "lat": 39.895774,
     "lng": 116.445502
@@ -6815,7 +6815,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-非常生活",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.8,
     "lat": 39.895774,
     "lng": 116.445502
@@ -6834,7 +6834,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.7,
     "lat": 39.897806,
     "lng": 116.453825
@@ -6853,7 +6853,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-非常生活",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 131.7,
     "lat": 39.895774,
     "lng": 116.445502
@@ -6872,7 +6872,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:27",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 121.8,
     "lat": 39.889776,
     "lng": 116.463068
@@ -6891,7 +6891,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.0,
     "lat": 39.889776,
     "lng": 116.463068
@@ -6910,7 +6910,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 114.7,
     "lat": 39.894851,
     "lng": 116.44865
@@ -6929,7 +6929,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-广渠路",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 93.4,
     "lat": 39.892655,
     "lng": 116.467777
@@ -6948,7 +6948,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.8,
     "lat": 39.892472,
     "lng": 116.472119
@@ -6967,7 +6967,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井北里",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 82.3,
     "lat": 39.897806,
     "lng": 116.453825
@@ -6986,7 +6986,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 122.3,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7005,7 +7005,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 124.8,
     "lat": 39.893626,
     "lng": 116.459768
@@ -7024,7 +7024,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 137.6,
     "lat": 39.893626,
     "lng": 116.459768
@@ -7043,7 +7043,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.7,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7062,7 +7062,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:01:33",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 131.0,
     "lat": 39.892472,
     "lng": 116.472119
@@ -7081,7 +7081,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 93.4,
     "lat": 39.896204,
     "lng": 116.464005
@@ -7100,7 +7100,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 85.4,
     "lat": 39.897806,
     "lng": 116.453825
@@ -7119,7 +7119,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 128.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -7138,7 +7138,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 140.5,
     "lat": 39.893626,
     "lng": 116.459768
@@ -7157,7 +7157,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 89.2,
     "lat": 39.895774,
     "lng": 116.445502
@@ -7176,7 +7176,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -7195,7 +7195,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 112.2,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7214,7 +7214,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 109.4,
     "lat": 39.894851,
     "lng": 116.44865
@@ -7233,7 +7233,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里一区",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 62.1,
     "lat": 39.897806,
     "lng": 116.453825
@@ -7252,7 +7252,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 146.8,
     "lat": 39.893626,
     "lng": 116.459768
@@ -7271,7 +7271,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 123.7,
     "lat": 39.894851,
     "lng": 116.44865
@@ -7290,7 +7290,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 110.6,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7309,7 +7309,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东三环南路",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 93.8,
     "lat": 39.889746,
     "lng": 116.454718
@@ -7328,7 +7328,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 109.6,
     "lat": 39.896204,
     "lng": 116.464005
@@ -7347,7 +7347,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 137.8,
     "lat": 39.892472,
     "lng": 116.472119
@@ -7366,7 +7366,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 129.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -7385,7 +7385,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:02:08",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.8,
     "lat": 39.892332,
     "lng": 116.462496
@@ -7404,7 +7404,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 113.7,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7423,7 +7423,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.3,
     "lat": 39.893626,
     "lng": 116.459768
@@ -7442,7 +7442,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园南里一区",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 69.5,
     "lat": 39.897806,
     "lng": 116.453825
@@ -7461,7 +7461,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 105.3,
     "lat": 39.892472,
     "lng": 116.472119
@@ -7480,7 +7480,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 122.2,
     "lat": 39.894851,
     "lng": 116.44865
@@ -7499,7 +7499,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 111.0,
     "lat": 39.894851,
     "lng": 116.44865
@@ -7518,7 +7518,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 112.2,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7537,7 +7537,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 78.1,
     "lat": 39.892332,
     "lng": 116.462496
@@ -7556,7 +7556,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 84.9,
     "lat": 39.896204,
     "lng": 116.464005
@@ -7575,7 +7575,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-广渠路",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 81.6,
     "lat": 39.892655,
     "lng": 116.467777
@@ -7594,7 +7594,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 90.5,
     "lat": 39.889376,
     "lng": 116.457248
@@ -7613,7 +7613,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 85.3,
     "lat": 39.889376,
     "lng": 116.457248
@@ -7632,7 +7632,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 92.6,
     "lat": 39.898598,
     "lng": 116.463
@@ -7651,7 +7651,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 109.6,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7670,7 +7670,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-广馨居",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 73.0,
     "lat": 39.892655,
     "lng": 116.467777
@@ -7689,7 +7689,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-华腾园",
     "scraped_at": "2026-05-02 21:02:15",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.1,
     "lat": 39.895774,
     "lng": 116.445502
@@ -7708,7 +7708,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 107.6,
     "lat": 39.894851,
     "lng": 116.44865
@@ -7727,7 +7727,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 137.1,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7746,7 +7746,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.3,
     "lat": 39.895774,
     "lng": 116.445502
@@ -7765,7 +7765,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 113.4,
     "lat": 39.893626,
     "lng": 116.459768
@@ -7784,7 +7784,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 107.6,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7803,7 +7803,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 86.8,
     "lat": 39.892472,
     "lng": 116.472119
@@ -7822,7 +7822,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 131.0,
     "lat": 39.892472,
     "lng": 116.472119
@@ -7841,7 +7841,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 103.2,
     "lat": 39.896204,
     "lng": 116.464005
@@ -7860,7 +7860,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 107.5,
     "lat": 39.897806,
     "lng": 116.453825
@@ -7879,7 +7879,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.6,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7898,7 +7898,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 98.6,
     "lat": 39.892472,
     "lng": 116.472119
@@ -7917,7 +7917,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.0,
     "lat": 39.889776,
     "lng": 116.463068
@@ -7936,7 +7936,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 70.9,
     "lat": 39.898598,
     "lng": 116.463
@@ -7955,7 +7955,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 63.8,
     "lat": 39.898598,
     "lng": 116.463
@@ -7974,7 +7974,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井东院",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 115.1,
     "lat": 39.892596,
     "lng": 116.457968
@@ -7993,7 +7993,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 92.8,
     "lat": 39.889376,
     "lng": 116.457248
@@ -8012,7 +8012,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 154.5,
     "lat": 39.893626,
     "lng": 116.459768
@@ -8031,7 +8031,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井东院",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 104.0,
     "lat": 39.892596,
     "lng": 116.457968
@@ -8050,7 +8050,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-合生国际花园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 108.2,
     "lat": 39.892472,
     "lng": 116.472119
@@ -8069,7 +8069,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 96.2,
     "lat": 39.889376,
     "lng": 116.457248
@@ -8088,7 +8088,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:20",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 100.3,
     "lat": 39.889776,
     "lng": 116.463068
@@ -8107,7 +8107,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 113.5,
     "lat": 39.894851,
     "lng": 116.44865
@@ -8126,7 +8126,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.7,
     "lat": 39.889376,
     "lng": 116.457248
@@ -8145,7 +8145,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-时代国际嘉园",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 111.4,
     "lat": 39.893626,
     "lng": 116.459768
@@ -8164,7 +8164,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区南区",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 80.4,
     "lat": 39.896204,
     "lng": 116.464005
@@ -8183,7 +8183,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-首城国际",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 95.9,
     "lat": 39.889776,
     "lng": 116.463068
@@ -8202,7 +8202,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-百环家园",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.5,
     "lat": 39.889376,
     "lng": 116.457248
@@ -8221,7 +8221,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双花园西里",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.3,
     "lat": 39.897806,
     "lng": 116.453825
@@ -8240,7 +8240,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-苹果社区北区",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 94.6,
     "lat": 39.898598,
     "lng": 116.463
@@ -8259,7 +8259,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 92.3,
     "lat": 39.895774,
     "lng": 116.445502
@@ -8278,7 +8278,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-双井东院",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 113.8,
     "lat": 39.892596,
     "lng": 116.457968
@@ -8297,7 +8297,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-东三环南路",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 93.6,
     "lat": 39.889746,
     "lng": 116.454718
@@ -8316,7 +8316,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-九龙花园",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 101.3,
     "lat": 39.892332,
     "lng": 116.462496
@@ -8335,7 +8335,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 151.5,
     "lat": 39.894851,
     "lng": 116.44865
@@ -8354,7 +8354,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:29",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 129.2,
     "lat": 39.894851,
     "lng": 116.44865
@@ -8373,7 +8373,7 @@
     "rent_type": "整租",
     "location": "朝阳区-双井-富力城",
     "scraped_at": "2026-05-02 21:02:34",
-    "region": "shuangjing",
+    "region": "双井",
     "unit_price": 110.9,
     "lat": 39.894851,
     "lng": 116.44865

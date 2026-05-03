@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-孛旺花园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 58.7,
     "lat": 39.855568,
     "lng": 116.496822
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-燕保祈东家园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 58.8,
     "lat": 39.855568,
     "lng": 116.496822
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-双合家园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 67.2,
     "lat": 39.85802,
     "lng": 116.521148
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-金蝉里",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 88.7,
     "lat": 39.866405,
     "lng": 116.502845
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 86.6,
     "lat": 39.857876,
     "lng": 116.505787
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": "",
     "lat": 39.8732,
     "lng": 116.49541
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 75.2,
     "lat": 39.857876,
     "lng": 116.505787
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-孛旺花园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 72.9,
     "lat": 39.855568,
     "lng": 116.496822
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-垡头西里",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 51.8,
     "lat": 39.854329,
     "lng": 116.496932
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 67.6,
     "lat": 39.857876,
     "lng": 116.505787
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 61.5,
     "lat": 39.857876,
     "lng": 116.505787
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 63.3,
     "lat": 39.857876,
     "lng": 116.505787
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 69.3,
     "lat": 39.857876,
     "lng": 116.505787
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-燕保祈东家园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 58.6,
     "lat": 39.855568,
     "lng": 116.496822
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-朝阳壹号",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 80.0,
     "lat": 39.855568,
     "lng": 116.496822
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-燕保祈东家园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 57.9,
     "lat": 39.855568,
     "lng": 116.496822
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-中绿东岳府",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 80.3,
     "lat": 39.87657,
     "lng": 116.498192
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-双合家园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 72.7,
     "lat": 39.85802,
     "lng": 116.521148
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-垡头西里二区",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 63.3,
     "lat": 39.854329,
     "lng": 116.496932
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-垡头西里二区",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 71.8,
     "lat": 39.854329,
     "lng": 116.496932
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 73.9,
     "lat": 39.857876,
     "lng": 116.505787
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 57.8,
     "lat": 39.857876,
     "lng": 116.505787
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-垡头西里二区",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 70.8,
     "lat": 39.854329,
     "lng": 116.496932
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-燕保祈东家园二期",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 71.9,
     "lat": 39.850618,
     "lng": 116.53086
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-垡头北里",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 73.5,
     "lat": 39.854329,
     "lng": 116.496932
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 73.9,
     "lat": 39.857876,
     "lng": 116.505787
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-垡头-翠成馨园",
     "scraped_at": "2026-05-02 20:45:32",
-    "region": "fatou",
+    "region": "垡头",
     "unit_price": 65.4,
     "lat": 39.857876,
     "lng": 116.505787

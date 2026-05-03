@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-兴昌佳苑",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 41.8,
     "lat": 40.199566,
     "lng": 116.269098
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 46.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 41.5,
     "lat": 40.202706,
     "lng": 116.271248
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 57.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 46.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 128.0,
     "lat": 40.068446,
     "lng": 116.315628
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 46.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 63.7,
     "lat": 40.205881,
     "lng": 116.286372
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 66.1,
     "lat": 40.205881,
     "lng": 116.286372
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-兴昌佳苑",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 38.3,
     "lat": 40.199566,
     "lng": 116.269098
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.9,
     "lat": 40.204537,
     "lng": 116.275592
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 60.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 58.8,
     "lat": 40.20589,
     "lng": 116.28754
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙凤山语",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.3,
     "lat": 40.20589,
     "lng": 116.28754
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 64.2,
     "lat": 40.205881,
     "lng": 116.286372
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 49.6,
     "lat": 40.204537,
     "lng": 116.275592
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.8,
     "lat": 40.20589,
     "lng": 116.28754
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 47.8,
     "lat": 40.204537,
     "lng": 116.275592
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 51.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.4,
     "lat": 40.20589,
     "lng": 116.28754
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-长滩壹号",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 50.0,
     "lat": 40.196269,
     "lng": 116.26983
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 58.8,
     "lat": 40.205881,
     "lng": 116.286372
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-兴昌佳苑",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 39.9,
     "lat": 40.199566,
     "lng": 116.269098
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 63.5,
     "lat": 40.204537,
     "lng": 116.275592
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:34",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 49.2,
     "lat": 40.202706,
     "lng": 116.271248
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 62.3,
     "lat": 40.204537,
     "lng": 116.275592
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 46.7,
     "lat": 40.20589,
     "lng": 116.28754
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-北郡嘉源",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.7,
     "lat": 40.195964,
     "lng": 116.272238
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-金科廊桥水岸",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 69.6,
     "lat": 40.197886,
     "lng": 116.299038
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 58.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -583,7 +583,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": "",
     "lat": 40.21109,
     "lng": 116.28305
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 57.3,
     "lat": 40.20589,
     "lng": 116.28754
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-何营路回迁小区一期",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 61.2,
     "lat": 40.211326,
     "lng": 116.284248
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 72.9,
     "lat": 40.205881,
     "lng": 116.286372
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙凤山语",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-国惠村",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 49.8,
     "lat": 40.210511,
     "lng": 116.282399
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-长滩壹号",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 49.0,
     "lat": 40.196269,
     "lng": 116.26983
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.6,
     "lat": 40.204537,
     "lng": 116.275592
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-张营小区",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 40.2,
     "lat": 40.210511,
     "lng": 116.282399
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 54.8,
     "lat": 40.204537,
     "lng": 116.275592
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.9,
     "lat": 40.202706,
     "lng": 116.271248
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 59.7,
     "lat": 40.20589,
     "lng": 116.28754
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.9,
     "lat": 40.205881,
     "lng": 116.286372
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 45.2,
     "lat": 40.205881,
     "lng": 116.286372
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-张营小区",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 41.7,
     "lat": 40.210511,
     "lng": 116.282399
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 67.4,
     "lat": 40.204537,
     "lng": 116.275592
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 41.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 73.2,
     "lat": 40.202706,
     "lng": 116.271248
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-金科廊桥水岸",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 63.2,
     "lat": 40.197886,
     "lng": 116.299038
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 65.9,
     "lat": 40.20589,
     "lng": 116.28754
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 41.9,
     "lat": 40.205881,
     "lng": 116.286372
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:37",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.3,
     "lat": 40.202706,
     "lng": 116.271248
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 49.3,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 27.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-花雨汀",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 48.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山跃",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 68.6,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 45.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.8,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.8,
     "lat": 40.204537,
     "lng": 116.275592
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 50.8,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-国惠村",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.8,
     "lat": 40.210511,
     "lng": 116.282399
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 40.6,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.4,
     "lat": 40.204537,
     "lng": 116.275592
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 68.4,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-国惠村",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 48.7,
     "lat": 40.210511,
     "lng": 116.282399
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 77.1,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 62.1,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 65.5,
     "lat": 40.204537,
     "lng": 116.275592
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-国惠村",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.5,
     "lat": 40.210511,
     "lng": 116.282399
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 59.4,
     "lat": 40.202706,
     "lng": 116.271248
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.0,
     "lat": 40.204537,
     "lng": 116.275592
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 30.8,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.6,
     "lat": 40.204537,
     "lng": 116.275592
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 50.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 59.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 46.1,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 78.0,
     "lat": 40.204537,
     "lng": 116.275592
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 58.1,
     "lat": 40.202706,
     "lng": 116.271248
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 59.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:40",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 66.1,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山跃",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 60.3,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-宜山居",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 38.5,
     "lat": 40.204577,
     "lng": 116.306055
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.0,
     "lat": 40.204537,
     "lng": 116.275592
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-花雨汀",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 57.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.3,
     "lat": 40.20549,
     "lng": 116.269281
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 81.3,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 66.1,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 54.8,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-花雨汀",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 41.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-国惠村",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 44.5,
     "lat": 40.210511,
     "lng": 116.282399
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山跃",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.6,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 57.4,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 51.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-花雨汀",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 48.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 59.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 71.5,
     "lat": 40.204537,
     "lng": 116.275592
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 54.5,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 36.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 60.4,
     "lat": 40.204537,
     "lng": 116.275592
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.9,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.4,
     "lat": 40.20589,
     "lng": 116.28754
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 65.7,
     "lat": 40.205881,
     "lng": 116.286372
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-兴昌佳苑",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 42.4,
     "lat": 40.199566,
     "lng": 116.269098
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 26.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 57.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-金科廊桥水岸",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 80.9,
     "lat": 40.197886,
     "lng": 116.299038
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-花雨汀",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 61.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:43",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.5,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 59.8,
     "lat": 40.204537,
     "lng": 116.275592
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 66.0,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.2,
     "lat": 40.204537,
     "lng": 116.275592
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.3,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 58.8,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.0,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 27.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 46.5,
     "lat": 40.204537,
     "lng": 116.275592
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 70.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 62.9,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 63.6,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 61.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 69.8,
     "lat": 40.204537,
     "lng": 116.275592
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.4,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 51.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-北郡嘉源",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 43.5,
     "lat": 40.195964,
     "lng": 116.272238
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.3,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-金科廊桥水岸",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 65.4,
     "lat": 40.197886,
     "lng": 116.299038
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 69.1,
     "lat": 40.204537,
     "lng": 116.275592
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 44.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-长滩壹号",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.6,
     "lat": 40.196269,
     "lng": 116.26983
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 59.6,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-金科廊桥水岸",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 34.3,
     "lat": 40.197886,
     "lng": 116.299038
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.9,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 66.4,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 40.0,
     "lat": 40.202706,
     "lng": 116.271248
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 64.1,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 69.5,
     "lat": 40.202706,
     "lng": 116.271248
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-宜山居",
     "scraped_at": "2026-05-02 22:39:46",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 62.5,
     "lat": 40.204577,
     "lng": 116.306055
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.5,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 47.7,
     "lat": 40.204537,
     "lng": 116.275592
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-宜山居",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 47.5,
     "lat": 40.204577,
     "lng": 116.306055
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 68.0,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-长滩壹号",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 70.7,
     "lat": 40.196269,
     "lng": 116.26983
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-北郡嘉源",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.6,
     "lat": 40.195964,
     "lng": 116.272238
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 67.0,
     "lat": 40.202706,
     "lng": 116.271248
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山跃",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 75.6,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-宜山居",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 68.0,
     "lat": 40.204577,
     "lng": 116.306055
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-长滩壹号",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 67.7,
     "lat": 40.196269,
     "lng": 116.26983
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-金科廊桥水岸",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 65.2,
     "lat": 40.197886,
     "lng": 116.299038
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 60.9,
     "lat": 40.204537,
     "lng": 116.275592
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 50.6,
     "lat": 40.204537,
     "lng": 116.275592
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.5,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 62.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 45.3,
     "lat": 40.205881,
     "lng": 116.286372
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-国惠村",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 47.4,
     "lat": 40.210511,
     "lng": 116.282399
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.9,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.9,
     "lat": 40.204537,
     "lng": 116.275592
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 75.5,
     "lat": 40.204537,
     "lng": 116.275592
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 63.5,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-北郡嘉源",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 59.6,
     "lat": 40.195964,
     "lng": 116.272238
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-花雨汀",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 34.4,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.9,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-长滩壹号",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 64.6,
     "lat": 40.196269,
     "lng": 116.26983
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-招商都会湾",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.4,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-花雨汀",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 36.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 54.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-金科廊桥水岸",
     "scraped_at": "2026-05-02 22:39:50",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.8,
     "lat": 40.197886,
     "lng": 116.299038
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.8,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 42.8,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-金科廊桥水岸",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 77.2,
     "lat": 40.197886,
     "lng": 116.299038
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建青秀尚城",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 68.4,
     "lat": 40.204537,
     "lng": 116.275592
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 36.0,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.1,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-宜山居",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 52.2,
     "lat": 40.204577,
     "lng": 116.306055
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 113.0,
     "lat": 40.202706,
     "lng": 116.271248
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 81.7,
     "lat": 40.204537,
     "lng": 116.275592
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 62.3,
     "lat": 40.204537,
     "lng": 116.275592
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 57.6,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山跃",
     "scraped_at": "2026-05-02 22:39:52",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 58.6,
     "lat": 40.188396,
     "lng": 116.279768
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-金科廊桥水岸",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 58.7,
     "lat": 40.197886,
     "lng": 116.299038
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 53.0,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 65.4,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 38.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 65.4,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-北郡嘉源",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 45.0,
     "lat": 40.195964,
     "lng": 116.272238
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 55.4,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-北郡嘉源",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 45.0,
     "lat": 40.195964,
     "lng": 116.272238
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 60.3,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-泰禾拾景园",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 54.5,
     "lat": 40.202706,
     "lng": 116.271248
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:39:56",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.6,
     "lat": 40.204537,
     "lng": 116.275592
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 49.6,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-拓然家苑",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 67.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 71.9,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-长滩壹号",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 54.3,
     "lat": 40.196269,
     "lng": 116.26983
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 71.9,
     "lat": 40.204537,
     "lng": 116.275592
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城一期",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 45.5,
     "lat": 40.205881,
     "lng": 116.286372
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 45.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-国惠村",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 48.9,
     "lat": 40.210511,
     "lng": 116.282399
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 47.3,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-硅谷",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 67.1,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-花雨汀",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 36.5,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-国惠村",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 46.8,
     "lat": 40.210511,
     "lng": 116.282399
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:40:00",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 59.3,
     "lat": 40.204537,
     "lng": 116.275592
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-中国铁建尚城汇",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 58.8,
     "lat": 40.204537,
     "lng": 116.275592
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-北郡嘉源",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 46.7,
     "lat": 40.195964,
     "lng": 116.272238
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山华府",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 56.2,
     "lat": 40.20589,
     "lng": 116.28754
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-龙山跃",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 57.6,
     "lat": 40.20589,
     "lng": 116.28754
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 66.0,
     "lat": 40.205881,
     "lng": 116.286372
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "昌平区-南邵-路劲世界城二期",
     "scraped_at": "2026-05-02 22:40:24",
-    "region": "nanshao",
+    "region": "南邵",
     "unit_price": 50.3,
     "lat": 40.205881,
     "lng": 116.286372

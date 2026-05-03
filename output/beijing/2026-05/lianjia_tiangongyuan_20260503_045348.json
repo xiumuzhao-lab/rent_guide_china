@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.0,
     "lat": 39.670165,
     "lng": 116.313552
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 44.7,
     "lat": 39.685526,
     "lng": 116.314928
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.1,
     "lat": 39.68497,
     "lng": 116.306054
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 56.8,
     "lat": 39.670165,
     "lng": 116.313552
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-新源时代",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.0,
     "lat": 39.687664,
     "lng": 116.31946
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 81.2,
     "lat": 32.9986,
     "lng": 112.49183
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 42.4,
     "lat": 39.685136,
     "lng": 116.318508
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 40.1,
     "lat": 39.68497,
     "lng": 116.306054
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 63.6,
     "lat": 39.68276,
     "lng": 116.31713
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.1,
     "lat": 39.676616,
     "lng": 116.31643
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 53.5,
     "lat": 39.68276,
     "lng": 116.31713
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.0,
     "lat": 39.68497,
     "lng": 116.306054
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.3,
     "lat": 39.674281,
     "lng": 116.313258
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 62.2,
     "lat": 39.668182,
     "lng": 116.31339
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.8,
     "lat": 39.68276,
     "lng": 116.31713
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 84.6,
     "lat": 39.663674,
     "lng": 116.516859
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.4,
     "lat": 39.68069,
     "lng": 116.317291
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-新源时代",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 44.4,
     "lat": 39.687664,
     "lng": 116.31946
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 45.7,
     "lat": 39.670165,
     "lng": 116.313552
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.6,
     "lat": 39.68276,
     "lng": 116.31713
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 64.4,
     "lat": 39.670165,
     "lng": 116.313552
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.4,
     "lat": 39.685136,
     "lng": 116.318508
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 60.5,
     "lat": 39.68276,
     "lng": 116.31713
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 42.8,
     "lat": 39.676616,
     "lng": 116.31643
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.1,
     "lat": 39.685526,
     "lng": 116.314928
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.2,
     "lat": 39.670165,
     "lng": 116.313552
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 72.0,
     "lat": 39.68128,
     "lng": 116.29217
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.0,
     "lat": 39.670165,
     "lng": 116.313552
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.9,
     "lat": 39.68069,
     "lng": 116.317291
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:52:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 66.7,
     "lat": 39.687238,
     "lng": 116.314098
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.7,
     "lat": 39.676616,
     "lng": 116.31643
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 39.1,
     "lat": 39.674281,
     "lng": 116.313258
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.0,
     "lat": 39.676616,
     "lng": 116.31643
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-鑫苑鑫都汇",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.5,
     "lat": 39.687333,
     "lng": 116.314675
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.2,
     "lat": 39.670165,
     "lng": 116.313552
@@ -678,7 +678,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 71.4,
     "lat": 39.685511,
     "lng": 116.314374
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.1,
     "lat": 39.68497,
     "lng": 116.306054
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.1,
     "lat": 39.676616,
     "lng": 116.31643
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 44.6,
     "lat": 39.68276,
     "lng": 116.31713
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 62.5,
     "lat": 39.685526,
     "lng": 116.314928
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.9,
     "lat": 39.68276,
     "lng": 116.31713
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 39.4,
     "lat": 39.68497,
     "lng": 116.306054
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 65.5,
     "lat": 39.685526,
     "lng": 116.314928
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 58.9,
     "lat": 39.670165,
     "lng": 116.313552
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 45.1,
     "lat": 39.676616,
     "lng": 116.31643
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.3,
     "lat": 39.68276,
     "lng": 116.31713
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 53.1,
     "lat": 39.68497,
     "lng": 116.306054
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-鑫苑鑫都汇",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.9,
     "lat": 39.687333,
     "lng": 116.314675
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 58.6,
     "lat": 39.670165,
     "lng": 116.313552
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.8,
     "lat": 39.68276,
     "lng": 116.31713
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:53:34",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 57.4,
     "lat": 39.685526,
     "lng": 116.314928
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 64.7,
     "lat": 39.68276,
     "lng": 116.31713
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总正华多彩嘉园",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.6,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.4,
     "lat": 39.668182,
     "lng": 116.31339
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.4,
     "lat": 39.674281,
     "lng": 116.313258
@@ -1058,7 +1058,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.1,
     "lat": 39.677554,
     "lng": 116.305238
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街西区",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.4,
     "lat": 39.68503,
     "lng": 116.312373
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:52:33",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 74.5,
     "lat": 39.668182,
     "lng": 116.31339
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 56.5,
     "lat": 39.674281,
     "lng": 116.313258
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.9,
     "lat": 39.68276,
     "lng": 116.31713
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 65.5,
     "lat": 39.670165,
     "lng": 116.313552
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 56.5,
     "lat": 39.68497,
     "lng": 116.306054
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 58.5,
     "lat": 39.670165,
     "lng": 116.313552
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.8,
     "lat": 39.68069,
     "lng": 116.317291
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街西区",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 45.0,
     "lat": 39.68503,
     "lng": 116.312373
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 59.0,
     "lat": 39.685136,
     "lng": 116.318508
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 57.9,
     "lat": 39.68497,
     "lng": 116.306054
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 59.2,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.2,
     "lat": 39.68497,
     "lng": 116.306054
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.6,
     "lat": 39.68276,
     "lng": 116.31713
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-瑞公馆",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 74.9,
     "lat": 39.687527,
     "lng": 116.312819
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 67.3,
     "lat": 39.68276,
     "lng": 116.31713
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.2,
     "lat": 39.68276,
     "lng": 116.31713
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.1,
     "lat": 39.670165,
     "lng": 116.313552
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 65.5,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 64.3,
     "lat": 39.668182,
     "lng": 116.31339
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 56.8,
     "lat": 39.68276,
     "lng": 116.31713
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.3,
     "lat": 39.68276,
     "lng": 116.31713
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.3,
     "lat": 39.670165,
     "lng": 116.313552
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.5,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总正华多彩嘉园",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 44.6,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-鑫苑鑫都汇",
     "scraped_at": "2026-05-02 22:52:36",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 90.5,
     "lat": 39.687333,
     "lng": 116.314675
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.1,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天堂河北区",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.5,
     "lat": 39.669911,
     "lng": 116.321632
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 55.9,
     "lat": 39.676616,
     "lng": 116.31643
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.6,
     "lat": 39.670165,
     "lng": 116.313552
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-兴慧园小区",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 37.9,
     "lat": 39.684522,
     "lng": 116.316605
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 71.2,
     "lat": 39.68069,
     "lng": 116.317291
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.7,
     "lat": 39.670165,
     "lng": 116.313552
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.1,
     "lat": 39.670165,
     "lng": 116.313552
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.8,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 67.9,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.4,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-瑞公馆",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 63.7,
     "lat": 39.687527,
     "lng": 116.312819
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.6,
     "lat": 39.68276,
     "lng": 116.31713
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-兴慧园小区",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.8,
     "lat": 39.684522,
     "lng": 116.316605
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 44.2,
     "lat": 39.674281,
     "lng": 116.313258
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-新源时代",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 53.1,
     "lat": 39.687664,
     "lng": 116.31946
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 64.6,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-兴慧园小区",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.2,
     "lat": 39.684522,
     "lng": 116.316605
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 59.0,
     "lat": 39.668182,
     "lng": 116.31339
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 53.6,
     "lat": 39.670165,
     "lng": 116.313552
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 59.6,
     "lat": 39.685526,
     "lng": 116.314928
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.3,
     "lat": 39.68497,
     "lng": 116.306054
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.8,
     "lat": 39.68497,
     "lng": 116.306054
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.2,
     "lat": 39.68276,
     "lng": 116.31713
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街西区",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.8,
     "lat": 39.68503,
     "lng": 116.312373
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-鑫苑鑫都汇",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 46.2,
     "lat": 39.687333,
     "lng": 116.314675
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.7,
     "lat": 39.670165,
     "lng": 116.313552
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 53.2,
     "lat": 39.685526,
     "lng": 116.314928
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.6,
     "lat": 39.685526,
     "lng": 116.314928
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天堂河北区",
     "scraped_at": "2026-05-02 22:52:39",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 57.1,
     "lat": 39.669911,
     "lng": 116.321632
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.0,
     "lat": 39.670165,
     "lng": 116.313552
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.3,
     "lat": 39.670165,
     "lng": 116.313552
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 41.6,
     "lat": 39.68069,
     "lng": 116.317291
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.5,
     "lat": 39.68276,
     "lng": 116.31713
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 55.0,
     "lat": 39.68276,
     "lng": 116.31713
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.9,
     "lat": 39.670165,
     "lng": 116.313552
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 56.4,
     "lat": 39.68276,
     "lng": 116.31713
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 42.9,
     "lat": 39.685136,
     "lng": 116.318508
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街西区",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.8,
     "lat": 39.68503,
     "lng": 116.312373
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 46.6,
     "lat": 39.676616,
     "lng": 116.31643
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 67.2,
     "lat": 39.68276,
     "lng": 116.31713
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 60.5,
     "lat": 39.685136,
     "lng": 116.318508
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.5,
     "lat": 39.68276,
     "lng": 116.31713
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 63.6,
     "lat": 39.668182,
     "lng": 116.31339
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 53.9,
     "lat": 39.670165,
     "lng": 116.313552
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-鑫苑鑫都汇",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 84.1,
     "lat": 39.687333,
     "lng": 116.314675
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-新源时代",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.0,
     "lat": 39.687664,
     "lng": 116.31946
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.6,
     "lat": 39.674281,
     "lng": 116.313258
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天堂河北区",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.3,
     "lat": 39.669911,
     "lng": 116.321632
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 60.1,
     "lat": 39.68276,
     "lng": 116.31713
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 46.5,
     "lat": 39.685136,
     "lng": 116.318508
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.3,
     "lat": 39.685526,
     "lng": 116.314928
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 45.8,
     "lat": 39.685526,
     "lng": 116.314928
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 41.2,
     "lat": 39.685136,
     "lng": 116.318508
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街西区",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 42.8,
     "lat": 39.68503,
     "lng": 116.312373
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-兴慧园小区",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.2,
     "lat": 39.684522,
     "lng": 116.316605
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-鑫苑鑫都汇",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 89.6,
     "lat": 39.687333,
     "lng": 116.314675
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 55.7,
     "lat": 39.685526,
     "lng": 116.314928
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.4,
     "lat": 39.676616,
     "lng": 116.31643
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:42",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 66.2,
     "lat": 39.670165,
     "lng": 116.313552
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 59.9,
     "lat": 39.668182,
     "lng": 116.31339
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-绿地大兴启航国际",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.2,
     "lat": 39.690066,
     "lng": 116.308538
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-兴慧园小区",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.4,
     "lat": 39.684522,
     "lng": 116.316605
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.6,
     "lat": 39.68497,
     "lng": 116.306054
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 57.3,
     "lat": 39.670165,
     "lng": 116.313552
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.1,
     "lat": 39.685136,
     "lng": 116.318508
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 53.5,
     "lat": 39.685136,
     "lng": 116.318508
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.0,
     "lat": 39.674281,
     "lng": 116.313258
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 70.1,
     "lat": 39.68276,
     "lng": 116.31713
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-熙兆大厦",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 83.0,
     "lat": 39.665735,
     "lng": 116.314932
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.1,
     "lat": 39.685136,
     "lng": 116.318508
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总正华多彩嘉园",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.3,
     "lat": 39.685526,
     "lng": 116.314928
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.1,
     "lat": 39.68497,
     "lng": 116.306054
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街西区",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 42.8,
     "lat": 39.68503,
     "lng": 116.312373
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 69.5,
     "lat": 39.685526,
     "lng": 116.314928
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.3,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天堂河北区",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 41.4,
     "lat": 39.669911,
     "lng": 116.321632
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天堂河南区",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 28.3,
     "lat": 39.674281,
     "lng": 116.313258
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.4,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 64.1,
     "lat": 39.668182,
     "lng": 116.31339
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-新源时代",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 41.1,
     "lat": 39.687664,
     "lng": 116.31946
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-新源时代",
     "scraped_at": "2026-05-02 22:52:45",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 56.1,
     "lat": 39.687664,
     "lng": 116.31946
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 52.2,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 37.7,
     "lat": 39.685136,
     "lng": 116.318508
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 42.8,
     "lat": 39.674281,
     "lng": 116.313258
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-熙兆大厦",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 64.2,
     "lat": 39.665735,
     "lng": 116.314932
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.2,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-瑞公馆",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 58.2,
     "lat": 39.687527,
     "lng": 116.312819
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 64.6,
     "lat": 39.685526,
     "lng": 116.314928
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 72.9,
     "lat": 39.668182,
     "lng": 116.31339
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.2,
     "lat": 39.670165,
     "lng": 116.313552
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 53.5,
     "lat": 39.68069,
     "lng": 116.317291
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-熙兆大厦",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 104.4,
     "lat": 39.665735,
     "lng": 116.314932
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 65.7,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.9,
     "lat": 39.685526,
     "lng": 116.314928
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.8,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-熙兆大厦",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 67.6,
     "lat": 39.665735,
     "lng": 116.314932
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:48",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 53.7,
     "lat": 39.676616,
     "lng": 116.31643
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.6,
     "lat": 39.685526,
     "lng": 116.314928
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.1,
     "lat": 39.676616,
     "lng": 116.31643
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.8,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 64.8,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 58.0,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 63.7,
     "lat": 39.670165,
     "lng": 116.313552
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 68.6,
     "lat": 39.668182,
     "lng": 116.31339
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 66.6,
     "lat": 39.670165,
     "lng": 116.313552
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 56.4,
     "lat": 39.685526,
     "lng": 116.314928
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 57.6,
     "lat": 39.670165,
     "lng": 116.313552
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-住总万科橙",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 57.9,
     "lat": 39.685526,
     "lng": 116.314928
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 45.7,
     "lat": 39.68069,
     "lng": 116.317291
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-熙兆大厦",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 63.8,
     "lat": 39.665735,
     "lng": 116.314932
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 41.8,
     "lat": 39.674281,
     "lng": 116.313258
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 40.9,
     "lat": 39.68497,
     "lng": 116.306054
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:52:51",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.1,
     "lat": 39.68069,
     "lng": 116.317291
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 57.5,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街西区",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 40.5,
     "lat": 39.68503,
     "lng": 116.312373
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 44.3,
     "lat": 39.685136,
     "lng": 116.318508
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-新源时代",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.5,
     "lat": 39.687664,
     "lng": 116.31946
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.8,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街西区",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.0,
     "lat": 39.68503,
     "lng": 116.312373
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.4,
     "lat": 39.68276,
     "lng": 116.31713
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.3,
     "lat": 39.670165,
     "lng": 116.313552
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 45.6,
     "lat": 39.674281,
     "lng": 116.313258
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-鑫苑鑫都汇",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 55.9,
     "lat": 39.687333,
     "lng": 116.314675
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:52:55",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.5,
     "lat": 39.68497,
     "lng": 116.306054
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 56.2,
     "lat": 39.68497,
     "lng": 116.306054
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 46.9,
     "lat": 39.670165,
     "lng": 116.313552
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-新源时代",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 40.3,
     "lat": 39.687664,
     "lng": 116.31946
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.8,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-鑫苑鑫都汇",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.6,
     "lat": 39.687333,
     "lng": 116.314675
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-龙湖时代天街东区",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.1,
     "lat": 39.685136,
     "lng": 116.318508
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-兴慧园小区",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.4,
     "lat": 39.684522,
     "lng": 116.316605
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 46.7,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.4,
     "lat": 39.68069,
     "lng": 116.317291
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.4,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-北京金科天籁城",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.0,
     "lat": 39.68069,
     "lng": 116.317291
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-天宫院小区",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 43.8,
     "lat": 39.674281,
     "lng": 116.313258
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-金融街融汇",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 54.1,
     "lat": 39.68276,
     "lng": 116.31713
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 45.4,
     "lat": 39.68497,
     "lng": 116.306054
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 50.9,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 55.4,
     "lat": 39.68497,
     "lng": 116.306054
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:53:18",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.8,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-明发雅苑",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 44.7,
     "lat": 39.676616,
     "lng": 116.31643
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天派",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 56.8,
     "lat": 39.668182,
     "lng": 116.31339
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 59.4,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 58.3,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 51.4,
     "lat": 39.68497,
     "lng": 116.306054
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.8,
     "lat": 39.68497,
     "lng": 116.306054
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-瑞公馆",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 41.9,
     "lat": 39.687527,
     "lng": 116.312819
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-新源时代",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 42.5,
     "lat": 39.687664,
     "lng": 116.31946
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 57.8,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 49.9,
     "lat": 39.68497,
     "lng": 116.306054
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利首开熙悦春天",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 61.3,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-珺悦国际",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 48.9,
     "lat": 39.68497,
     "lng": 116.306054
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-云立方",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 47.8,
     "lat": 39.685526,
     "lng": 116.314928
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 67.2,
     "lat": 39.670165,
     "lng": 116.313552
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "大兴区-天宫院-保利春天里",
     "scraped_at": "2026-05-02 22:53:29",
-    "region": "tiangongyuan",
+    "region": "天宫院",
     "unit_price": 46.0,
     "lat": 39.670165,
     "lng": 116.313552

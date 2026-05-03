@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.9,
     "lat": 39.743694,
     "lng": 116.360868
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河南里尚城北区",
     "scraped_at": "2026-05-02 22:56:31",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.5,
     "lat": 39.733406,
     "lng": 116.343398
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 37.9,
     "lat": 39.743694,
     "lng": 116.360868
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园二区二期",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 35.7,
     "lat": 39.746842,
     "lng": 116.360265
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.0,
     "lat": 39.755193,
     "lng": 116.304506
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.2,
     "lat": 39.744612,
     "lng": 116.360686
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 39.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.0,
     "lat": 39.743694,
     "lng": 116.360868
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.2,
     "lat": 39.752695,
     "lng": 116.327258
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 60.3,
     "lat": 39.753777,
     "lng": 116.310617
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.9,
     "lat": 39.751096,
     "lng": 116.307968
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.6,
     "lat": 39.753777,
     "lng": 116.310617
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.6,
     "lat": 39.754696,
     "lng": 116.306708
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-福海佳园二区",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.7,
     "lat": 39.750222,
     "lng": 116.34345
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.9,
     "lat": 39.755193,
     "lng": 116.304506
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.3,
     "lat": 39.744612,
     "lng": 116.360686
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里尚城",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-福海佳园二区",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.7,
     "lat": 39.750222,
     "lng": 116.34345
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建港怡嘉园",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 65.9,
     "lat": 39.751096,
     "lng": 116.307968
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.7,
     "lat": 39.752695,
     "lng": 116.327258
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首创禧悦兴城",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.4,
     "lat": 39.736572,
     "lng": 116.332859
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:56:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 59.9,
     "lat": 39.755193,
     "lng": 116.304506
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.0,
     "lat": 39.749906,
     "lng": 116.310258
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.2,
     "lat": 39.752695,
     "lng": 116.327258
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建港怡嘉园",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.1,
     "lat": 39.751096,
     "lng": 116.307968
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.5,
     "lat": 39.751096,
     "lng": 116.307968
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-盛嘉华苑",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 36.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.9,
     "lat": 39.755193,
     "lng": 116.304506
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里尚城",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里北区",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.9,
     "lat": 39.74866,
     "lng": 116.329937
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.2,
     "lat": 39.74866,
     "lng": 116.329937
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.8,
     "lat": 39.749906,
     "lng": 116.310258
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.6,
     "lat": 39.755193,
     "lng": 116.304506
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中铁兴创逸境",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.9,
     "lat": 39.751096,
     "lng": 116.307968
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.3,
     "lat": 39.752695,
     "lng": 116.327258
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.4,
     "lat": 39.755193,
     "lng": 116.304506
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.4,
     "lat": 39.754736,
     "lng": 116.321228
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河南里尚城北区",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.3,
     "lat": 39.733406,
     "lng": 116.343398
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:56:12",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.8,
     "lat": 39.751096,
     "lng": 116.307968
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.3,
     "lat": 39.749906,
     "lng": 116.310258
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河南里尚城南区",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 59.2,
     "lat": 39.732586,
     "lng": 116.342878
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城南区",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.6,
     "lat": 39.752996,
     "lng": 116.321238
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:31",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.5,
     "lat": 39.753777,
     "lng": 116.310617
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-天键广场",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 65.7,
     "lat": 39.751186,
     "lng": 116.308868
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:31",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.5,
     "lat": 39.753777,
     "lng": 116.310617
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.4,
     "lat": 39.751096,
     "lng": 116.307968
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林南区",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 96.9,
     "lat": 39.752154,
     "lng": 116.319993
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 60.9,
     "lat": 39.747991,
     "lng": 116.325257
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 34.2,
     "lat": 39.744612,
     "lng": 116.360686
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 67.8,
     "lat": 39.74866,
     "lng": 116.329937
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.6,
     "lat": 39.74866,
     "lng": 116.329937
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林南区",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 65.1,
     "lat": 39.752154,
     "lng": 116.319993
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-绿地海珀云翡",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄中巷",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.6,
     "lat": 39.753136,
     "lng": 116.307118
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴华园",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.8,
     "lat": 39.74909,
     "lng": 116.321278
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 38.7,
     "lat": 39.744612,
     "lng": 116.360686
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.4,
     "lat": 39.747991,
     "lng": 116.325257
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.8,
     "lat": 39.744612,
     "lng": 116.360686
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 70.5,
     "lat": 39.747991,
     "lng": 116.325257
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.2,
     "lat": 39.74866,
     "lng": 116.329937
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:15",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 69.2,
     "lat": 39.747991,
     "lng": 116.325257
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.9,
     "lat": 39.743694,
     "lng": 116.360868
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 36.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城南区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.6,
     "lat": 39.752996,
     "lng": 116.321238
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里尚城",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-团河苑",
     "scraped_at": "2026-05-02 22:58:30",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.6,
     "lat": 39.743694,
     "lng": 116.360868
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里北区",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 66.4,
     "lat": 39.747991,
     "lng": 116.325257
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.4,
     "lat": 39.755193,
     "lng": 116.304506
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.0,
     "lat": 39.752695,
     "lng": 116.327258
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 59.9,
     "lat": 39.753777,
     "lng": 116.310617
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.9,
     "lat": 39.754736,
     "lng": 116.321228
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.1,
     "lat": 39.752695,
     "lng": 116.327258
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.4,
     "lat": 39.753777,
     "lng": 116.310617
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.6,
     "lat": 39.753777,
     "lng": 116.310617
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-团河苑",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城南区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.1,
     "lat": 39.752996,
     "lng": 116.321238
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园二区二期",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.1,
     "lat": 39.746842,
     "lng": 116.360265
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-盛嘉华苑",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.5,
     "lat": 39.755193,
     "lng": 116.304506
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林南区",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 75.3,
     "lat": 39.752154,
     "lng": 116.319993
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.7,
     "lat": 39.753777,
     "lng": 116.310617
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.6,
     "lat": 39.74866,
     "lng": 116.329937
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林北区",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 65.1,
     "lat": 39.752154,
     "lng": 116.319993
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河南里尚城北区",
     "scraped_at": "2026-05-02 22:56:18",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.9,
     "lat": 39.733406,
     "lng": 116.343398
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里尚城",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园二区二期",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.6,
     "lat": 39.746842,
     "lng": 116.360265
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 34.7,
     "lat": 39.744612,
     "lng": 116.360686
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 36.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.1,
     "lat": 39.74866,
     "lng": 116.329937
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 78.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.6,
     "lat": 39.752695,
     "lng": 116.327258
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.3,
     "lat": 39.755193,
     "lng": 116.304506
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 60.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里北区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-金华里",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 33.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.4,
     "lat": 39.753777,
     "lng": 116.310617
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园北里",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.7,
     "lat": 39.752695,
     "lng": 116.327258
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.0,
     "lat": 39.752695,
     "lng": 116.327258
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.8,
     "lat": 39.752695,
     "lng": 116.327258
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.4,
     "lat": 39.753777,
     "lng": 116.310617
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 71.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.9,
     "lat": 39.74866,
     "lng": 116.329937
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.1,
     "lat": 39.753777,
     "lng": 116.310617
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:20",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.2,
     "lat": 39.74866,
     "lng": 116.329937
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.4,
     "lat": 39.74866,
     "lng": 116.329937
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.3,
     "lat": 39.743694,
     "lng": 116.360868
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:56:31",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.6,
     "lat": 39.751096,
     "lng": 116.307968
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 74.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.8,
     "lat": 39.752695,
     "lng": 116.327258
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.7,
     "lat": 39.747991,
     "lng": 116.325257
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园二期北区三期",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 37.6,
     "lat": 39.746842,
     "lng": 116.360265
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 35.6,
     "lat": 39.744612,
     "lng": 116.360686
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 62.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-团河苑",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 38.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.5,
     "lat": 39.743694,
     "lng": 116.360868
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.2,
     "lat": 39.747991,
     "lng": 116.325257
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-福海佳园二区",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.1,
     "lat": 39.750222,
     "lng": 116.34345
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 59.6,
     "lat": 39.74866,
     "lng": 116.329937
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 64.5,
     "lat": 39.751096,
     "lng": 116.307968
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-福海佳园二区",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.5,
     "lat": 39.750222,
     "lng": 116.34345
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-福海佳园二区",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.3,
     "lat": 39.750222,
     "lng": 116.34345
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河东里",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.7,
     "lat": 39.749906,
     "lng": 116.310258
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 62.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 83.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 66.8,
     "lat": 39.74866,
     "lng": 116.329937
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 65.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:56:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河东里南区",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 37.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 35.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-团河苑",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.2,
     "lat": 39.753777,
     "lng": 116.310617
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康宜家园北区",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.8,
     "lat": 39.745876,
     "lng": 116.310438
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.9,
     "lat": 39.754736,
     "lng": 116.321228
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 34.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 64.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.9,
     "lat": 39.752695,
     "lng": 116.327258
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.3,
     "lat": 39.753777,
     "lng": 116.310617
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里北区",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 66.4,
     "lat": 39.751096,
     "lng": 116.307968
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 68.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园北里",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.1,
     "lat": 39.752695,
     "lng": 116.327258
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.7,
     "lat": 39.751096,
     "lng": 116.307968
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.4,
     "lat": 39.753777,
     "lng": 116.310617
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源东里",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 38.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴华园",
     "scraped_at": "2026-05-02 22:56:25",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.7,
     "lat": 39.74909,
     "lng": 116.321278
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园北里",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.5,
     "lat": 39.752695,
     "lng": 116.327258
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.1,
     "lat": 39.743694,
     "lng": 116.360868
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 62.9,
     "lat": 39.747991,
     "lng": 116.325257
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建港怡嘉园",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 60.4,
     "lat": 39.751096,
     "lng": 116.307968
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.4,
     "lat": 39.755193,
     "lng": 116.304506
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林南区",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 70.9,
     "lat": 39.752154,
     "lng": 116.319993
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建港怡嘉园",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 65.0,
     "lat": 39.751096,
     "lng": 116.307968
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.2,
     "lat": 39.74866,
     "lng": 116.329937
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-团河苑",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.3,
     "lat": 39.743694,
     "lng": 116.360868
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.2,
     "lat": 39.752695,
     "lng": 116.327258
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.5,
     "lat": 39.751589,
     "lng": 116.326827
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-金华里",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 37.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:28",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 62.1,
     "lat": 39.747991,
     "lng": 116.325257
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园二区二期",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 36.9,
     "lat": 39.746842,
     "lng": 116.360265
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城南区",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 62.9,
     "lat": 39.752996,
     "lng": 116.321238
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.6,
     "lat": 39.74866,
     "lng": 116.329937
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:31",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 38.5,
     "lat": 39.752695,
     "lng": 116.327258
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:31",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城南区",
     "scraped_at": "2026-05-02 22:56:31",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 59.4,
     "lat": 39.752996,
     "lng": 116.321238
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建港悦大厦",
     "scraped_at": "2026-05-02 22:56:31",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 75.6,
     "lat": 39.751096,
     "lng": 116.307968
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-东亚康和名居",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.0,
     "lat": 39.749149,
     "lng": 116.328269
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新居里",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 83.3,
     "lat": 39.747991,
     "lng": 116.325257
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 60.7,
     "lat": 39.754736,
     "lng": 116.321228
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 59.3,
     "lat": 39.751096,
     "lng": 116.307968
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-福海佳园二区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 59.0,
     "lat": 39.750222,
     "lng": 116.34345
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.5,
     "lat": 39.752695,
     "lng": 116.327258
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园北里",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.0,
     "lat": 39.752695,
     "lng": 116.327258
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.7,
     "lat": 39.752695,
     "lng": 116.327258
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 60.2,
     "lat": 39.751589,
     "lng": 116.326827
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 70.5,
     "lat": 39.747991,
     "lng": 116.325257
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.2,
     "lat": 39.74866,
     "lng": 116.329937
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-天键广场",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.8,
     "lat": 39.751186,
     "lng": 116.308868
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.5,
     "lat": 39.754736,
     "lng": 116.321228
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴华园",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.5,
     "lat": 39.74909,
     "lng": 116.321278
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 140.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.9,
     "lat": 39.753777,
     "lng": 116.310617
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 36.2,
     "lat": 39.744612,
     "lng": 116.360686
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中海国际港",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 59.6,
     "lat": 39.751096,
     "lng": 116.307968
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 64.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园北里",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.2,
     "lat": 39.752695,
     "lng": 116.327258
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 37.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园二区二期",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.1,
     "lat": 39.746842,
     "lng": 116.360265
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.8,
     "lat": 39.752695,
     "lng": 116.327258
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.5,
     "lat": 39.752695,
     "lng": 116.327258
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.1,
     "lat": 39.751096,
     "lng": 116.307968
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 70.6,
     "lat": 39.747991,
     "lng": 116.325257
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园二区二期",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.0,
     "lat": 39.746842,
     "lng": 116.360265
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:56:33",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.1,
     "lat": 39.754736,
     "lng": 116.321228
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里北区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.7,
     "lat": 39.747991,
     "lng": 116.325257
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.6,
     "lat": 39.747991,
     "lng": 116.325257
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.0,
     "lat": 39.753777,
     "lng": 116.310617
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-圣和巷小区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.4,
     "lat": 39.746697,
     "lng": 116.316122
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.1,
     "lat": 39.752695,
     "lng": 116.327258
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康宜家园南区",
     "scraped_at": "2026-05-02 22:56:43",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.9,
     "lat": 39.751526,
     "lng": 116.309548
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 62.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.9,
     "lat": 39.752695,
     "lng": 116.327258
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里尚城",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河坊",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.0,
     "lat": 39.754736,
     "lng": 116.321228
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园二区二期",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 35.0,
     "lat": 39.746842,
     "lng": 116.360265
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里北区",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-福海佳园二区",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.5,
     "lat": 39.750222,
     "lng": 116.34345
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.6,
     "lat": 39.752695,
     "lng": 116.327258
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.5,
     "lat": 39.755193,
     "lng": 116.304506
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.0,
     "lat": 39.755193,
     "lng": 116.304506
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里北区",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园北里",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.4,
     "lat": 39.752695,
     "lng": 116.327258
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.5,
     "lat": 39.747991,
     "lng": 116.325257
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴华园",
     "scraped_at": "2026-05-02 22:56:47",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.6,
     "lat": 39.74909,
     "lng": 116.321278
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.2,
     "lat": 39.755193,
     "lng": 116.304506
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.4,
     "lat": 39.752695,
     "lng": 116.327258
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.7,
     "lat": 39.747991,
     "lng": 116.325257
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园北里",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.7,
     "lat": 39.752695,
     "lng": 116.327258
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴华园",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 65.1,
     "lat": 39.74909,
     "lng": 116.321278
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.5,
     "lat": 39.755193,
     "lng": 116.304506
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 79.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河南里尚城南区",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 62.9,
     "lat": 39.732586,
     "lng": 116.342878
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.1,
     "lat": 39.743694,
     "lng": 116.360868
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园二期北区三期",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.3,
     "lat": 39.746842,
     "lng": 116.360265
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-东亚康和名居",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.3,
     "lat": 39.749149,
     "lng": 116.328269
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里尚城",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄中巷",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.2,
     "lat": 39.753136,
     "lng": 116.307118
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-东亚康和名居",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.4,
     "lat": 39.749149,
     "lng": 116.328269
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.6,
     "lat": 39.747991,
     "lng": 116.325257
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-东亚康和名居",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.3,
     "lat": 39.749149,
     "lng": 116.328269
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.5,
     "lat": 39.752695,
     "lng": 116.327258
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-丽园东里",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-东亚康和名居",
     "scraped_at": "2026-05-02 22:57:10",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.0,
     "lat": 39.749149,
     "lng": 116.328269
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.8,
     "lat": 39.753777,
     "lng": 116.310617
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-东亚康和名居",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.3,
     "lat": 39.749149,
     "lng": 116.328269
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 36.5,
     "lat": 39.743694,
     "lng": 116.360868
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.2,
     "lat": 39.747991,
     "lng": 116.325257
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林南区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.6,
     "lat": 39.752154,
     "lng": 116.319993
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河南里尚城南区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.8,
     "lat": 39.732586,
     "lng": 116.342878
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 39.9,
     "lat": 39.743694,
     "lng": 116.360868
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里北区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.4,
     "lat": 39.754736,
     "lng": 116.321228
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 33.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.9,
     "lat": 39.74866,
     "lng": 116.329937
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:57:19",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.8,
     "lat": 39.752695,
     "lng": 116.327258
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 37.0,
     "lat": 39.744612,
     "lng": 116.360686
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.5,
     "lat": 39.754736,
     "lng": 116.321228
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里尚城",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.5,
     "lat": 39.747991,
     "lng": 116.325257
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄中巷",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.5,
     "lat": 39.753136,
     "lng": 116.307118
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.1,
     "lat": 39.74866,
     "lng": 116.329937
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-盛嘉华苑",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河东里",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林南区",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 66.5,
     "lat": 39.752154,
     "lng": 116.319993
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 77.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园北里",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.0,
     "lat": 39.752695,
     "lng": 116.327258
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.3,
     "lat": 39.752695,
     "lng": 116.327258
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河东里南区",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.6,
     "lat": 39.747991,
     "lng": 116.325257
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.1,
     "lat": 39.747991,
     "lng": 116.325257
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.1,
     "lat": 39.749906,
     "lng": 116.310258
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河南里尚城南区",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.3,
     "lat": 39.732586,
     "lng": 116.342878
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林南区",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 69.0,
     "lat": 39.752154,
     "lng": 116.319993
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.5,
     "lat": 39.753777,
     "lng": 116.310617
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河东里南区",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 59.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.6,
     "lat": 39.754696,
     "lng": 116.306708
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 60.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城南区",
     "scraped_at": "2026-05-02 22:57:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.3,
     "lat": 39.752996,
     "lng": 116.321238
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.6,
     "lat": 39.744612,
     "lng": 116.360686
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.2,
     "lat": 39.755193,
     "lng": 116.304506
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:57:27",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.2,
     "lat": 39.747991,
     "lng": 116.325257
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6606,7 +6606,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.1,
     "lat": 39.74866,
     "lng": 116.329937
@@ -6625,7 +6625,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林南区",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 70.4,
     "lat": 39.752154,
     "lng": 116.319993
@@ -6644,7 +6644,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 37.5,
     "lat": 39.743694,
     "lng": 116.360868
@@ -6663,7 +6663,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源东里",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6682,7 +6682,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 38.4,
     "lat": 39.744612,
     "lng": 116.360686
@@ -6701,7 +6701,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6720,7 +6720,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 39.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6739,7 +6739,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6758,7 +6758,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 38.9,
     "lat": 39.743694,
     "lng": 116.360868
@@ -6777,7 +6777,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.4,
     "lat": 39.754736,
     "lng": 116.321228
@@ -6796,7 +6796,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6815,7 +6815,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-盛嘉华苑",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6834,7 +6834,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄中巷",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.0,
     "lat": 39.753136,
     "lng": 116.307118
@@ -6853,7 +6853,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 64.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6872,7 +6872,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:57:27",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.8,
     "lat": 39.743694,
     "lng": 116.360868
@@ -6891,7 +6891,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源东里",
     "scraped_at": "2026-05-02 22:57:27",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -6910,7 +6910,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:57:27",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.3,
     "lat": 39.752695,
     "lng": 116.327258
@@ -6929,7 +6929,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:27",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.6,
     "lat": 39.754696,
     "lng": 116.306708
@@ -6948,7 +6948,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄中巷",
     "scraped_at": "2026-05-02 22:57:27",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.9,
     "lat": 39.753136,
     "lng": 116.307118
@@ -6967,7 +6967,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.6,
     "lat": 39.751096,
     "lng": 116.307968
@@ -6986,7 +6986,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 37.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7005,7 +7005,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.9,
     "lat": 39.751096,
     "lng": 116.307968
@@ -7024,7 +7024,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.8,
     "lat": 39.755193,
     "lng": 116.304506
@@ -7043,7 +7043,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7062,7 +7062,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7081,7 +7081,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:32",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.7,
     "lat": 39.755193,
     "lng": 116.304506
@@ -7100,7 +7100,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源东里",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7119,7 +7119,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河北里",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7138,7 +7138,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.6,
     "lat": 39.753777,
     "lng": 116.310617
@@ -7157,7 +7157,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7176,7 +7176,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7195,7 +7195,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城南区",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.3,
     "lat": 39.752996,
     "lng": 116.321238
@@ -7214,7 +7214,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 73.5,
     "lat": 39.752695,
     "lng": 116.327258
@@ -7233,7 +7233,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.2,
     "lat": 39.751096,
     "lng": 116.307968
@@ -7252,7 +7252,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.8,
     "lat": 39.751096,
     "lng": 116.307968
@@ -7271,7 +7271,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.1,
     "lat": 39.754736,
     "lng": 116.321228
@@ -7290,7 +7290,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-东亚康和名居",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.8,
     "lat": 39.749149,
     "lng": 116.328269
@@ -7309,7 +7309,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7328,7 +7328,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7347,7 +7347,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-双河南里尚城北区",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.6,
     "lat": 39.733406,
     "lng": 116.343398
@@ -7366,7 +7366,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.5,
     "lat": 39.754696,
     "lng": 116.306708
@@ -7385,7 +7385,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.2,
     "lat": 39.74866,
     "lng": 116.329937
@@ -7404,7 +7404,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7423,7 +7423,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7442,7 +7442,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7461,7 +7461,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 64.2,
     "lat": 39.751096,
     "lng": 116.307968
@@ -7480,7 +7480,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7499,7 +7499,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林北区",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 65.1,
     "lat": 39.752154,
     "lng": 116.319993
@@ -7518,7 +7518,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:57:37",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.9,
     "lat": 39.752695,
     "lng": 116.327258
@@ -7537,7 +7537,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 60.0,
     "lat": 39.74866,
     "lng": 116.329937
@@ -7556,7 +7556,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.1,
     "lat": 39.743694,
     "lng": 116.360868
@@ -7575,7 +7575,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林南区",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 68.6,
     "lat": 39.752154,
     "lng": 116.319993
@@ -7594,7 +7594,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.0,
     "lat": 39.754696,
     "lng": 116.306708
@@ -7613,7 +7613,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 69.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7632,7 +7632,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴华园",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.9,
     "lat": 39.74909,
     "lng": 116.321278
@@ -7651,7 +7651,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7670,7 +7670,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7689,7 +7689,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7708,7 +7708,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-盛芳茗苑",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7727,7 +7727,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7746,7 +7746,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7765,7 +7765,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄中巷",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.9,
     "lat": 39.753136,
     "lng": 116.307118
@@ -7784,7 +7784,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河东里",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7803,7 +7803,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 34.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7822,7 +7822,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.5,
     "lat": 39.754736,
     "lng": 116.321228
@@ -7841,7 +7841,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7860,7 +7860,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:57:42",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 58.5,
     "lat": 39.747991,
     "lng": 116.325257
@@ -7879,7 +7879,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴华园",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.3,
     "lat": 39.74909,
     "lng": 116.321278
@@ -7898,7 +7898,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7917,7 +7917,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.6,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7936,7 +7936,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-盛嘉华苑",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7955,7 +7955,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河坊",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7974,7 +7974,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-绿地海珀云翡",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -7993,7 +7993,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 65.4,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8012,7 +8012,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8031,7 +8031,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.7,
     "lat": 39.749906,
     "lng": 116.310258
@@ -8050,7 +8050,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 36.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8069,7 +8069,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 51.9,
     "lat": 39.752695,
     "lng": 116.327258
@@ -8088,7 +8088,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河坊",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8107,7 +8107,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8126,7 +8126,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 42.9,
     "lat": 39.752695,
     "lng": 116.327258
@@ -8145,7 +8145,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-福海佳园二区",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.3,
     "lat": 39.750222,
     "lng": 116.34345
@@ -8164,7 +8164,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴华园",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.8,
     "lat": 39.74909,
     "lng": 116.321278
@@ -8183,7 +8183,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 61.2,
     "lat": 39.751589,
     "lng": 116.326827
@@ -8202,7 +8202,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8221,7 +8221,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 66.6,
     "lat": 39.752695,
     "lng": 116.327258
@@ -8240,7 +8240,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里南区",
     "scraped_at": "2026-05-02 22:57:49",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8259,7 +8259,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.8,
     "lat": 39.752695,
     "lng": 116.327258
@@ -8278,7 +8278,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.5,
     "lat": 39.755193,
     "lng": 116.304506
@@ -8297,7 +8297,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-福海佳园二区",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.3,
     "lat": 39.750222,
     "lng": 116.34345
@@ -8316,7 +8316,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8335,7 +8335,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.2,
     "lat": 39.755193,
     "lng": 116.304506
@@ -8354,7 +8354,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8373,7 +8373,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.2,
     "lat": 39.754736,
     "lng": 116.321228
@@ -8392,7 +8392,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.1,
     "lat": 39.755193,
     "lng": 116.304506
@@ -8411,7 +8411,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.9,
     "lat": 39.754696,
     "lng": 116.306708
@@ -8430,7 +8430,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.1,
     "lat": 39.747991,
     "lng": 116.325257
@@ -8449,7 +8449,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-兴盛街",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 70.8,
     "lat": 39.753777,
     "lng": 116.310617
@@ -8468,7 +8468,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新居里",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 39.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8487,7 +8487,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:58:30",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 54.4,
     "lat": 39.752695,
     "lng": 116.327258
@@ -8506,7 +8506,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-盛嘉华苑",
     "scraped_at": "2026-05-02 22:58:30",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8525,7 +8525,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一期",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.1,
     "lat": 39.743694,
     "lng": 116.360868
@@ -8544,7 +8544,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 55.8,
     "lat": 39.747991,
     "lng": 116.325257
@@ -8563,7 +8563,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8582,7 +8582,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-新安里",
     "scraped_at": "2026-05-02 22:58:30",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 40.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8601,7 +8601,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-团河苑",
     "scraped_at": "2026-05-02 22:58:30",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 48.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8620,7 +8620,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:58:30",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.2,
     "lat": 39.752695,
     "lng": 116.327258
@@ -8639,7 +8639,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-滨河西里中区",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 72.1,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8658,7 +8658,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8677,7 +8677,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.2,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8696,7 +8696,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-红木林北区",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 74.0,
     "lat": 39.752154,
     "lng": 116.319993
@@ -8715,7 +8715,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 38.1,
     "lat": 39.744612,
     "lng": 116.360686
@@ -8734,7 +8734,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.6,
     "lat": 39.752695,
     "lng": 116.327258
@@ -8753,7 +8753,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.4,
     "lat": 39.754736,
     "lng": 116.321228
@@ -8772,7 +8772,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 50.7,
     "lat": 39.74866,
     "lng": 116.329937
@@ -8791,7 +8791,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-彩虹新城",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.9,
     "lat": 39.74866,
     "lng": 116.329937
@@ -8810,7 +8810,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园东里",
     "scraped_at": "2026-05-02 22:59:04",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.0,
     "lat": 39.752695,
     "lng": 116.327258
@@ -8829,7 +8829,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 52.5,
     "lat": 39.752695,
     "lng": 116.327258
@@ -8848,7 +8848,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源东里",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 62.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8867,7 +8867,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.1,
     "lat": 39.755193,
     "lng": 116.304506
@@ -8886,7 +8886,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 47.7,
     "lat": 39.755193,
     "lng": 116.304506
@@ -8905,7 +8905,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 62.7,
     "lat": 39.754696,
     "lng": 116.306708
@@ -8924,7 +8924,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园尚城北区",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 63.7,
     "lat": 39.754736,
     "lng": 116.321228
@@ -8943,7 +8943,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-马赛公馆",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8962,7 +8962,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源佳园",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 44.9,
     "lat": 39.752298,
     "lng": 116.325354
@@ -8981,7 +8981,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-中建国际港",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.8,
     "lat": 39.751096,
     "lng": 116.307968
@@ -9000,7 +9000,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:59:16",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.3,
     "lat": 39.752298,
     "lng": 116.325354
@@ -9019,7 +9019,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 45.5,
     "lat": 39.755193,
     "lng": 116.304506
@@ -9038,7 +9038,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 36.3,
     "lat": 39.744612,
     "lng": 116.360686
@@ -9057,7 +9057,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-枣园小区",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 49.7,
     "lat": 39.752695,
     "lng": 116.327258
@@ -9076,7 +9076,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 64.3,
     "lat": 39.747991,
     "lng": 116.325257
@@ -9095,7 +9095,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首开康乃馨城",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 41.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -9114,7 +9114,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-波普公社",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 67.0,
     "lat": 39.747991,
     "lng": 116.325257
@@ -9133,7 +9133,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-清源西里",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 57.0,
     "lat": 39.752298,
     "lng": 116.325354
@@ -9152,7 +9152,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-团河苑",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 43.5,
     "lat": 39.752298,
     "lng": 116.325354
@@ -9171,7 +9171,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄路",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 39.0,
     "lat": 39.755193,
     "lng": 116.304506
@@ -9190,7 +9190,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首创禧悦兴城",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 53.8,
     "lat": 39.752298,
     "lng": 116.325354
@@ -9209,7 +9209,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首邑上城",
     "scraped_at": "2026-05-02 22:59:23",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 56.7,
     "lat": 39.752298,
     "lng": 116.325354
@@ -9228,7 +9228,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-首座御园一区二期",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 33.8,
     "lat": 39.744612,
     "lng": 116.360686
@@ -9247,7 +9247,7 @@
     "rent_type": "整租",
     "location": "大兴区-枣园-康庄中巷",
     "scraped_at": "2026-05-02 22:59:29",
-    "region": "zaoyuan",
+    "region": "枣园",
     "unit_price": 46.3,
     "lat": 39.753136,
     "lng": 116.307118

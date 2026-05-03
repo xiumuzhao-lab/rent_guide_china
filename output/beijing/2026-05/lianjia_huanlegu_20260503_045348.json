@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-北京华侨城",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 84.6,
     "lat": 39.862988,
     "lng": 116.493676
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-北京华侨城",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 68.5,
     "lat": 39.862988,
     "lng": 116.493676
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-北京华侨城",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 82.9,
     "lat": 39.862988,
     "lng": 116.493676
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-世纪东方城北区",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 68.9,
     "lat": 39.738403,
     "lng": 116.318621
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-金蝉南里",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 59.3,
     "lat": 39.860573,
     "lng": 116.496666
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 86.0,
     "lat": 39.903942,
     "lng": 116.63687
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-紫南家园北区",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 84.0,
     "lat": 39.875242,
     "lng": 116.490439
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-金蝉南里",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 76.4,
     "lat": 39.860573,
     "lng": 116.496666
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-金蝉南里",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 75.8,
     "lat": 39.860573,
     "lng": 116.496666
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-金蝉南里",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 81.8,
     "lat": 39.860573,
     "lng": 116.496666
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-世纪东方城北区",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 91.3,
     "lat": 39.738403,
     "lng": 116.318621
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-世纪东方城南区",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 91.8,
     "lat": 39.864486,
     "lng": 116.490558
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-金蝉南里",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 74.1,
     "lat": 39.860573,
     "lng": 116.496666
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-北京华侨城",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 68.6,
     "lat": 39.862988,
     "lng": 116.493676
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-世纪东方城北区",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 84.7,
     "lat": 39.738403,
     "lng": 116.318621
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-世纪东方城南区",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 77.6,
     "lat": 39.864486,
     "lng": 116.490558
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-华瀚国际",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 98.5,
     "lat": 39.864486,
     "lng": 116.490558
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-北京华侨城",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 79.3,
     "lat": 39.862988,
     "lng": 116.493676
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-世纪东方城南区",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 68.4,
     "lat": 39.864486,
     "lng": 116.490558
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-北京华侨城",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 65.6,
     "lat": 39.862988,
     "lng": 116.493676
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-北京华侨城",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 86.8,
     "lat": 39.862988,
     "lng": 116.493676
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-华瀚国际",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 102.0,
     "lat": 39.864486,
     "lng": 116.490558
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-世纪东方城南区",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 83.2,
     "lat": 39.864486,
     "lng": 116.490558
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-金蝉南里",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 71.8,
     "lat": 39.860573,
     "lng": 116.496666
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-北京华侨城",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 73.8,
     "lat": 39.862988,
     "lng": 116.493676
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": "",
     "lat": 39.875182,
     "lng": 116.317333
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-北京华侨城",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 76.8,
     "lat": 39.862988,
     "lng": 116.493676
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-欢乐谷-世纪东方城北区",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": 75.4,
     "lat": 39.738403,
     "lng": 116.318621
@@ -545,7 +545,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:50:39",
-    "region": "huanlegu",
+    "region": "欢乐谷",
     "unit_price": "",
     "lat": 39.874086,
     "lng": 116.484688

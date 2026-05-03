@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 38.9,
     "lat": 39.881256,
     "lng": 116.671218
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 49.9,
     "lat": 39.88106,
     "lng": 116.6672
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 29.6,
     "lat": 39.865999,
     "lng": 116.651915
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 66.0,
     "lat": 39.878597,
     "lng": 116.664255
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 40.0,
     "lat": 39.878597,
     "lng": 116.664255
@@ -108,7 +108,7 @@
     "rent_type": "合租",
     "location": "通州-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 137.5,
     "lat": 22.21803,
     "lng": 114.2141
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 40.0,
     "lat": 39.881386,
     "lng": 116.661238
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 41.2,
     "lat": 39.875336,
     "lng": 116.658888
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 47.7,
     "lat": 39.88106,
     "lng": 116.6672
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 45.8,
     "lat": 39.881386,
     "lng": 116.661238
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 49.1,
     "lat": 39.878597,
     "lng": 116.664255
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里南大门",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 38.2,
     "lat": 39.875596,
     "lng": 116.657098
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.1,
     "lat": 39.880976,
     "lng": 116.660338
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 67.6,
     "lat": 39.88106,
     "lng": 116.6672
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.3,
     "lat": 39.880976,
     "lng": 116.660338
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 275.5,
     "lat": 39.866828,
     "lng": 116.686136
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-幸福时光",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 36.7,
     "lat": 39.865999,
     "lng": 116.651915
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.7,
     "lat": 39.881386,
     "lng": 116.661238
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨园东里",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 35.5,
     "lat": 39.88347,
     "lng": 116.67989
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 49.4,
     "lat": 39.878597,
     "lng": 116.664255
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 64.4,
     "lat": 39.88106,
     "lng": 116.6672
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 42.1,
     "lat": 39.875336,
     "lng": 116.658888
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 62.3,
     "lat": 39.88106,
     "lng": 116.6672
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 55.4,
     "lat": 39.880976,
     "lng": 116.660338
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 30.2,
     "lat": 39.880267,
     "lng": 116.654075
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城嘉园",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.9,
     "lat": 39.878597,
     "lng": 116.664255
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 103.3,
     "lat": 39.905715,
     "lng": 116.43862
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 65.5,
     "lat": 39.88106,
     "lng": 116.6672
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:46",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 60.6,
     "lat": 39.88106,
     "lng": 116.6672
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.5,
     "lat": 39.88106,
     "lng": 116.6672
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-幸福时光",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 36.5,
     "lat": 39.865999,
     "lng": 116.651915
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 37.3,
     "lat": 39.875336,
     "lng": 116.658888
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 48.8,
     "lat": 39.878597,
     "lng": 116.664255
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-站前巴黎",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 39.9,
     "lat": 39.879558,
     "lng": 116.661794
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-粮所家属楼",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 56.7,
     "lat": 39.865999,
     "lng": 116.651915
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 44.4,
     "lat": 39.865999,
     "lng": 116.651915
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 59.4,
     "lat": 39.88106,
     "lng": 116.6672
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 64.9,
     "lat": 39.865999,
     "lng": 116.651915
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-幸福时光",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 36.7,
     "lat": 39.865999,
     "lng": 116.651915
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 60.0,
     "lat": 39.878597,
     "lng": 116.664255
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 42.6,
     "lat": 39.878597,
     "lng": 116.664255
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.5,
     "lat": 39.878597,
     "lng": 116.664255
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 58.7,
     "lat": 39.88106,
     "lng": 116.6672
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 52.2,
     "lat": 39.88106,
     "lng": 116.6672
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.6,
     "lat": 39.881386,
     "lng": 116.661238
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.6,
     "lat": 39.88106,
     "lng": 116.6672
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 39.0,
     "lat": 39.875336,
     "lng": 116.658888
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 35.7,
     "lat": 39.880267,
     "lng": 116.654075
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.6,
     "lat": 39.880267,
     "lng": 116.654075
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 52.4,
     "lat": 39.880976,
     "lng": 116.660338
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 39.5,
     "lat": 39.880267,
     "lng": 116.654075
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨花园",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 37.0,
     "lat": 39.883136,
     "lng": 116.663808
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 54.0,
     "lat": 39.880976,
     "lng": 116.660338
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 55.4,
     "lat": 39.881386,
     "lng": 116.661238
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 36.6,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 56.9,
     "lat": 39.881386,
     "lng": 116.661238
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:49",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.0,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 65.5,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 55.1,
     "lat": 39.88106,
     "lng": 116.6672
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 72.7,
     "lat": 39.866936,
     "lng": 116.657758
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 55.3,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里南大门",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 37.5,
     "lat": 39.875596,
     "lng": 116.657098
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景豪庭",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 81.7,
     "lat": 39.876885,
     "lng": 116.662277
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 56.4,
     "lat": 39.88106,
     "lng": 116.6672
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 72.7,
     "lat": 39.866936,
     "lng": 116.657758
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 63.1,
     "lat": 39.88106,
     "lng": 116.6672
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 52.4,
     "lat": 39.880976,
     "lng": 116.660338
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 31.6,
     "lat": 39.880267,
     "lng": 116.654075
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.6,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 45.0,
     "lat": 39.880976,
     "lng": 116.660338
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.7,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨花园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 39.3,
     "lat": 39.883136,
     "lng": 116.663808
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 57.1,
     "lat": 39.880976,
     "lng": 116.660338
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 49.0,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 42.1,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 38.6,
     "lat": 39.880267,
     "lng": 116.654075
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 48.6,
     "lat": 39.881256,
     "lng": 116.671218
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 63.0,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 38.3,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城嘉园",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.5,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 41.6,
     "lat": 39.875336,
     "lng": 116.658888
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-幸福时光",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.0,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.2,
     "lat": 39.880267,
     "lng": 116.654075
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 86.9,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 66.3,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 55.9,
     "lat": 39.880976,
     "lng": 116.660338
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨花园",
     "scraped_at": "2026-05-02 22:28:52",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 53.7,
     "lat": 39.883136,
     "lng": 116.663808
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 44.7,
     "lat": 39.881256,
     "lng": 116.671218
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 58.1,
     "lat": 39.881386,
     "lng": 116.661238
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨花园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.9,
     "lat": 39.883136,
     "lng": 116.663808
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城嘉园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 54.4,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-北杨洼小区",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 55.3,
     "lat": 39.888236,
     "lng": 116.662178
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.1,
     "lat": 39.866936,
     "lng": 116.657758
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨园东里",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 48.1,
     "lat": 39.88347,
     "lng": 116.67989
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 37.5,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨花园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 75.6,
     "lat": 39.883136,
     "lng": 116.663808
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城嘉园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.9,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城嘉园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.5,
     "lat": 39.878597,
     "lng": 116.664255
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 69.7,
     "lat": 39.88106,
     "lng": 116.6672
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 54.1,
     "lat": 39.88106,
     "lng": 116.6672
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 61.5,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 65.2,
     "lat": 39.88106,
     "lng": 116.6672
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.4,
     "lat": 39.880976,
     "lng": 116.660338
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 52.3,
     "lat": 39.865999,
     "lng": 116.651915
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.6,
     "lat": 39.865999,
     "lng": 116.651915
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨园东里",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.0,
     "lat": 39.88347,
     "lng": 116.67989
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.6,
     "lat": 39.881256,
     "lng": 116.671218
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-站前巴黎",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.7,
     "lat": 39.879558,
     "lng": 116.661794
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 60.4,
     "lat": 39.88106,
     "lng": 116.6672
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 44.5,
     "lat": 39.866936,
     "lng": 116.657758
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城嘉园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.9,
     "lat": 39.878597,
     "lng": 116.664255
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨花园",
     "scraped_at": "2026-05-02 22:28:55",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 57.0,
     "lat": 39.883136,
     "lng": 116.663808
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 59.6,
     "lat": 39.88106,
     "lng": 116.6672
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 63.2,
     "lat": 39.865999,
     "lng": 116.651915
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 66.8,
     "lat": 39.880976,
     "lng": 116.660338
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-站前巴黎",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 91.1,
     "lat": 39.879558,
     "lng": 116.661794
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 43.0,
     "lat": 39.866936,
     "lng": 116.657758
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 66.0,
     "lat": 39.880976,
     "lng": 116.660338
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-站前巴黎",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 40.5,
     "lat": 39.879558,
     "lng": 116.661794
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-站前巴黎",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.3,
     "lat": 39.879558,
     "lng": 116.661794
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 55.8,
     "lat": 39.881386,
     "lng": 116.661238
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 49.1,
     "lat": 39.881386,
     "lng": 116.661238
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨园东里",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 41.1,
     "lat": 39.88347,
     "lng": 116.67989
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-站前巴黎",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 38.5,
     "lat": 39.879558,
     "lng": 116.661794
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.7,
     "lat": 39.881256,
     "lng": 116.671218
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.0,
     "lat": 39.881386,
     "lng": 116.661238
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 67.4,
     "lat": 39.865999,
     "lng": 116.651915
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 66.3,
     "lat": 39.88106,
     "lng": 116.6672
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 37.9,
     "lat": 39.880267,
     "lng": 116.654075
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里南大门",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 40.3,
     "lat": 39.875596,
     "lng": 116.657098
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-五所家属院",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 60.2,
     "lat": 39.878023,
     "lng": 116.666556
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-幸福时光",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 39.5,
     "lat": 39.865999,
     "lng": 116.651915
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 64.5,
     "lat": 39.881386,
     "lng": 116.661238
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 48.4,
     "lat": 39.880976,
     "lng": 116.660338
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 44.7,
     "lat": 39.878597,
     "lng": 116.664255
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-梨花园",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 45.5,
     "lat": 39.883136,
     "lng": 116.663808
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-五所家属院",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 28.8,
     "lat": 39.878023,
     "lng": 116.666556
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-绣江南",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 57.0,
     "lat": 39.864716,
     "lng": 116.653648
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 81.8,
     "lat": 39.88106,
     "lng": 116.6672
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-站前巴黎",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.2,
     "lat": 39.879558,
     "lng": 116.661794
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 63.0,
     "lat": 39.88106,
     "lng": 116.6672
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园",
     "scraped_at": "2026-05-02 22:28:58",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 49.7,
     "lat": 39.866936,
     "lng": 116.657758
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里南大门",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 43.1,
     "lat": 39.875596,
     "lng": 116.657098
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-粮所家属楼",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 43.5,
     "lat": 39.865999,
     "lng": 116.651915
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-幸福时光",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 44.3,
     "lat": 39.865999,
     "lng": 116.651915
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 47.0,
     "lat": 39.881256,
     "lng": 116.671218
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里南大门",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 37.1,
     "lat": 39.875596,
     "lng": 116.657098
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里南大门",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 48.0,
     "lat": 39.875596,
     "lng": 116.657098
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-群芳三园",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 43.5,
     "lat": 39.872056,
     "lng": 116.657727
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 52.9,
     "lat": 39.88106,
     "lng": 116.6672
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-绣江南",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 41.9,
     "lat": 39.864716,
     "lng": 116.653648
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 45.0,
     "lat": 39.875336,
     "lng": 116.658888
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 47.4,
     "lat": 39.881386,
     "lng": 116.661238
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景里南大门",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 32.8,
     "lat": 39.875596,
     "lng": 116.657098
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城嘉园",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 51.8,
     "lat": 39.878597,
     "lng": 116.664255
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 67.9,
     "lat": 39.88106,
     "lng": 116.6672
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 62.5,
     "lat": 39.88106,
     "lng": 116.6672
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 71.2,
     "lat": 39.881386,
     "lng": 116.661238
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.8,
     "lat": 39.880976,
     "lng": 116.660338
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 74.9,
     "lat": 39.866936,
     "lng": 116.657758
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-幸福时光",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 36.3,
     "lat": 39.865999,
     "lng": 116.651915
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 40.5,
     "lat": 39.880267,
     "lng": 116.654075
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-当代名筑",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 67.2,
     "lat": 39.865999,
     "lng": 116.651915
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 46.1,
     "lat": 39.880976,
     "lng": 116.660338
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 54.3,
     "lat": 39.881256,
     "lng": 116.671218
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 49.7,
     "lat": 39.881256,
     "lng": 116.671218
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区西区",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.8,
     "lat": 39.880976,
     "lng": 116.660338
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城阳光",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 50.6,
     "lat": 39.878597,
     "lng": 116.664255
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新通国际花园",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 76.7,
     "lat": 39.88106,
     "lng": 116.6672
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 44.8,
     "lat": 39.881256,
     "lng": 116.671218
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 63.2,
     "lat": 39.881386,
     "lng": 116.661238
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-时尚街区东区",
     "scraped_at": "2026-05-02 22:29:19",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 71.7,
     "lat": 39.881386,
     "lng": 116.661238
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 65.2,
     "lat": 39.880267,
     "lng": 116.654075
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-站前巴黎",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 49.5,
     "lat": 39.879558,
     "lng": 116.661794
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 53.1,
     "lat": 39.881256,
     "lng": 116.671218
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-桃花岛",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 41.6,
     "lat": 39.881256,
     "lng": 116.671218
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-站前巴黎",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 87.6,
     "lat": 39.879558,
     "lng": 116.661794
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-新城嘉园",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 55.3,
     "lat": 39.878597,
     "lng": 116.664255
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 61.9,
     "lat": 39.866936,
     "lng": 116.657758
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-群芳三园",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 34.7,
     "lat": 39.872056,
     "lng": 116.657727
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 45.4,
     "lat": 39.880267,
     "lng": 116.654075
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "通州区-梨园-云景西里南区",
     "scraped_at": "2026-05-02 22:29:26",
-    "region": "liyuan",
+    "region": "梨园",
     "unit_price": 44.7,
     "lat": 39.880267,
     "lng": 116.654075

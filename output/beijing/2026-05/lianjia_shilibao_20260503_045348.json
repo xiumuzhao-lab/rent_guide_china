@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-都会华庭",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 80.2,
     "lat": 39.913983,
     "lng": 116.499088
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-海华堂",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 73.1,
     "lat": 39.913983,
     "lng": 116.499088
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-京棉新城",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 68.9,
     "lat": 39.913983,
     "lng": 116.499088
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-新华联丽景",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 110.5,
     "lat": 39.913993,
     "lng": 116.498948
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡北里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 75.7,
     "lat": 39.917706,
     "lng": 116.496958
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-都会华庭",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 85.2,
     "lat": 39.913983,
     "lng": 116.499088
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡北里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 89.5,
     "lat": 39.917706,
     "lng": 116.496958
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-都会华庭",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 76.7,
     "lat": 39.913983,
     "lng": 116.499088
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 74.1,
     "lat": 39.917706,
     "lng": 116.496958
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-新华联丽景",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 88.6,
     "lat": 39.913993,
     "lng": 116.498948
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡北里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 83.2,
     "lat": 39.917706,
     "lng": 116.496958
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-都会华庭",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 74.8,
     "lat": 39.913983,
     "lng": 116.499088
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-京棉新城",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 76.2,
     "lat": 39.913983,
     "lng": 116.499088
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-都会华庭",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 74.0,
     "lat": 39.913983,
     "lng": 116.499088
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-京棉新城",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 83.6,
     "lat": 39.913983,
     "lng": 116.499088
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡北里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 81.1,
     "lat": 39.917706,
     "lng": 116.496958
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡北里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 105.1,
     "lat": 39.917706,
     "lng": 116.496958
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-京棉新城",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 81.3,
     "lat": 39.913983,
     "lng": 116.499088
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-朝阳嘉园",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 67.3,
     "lat": 39.912514,
     "lng": 116.600157
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡北里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 85.4,
     "lat": 39.917706,
     "lng": 116.496958
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-甘露西园",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 90.2,
     "lat": 39.915485,
     "lng": 116.505083
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡东里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 92.0,
     "lat": 39.917706,
     "lng": 116.496958
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-海华堂",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 108.3,
     "lat": 39.913983,
     "lng": 116.499088
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡东里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 87.3,
     "lat": 39.917706,
     "lng": 116.496958
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡东里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 86.7,
     "lat": 39.917706,
     "lng": 116.496958
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡北里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 100.9,
     "lat": 39.917706,
     "lng": 116.496958
@@ -507,7 +507,7 @@
     "rent_type": "合租",
     "location": "朝阳-十里堡-都会华庭",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 133.3,
     "lat": 39.922215,
     "lng": 116.497898
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-朝阳嘉园",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 68.1,
     "lat": 39.912514,
     "lng": 116.600157
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-十里堡北里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 117.7,
     "lat": 39.917706,
     "lng": 116.496958
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-八里庄南里",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 100.1,
     "lat": 39.918622,
     "lng": 116.491419
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-十里堡-都会华庭",
     "scraped_at": "2026-05-02 20:59:23",
-    "region": "shilibao",
+    "region": "十里堡",
     "unit_price": 79.1,
     "lat": 39.913983,
     "lng": 116.499088

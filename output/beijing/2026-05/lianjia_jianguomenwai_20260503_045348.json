@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-嘉华世纪",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 49.1,
     "lat": 39.911687,
     "lng": 116.45193
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-灵通观",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 140.0,
     "lat": 39.911687,
     "lng": 116.45193
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-东方瑞景",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 108.8,
     "lat": 39.904981,
     "lng": 116.454466
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-美华世纪",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 86.4,
     "lat": 39.911687,
     "lng": 116.45193
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-地杰长安驿",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 132.0,
     "lat": 39.911687,
     "lng": 116.45193
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 262.8,
     "lat": 39.914258,
     "lng": 116.652468
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-通用时代国际公寓",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 102.5,
     "lat": 39.911687,
     "lng": 116.45193
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-月河",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 131.4,
     "lat": 39.911687,
     "lng": 116.45193
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-地杰长安驿",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 127.6,
     "lat": 39.911687,
     "lng": 116.45193
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-万豪国际公寓",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 115.6,
     "lat": 39.911687,
     "lng": 116.45193
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-东方瑞景",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 101.9,
     "lat": 39.904981,
     "lng": 116.454466
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-东方瑞景",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 97.6,
     "lat": 39.904981,
     "lng": 116.454466
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-地杰长安驿",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 132.9,
     "lat": 39.911687,
     "lng": 116.45193
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-东方瑞景",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 99.6,
     "lat": 39.904981,
     "lng": 116.454466
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-东方瑞景",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 109.2,
     "lat": 39.904981,
     "lng": 116.454466
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-中海枫丹公馆",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 179.1,
     "lat": 39.911687,
     "lng": 116.45193
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-嘉华世纪",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 66.7,
     "lat": 39.911687,
     "lng": 116.45193
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-月河",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 103.7,
     "lat": 39.911687,
     "lng": 116.45193
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-燕华苑",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 87.9,
     "lat": 39.911687,
     "lng": 116.45193
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-长安",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 87.9,
     "lat": 39.911687,
     "lng": 116.45193
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-长安",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 110.7,
     "lat": 39.911687,
     "lng": 116.45193
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-美华世纪",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 113.4,
     "lat": 39.911687,
     "lng": 116.45193
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-长安",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 88.4,
     "lat": 39.911687,
     "lng": 116.45193
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-长安",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 107.7,
     "lat": 39.911687,
     "lng": 116.45193
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-东方瑞景",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 98.1,
     "lat": 39.904981,
     "lng": 116.454466
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-灵通观",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 150.0,
     "lat": 39.911687,
     "lng": 116.45193
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-建国门外-万豪国际公寓",
     "scraped_at": "2026-05-02 20:07:14",
-    "region": "jianguomenwai",
+    "region": "建国门外",
     "unit_price": 100.7,
     "lat": 39.911687,
     "lng": 116.45193

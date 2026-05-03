@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-锦苑",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 46.0,
     "lat": 39.80681,
     "lng": 116.380296
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-久敬佳园二区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 43.7,
     "lat": 39.818525,
     "lng": 116.402843
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义西里二区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 66.7,
     "lat": 39.816239,
     "lng": 116.391709
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-南苑北里一区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 48.5,
     "lat": 39.80782,
     "lng": 116.39223
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-久敬佳园二区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 42.5,
     "lat": 39.818525,
     "lng": 116.402843
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 77.1,
     "lat": 39.663674,
     "lng": 116.516859
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-久敬佳园二区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 50.4,
     "lat": 39.818525,
     "lng": 116.402843
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义西里三区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 52.6,
     "lat": 39.816239,
     "lng": 116.391709
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义东里一区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 61.7,
     "lat": 39.812136,
     "lng": 116.399038
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义东里四区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 57.5,
     "lat": 39.812136,
     "lng": 116.399038
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-久敬佳园一区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 48.5,
     "lat": 39.819573,
     "lng": 116.402044
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义西里三区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 41.7,
     "lat": 39.816239,
     "lng": 116.391709
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义西里四区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 52.9,
     "lat": 39.816239,
     "lng": 116.391709
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-南苑北里二区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 61.9,
     "lat": 39.806826,
     "lng": 116.394074
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-南苑北里三区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 60.3,
     "lat": 39.80782,
     "lng": 116.39223
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义西里二区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 75.8,
     "lat": 39.816239,
     "lng": 116.391709
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-锦苑",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 56.9,
     "lat": 39.80681,
     "lng": 116.380296
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-南苑北里一区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 60.1,
     "lat": 39.80782,
     "lng": 116.39223
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-久敬佳园三区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 67.0,
     "lat": 39.816782,
     "lng": 116.402698
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-南苑北里一区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 62.0,
     "lat": 39.80782,
     "lng": 116.39223
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义东里一区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 70.4,
     "lat": 39.812136,
     "lng": 116.399038
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-世嘉丽晶",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 58.0,
     "lat": 39.80681,
     "lng": 116.380296
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义西里四区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 59.5,
     "lat": 39.816239,
     "lng": 116.391709
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-南苑北里三区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 80.0,
     "lat": 39.80782,
     "lng": 116.39223
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-久敬佳园二区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 80.0,
     "lat": 39.818525,
     "lng": 116.402843
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 120.0,
     "lat": 40.0543,
     "lng": 116.4065
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-和义东里二区",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 58.6,
     "lat": 39.812136,
     "lng": 116.399038
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "丰台区-和义-世嘉丽晶",
     "scraped_at": "2026-05-02 20:51:49",
-    "region": "heyi",
+    "region": "和义",
     "unit_price": 47.9,
     "lat": 39.80681,
     "lng": 116.380296

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "房山区-琉璃河-古桥镜水",
     "scraped_at": "2026-05-02 23:15:29",
-    "region": "liulihe",
+    "region": "琉璃河",
     "unit_price": 11.6,
     "lat": 39.610873,
     "lng": 116.023123
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "房山区-琉璃河-金水家园",
     "scraped_at": "2026-05-02 23:15:29",
-    "region": "liulihe",
+    "region": "琉璃河",
     "unit_price": 13.9,
     "lat": 39.594186,
     "lng": 116.037089
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "房山区-琉璃河-金水家园",
     "scraped_at": "2026-05-02 23:15:29",
-    "region": "liulihe",
+    "region": "琉璃河",
     "unit_price": 21.9,
     "lat": 39.594186,
     "lng": 116.037089
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "房山区-琉璃河-金水家园",
     "scraped_at": "2026-05-02 23:15:29",
-    "region": "liulihe",
+    "region": "琉璃河",
     "unit_price": 13.5,
     "lat": 39.594186,
     "lng": 116.037089
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "房山区-琉璃河-金水家园",
     "scraped_at": "2026-05-02 23:15:29",
-    "region": "liulihe",
+    "region": "琉璃河",
     "unit_price": 23.9,
     "lat": 39.594186,
     "lng": 116.037089
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "房山区-琉璃河-金水家园",
     "scraped_at": "2026-05-02 23:15:29",
-    "region": "liulihe",
+    "region": "琉璃河",
     "unit_price": 21.4,
     "lat": 39.594186,
     "lng": 116.037089
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "房山区-琉璃河-车站东街",
     "scraped_at": "2026-05-02 23:15:29",
-    "region": "liulihe",
+    "region": "琉璃河",
     "unit_price": 16.0,
     "lat": 39.595982,
     "lng": 116.038948
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "房山区-琉璃河-古桥镜水",
     "scraped_at": "2026-05-02 23:15:29",
-    "region": "liulihe",
+    "region": "琉璃河",
     "unit_price": 17.4,
     "lat": 39.610873,
     "lng": 116.023123

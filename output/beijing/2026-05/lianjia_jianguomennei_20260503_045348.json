@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-西总布胡同",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 123.1,
     "lat": 39.910526,
     "lng": 116.415998
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-西总布胡同",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 134.5,
     "lat": 39.91091,
     "lng": 116.412855
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-大羊宜宾胡同",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 82.9,
     "lat": 39.911766,
     "lng": 116.421368
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-贡院九号",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 125.1,
     "lat": 39.909246,
     "lng": 116.423681
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-恒基中心",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 101.1,
     "lat": 39.901476,
     "lng": 116.412831
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 147.1,
     "lat": 39.874882,
     "lng": 116.630125
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-恒基中心",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 105.9,
     "lat": 39.901476,
     "lng": 116.412831
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-恒基中心",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 120.0,
     "lat": 39.901476,
     "lng": 116.412831
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-赵堂子胡同",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 123.1,
     "lat": 39.912476,
     "lng": 116.423474
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-贡院九号",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 133.9,
     "lat": 39.909246,
     "lng": 116.423681
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-恒基中心",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 117.6,
     "lat": 39.901476,
     "lng": 116.412831
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-雅安国际公寓",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 102.0,
     "lat": 39.901476,
     "lng": 116.412831
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-建国门北大街",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 111.2,
     "lat": 39.912597,
     "lng": 116.427374
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-贡院九号",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 128.2,
     "lat": 39.909246,
     "lng": 116.423681
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-外交部街",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 117.1,
     "lat": 39.911485,
     "lng": 116.414517
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-贡院九号",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 228.2,
     "lat": 39.909246,
     "lng": 116.423681
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-恒基中心",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 105.9,
     "lat": 39.901476,
     "lng": 116.412831
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-外交部街",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 109.0,
     "lat": 39.911485,
     "lng": 116.414517
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-贡院九号",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 125.0,
     "lat": 39.909246,
     "lng": 116.423681
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-贡院九号",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 151.8,
     "lat": 39.909246,
     "lng": 116.423681
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-东总布胡同",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 118.7,
     "lat": 39.910656,
     "lng": 116.425854
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-外交部街",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 171.9,
     "lat": 39.911485,
     "lng": 116.414517
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-西总布胡同",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 127.6,
     "lat": 39.91091,
     "lng": 116.412855
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-大羊宜宾胡同",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 139.8,
     "lat": 39.911766,
     "lng": 116.421368
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-雅安国际公寓",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 115.5,
     "lat": 39.901476,
     "lng": 116.412831
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-外交部街",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 157.4,
     "lat": 39.911485,
     "lng": 116.414517
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "东城区-建国门内-恒基中心",
     "scraped_at": "2026-05-02 20:07:19",
-    "region": "jianguomennei",
+    "region": "建国门内",
     "unit_price": 109.0,
     "lat": 39.901476,
     "lng": 116.412831

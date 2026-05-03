@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京城建畅悦居",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.9,
     "lat": 40.078802,
     "lng": 116.328988
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万润家园",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.6,
     "lat": 40.065,
     "lng": 116.320503
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 51.9,
     "lat": 40.079915,
     "lng": 116.297407
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 41.3,
     "lat": 40.06507,
     "lng": 116.341855
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.0,
     "lat": 40.077493,
     "lng": 116.323978
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 113.7,
     "lat": null,
     "lng": null
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京城建畅悦居",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.7,
     "lat": 40.078802,
     "lng": 116.328988
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.5,
     "lat": 40.090678,
     "lng": 116.330541
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-建发城建",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.081419,
     "lng": 116.285442
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.1,
     "lat": 40.067361,
     "lng": 116.302765
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.5,
     "lat": 40.078247,
     "lng": 116.305589
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-和谐家园一区",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 57.3,
     "lat": 40.084368,
     "lng": 116.351691
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.9,
     "lat": 40.077134,
     "lng": 116.321889
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府一期",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.07871,
     "lng": 116.328234
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-越秀",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.2,
     "lat": 40.078802,
     "lng": 116.328988
@@ -298,7 +298,7 @@
     "rent_type": "合租",
     "location": "昌平-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 100.0,
     "lat": 40.068325,
     "lng": 116.338567
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.4,
     "lat": 40.07871,
     "lng": 116.328234
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.2,
     "lat": 40.07871,
     "lng": 116.328234
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.0,
     "lat": 40.071638,
     "lng": 116.331401
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京城建畅悦居",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 57.7,
     "lat": 40.078802,
     "lng": 116.328988
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天露园一区",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.1,
     "lat": 40.082112,
     "lng": 116.308812
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-七燕路",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.4,
     "lat": 40.105406,
     "lng": 116.312048
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府二区",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.7,
     "lat": 40.078247,
     "lng": 116.305589
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙锦苑五区",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 60.1,
     "lat": 40.082176,
     "lng": 116.346288
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.2,
     "lat": 40.075194,
     "lng": 116.313147
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.9,
     "lat": 40.068946,
     "lng": 116.307802
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京城建畅悦居",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 51.1,
     "lat": 40.078802,
     "lng": 116.328988
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.3,
     "lat": 40.077134,
     "lng": 116.321889
@@ -545,7 +545,7 @@
     "rent_type": "合租",
     "location": "昌平-回龙观-和谐家园二区",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 103.6,
     "lat": 40.081995,
     "lng": 116.35263
@@ -564,7 +564,7 @@
     "rent_type": "合租",
     "location": "昌平-回龙观-和谐家园二区",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.7,
     "lat": 40.081995,
     "lng": 116.35263
@@ -583,7 +583,7 @@
     "rent_type": "合租",
     "location": "昌平-回龙观-小沙河华府",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 107.2,
     "lat": 40.066086,
     "lng": 116.336428
@@ -602,7 +602,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.0,
     "lat": 40.099689,
     "lng": 116.261169
@@ -621,7 +621,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:35:12",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 123.3,
     "lat": 40.077272,
     "lng": 116.325798
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.3,
     "lat": 40.076166,
     "lng": 116.322306
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.6,
     "lat": 40.06507,
     "lng": 116.341855
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府二期",
     "scraped_at": "2026-05-02 21:35:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.7,
     "lat": 40.068946,
     "lng": 116.307802
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑四区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.8,
     "lat": 40.073982,
     "lng": 116.334299
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙旗广场",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.6,
     "lat": 40.064672,
     "lng": 116.339733
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万润家园",
     "scraped_at": "2026-05-02 21:35:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 92.3,
     "lat": 40.065,
     "lng": 116.320503
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北郊农场宿舍",
     "scraped_at": "2026-05-02 21:35:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.4,
     "lat": 40.071966,
     "lng": 116.306408
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.5,
     "lat": 40.06486,
     "lng": 116.30635
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.0,
     "lat": 40.078247,
     "lng": 116.305589
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北清橡树湾",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.6,
     "lat": 40.094506,
     "lng": 116.283998
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金达园",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.9,
     "lat": 40.058202,
     "lng": 116.317434
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:35:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.6,
     "lat": 40.075194,
     "lng": 116.313147
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.5,
     "lat": 40.071434,
     "lng": 116.311695
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑东区",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.0,
     "lat": 40.071196,
     "lng": 116.322658
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:35:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.1,
     "lat": 40.07871,
     "lng": 116.328234
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 104.5,
     "lat": 40.071434,
     "lng": 116.311695
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑东区",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 97.0,
     "lat": 40.071196,
     "lng": 116.322658
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北清橡树湾",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.1,
     "lat": 40.094506,
     "lng": 116.283998
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园南区",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.6,
     "lat": 40.05579,
     "lng": 116.318334
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.3,
     "lat": 40.06564,
     "lng": 116.302465
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.2,
     "lat": 40.06564,
     "lng": 116.302465
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.1,
     "lat": 40.075194,
     "lng": 116.313147
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.4,
     "lat": 40.06564,
     "lng": 116.302465
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.6,
     "lat": 40.068946,
     "lng": 116.307802
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-三合庄北街",
     "scraped_at": "2026-05-02 21:35:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.8,
     "lat": 40.061916,
     "lng": 116.336653
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.0,
     "lat": 40.078247,
     "lng": 116.305589
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府二期",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.5,
     "lat": 40.068946,
     "lng": 116.307802
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北回归线",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.9,
     "lat": 40.078506,
     "lng": 116.344266
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:35:19",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.077134,
     "lng": 116.321889
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.5,
     "lat": 40.068655,
     "lng": 116.314046
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-华府",
     "scraped_at": "2026-05-02 21:35:19",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.4,
     "lat": 40.070626,
     "lng": 116.330928
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.7,
     "lat": 40.077134,
     "lng": 116.321889
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:35:19",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.0,
     "lat": 40.075194,
     "lng": 116.313147
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 51.0,
     "lat": 40.067361,
     "lng": 116.302765
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.2,
     "lat": 40.07931,
     "lng": 116.30011
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.9,
     "lat": 40.078247,
     "lng": 116.305589
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-田园风光雅苑",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 50.4,
     "lat": 40.087698,
     "lng": 116.343118
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:35:19",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.2,
     "lat": 40.06507,
     "lng": 116.341855
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.9,
     "lat": 40.068946,
     "lng": 116.307802
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.9,
     "lat": 40.071434,
     "lng": 116.311695
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-建发",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.8,
     "lat": 40.074771,
     "lng": 116.297915
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:19",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 93.8,
     "lat": 40.06564,
     "lng": 116.302465
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.9,
     "lat": 40.081472,
     "lng": 116.333868
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京城建畅悦居",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.8,
     "lat": 40.078802,
     "lng": 116.328988
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:19",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.3,
     "lat": 40.059887,
     "lng": 116.310352
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.0,
     "lat": 40.068325,
     "lng": 116.338567
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.6,
     "lat": 40.071434,
     "lng": 116.311695
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 93.6,
     "lat": 40.068946,
     "lng": 116.307802
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙锦苑四区",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 51.2,
     "lat": 40.08186,
     "lng": 116.342948
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡华府",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.1,
     "lat": 40.07871,
     "lng": 116.328234
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-华府",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.7,
     "lat": 40.070626,
     "lng": 116.330928
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府二区",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.7,
     "lat": 40.078247,
     "lng": 116.305589
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.6,
     "lat": 40.076166,
     "lng": 116.322306
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 102.9,
     "lat": 40.068655,
     "lng": 116.314046
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 115.5,
     "lat": 40.077493,
     "lng": 116.323978
@@ -1685,7 +1685,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 131.2,
     "lat": 40.065595,
     "lng": 116.340377
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.3,
     "lat": 40.071638,
     "lng": 116.331401
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.9,
     "lat": 40.090678,
     "lng": 116.330541
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-骊龙园",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 50.4,
     "lat": 40.081756,
     "lng": 116.320838
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙禧苑一区",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 47.7,
     "lat": 40.079845,
     "lng": 116.327402
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.8,
     "lat": 40.068655,
     "lng": 116.314046
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙锦苑六区",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.5,
     "lat": 40.08186,
     "lng": 116.342948
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园一区",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.4,
     "lat": 40.090678,
     "lng": 116.330541
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.6,
     "lat": 40.068655,
     "lng": 116.314046
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡华府",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.3,
     "lat": 40.07871,
     "lng": 116.328234
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.5,
     "lat": 40.068655,
     "lng": 116.314046
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 103.2,
     "lat": 40.077493,
     "lng": 116.323978
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府二期",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 93.8,
     "lat": 40.068946,
     "lng": 116.307802
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.1,
     "lat": 40.059887,
     "lng": 116.310352
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐二期",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 94.2,
     "lat": 40.074076,
     "lng": 116.356378
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.4,
     "lat": 40.074076,
     "lng": 116.356378
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.1,
     "lat": 40.06564,
     "lng": 116.302465
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.6,
     "lat": 40.06564,
     "lng": 116.302465
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.0,
     "lat": 40.075194,
     "lng": 116.313147
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北郊农场宿舍",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.5,
     "lat": 40.071966,
     "lng": 116.306408
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙回苑",
     "scraped_at": "2026-05-02 21:35:21",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.6,
     "lat": 40.065389,
     "lng": 116.31587
@@ -2084,7 +2084,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": "",
     "lat": null,
     "lng": null
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙锦苑二区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 52.8,
     "lat": 40.08186,
     "lng": 116.342948
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.2,
     "lat": 40.06564,
     "lng": 116.302465
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园二区",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 48.6,
     "lat": 40.090678,
     "lng": 116.330541
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.7,
     "lat": 40.06507,
     "lng": 116.341855
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万润家园",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.6,
     "lat": 40.065,
     "lng": 116.320503
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵二期",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.4,
     "lat": 40.079745,
     "lng": 116.347388
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.7,
     "lat": 40.090678,
     "lng": 116.330541
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园二区",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.2,
     "lat": 40.090678,
     "lng": 116.330541
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.7,
     "lat": 40.077134,
     "lng": 116.321889
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐一期",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.6,
     "lat": 40.074076,
     "lng": 116.356378
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙锦苑二区",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.0,
     "lat": 40.08186,
     "lng": 116.342948
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.7,
     "lat": 40.06564,
     "lng": 116.302465
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园南区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.3,
     "lat": 40.05579,
     "lng": 116.318334
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-慧华苑",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 123.7,
     "lat": 40.071733,
     "lng": 116.331854
@@ -2369,7 +2369,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": "",
     "lat": 40.07,
     "lng": 116.3517
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-慧华苑",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 142.1,
     "lat": 40.071733,
     "lng": 116.331854
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-慧华苑",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 120.0,
     "lat": 40.071733,
     "lng": 116.331854
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.3,
     "lat": 40.078315,
     "lng": 116.309477
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天露园一区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.5,
     "lat": 40.082112,
     "lng": 116.308812
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑五区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.7,
     "lat": 40.073665,
     "lng": 116.330367
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 93.5,
     "lat": 40.068946,
     "lng": 116.307802
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.5,
     "lat": 40.076166,
     "lng": 116.322306
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:33",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.7,
     "lat": 40.068655,
     "lng": 116.314046
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.8,
     "lat": 40.06486,
     "lng": 116.30635
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 52.9,
     "lat": 40.076166,
     "lng": 116.322306
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.2,
     "lat": 40.064486,
     "lng": 116.304718
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-吉晟别墅",
     "scraped_at": "2026-05-02 21:35:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.1,
     "lat": 40.063747,
     "lng": 116.335814
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府二期",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.5,
     "lat": 40.068946,
     "lng": 116.307802
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金达园",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.0,
     "lat": 40.058202,
     "lng": 116.317434
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.076166,
     "lng": 116.322306
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.4,
     "lat": 40.077134,
     "lng": 116.321889
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.6,
     "lat": 40.076166,
     "lng": 116.322306
@@ -2711,7 +2711,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 110.0,
     "lat": 40.53988,
     "lng": 116.020534
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天露园一区",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.1,
     "lat": 40.082112,
     "lng": 116.308812
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.2,
     "lat": 40.077134,
     "lng": 116.321889
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-慧华苑",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.5,
     "lat": 40.071733,
     "lng": 116.331854
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.6,
     "lat": 40.077134,
     "lng": 116.321889
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙禧苑一区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.2,
     "lat": 40.079845,
     "lng": 116.327402
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.2,
     "lat": 40.076166,
     "lng": 116.322306
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-风雅园二区",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 55.3,
     "lat": 40.081306,
     "lng": 116.315788
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-华府",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 102.1,
     "lat": 40.070626,
     "lng": 116.330928
@@ -2882,7 +2882,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": "",
     "lat": null,
     "lng": null
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.5,
     "lat": 40.090678,
     "lng": 116.330541
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天巢园",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.7,
     "lat": 40.082256,
     "lng": 116.351347
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐一期",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 111.1,
     "lat": 40.074076,
     "lng": 116.356378
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金达园",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 106.1,
     "lat": 40.058202,
     "lng": 116.317434
@@ -2977,7 +2977,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:35:28",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 126.7,
     "lat": 39.875182,
     "lng": 116.317333
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.7,
     "lat": 40.06507,
     "lng": 116.341855
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑六区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 47.5,
     "lat": 40.073587,
     "lng": 116.327783
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园一区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.0,
     "lat": 40.090678,
     "lng": 116.330541
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.9,
     "lat": 40.06507,
     "lng": 116.341855
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.5,
     "lat": 40.068655,
     "lng": 116.314046
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.8,
     "lat": 40.072172,
     "lng": 116.353238
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.9,
     "lat": 40.066156,
     "lng": 116.298698
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-风雅园二区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 53.3,
     "lat": 40.081306,
     "lng": 116.315788
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 120.0,
     "lat": 40.077493,
     "lng": 116.323978
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.2,
     "lat": 40.077134,
     "lng": 116.321889
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.7,
     "lat": 40.072172,
     "lng": 116.353238
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.4,
     "lat": 40.06564,
     "lng": 116.302465
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 92.9,
     "lat": 40.090678,
     "lng": 116.330541
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 117.7,
     "lat": 40.06507,
     "lng": 116.341855
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-泰华龙旗广场",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.1,
     "lat": 40.06533,
     "lng": 116.342472
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.9,
     "lat": 40.076166,
     "lng": 116.322306
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-琥珀天地",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.7,
     "lat": 40.077134,
     "lng": 116.321889
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵四期",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 55.6,
     "lat": 40.079745,
     "lng": 116.347388
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园一区",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.6,
     "lat": 40.090678,
     "lng": 116.330541
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 100.0,
     "lat": 40.071638,
     "lng": 116.331401
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-琥珀天地",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:35:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.2,
     "lat": 40.077134,
     "lng": 116.321889
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-琥珀天地",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.2,
     "lat": 40.06507,
     "lng": 116.341855
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.9,
     "lat": 40.072172,
     "lng": 116.353238
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.2,
     "lat": 40.07931,
     "lng": 116.30011
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天慧园",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.9,
     "lat": 40.082256,
     "lng": 116.351347
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.5,
     "lat": 40.071434,
     "lng": 116.311695
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园东一路",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.1,
     "lat": 40.060015,
     "lng": 116.310946
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.1,
     "lat": 40.07871,
     "lng": 116.328234
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 147.5,
     "lat": 40.06507,
     "lng": 116.341855
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.4,
     "lat": 40.072172,
     "lng": 116.353238
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园东一路",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.2,
     "lat": 40.060015,
     "lng": 116.310946
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-紫晶七星广场",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 85.0,
     "lat": 40.077376,
     "lng": 116.373068
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.0,
     "lat": 40.06564,
     "lng": 116.302465
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天露园一区",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.5,
     "lat": 40.082112,
     "lng": 116.308812
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.9,
     "lat": 40.067361,
     "lng": 116.302765
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.7,
     "lat": 40.06507,
     "lng": 116.341855
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-上北鑫座",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.6,
     "lat": 40.078422,
     "lng": 116.326115
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.7,
     "lat": 40.066156,
     "lng": 116.298698
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府一期",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.07871,
     "lng": 116.328234
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.2,
     "lat": 40.06564,
     "lng": 116.302465
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙旗广场",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.5,
     "lat": 40.064672,
     "lng": 116.339733
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-佰嘉城",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 52.1,
     "lat": 40.079509,
     "lng": 116.303808
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.8,
     "lat": 40.077134,
     "lng": 116.321889
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 92.5,
     "lat": 40.068655,
     "lng": 116.314046
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.9,
     "lat": 40.078247,
     "lng": 116.305589
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:35:34",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.0,
     "lat": 40.090678,
     "lng": 116.330541
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵三期",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.0,
     "lat": 40.079745,
     "lng": 116.347388
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.2,
     "lat": 40.072172,
     "lng": 116.353238
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园二区",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.0,
     "lat": 40.090678,
     "lng": 116.330541
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-田园风光雅苑",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 52.8,
     "lat": 40.087698,
     "lng": 116.343118
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 88.0,
     "lat": 40.071638,
     "lng": 116.331401
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.6,
     "lat": 40.075194,
     "lng": 116.313147
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.5,
     "lat": 40.075194,
     "lng": 116.313147
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.3,
     "lat": 40.068325,
     "lng": 116.338567
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.0,
     "lat": 40.075194,
     "lng": 116.313147
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-七燕路",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.3,
     "lat": 40.105406,
     "lng": 116.312048
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-华府",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.5,
     "lat": 40.070626,
     "lng": 116.330928
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.1,
     "lat": 40.068325,
     "lng": 116.338567
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.066156,
     "lng": 116.298698
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙城花园",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 52.2,
     "lat": 40.083591,
     "lng": 116.293809
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北清云际",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.5,
     "lat": 40.094506,
     "lng": 116.283998
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-马连店",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.0,
     "lat": 40.102045,
     "lng": 116.343075
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.0,
     "lat": 40.06564,
     "lng": 116.302465
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.8,
     "lat": 40.090678,
     "lng": 116.330541
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.7,
     "lat": 40.072172,
     "lng": 116.353238
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.1,
     "lat": 40.074076,
     "lng": 116.356378
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.2,
     "lat": 40.076166,
     "lng": 116.322306
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 93.3,
     "lat": 40.090678,
     "lng": 116.330541
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-吉晟别墅",
     "scraped_at": "2026-05-02 21:35:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.6,
     "lat": 40.063747,
     "lng": 116.335814
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 117.1,
     "lat": 40.081472,
     "lng": 116.333868
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.0,
     "lat": 40.090678,
     "lng": 116.330541
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 85.0,
     "lat": 40.081472,
     "lng": 116.333868
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.7,
     "lat": 40.071434,
     "lng": 116.311695
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵三期",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.9,
     "lat": 40.079745,
     "lng": 116.347388
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.6,
     "lat": 40.078247,
     "lng": 116.305589
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 97.4,
     "lat": 40.07871,
     "lng": 116.328234
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑一区",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.3,
     "lat": 40.07802,
     "lng": 116.346211
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.6,
     "lat": 40.064913,
     "lng": 116.299301
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.0,
     "lat": 40.06564,
     "lng": 116.302465
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.0,
     "lat": 40.068655,
     "lng": 116.314046
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天露园二区",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.4,
     "lat": 40.080738,
     "lng": 116.310272
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.1,
     "lat": 40.06564,
     "lng": 116.302465
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑三区",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.6,
     "lat": 40.076143,
     "lng": 116.326592
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.3,
     "lat": 40.066156,
     "lng": 116.298698
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-和谐家园二区",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.0,
     "lat": 40.08072,
     "lng": 116.35219
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.8,
     "lat": 40.077134,
     "lng": 116.321889
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.5,
     "lat": 40.071434,
     "lng": 116.311695
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-上北鑫座",
     "scraped_at": "2026-05-02 21:36:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.6,
     "lat": 40.078422,
     "lng": 116.326115
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.0,
     "lat": 40.068946,
     "lng": 116.307802
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园二区",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.7,
     "lat": 40.090678,
     "lng": 116.330541
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 95.7,
     "lat": 40.06507,
     "lng": 116.341855
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.6,
     "lat": 40.081472,
     "lng": 116.333868
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.2,
     "lat": 40.068946,
     "lng": 116.307802
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.4,
     "lat": 40.078247,
     "lng": 116.305589
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.8,
     "lat": 40.079915,
     "lng": 116.297407
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.4,
     "lat": 40.076166,
     "lng": 116.322306
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑四区",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 57.3,
     "lat": 40.073982,
     "lng": 116.334299
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.6,
     "lat": 40.074076,
     "lng": 116.356378
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑六区",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.9,
     "lat": 40.073587,
     "lng": 116.327783
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-云趣园三区",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.1,
     "lat": 40.086574,
     "lng": 116.32231
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-上北鑫座",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 102.7,
     "lat": 40.078422,
     "lng": 116.326115
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.9,
     "lat": 40.064913,
     "lng": 116.299301
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.1,
     "lat": 40.077134,
     "lng": 116.321889
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府三期",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.0,
     "lat": 40.068946,
     "lng": 116.307802
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑二区",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.7,
     "lat": 40.077313,
     "lng": 116.331831
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.2,
     "lat": 40.072172,
     "lng": 116.353238
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.4,
     "lat": 40.090678,
     "lng": 116.330541
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.5,
     "lat": 40.077134,
     "lng": 116.321889
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 123.8,
     "lat": 40.07931,
     "lng": 116.30011
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府一期",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.7,
     "lat": 40.07871,
     "lng": 116.328234
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府一期",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 95.3,
     "lat": 40.07871,
     "lng": 116.328234
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.7,
     "lat": 40.066156,
     "lng": 116.298698
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵三期",
     "scraped_at": "2026-05-02 21:36:13",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.1,
     "lat": 40.079745,
     "lng": 116.347388
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.0,
     "lat": 40.071638,
     "lng": 116.331401
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙旗广场",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.4,
     "lat": 40.064672,
     "lng": 116.339733
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园北区",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 60.6,
     "lat": 40.076284,
     "lng": 116.296625
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐二期",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.1,
     "lat": 40.074076,
     "lng": 116.356378
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.4,
     "lat": 40.078247,
     "lng": 116.305589
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 110.9,
     "lat": 40.071434,
     "lng": 116.311695
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.2,
     "lat": 40.077134,
     "lng": 116.321889
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府一期",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 100.5,
     "lat": 40.07871,
     "lng": 116.328234
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.3,
     "lat": 40.072172,
     "lng": 116.353238
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.8,
     "lat": 40.068325,
     "lng": 116.338567
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.7,
     "lat": 40.075194,
     "lng": 116.313147
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.1,
     "lat": 40.06486,
     "lng": 116.30635
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.078247,
     "lng": 116.305589
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园中区",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 57.1,
     "lat": 40.060493,
     "lng": 116.315134
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙锦苑四区",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.4,
     "lat": 40.08186,
     "lng": 116.342948
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 111.8,
     "lat": 40.077493,
     "lng": 116.323978
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.9,
     "lat": 40.077134,
     "lng": 116.321889
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园东一路",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 94.3,
     "lat": 40.060015,
     "lng": 116.310946
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙湖云璟",
     "scraped_at": "2026-05-02 21:36:16",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.9,
     "lat": 40.073874,
     "lng": 116.326208
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙旗广场",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 85.3,
     "lat": 40.064672,
     "lng": 116.339733
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.7,
     "lat": 40.066156,
     "lng": 116.298698
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.5,
     "lat": 40.081472,
     "lng": 116.333868
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北店嘉园",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.3,
     "lat": 40.082,
     "lng": 116.32701
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-琥珀天地",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 88.6,
     "lat": 40.06507,
     "lng": 116.341855
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.6,
     "lat": 40.06507,
     "lng": 116.341855
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 114.0,
     "lat": 40.07871,
     "lng": 116.328234
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙邸",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.0,
     "lat": 40.073874,
     "lng": 116.326208
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.9,
     "lat": 40.075194,
     "lng": 116.313147
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 88.9,
     "lat": 40.075194,
     "lng": 116.313147
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.9,
     "lat": 40.06564,
     "lng": 116.302465
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.1,
     "lat": 40.06564,
     "lng": 116.302465
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.4,
     "lat": 40.059887,
     "lng": 116.310352
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府一期",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 94.5,
     "lat": 40.07871,
     "lng": 116.328234
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北回归线",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.4,
     "lat": 40.078506,
     "lng": 116.344266
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.077493,
     "lng": 116.323978
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.4,
     "lat": 40.068655,
     "lng": 116.314046
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 92.7,
     "lat": 40.07871,
     "lng": 116.328234
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑二区",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.6,
     "lat": 40.077971,
     "lng": 116.339601
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.1,
     "lat": 40.06564,
     "lng": 116.302465
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙锦苑六区",
     "scraped_at": "2026-05-02 21:36:20",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.6,
     "lat": 40.08186,
     "lng": 116.342948
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.6,
     "lat": 40.068655,
     "lng": 116.314046
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡华府",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.3,
     "lat": 40.07871,
     "lng": 116.328234
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.1,
     "lat": 40.072172,
     "lng": 116.353238
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.0,
     "lat": 40.071638,
     "lng": 116.331401
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.4,
     "lat": 40.081472,
     "lng": 116.333868
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.1,
     "lat": 40.079915,
     "lng": 116.297407
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府二期",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 85.1,
     "lat": 40.068946,
     "lng": 116.307802
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.5,
     "lat": 40.075194,
     "lng": 116.313147
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园东一路",
     "scraped_at": "2026-05-02 21:36:25",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.3,
     "lat": 40.062833,
     "lng": 116.308183
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.5,
     "lat": 40.066156,
     "lng": 116.298698
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.9,
     "lat": 40.090678,
     "lng": 116.330541
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.4,
     "lat": 40.077134,
     "lng": 116.321889
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.4,
     "lat": 40.076166,
     "lng": 116.322306
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天慧园",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.3,
     "lat": 40.082256,
     "lng": 116.351347
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.3,
     "lat": 40.090678,
     "lng": 116.330541
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-吉晟别墅",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.5,
     "lat": 40.063747,
     "lng": 116.335814
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.9,
     "lat": 40.072172,
     "lng": 116.353238
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.3,
     "lat": 40.075194,
     "lng": 116.313147
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 101.9,
     "lat": 40.072172,
     "lng": 116.353238
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.9,
     "lat": 40.066156,
     "lng": 116.298698
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 99.4,
     "lat": 40.090678,
     "lng": 116.330541
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑一区",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 42.3,
     "lat": 40.07802,
     "lng": 116.346211
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.6,
     "lat": 40.068655,
     "lng": 116.314046
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 88.2,
     "lat": 40.077134,
     "lng": 116.321889
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑东四区",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.9,
     "lat": 40.072176,
     "lng": 116.352068
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-上北鑫座",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.8,
     "lat": 40.078422,
     "lng": 116.326115
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.5,
     "lat": 40.071434,
     "lng": 116.311695
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.3,
     "lat": 40.064486,
     "lng": 116.304718
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.6,
     "lat": 40.077134,
     "lng": 116.321889
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.066156,
     "lng": 116.298698
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵一期",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.6,
     "lat": 40.079745,
     "lng": 116.347388
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.5,
     "lat": 40.072172,
     "lng": 116.353238
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京城建",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.1,
     "lat": 40.078802,
     "lng": 116.328988
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.2,
     "lat": 40.081472,
     "lng": 116.333868
@@ -6606,7 +6606,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:36:30",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.6,
     "lat": 40.068946,
     "lng": 116.307802
@@ -6625,7 +6625,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.4,
     "lat": 40.068325,
     "lng": 116.338567
@@ -6644,7 +6644,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 57.3,
     "lat": 40.079915,
     "lng": 116.297407
@@ -6663,7 +6663,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.0,
     "lat": 40.075194,
     "lng": 116.313147
@@ -6682,7 +6682,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.1,
     "lat": 40.081472,
     "lng": 116.333868
@@ -6701,7 +6701,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-三合庄北街",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.1,
     "lat": 40.061916,
     "lng": 116.336653
@@ -6720,7 +6720,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.2,
     "lat": 40.071638,
     "lng": 116.331401
@@ -6739,7 +6739,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.5,
     "lat": 40.071638,
     "lng": 116.331401
@@ -6758,7 +6758,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 92.9,
     "lat": 40.068946,
     "lng": 116.307802
@@ -6777,7 +6777,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.5,
     "lat": 40.068946,
     "lng": 116.307802
@@ -6796,7 +6796,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.0,
     "lat": 40.078315,
     "lng": 116.309477
@@ -6815,7 +6815,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 104.0,
     "lat": 40.06507,
     "lng": 116.341855
@@ -6834,7 +6834,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金达园",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.2,
     "lat": 40.058202,
     "lng": 116.317434
@@ -6853,7 +6853,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 88.6,
     "lat": 40.081472,
     "lng": 116.333868
@@ -6872,7 +6872,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.8,
     "lat": 40.077134,
     "lng": 116.321889
@@ -6891,7 +6891,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.2,
     "lat": 40.072172,
     "lng": 116.353238
@@ -6910,7 +6910,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-华府",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.4,
     "lat": 40.070626,
     "lng": 116.330928
@@ -6929,7 +6929,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.7,
     "lat": 40.067361,
     "lng": 116.302765
@@ -6948,7 +6948,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.4,
     "lat": 40.066156,
     "lng": 116.298698
@@ -6967,7 +6967,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.0,
     "lat": 40.078315,
     "lng": 116.309477
@@ -6986,7 +6986,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.7,
     "lat": 40.072172,
     "lng": 116.353238
@@ -7005,7 +7005,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.2,
     "lat": 40.081472,
     "lng": 116.333868
@@ -7024,7 +7024,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 130.1,
     "lat": 40.06507,
     "lng": 116.341855
@@ -7043,7 +7043,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.3,
     "lat": 40.077134,
     "lng": 116.321889
@@ -7062,7 +7062,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.5,
     "lat": 40.064913,
     "lng": 116.299301
@@ -7081,7 +7081,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.0,
     "lat": 40.068946,
     "lng": 116.307802
@@ -7100,7 +7100,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑二区",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.4,
     "lat": 40.077313,
     "lng": 116.331831
@@ -7119,7 +7119,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.4,
     "lat": 40.064486,
     "lng": 116.304718
@@ -7138,7 +7138,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.8,
     "lat": 40.068655,
     "lng": 116.314046
@@ -7157,7 +7157,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙邸",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.3,
     "lat": 40.073874,
     "lng": 116.326208
@@ -7176,7 +7176,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:36:36",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 101.6,
     "lat": 40.081472,
     "lng": 116.333868
@@ -7195,7 +7195,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.7,
     "lat": 40.066156,
     "lng": 116.298698
@@ -7214,7 +7214,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑六区",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.9,
     "lat": 40.073587,
     "lng": 116.327783
@@ -7233,7 +7233,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 85.2,
     "lat": 40.077134,
     "lng": 116.321889
@@ -7252,7 +7252,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.7,
     "lat": 40.068655,
     "lng": 116.314046
@@ -7271,7 +7271,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐二期",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.5,
     "lat": 40.074076,
     "lng": 116.356378
@@ -7290,7 +7290,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 115.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -7309,7 +7309,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.6,
     "lat": 40.059887,
     "lng": 116.310352
@@ -7328,7 +7328,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:36:42",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -7347,7 +7347,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-和谐家园一区",
     "scraped_at": "2026-05-02 21:36:42",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.7,
     "lat": 40.084368,
     "lng": 116.351691
@@ -7366,7 +7366,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:42",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.8,
     "lat": 40.067361,
     "lng": 116.302765
@@ -7385,7 +7385,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:36:42",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.5,
     "lat": 40.077134,
     "lng": 116.321889
@@ -7404,7 +7404,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙禧苑二区",
     "scraped_at": "2026-05-02 21:36:42",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.5,
     "lat": 40.084956,
     "lng": 116.336118
@@ -7423,7 +7423,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙湖云璟",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.9,
     "lat": 40.073874,
     "lng": 116.326208
@@ -7442,7 +7442,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-建发",
     "scraped_at": "2026-05-02 21:36:42",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.9,
     "lat": 40.074771,
     "lng": 116.297915
@@ -7461,7 +7461,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:36:42",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.2,
     "lat": 40.064486,
     "lng": 116.304718
@@ -7480,7 +7480,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.7,
     "lat": 40.079915,
     "lng": 116.297407
@@ -7499,7 +7499,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑东区",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.0,
     "lat": 40.071196,
     "lng": 116.322658
@@ -7518,7 +7518,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.9,
     "lat": 40.090678,
     "lng": 116.330541
@@ -7537,7 +7537,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.3,
     "lat": 40.079915,
     "lng": 116.297407
@@ -7556,7 +7556,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:36:42",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.8,
     "lat": 40.068655,
     "lng": 116.314046
@@ -7575,7 +7575,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑三区",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 52.3,
     "lat": 40.073551,
     "lng": 116.345355
@@ -7594,7 +7594,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.5,
     "lat": 40.067361,
     "lng": 116.302765
@@ -7613,7 +7613,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.4,
     "lat": 40.067361,
     "lng": 116.302765
@@ -7632,7 +7632,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园东一路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 113.6,
     "lat": 40.062833,
     "lng": 116.308183
@@ -7651,7 +7651,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-琥珀天地",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.2,
     "lat": 40.077493,
     "lng": 116.323978
@@ -7670,7 +7670,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.6,
     "lat": 40.06486,
     "lng": 116.30635
@@ -7689,7 +7689,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.8,
     "lat": 40.074076,
     "lng": 116.356378
@@ -7708,7 +7708,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 101.4,
     "lat": 40.081472,
     "lng": 116.333868
@@ -7727,7 +7727,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.0,
     "lat": 40.064486,
     "lng": 116.304718
@@ -7746,7 +7746,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙锦苑六区",
     "scraped_at": "2026-05-02 21:36:42",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.8,
     "lat": 40.08186,
     "lng": 116.342948
@@ -7765,7 +7765,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.2,
     "lat": 40.067361,
     "lng": 116.302765
@@ -7784,7 +7784,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.2,
     "lat": 40.090678,
     "lng": 116.330541
@@ -7803,7 +7803,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.5,
     "lat": 40.078315,
     "lng": 116.309477
@@ -7822,7 +7822,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.1,
     "lat": 40.068655,
     "lng": 116.314046
@@ -7841,7 +7841,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:08",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.6,
     "lat": 40.067361,
     "lng": 116.302765
@@ -7860,7 +7860,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.6,
     "lat": 40.074076,
     "lng": 116.356378
@@ -7879,7 +7879,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.8,
     "lat": 40.06564,
     "lng": 116.302465
@@ -7898,7 +7898,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 99.0,
     "lat": 40.066156,
     "lng": 116.298698
@@ -7917,7 +7917,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑六区",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.3,
     "lat": 40.073587,
     "lng": 116.327783
@@ -7936,7 +7936,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-云趣园一区",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 57.4,
     "lat": 40.08589,
     "lng": 116.321683
@@ -7955,7 +7955,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 88.4,
     "lat": 40.081472,
     "lng": 116.333868
@@ -7974,7 +7974,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.6,
     "lat": 40.078315,
     "lng": 116.309477
@@ -7993,7 +7993,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙回苑",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.1,
     "lat": 40.065389,
     "lng": 116.31587
@@ -8012,7 +8012,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.2,
     "lat": 40.078247,
     "lng": 116.305589
@@ -8031,7 +8031,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.7,
     "lat": 40.077134,
     "lng": 116.321889
@@ -8050,7 +8050,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.2,
     "lat": 40.064486,
     "lng": 116.304718
@@ -8069,7 +8069,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 130.0,
     "lat": 40.06507,
     "lng": 116.341855
@@ -8088,7 +8088,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-慧华苑",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.8,
     "lat": 40.071733,
     "lng": 116.331854
@@ -8107,7 +8107,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 94.6,
     "lat": 40.07871,
     "lng": 116.328234
@@ -8126,7 +8126,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.9,
     "lat": 40.071638,
     "lng": 116.331401
@@ -8145,7 +8145,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.9,
     "lat": 40.090678,
     "lng": 116.330541
@@ -8164,7 +8164,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙城花园",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 50.6,
     "lat": 40.083591,
     "lng": 116.293809
@@ -8183,7 +8183,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 93.0,
     "lat": 40.077134,
     "lng": 116.321889
@@ -8202,7 +8202,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.7,
     "lat": 40.077134,
     "lng": 116.321889
@@ -8221,7 +8221,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙锦苑二区",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 53.9,
     "lat": 40.08186,
     "lng": 116.342948
@@ -8240,7 +8240,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-越秀",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.3,
     "lat": 40.078802,
     "lng": 116.328988
@@ -8259,7 +8259,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-风雅园三区",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 52.9,
     "lat": 40.078049,
     "lng": 116.316525
@@ -8278,7 +8278,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园东一路",
     "scraped_at": "2026-05-02 21:37:18",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.1,
     "lat": 40.062833,
     "lng": 116.308183
@@ -8297,7 +8297,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.9,
     "lat": 40.068655,
     "lng": 116.314046
@@ -8316,7 +8316,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京城建畅悦居",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 60.0,
     "lat": 40.078802,
     "lng": 116.328988
@@ -8335,7 +8335,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.3,
     "lat": 40.068325,
     "lng": 116.338567
@@ -8354,7 +8354,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.1,
     "lat": 40.081472,
     "lng": 116.333868
@@ -8373,7 +8373,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.7,
     "lat": 40.068325,
     "lng": 116.338567
@@ -8392,7 +8392,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.4,
     "lat": 40.078315,
     "lng": 116.309477
@@ -8411,7 +8411,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.2,
     "lat": 40.06564,
     "lng": 116.302465
@@ -8430,7 +8430,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园北区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 51.5,
     "lat": 40.076284,
     "lng": 116.296625
@@ -8449,7 +8449,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 88.0,
     "lat": 40.071638,
     "lng": 116.331401
@@ -8468,7 +8468,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-风雅园三区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 60.2,
     "lat": 40.078049,
     "lng": 116.316525
@@ -8487,7 +8487,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑一区",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 52.0,
     "lat": 40.07802,
     "lng": 116.346211
@@ -8506,7 +8506,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-田园风光雅苑",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 50.2,
     "lat": 40.087698,
     "lng": 116.343118
@@ -8525,7 +8525,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-七燕路",
     "scraped_at": "2026-05-02 21:37:24",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.1,
     "lat": 40.105406,
     "lng": 116.312048
@@ -8544,7 +8544,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-冠庭园",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.8,
     "lat": 40.074256,
     "lng": 116.312568
@@ -8563,7 +8563,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-云趣园三区",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.1,
     "lat": 40.086574,
     "lng": 116.32231
@@ -8582,7 +8582,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 133.5,
     "lat": 40.077493,
     "lng": 116.323978
@@ -8601,7 +8601,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵二期",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 119.6,
     "lat": 40.079745,
     "lng": 116.347388
@@ -8620,7 +8620,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 99.0,
     "lat": 40.068655,
     "lng": 116.314046
@@ -8639,7 +8639,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.9,
     "lat": 40.064486,
     "lng": 116.304718
@@ -8658,7 +8658,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.9,
     "lat": 40.072172,
     "lng": 116.353238
@@ -8677,7 +8677,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵二期",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.7,
     "lat": 40.079745,
     "lng": 116.347388
@@ -8696,7 +8696,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-上北鑫座",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.6,
     "lat": 40.078422,
     "lng": 116.326115
@@ -8715,7 +8715,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.3,
     "lat": 40.066156,
     "lng": 116.298698
@@ -8734,7 +8734,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.7,
     "lat": 40.074076,
     "lng": 116.356378
@@ -8753,7 +8753,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 46.8,
     "lat": 40.071434,
     "lng": 116.311695
@@ -8772,7 +8772,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙城花园北二区",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 97.4,
     "lat": 40.081999,
     "lng": 116.297049
@@ -8791,7 +8791,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-上北鑫座",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.8,
     "lat": 40.078422,
     "lng": 116.326115
@@ -8810,7 +8810,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园二区",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.7,
     "lat": 40.090678,
     "lng": 116.330541
@@ -8829,7 +8829,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 110.2,
     "lat": 40.081472,
     "lng": 116.333868
@@ -8848,7 +8848,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.1,
     "lat": 40.077134,
     "lng": 116.321889
@@ -8867,7 +8867,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 92.0,
     "lat": 40.071638,
     "lng": 116.331401
@@ -8886,7 +8886,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 97.8,
     "lat": 40.071638,
     "lng": 116.331401
@@ -8905,7 +8905,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐一期",
     "scraped_at": "2026-05-02 21:37:33",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.0,
     "lat": 40.074076,
     "lng": 116.356378
@@ -8924,7 +8924,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 123.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -8943,7 +8943,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 51.9,
     "lat": 40.076166,
     "lng": 116.322306
@@ -8962,7 +8962,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.7,
     "lat": 40.074076,
     "lng": 116.356378
@@ -8981,7 +8981,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.6,
     "lat": 40.06486,
     "lng": 116.30635
@@ -9000,7 +9000,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.2,
     "lat": 40.064913,
     "lng": 116.299301
@@ -9019,7 +9019,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.7,
     "lat": 40.066156,
     "lng": 116.298698
@@ -9038,7 +9038,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.9,
     "lat": 40.064486,
     "lng": 116.304718
@@ -9057,7 +9057,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.7,
     "lat": 40.075194,
     "lng": 116.313147
@@ -9076,7 +9076,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.5,
     "lat": 40.071434,
     "lng": 116.311695
@@ -9095,7 +9095,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京市农学院家属宿舍",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.6,
     "lat": 40.090116,
     "lng": 116.300128
@@ -9114,7 +9114,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.5,
     "lat": 40.076166,
     "lng": 116.322306
@@ -9133,7 +9133,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-回龙观新村西区",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.1,
     "lat": 40.061,
     "lng": 116.30076
@@ -9152,7 +9152,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.0,
     "lat": 40.068655,
     "lng": 116.314046
@@ -9171,7 +9171,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.0,
     "lat": 40.071638,
     "lng": 116.331401
@@ -9190,7 +9190,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.1,
     "lat": 40.067361,
     "lng": 116.302765
@@ -9209,7 +9209,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙旗广场",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.4,
     "lat": 40.064672,
     "lng": 116.339733
@@ -9228,7 +9228,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.5,
     "lat": 40.079915,
     "lng": 116.297407
@@ -9247,7 +9247,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.6,
     "lat": 40.078247,
     "lng": 116.305589
@@ -9266,7 +9266,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 116.7,
     "lat": 40.06507,
     "lng": 116.341855
@@ -9285,7 +9285,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.7,
     "lat": 40.071434,
     "lng": 116.311695
@@ -9304,7 +9304,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 98.1,
     "lat": 40.081472,
     "lng": 116.333868
@@ -9323,7 +9323,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园中区",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.8,
     "lat": 40.060493,
     "lng": 116.315134
@@ -9342,7 +9342,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.5,
     "lat": 40.068946,
     "lng": 116.307802
@@ -9361,7 +9361,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐二期",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.9,
     "lat": 40.074076,
     "lng": 116.356378
@@ -9380,7 +9380,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 94.4,
     "lat": 40.081472,
     "lng": 116.333868
@@ -9399,7 +9399,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.0,
     "lat": 40.06564,
     "lng": 116.302465
@@ -9418,7 +9418,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.9,
     "lat": 40.071638,
     "lng": 116.331401
@@ -9437,7 +9437,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:37:40",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.7,
     "lat": 40.072172,
     "lng": 116.353238
@@ -9456,7 +9456,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.8,
     "lat": 40.068655,
     "lng": 116.314046
@@ -9475,7 +9475,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.1,
     "lat": 40.090678,
     "lng": 116.330541
@@ -9494,7 +9494,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙旗广场",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.3,
     "lat": 40.064672,
     "lng": 116.339733
@@ -9513,7 +9513,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 106.7,
     "lat": 40.07931,
     "lng": 116.30011
@@ -9532,7 +9532,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 93.8,
     "lat": 40.072172,
     "lng": 116.353238
@@ -9551,7 +9551,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.7,
     "lat": 40.06564,
     "lng": 116.302465
@@ -9570,7 +9570,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园北区",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 50.8,
     "lat": 40.076284,
     "lng": 116.296625
@@ -9589,7 +9589,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.3,
     "lat": 40.068655,
     "lng": 116.314046
@@ -9608,7 +9608,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 38.8,
     "lat": 40.076166,
     "lng": 116.322306
@@ -9627,7 +9627,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.4,
     "lat": 40.066156,
     "lng": 116.298698
@@ -9646,7 +9646,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北清云际",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.7,
     "lat": 40.094506,
     "lng": 116.283998
@@ -9665,7 +9665,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.4,
     "lat": 40.067361,
     "lng": 116.302765
@@ -9684,7 +9684,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-建发",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.3,
     "lat": 40.074771,
     "lng": 116.297915
@@ -9703,7 +9703,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 105.4,
     "lat": 40.081472,
     "lng": 116.333868
@@ -9722,7 +9722,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.9,
     "lat": 40.07871,
     "lng": 116.328234
@@ -9741,7 +9741,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑四区",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.1,
     "lat": 40.073186,
     "lng": 116.343107
@@ -9760,7 +9760,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.0,
     "lat": 40.068325,
     "lng": 116.338567
@@ -9779,7 +9779,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.7,
     "lat": 40.078315,
     "lng": 116.309477
@@ -9798,7 +9798,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东村家园",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 99.4,
     "lat": 40.063269,
     "lng": 116.339265
@@ -9817,7 +9817,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.1,
     "lat": 40.090678,
     "lng": 116.330541
@@ -9836,7 +9836,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵一期",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.9,
     "lat": 40.079745,
     "lng": 116.347388
@@ -9855,7 +9855,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-马连店",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.2,
     "lat": 40.102045,
     "lng": 116.343075
@@ -9874,7 +9874,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府一期",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.7,
     "lat": 40.07871,
     "lng": 116.328234
@@ -9893,7 +9893,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.0,
     "lat": 40.072172,
     "lng": 116.353238
@@ -9912,7 +9912,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-和谐家园一区",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.1,
     "lat": 40.084368,
     "lng": 116.351691
@@ -9931,7 +9931,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 57.0,
     "lat": 40.078315,
     "lng": 116.309477
@@ -9950,7 +9950,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑东区",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.7,
     "lat": 40.071196,
     "lng": 116.322658
@@ -9969,7 +9969,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北郊农场宿舍",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.7,
     "lat": 40.071966,
     "lng": 116.306408
@@ -9988,7 +9988,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.3,
     "lat": 40.081472,
     "lng": 116.333868
@@ -10007,7 +10007,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.8,
     "lat": 40.068655,
     "lng": 116.314046
@@ -10026,7 +10026,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.5,
     "lat": 40.074076,
     "lng": 116.356378
@@ -10045,7 +10045,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.7,
     "lat": 40.06507,
     "lng": 116.341855
@@ -10064,7 +10064,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:37:45",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.3,
     "lat": 40.074076,
     "lng": 116.356378
@@ -10083,7 +10083,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.8,
     "lat": 40.071434,
     "lng": 116.311695
@@ -10102,7 +10102,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 53.3,
     "lat": 40.079915,
     "lng": 116.297407
@@ -10121,7 +10121,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 122.8,
     "lat": 40.06507,
     "lng": 116.341855
@@ -10140,7 +10140,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.1,
     "lat": 40.078315,
     "lng": 116.309477
@@ -10159,7 +10159,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.5,
     "lat": 40.064486,
     "lng": 116.304718
@@ -10178,7 +10178,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑东区",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.3,
     "lat": 40.071196,
     "lng": 116.322658
@@ -10197,7 +10197,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 53.5,
     "lat": 40.078315,
     "lng": 116.309477
@@ -10216,7 +10216,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:37:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.7,
     "lat": 40.076166,
     "lng": 116.322306
@@ -10235,7 +10235,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.8,
     "lat": 40.081472,
     "lng": 116.333868
@@ -10254,7 +10254,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.9,
     "lat": 40.06507,
     "lng": 116.341855
@@ -10273,7 +10273,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐一期",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.2,
     "lat": 40.074076,
     "lng": 116.356378
@@ -10292,7 +10292,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.9,
     "lat": 40.077134,
     "lng": 116.321889
@@ -10311,7 +10311,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵一期",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.9,
     "lat": 40.079745,
     "lng": 116.347388
@@ -10330,7 +10330,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 97.7,
     "lat": 40.071638,
     "lng": 116.331401
@@ -10349,7 +10349,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.8,
     "lat": 40.066156,
     "lng": 116.298698
@@ -10368,7 +10368,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.1,
     "lat": 40.074076,
     "lng": 116.356378
@@ -10387,7 +10387,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.4,
     "lat": 40.081472,
     "lng": 116.333868
@@ -10406,7 +10406,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园北区",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 47.7,
     "lat": 40.076284,
     "lng": 116.296625
@@ -10425,7 +10425,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.8,
     "lat": 40.059887,
     "lng": 116.310352
@@ -10444,7 +10444,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开智慧社",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.7,
     "lat": 40.071638,
     "lng": 116.331401
@@ -10463,7 +10463,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-上北鑫座",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.9,
     "lat": 40.078422,
     "lng": 116.326115
@@ -10482,7 +10482,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园中区",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.1,
     "lat": 40.060493,
     "lng": 116.315134
@@ -10501,7 +10501,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园二区",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.6,
     "lat": 40.090678,
     "lng": 116.330541
@@ -10520,7 +10520,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园东一路",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 90.0,
     "lat": 40.062833,
     "lng": 116.308183
@@ -10539,7 +10539,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 114.1,
     "lat": 40.06507,
     "lng": 116.341855
@@ -10558,7 +10558,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.1,
     "lat": 40.06486,
     "lng": 116.30635
@@ -10577,7 +10577,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.1,
     "lat": 40.06486,
     "lng": 116.30635
@@ -10596,7 +10596,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 53.3,
     "lat": 40.06486,
     "lng": 116.30635
@@ -10615,7 +10615,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.1,
     "lat": 40.06486,
     "lng": 116.30635
@@ -10634,7 +10634,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.3,
     "lat": 40.06486,
     "lng": 116.30635
@@ -10653,7 +10653,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.1,
     "lat": 40.06486,
     "lng": 116.30635
@@ -10672,7 +10672,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.1,
     "lat": 40.074076,
     "lng": 116.356378
@@ -10691,7 +10691,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:38:22",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.4,
     "lat": 40.068946,
     "lng": 116.307802
@@ -10710,7 +10710,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.1,
     "lat": 40.06564,
     "lng": 116.302465
@@ -10729,7 +10729,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-云趣园一区",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 55.6,
     "lat": 40.08589,
     "lng": 116.321683
@@ -10748,7 +10748,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-云趣园一区",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.2,
     "lat": 40.08589,
     "lng": 116.321683
@@ -10767,7 +10767,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园三区",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.5,
     "lat": 40.090678,
     "lng": 116.330541
@@ -10786,7 +10786,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京城建畅悦居",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 53.9,
     "lat": 40.078802,
     "lng": 116.328988
@@ -10805,7 +10805,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐二期",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.9,
     "lat": 40.074076,
     "lng": 116.356378
@@ -10824,7 +10824,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.6,
     "lat": 40.067361,
     "lng": 116.302765
@@ -10843,7 +10843,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-田园风光雅苑",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 55.8,
     "lat": 40.087698,
     "lng": 116.343118
@@ -10862,7 +10862,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑东区",
     "scraped_at": "2026-05-02 21:38:31",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.9,
     "lat": 40.071196,
     "lng": 116.322658
@@ -10881,7 +10881,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.7,
     "lat": 40.064486,
     "lng": 116.304718
@@ -10900,7 +10900,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.6,
     "lat": 40.076166,
     "lng": 116.322306
@@ -10919,7 +10919,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 92.0,
     "lat": 40.081472,
     "lng": 116.333868
@@ -10938,7 +10938,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.3,
     "lat": 40.081472,
     "lng": 116.333868
@@ -10957,7 +10957,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.8,
     "lat": 40.064913,
     "lng": 116.299301
@@ -10976,7 +10976,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 85.5,
     "lat": 40.079915,
     "lng": 116.297407
@@ -10995,7 +10995,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.7,
     "lat": 40.066156,
     "lng": 116.298698
@@ -11014,7 +11014,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵三期",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.2,
     "lat": 40.079745,
     "lng": 116.347388
@@ -11033,7 +11033,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.6,
     "lat": 40.077134,
     "lng": 116.321889
@@ -11052,7 +11052,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府三期",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.7,
     "lat": 40.068946,
     "lng": 116.307802
@@ -11071,7 +11071,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.5,
     "lat": 40.06507,
     "lng": 116.341855
@@ -11090,7 +11090,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.9,
     "lat": 40.077134,
     "lng": 116.321889
@@ -11109,7 +11109,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 98.6,
     "lat": 40.068655,
     "lng": 116.314046
@@ -11128,7 +11128,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐一期",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.8,
     "lat": 40.074076,
     "lng": 116.356378
@@ -11147,7 +11147,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金达园",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.3,
     "lat": 40.058202,
     "lng": 116.317434
@@ -11166,7 +11166,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天巢园",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.6,
     "lat": 40.082256,
     "lng": 116.351347
@@ -11185,7 +11185,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑东区",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 110.2,
     "lat": 40.071196,
     "lng": 116.322658
@@ -11204,7 +11204,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园二区",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 89.5,
     "lat": 40.090678,
     "lng": 116.330541
@@ -11223,7 +11223,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 92.3,
     "lat": 40.067361,
     "lng": 116.302765
@@ -11242,7 +11242,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.2,
     "lat": 40.078247,
     "lng": 116.305589
@@ -11261,7 +11261,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:38:38",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.4,
     "lat": 40.071434,
     "lng": 116.311695
@@ -11280,7 +11280,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-云趣园二区",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.4,
     "lat": 40.086574,
     "lng": 116.32231
@@ -11299,7 +11299,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 98.1,
     "lat": 40.06507,
     "lng": 116.341855
@@ -11318,7 +11318,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-奥森春晓",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.9,
     "lat": 40.06507,
     "lng": 116.341855
@@ -11337,7 +11337,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.9,
     "lat": 40.067361,
     "lng": 116.302765
@@ -11356,7 +11356,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.5,
     "lat": 40.06486,
     "lng": 116.30635
@@ -11375,7 +11375,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北清云际",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.7,
     "lat": 40.094506,
     "lng": 116.283998
@@ -11394,7 +11394,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.2,
     "lat": 40.077134,
     "lng": 116.321889
@@ -11413,7 +11413,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙禧苑五区",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 35.3,
     "lat": 40.078547,
     "lng": 116.327818
@@ -11432,7 +11432,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑二区",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 60.0,
     "lat": 40.068325,
     "lng": 116.338567
@@ -11451,7 +11451,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.1,
     "lat": 40.067361,
     "lng": 116.302765
@@ -11470,7 +11470,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.8,
     "lat": 40.079915,
     "lng": 116.297407
@@ -11489,7 +11489,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.5,
     "lat": 40.071434,
     "lng": 116.311695
@@ -11508,7 +11508,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.8,
     "lat": 40.075194,
     "lng": 116.313147
@@ -11527,7 +11527,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.1,
     "lat": 40.077134,
     "lng": 116.321889
@@ -11546,7 +11546,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 58.9,
     "lat": 40.06486,
     "lng": 116.30635
@@ -11565,7 +11565,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.4,
     "lat": 40.06486,
     "lng": 116.30635
@@ -11584,7 +11584,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.5,
     "lat": 40.06486,
     "lng": 116.30635
@@ -11603,7 +11603,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天巢园",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.7,
     "lat": 40.082256,
     "lng": 116.351347
@@ -11622,7 +11622,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:46",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.4,
     "lat": 40.06486,
     "lng": 116.30635
@@ -11641,7 +11641,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.2,
     "lat": 40.064486,
     "lng": 116.304718
@@ -11660,7 +11660,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.3,
     "lat": 40.06486,
     "lng": 116.30635
@@ -11679,7 +11679,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.9,
     "lat": 40.081472,
     "lng": 116.333868
@@ -11698,7 +11698,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.8,
     "lat": 40.06486,
     "lng": 116.30635
@@ -11717,7 +11717,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.1,
     "lat": 40.06486,
     "lng": 116.30635
@@ -11736,7 +11736,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.0,
     "lat": 40.077134,
     "lng": 116.321889
@@ -11755,7 +11755,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万龙社区",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.7,
     "lat": 40.065031,
     "lng": 116.321235
@@ -11774,7 +11774,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.5,
     "lat": 40.068655,
     "lng": 116.314046
@@ -11793,7 +11793,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 85.4,
     "lat": 40.081472,
     "lng": 116.333868
@@ -11812,7 +11812,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府二区",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 80.8,
     "lat": 40.078247,
     "lng": 116.305589
@@ -11831,7 +11831,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.9,
     "lat": 40.06507,
     "lng": 116.341855
@@ -11850,7 +11850,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-奥森春晓",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 57.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -11869,7 +11869,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园东一路",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.5,
     "lat": 40.062833,
     "lng": 116.308183
@@ -11888,7 +11888,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.9,
     "lat": 40.081472,
     "lng": 116.333868
@@ -11907,7 +11907,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京人家",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.7,
     "lat": 40.079915,
     "lng": 116.297407
@@ -11926,7 +11926,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -11945,7 +11945,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 115.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -11964,7 +11964,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.8,
     "lat": 40.072172,
     "lng": 116.353238
@@ -11983,7 +11983,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-云趣园三区",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.1,
     "lat": 40.086574,
     "lng": 116.32231
@@ -12002,7 +12002,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙禧苑五区",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 55.4,
     "lat": 40.078547,
     "lng": 116.327818
@@ -12021,7 +12021,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.9,
     "lat": 40.077134,
     "lng": 116.321889
@@ -12040,7 +12040,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.4,
     "lat": 40.06507,
     "lng": 116.341855
@@ -12059,7 +12059,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 79.5,
     "lat": 40.068655,
     "lng": 116.314046
@@ -12078,7 +12078,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 70.0,
     "lat": 40.06486,
     "lng": 116.30635
@@ -12097,7 +12097,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园西二路",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.4,
     "lat": 40.066156,
     "lng": 116.298698
@@ -12116,7 +12116,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:38:55",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 66.0,
     "lat": 40.06564,
     "lng": 116.302465
@@ -12135,7 +12135,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑三区",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 48.5,
     "lat": 40.073551,
     "lng": 116.345355
@@ -12154,7 +12154,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 82.3,
     "lat": 40.081472,
     "lng": 116.333868
@@ -12173,7 +12173,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北清云际",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.3,
     "lat": 40.094506,
     "lng": 116.283998
@@ -12192,7 +12192,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京市农学院家属宿舍",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.6,
     "lat": 40.090116,
     "lng": 116.300128
@@ -12211,7 +12211,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑二区",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.8,
     "lat": 40.077313,
     "lng": 116.331831
@@ -12230,7 +12230,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北清云际",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.4,
     "lat": 40.094506,
     "lng": 116.283998
@@ -12249,7 +12249,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑三区",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 43.0,
     "lat": 40.076143,
     "lng": 116.326592
@@ -12268,7 +12268,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北清云际",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.8,
     "lat": 40.094506,
     "lng": 116.283998
@@ -12287,7 +12287,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.0,
     "lat": 40.06486,
     "lng": 116.30635
@@ -12306,7 +12306,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 125.3,
     "lat": 40.07931,
     "lng": 116.30011
@@ -12325,7 +12325,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.7,
     "lat": 40.06486,
     "lng": 116.30635
@@ -12344,7 +12344,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-三合庄北街",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.8,
     "lat": 40.061916,
     "lng": 116.336653
@@ -12363,7 +12363,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-京投发展公园悦府一区",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.2,
     "lat": 40.078247,
     "lng": 116.305589
@@ -12382,7 +12382,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑四区",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 41.7,
     "lat": 40.073186,
     "lng": 116.343107
@@ -12401,7 +12401,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙城花园北二区",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 59.6,
     "lat": 40.081999,
     "lng": 116.297049
@@ -12420,7 +12420,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.8,
     "lat": 40.075194,
     "lng": 116.313147
@@ -12439,7 +12439,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 55.2,
     "lat": 40.078315,
     "lng": 116.309477
@@ -12458,7 +12458,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-流星花园二区",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 86.8,
     "lat": 40.090678,
     "lng": 116.330541
@@ -12477,7 +12477,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-华府",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 81.1,
     "lat": 40.070626,
     "lng": 116.330928
@@ -12496,7 +12496,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园中区",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.3,
     "lat": 40.060493,
     "lng": 116.315134
@@ -12515,7 +12515,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-天巢园",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.1,
     "lat": 40.082256,
     "lng": 116.351347
@@ -12534,7 +12534,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 62.4,
     "lat": 40.067361,
     "lng": 116.302765
@@ -12553,7 +12553,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府二期",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 78.2,
     "lat": 40.07871,
     "lng": 116.328234
@@ -12572,7 +12572,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-紫晶七星广场",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 95.0,
     "lat": 40.077376,
     "lng": 116.373068
@@ -12591,7 +12591,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑东四区",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 61.8,
     "lat": 40.072176,
     "lng": 116.352068
@@ -12610,7 +12610,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府一期",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.8,
     "lat": 40.068946,
     "lng": 116.307802
@@ -12629,7 +12629,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.0,
     "lat": 40.075194,
     "lng": 116.313147
@@ -12648,7 +12648,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙华园",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 73.3,
     "lat": 40.076166,
     "lng": 116.322306
@@ -12667,7 +12667,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:26",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 88.7,
     "lat": 40.067361,
     "lng": 116.302765
@@ -12686,7 +12686,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐三期",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 69.7,
     "lat": 40.074076,
     "lng": 116.356378
@@ -12705,7 +12705,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-万橡悦府一期",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 85.7,
     "lat": 40.07871,
     "lng": 116.328234
@@ -12724,7 +12724,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.9,
     "lat": 40.06564,
     "lng": 116.302465
@@ -12743,7 +12743,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑三区",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 48.2,
     "lat": 40.076143,
     "lng": 116.326592
@@ -12762,7 +12762,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金达园",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.2,
     "lat": 40.058202,
     "lng": 116.317434
@@ -12781,7 +12781,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙城花园北二区",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 88.7,
     "lat": 40.081999,
     "lng": 116.297049
@@ -12800,7 +12800,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-紫晶七星广场",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 76.9,
     "lat": 40.077376,
     "lng": 116.373068
@@ -12819,7 +12819,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-新龙城",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 109.8,
     "lat": 40.068655,
     "lng": 116.314046
@@ -12838,7 +12838,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 67.8,
     "lat": 40.06507,
     "lng": 116.341855
@@ -12857,7 +12857,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 101.6,
     "lat": 40.081472,
     "lng": 116.333868
@@ -12876,7 +12876,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙泽苑西区",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 111.1,
     "lat": 40.071434,
     "lng": 116.311695
@@ -12895,7 +12895,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑四区",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 50.1,
     "lat": 40.073186,
     "lng": 116.343107
@@ -12914,7 +12914,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-三合庄北街",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.8,
     "lat": 40.061916,
     "lng": 116.336653
@@ -12933,7 +12933,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 63.1,
     "lat": 40.06564,
     "lng": 116.302465
@@ -12952,7 +12952,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 83.6,
     "lat": 40.081472,
     "lng": 116.333868
@@ -12971,7 +12971,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-尚城",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 93.6,
     "lat": 40.06507,
     "lng": 116.341855
@@ -12990,7 +12990,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-北京城建畅悦居",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 49.8,
     "lat": 40.078802,
     "lng": 116.328988
@@ -13009,7 +13009,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.4,
     "lat": 40.081472,
     "lng": 116.333868
@@ -13028,7 +13028,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑东二区",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.9,
     "lat": 40.07578,
     "lng": 116.348807
@@ -13047,7 +13047,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-奥森春晓",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 60.0,
     "lat": 40.06507,
     "lng": 116.341855
@@ -13066,7 +13066,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-越秀",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 71.4,
     "lat": 40.078802,
     "lng": 116.328988
@@ -13085,7 +13085,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 95.8,
     "lat": 40.067361,
     "lng": 116.302765
@@ -13104,7 +13104,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-风雅园一区",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 54.2,
     "lat": 40.083393,
     "lng": 116.317383
@@ -13123,7 +13123,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:43",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.0,
     "lat": 40.06564,
     "lng": 116.302465
@@ -13142,7 +13142,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 106.8,
     "lat": 40.06507,
     "lng": 116.341855
@@ -13161,7 +13161,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙腾苑六区",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 53.6,
     "lat": 40.073587,
     "lng": 116.327783
@@ -13180,7 +13180,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府二期",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 87.8,
     "lat": 40.068946,
     "lng": 116.307802
@@ -13199,7 +13199,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-马连店",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 64.3,
     "lat": 40.102045,
     "lng": 116.343075
@@ -13218,7 +13218,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-矩阵一期",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.8,
     "lat": 40.079745,
     "lng": 116.347388
@@ -13237,7 +13237,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 96.4,
     "lat": 40.06564,
     "lng": 116.302465
@@ -13256,7 +13256,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-博学西路",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 65.4,
     "lat": 40.06486,
     "lng": 116.30635
@@ -13275,7 +13275,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 91.3,
     "lat": 40.081472,
     "lng": 116.333868
@@ -13294,7 +13294,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-大华启宸府",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.6,
     "lat": 40.075194,
     "lng": 116.313147
@@ -13313,7 +13313,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-金域华府二期",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 93.8,
     "lat": 40.068946,
     "lng": 116.307802
@@ -13332,7 +13332,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-领秀慧谷",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 68.3,
     "lat": 40.077134,
     "lng": 116.321889
@@ -13351,7 +13351,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-奥森春晓",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 60.9,
     "lat": 40.06507,
     "lng": 116.341855
@@ -13370,7 +13370,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-首开国风美唐综合楼",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.2,
     "lat": 40.072172,
     "lng": 116.353238
@@ -13389,7 +13389,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙跃苑一区",
     "scraped_at": "2026-05-02 21:39:49",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 48.9,
     "lat": 40.07802,
     "lng": 116.346211
@@ -13408,7 +13408,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 84.2,
     "lat": 40.081472,
     "lng": 116.333868
@@ -13427,7 +13427,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 72.6,
     "lat": 40.064486,
     "lng": 116.304718
@@ -13446,7 +13446,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-国仕汇",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 52.9,
     "lat": 40.078315,
     "lng": 116.309477
@@ -13465,7 +13465,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙城花园北二区",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 74.6,
     "lat": 40.081999,
     "lng": 116.297049
@@ -13484,7 +13484,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 75.3,
     "lat": 40.067361,
     "lng": 116.302765
@@ -13503,7 +13503,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙兴园北区",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 56.5,
     "lat": 40.076284,
     "lng": 116.296625
@@ -13522,7 +13522,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-佰嘉城",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 49.8,
     "lat": 40.079509,
     "lng": 116.303808
@@ -13541,7 +13541,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-融泽嘉园中路",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 77.3,
     "lat": 40.067361,
     "lng": 116.302765
@@ -13560,7 +13560,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-龙博苑三区",
     "scraped_at": "2026-05-02 21:39:57",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 101.9,
     "lat": 40.068325,
     "lng": 116.338567
@@ -13579,7 +13579,7 @@
     "rent_type": "整租",
     "location": "昌平区-回龙观-东亚上北中心",
     "scraped_at": "2026-05-02 21:40:02",
-    "region": "huilongguan2",
+    "region": "回龙观",
     "unit_price": 92.4,
     "lat": 40.081472,
     "lng": 116.333868

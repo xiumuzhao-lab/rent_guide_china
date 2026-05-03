@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-恒大未来城",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 47.4,
     "lat": 39.713139,
     "lng": 116.309523
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 59.5,
     "lat": 39.711711,
     "lng": 116.311817
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 52.5,
     "lat": 39.711711,
     "lng": 116.311817
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-佟馨家园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 39.4,
     "lat": 39.724596,
     "lng": 116.306448
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 56.6,
     "lat": 39.711711,
     "lng": 116.311817
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 77.8,
     "lat": 39.711711,
     "lng": 116.311817
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-联港嘉园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 30.8,
     "lat": 39.698362,
     "lng": 116.291196
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-佟馨家园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 41.2,
     "lat": 39.724596,
     "lng": 116.306448
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 58.3,
     "lat": 39.709918,
     "lng": 116.308775
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-恒大未来城",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 54.6,
     "lat": 39.713139,
     "lng": 116.309523
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-恒大未来城",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 40.8,
     "lat": 39.713139,
     "lng": 116.309523
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-德贤华府",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 50.0,
     "lat": 39.785963,
     "lng": 116.320743
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-联港嘉园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 35.7,
     "lat": 39.698362,
     "lng": 116.291196
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-佟馨家园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 40.4,
     "lat": 39.723266,
     "lng": 116.305078
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 49.5,
     "lat": 39.711711,
     "lng": 116.311817
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 79.3,
     "lat": 39.711711,
     "lng": 116.311817
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 54.3,
     "lat": 39.711446,
     "lng": 116.310749
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-恒大未来城",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 40.8,
     "lat": 39.713139,
     "lng": 116.309523
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 60.2,
     "lat": 39.711711,
     "lng": 116.311817
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-恒大未来城",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 46.6,
     "lat": 39.713139,
     "lng": 116.309523
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-联港嘉园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 36.5,
     "lat": 39.697906,
     "lng": 116.288818
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-佟馨家园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 37.5,
     "lat": 39.723266,
     "lng": 116.305078
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-恒大未来城",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 52.6,
     "lat": 39.713139,
     "lng": 116.309523
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-恒大未来城",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 53.2,
     "lat": 39.713139,
     "lng": 116.309523
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-佟馨家园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 61.2,
     "lat": 39.723266,
     "lng": 116.305078
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-恒大未来城",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 45.1,
     "lat": 39.713139,
     "lng": 116.309523
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-恒大未来城",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 47.7,
     "lat": 39.713139,
     "lng": 116.309523
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-佟馨家园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 57.0,
     "lat": 39.723266,
     "lng": 116.305078
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-万科天地",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 70.7,
     "lat": 39.711711,
     "lng": 116.311817
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "大兴区-义和庄-佟馨家园",
     "scraped_at": "2026-05-02 22:53:41",
-    "region": "yihezhuang",
+    "region": "义和庄",
     "unit_price": 47.2,
     "lat": 39.723266,
     "lng": 116.305078

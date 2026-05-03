@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-南竺园",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 50.0,
     "lat": 40.048496,
     "lng": 116.584718
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-南竺园",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 49.2,
     "lat": 40.048496,
     "lng": 116.584718
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-蓝天苑",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 36.6,
     "lat": 40.040282,
     "lng": 116.589739
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-天竺新村",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 33.0,
     "lat": 40.060542,
     "lng": 116.56589
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-蓝海苑",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 44.5,
     "lat": 40.040282,
     "lng": 116.589739
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-东平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 79.0,
     "lat": 40.044694,
     "lng": 116.589117
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-北平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 36.2,
     "lat": 40.078556,
     "lng": 116.586398
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-天竺新村",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 37.5,
     "lat": 40.060542,
     "lng": 116.56589
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-南平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 51.7,
     "lat": 40.044636,
     "lng": 116.589045
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-蓝海苑",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 46.6,
     "lat": 40.040282,
     "lng": 116.589739
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-蓝海苑",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 50.4,
     "lat": 40.040282,
     "lng": 116.589739
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-南平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 47.2,
     "lat": 40.044636,
     "lng": 116.589045
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-西平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 49.6,
     "lat": 40.044397,
     "lng": 116.586145
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-南竺园",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 45.2,
     "lat": 40.048496,
     "lng": 116.584718
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-首都机场南路西里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 45.5,
     "lat": 40.048798,
     "lng": 116.586767
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-南平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 55.8,
     "lat": 40.044636,
     "lng": 116.589045
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-南平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 62.9,
     "lat": 40.044636,
     "lng": 116.589045
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-南竺园",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 42.4,
     "lat": 40.048496,
     "lng": 116.584718
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-南平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 52.3,
     "lat": 40.044636,
     "lng": 116.589045
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-蓝海苑",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 46.7,
     "lat": 40.040282,
     "lng": 116.589739
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-南平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 48.1,
     "lat": 40.044636,
     "lng": 116.589045
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-燕翔东里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 43.3,
     "lat": 40.046871,
     "lng": 116.589104
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-燕翔西里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 41.4,
     "lat": 40.046871,
     "lng": 116.589104
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-天竺新村",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 34.0,
     "lat": 40.060542,
     "lng": 116.56589
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-机场南路东里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 56.1,
     "lat": 40.046668,
     "lng": 116.589061
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-西平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 33.1,
     "lat": 40.044397,
     "lng": 116.586145
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-西平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 49.1,
     "lat": 40.044397,
     "lng": 116.586145
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "顺义区-首都机场-西平街一里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 50.1,
     "lat": 40.046336,
     "lng": 116.585098
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-南平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 67.0,
     "lat": 40.044636,
     "lng": 116.589045
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-首都机场-南平里",
     "scraped_at": "2026-05-02 20:59:27",
-    "region": "shoudoujichang1",
+    "region": "首都机场",
     "unit_price": 66.1,
     "lat": 40.044636,
     "lng": 116.589045

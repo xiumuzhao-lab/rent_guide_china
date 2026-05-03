@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华辉苑",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 70.9,
     "lat": 39.873657,
     "lng": 116.449573
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-方丹苑",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.2,
     "lat": 39.87081,
     "lng": 116.46512
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 95.2,
     "lat": 39.872716,
     "lng": 116.461328
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 114.0,
     "lat": 39.875904,
     "lng": 116.440199
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-嘉禾园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 63.4,
     "lat": 39.87081,
     "lng": 116.46512
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园南里",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 119.8,
     "lat": 39.875904,
     "lng": 116.440199
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 74.1,
     "lat": 39.869835,
     "lng": 116.450983
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 69.5,
     "lat": 39.869835,
     "lng": 116.450983
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.1,
     "lat": 39.869835,
     "lng": 116.450983
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 84.5,
     "lat": 39.873657,
     "lng": 116.449573
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 76.0,
     "lat": 39.869835,
     "lng": 116.450983
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 84.0,
     "lat": 39.869835,
     "lng": 116.450983
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-嘉多丽园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 84.2,
     "lat": 39.87081,
     "lng": 116.46512
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.5,
     "lat": 39.869835,
     "lng": 116.450983
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 78.9,
     "lat": 39.869835,
     "lng": 116.450983
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.8,
     "lat": 39.875904,
     "lng": 116.440199
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 74.6,
     "lat": 39.869835,
     "lng": 116.450983
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-翌景嘉园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.5,
     "lat": 39.87081,
     "lng": 116.46512
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 74.3,
     "lat": 39.869835,
     "lng": 116.450983
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 74.1,
     "lat": 39.869835,
     "lng": 116.450983
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 76.6,
     "lat": 39.870516,
     "lng": 116.465927
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 78.8,
     "lat": 39.869835,
     "lng": 116.450983
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 74.6,
     "lat": 39.869835,
     "lng": 116.450983
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 108.4,
     "lat": 39.873657,
     "lng": 116.449573
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 91.7,
     "lat": 39.869835,
     "lng": 116.450983
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 70.7,
     "lat": 39.869835,
     "lng": 116.450983
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 111.7,
     "lat": 39.873657,
     "lng": 116.449573
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.1,
     "lat": 39.869835,
     "lng": 116.450983
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 70.0,
     "lat": 39.869835,
     "lng": 116.450983
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-嘉多丽园",
     "scraped_at": "2026-05-02 20:09:30",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 114.6,
     "lat": 39.87081,
     "lng": 116.46512
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园小区",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 86.4,
     "lat": 40.332892,
     "lng": 116.628682
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 75.9,
     "lat": 39.869835,
     "lng": 116.450983
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 68.9,
     "lat": 39.869835,
     "lng": 116.450983
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 75.7,
     "lat": 39.869835,
     "lng": 116.450983
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 61.0,
     "lat": 39.869835,
     "lng": 116.450983
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 108.2,
     "lat": 39.872716,
     "lng": 116.461328
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 99.7,
     "lat": 39.869835,
     "lng": 116.450983
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 68.8,
     "lat": 39.869835,
     "lng": 116.450983
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 70.1,
     "lat": 39.869835,
     "lng": 116.450983
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-百环花园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 71.1,
     "lat": 39.872896,
     "lng": 116.459308
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.3,
     "lat": 39.869835,
     "lng": 116.450983
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 66.9,
     "lat": 39.869835,
     "lng": 116.450983
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 106.6,
     "lat": 39.870516,
     "lng": 116.465927
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 65.2,
     "lat": 39.869835,
     "lng": 116.450983
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-方丹苑",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 67.4,
     "lat": 39.87081,
     "lng": 116.46512
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 71.5,
     "lat": 39.869835,
     "lng": 116.450983
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 113.2,
     "lat": 39.875746,
     "lng": 116.451236
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.8,
     "lat": 39.869835,
     "lng": 116.450983
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 60.9,
     "lat": 39.869835,
     "lng": 116.450983
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.1,
     "lat": 39.869835,
     "lng": 116.450983
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-东架松",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 101.0,
     "lat": 39.875294,
     "lng": 116.449576
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 95.7,
     "lat": 39.875904,
     "lng": 116.440199
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园小区",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 86.9,
     "lat": 40.332892,
     "lng": 116.628682
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 78.6,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园南里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 84.5,
     "lat": 39.875904,
     "lng": 116.440199
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华辉苑",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 58.7,
     "lat": 39.873657,
     "lng": 116.449573
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 104.7,
     "lat": 39.875904,
     "lng": 116.440199
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-翌景嘉园",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 70.8,
     "lat": 39.87081,
     "lng": 116.46512
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 93.6,
     "lat": 39.877505,
     "lng": 116.440877
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:33",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 101.3,
     "lat": 39.870516,
     "lng": 116.465927
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 84.0,
     "lat": 39.872716,
     "lng": 116.461328
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 70.9,
     "lat": 39.872716,
     "lng": 116.461328
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-方丹苑",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 86.7,
     "lat": 39.87081,
     "lng": 116.46512
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 105.9,
     "lat": 39.875746,
     "lng": 116.451236
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 103.1,
     "lat": 39.875746,
     "lng": 116.451236
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 74.2,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 82.6,
     "lat": 39.873657,
     "lng": 116.449573
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华辉苑",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 69.5,
     "lat": 39.873657,
     "lng": 116.449573
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园小区",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.8,
     "lat": 40.332892,
     "lng": 116.628682
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 76.2,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 121.7,
     "lat": 39.875904,
     "lng": 116.440199
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 86.4,
     "lat": 39.872716,
     "lng": 116.461328
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园南里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 69.1,
     "lat": 39.875904,
     "lng": 116.440199
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 77.9,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.4,
     "lat": 39.870516,
     "lng": 116.465927
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-漪龙台",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 103.8,
     "lat": 39.87081,
     "lng": 116.46512
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-嘉禾园",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 64.3,
     "lat": 39.87081,
     "lng": 116.46512
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 71.7,
     "lat": 39.872716,
     "lng": 116.461328
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 75.3,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.0,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 96.4,
     "lat": 39.870516,
     "lng": 116.465927
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 90.1,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-百环花园",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 72.3,
     "lat": 39.872896,
     "lng": 116.459308
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松六区",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 105.9,
     "lat": 39.877394,
     "lng": 116.442151
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-百环花园",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 92.2,
     "lat": 39.872896,
     "lng": 116.459308
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-方丹苑",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 82.9,
     "lat": 39.87081,
     "lng": 116.46512
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 105.4,
     "lat": 39.870516,
     "lng": 116.465927
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:36",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 104.1,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.7,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 93.5,
     "lat": 39.877505,
     "lng": 116.440877
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.7,
     "lat": 39.872716,
     "lng": 116.461328
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 113.7,
     "lat": 39.873657,
     "lng": 116.449573
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 105.1,
     "lat": 39.875904,
     "lng": 116.440199
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 97.4,
     "lat": 39.873657,
     "lng": 116.449573
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 105.5,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-方丹苑",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.7,
     "lat": 39.87081,
     "lng": 116.46512
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 112.1,
     "lat": 39.873657,
     "lng": 116.449573
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.3,
     "lat": 39.869835,
     "lng": 116.450983
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园小区",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 99.8,
     "lat": 40.332892,
     "lng": 116.628682
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.1,
     "lat": 39.870516,
     "lng": 116.465927
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.9,
     "lat": 39.870516,
     "lng": 116.465927
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园南里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 117.8,
     "lat": 39.875904,
     "lng": 116.440199
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 82.0,
     "lat": 39.872716,
     "lng": 116.461328
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 133.0,
     "lat": 39.875746,
     "lng": 116.451236
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-翌景嘉园",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 64.0,
     "lat": 39.87081,
     "lng": 116.46512
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 102.4,
     "lat": 39.869835,
     "lng": 116.450983
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-百环花园",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 90.8,
     "lat": 39.872896,
     "lng": 116.459308
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 71.8,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 97.0,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-百环花园",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 61.8,
     "lat": 39.872896,
     "lng": 116.459308
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 78.9,
     "lat": 39.875904,
     "lng": 116.440199
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园小区",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 94.6,
     "lat": 40.332892,
     "lng": 116.628682
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 109.1,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-百环花园",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 65.7,
     "lat": 39.872896,
     "lng": 116.459308
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 94.2,
     "lat": 39.873657,
     "lng": 116.449573
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.9,
     "lat": 39.875746,
     "lng": 116.451236
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 101.8,
     "lat": 39.870516,
     "lng": 116.465927
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园南里",
     "scraped_at": "2026-05-02 20:09:39",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.4,
     "lat": 39.875904,
     "lng": 116.440199
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-翌景嘉园",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 65.5,
     "lat": 39.87081,
     "lng": 116.46512
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-嘉禾园",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.6,
     "lat": 39.87081,
     "lng": 116.46512
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-东架松",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.8,
     "lat": 39.875294,
     "lng": 116.449576
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 91.3,
     "lat": 39.873657,
     "lng": 116.449573
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-翌景嘉园",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 65.5,
     "lat": 39.87081,
     "lng": 116.46512
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 99.6,
     "lat": 39.877505,
     "lng": 116.440877
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-方丹苑",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 90.5,
     "lat": 39.87081,
     "lng": 116.46512
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.0,
     "lat": 39.877505,
     "lng": 116.440877
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 85.9,
     "lat": 39.870516,
     "lng": 116.465927
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 70.0,
     "lat": 39.869835,
     "lng": 116.450983
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 81.2,
     "lat": 39.875746,
     "lng": 116.451236
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华辉苑",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 63.3,
     "lat": 39.873657,
     "lng": 116.449573
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-百环花园",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.4,
     "lat": 39.872896,
     "lng": 116.459308
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.6,
     "lat": 39.877505,
     "lng": 116.440877
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 96.6,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 98.5,
     "lat": 39.873657,
     "lng": 116.449573
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 66.3,
     "lat": 39.875746,
     "lng": 116.451236
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-漪龙台",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 75.6,
     "lat": 39.87081,
     "lng": 116.46512
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 108.6,
     "lat": 39.869835,
     "lng": 116.450983
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 100.3,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-东架松",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.8,
     "lat": 39.875294,
     "lng": 116.449576
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.8,
     "lat": 39.873657,
     "lng": 116.449573
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.0,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 84.1,
     "lat": 39.870516,
     "lng": 116.465927
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.4,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华辉苑",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.0,
     "lat": 39.873657,
     "lng": 116.449573
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 118.5,
     "lat": 39.875746,
     "lng": 116.451236
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 70.6,
     "lat": 39.875904,
     "lng": 116.440199
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 66.7,
     "lat": 39.869835,
     "lng": 116.450983
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:42",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 106.7,
     "lat": 39.870516,
     "lng": 116.465927
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 77.2,
     "lat": 39.869835,
     "lng": 116.450983
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-漪龙台",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 135.7,
     "lat": 39.87081,
     "lng": 116.46512
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 80.0,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.0,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 105.6,
     "lat": 39.869835,
     "lng": 116.450983
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 98.8,
     "lat": 39.877505,
     "lng": 116.440877
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-漪龙台",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 113.3,
     "lat": 39.87081,
     "lng": 116.46512
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 86.4,
     "lat": 39.877505,
     "lng": 116.440877
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 105.8,
     "lat": 39.872716,
     "lng": 116.461328
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.5,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 114.0,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 121.6,
     "lat": 39.875746,
     "lng": 116.451236
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华辉苑",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.6,
     "lat": 39.873657,
     "lng": 116.449573
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 80.4,
     "lat": 39.869835,
     "lng": 116.450983
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 81.8,
     "lat": 39.870516,
     "lng": 116.465927
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 102.7,
     "lat": 39.873657,
     "lng": 116.449573
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 72.5,
     "lat": 39.869835,
     "lng": 116.450983
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.9,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 96.6,
     "lat": 39.870516,
     "lng": 116.465927
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 122.6,
     "lat": 39.875746,
     "lng": 116.451236
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 98.5,
     "lat": 39.877505,
     "lng": 116.440877
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 105.6,
     "lat": 39.870516,
     "lng": 116.465927
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-百环花园",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 74.3,
     "lat": 39.872896,
     "lng": 116.459308
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.4,
     "lat": 39.869835,
     "lng": 116.450983
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 99.4,
     "lat": 39.870516,
     "lng": 116.465927
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松六区",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 109.0,
     "lat": 39.877394,
     "lng": 116.442151
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 114.0,
     "lat": 39.869835,
     "lng": 116.450983
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 104.4,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 91.4,
     "lat": 39.873657,
     "lng": 116.449573
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:45",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 95.5,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松六区",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.7,
     "lat": 39.877394,
     "lng": 116.442151
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 94.7,
     "lat": 39.869835,
     "lng": 116.450983
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 107.9,
     "lat": 39.875904,
     "lng": 116.440199
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 109.8,
     "lat": 39.869835,
     "lng": 116.450983
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 96.1,
     "lat": 39.875746,
     "lng": 116.451236
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.3,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-方丹苑",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 95.9,
     "lat": 39.87081,
     "lng": 116.46512
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松六区",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 85.9,
     "lat": 39.877394,
     "lng": 116.442151
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 67.1,
     "lat": 39.870516,
     "lng": 116.465927
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 72.9,
     "lat": 39.869835,
     "lng": 116.450983
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 68.2,
     "lat": 39.875746,
     "lng": 116.451236
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 67.1,
     "lat": 39.875746,
     "lng": 116.451236
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 81.2,
     "lat": 39.873657,
     "lng": 116.449573
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.2,
     "lat": 39.873657,
     "lng": 116.449573
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 85.3,
     "lat": 39.873657,
     "lng": 116.449573
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 94.9,
     "lat": 39.873657,
     "lng": 116.449573
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 95.6,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 108.5,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园南里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 84.6,
     "lat": 39.875904,
     "lng": 116.440199
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 92.5,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.7,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:49",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 93.7,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-东架松",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.2,
     "lat": 39.875294,
     "lng": 116.449576
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 81.1,
     "lat": 39.872716,
     "lng": 116.461328
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.8,
     "lat": 39.875746,
     "lng": 116.451236
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 80.1,
     "lat": 39.875746,
     "lng": 116.451236
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 96.7,
     "lat": 39.869835,
     "lng": 116.450983
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 111.9,
     "lat": 39.870516,
     "lng": 116.465927
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-方丹苑",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 90.8,
     "lat": 39.87081,
     "lng": 116.46512
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 92.3,
     "lat": 39.873657,
     "lng": 116.449573
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 93.3,
     "lat": 39.870516,
     "lng": 116.465927
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 78.6,
     "lat": 39.875904,
     "lng": 116.440199
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 108.3,
     "lat": 39.870516,
     "lng": 116.465927
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 100.0,
     "lat": 39.870516,
     "lng": 116.465927
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 86.0,
     "lat": 39.875746,
     "lng": 116.451236
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 81.7,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:09:53",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 81.5,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 71.8,
     "lat": 39.873657,
     "lng": 116.449573
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 94.8,
     "lat": 39.872716,
     "lng": 116.461328
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 75.6,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.5,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 84.4,
     "lat": 39.875904,
     "lng": 116.440199
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松六区",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 103.6,
     "lat": 39.877394,
     "lng": 116.442151
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 82.0,
     "lat": 39.873657,
     "lng": 116.449573
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.2,
     "lat": 39.873657,
     "lng": 116.449573
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 80.4,
     "lat": 39.877505,
     "lng": 116.440877
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 88.5,
     "lat": 39.875746,
     "lng": 116.451236
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 68.3,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 87.7,
     "lat": 39.877505,
     "lng": 116.440877
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 92.5,
     "lat": 39.872716,
     "lng": 116.461328
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 99.1,
     "lat": 39.872716,
     "lng": 116.461328
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-嘉多丽园",
     "scraped_at": "2026-05-02 20:10:37",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 98.3,
     "lat": 39.87081,
     "lng": 116.46512
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园小区",
     "scraped_at": "2026-05-02 20:10:37",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.6,
     "lat": 40.332892,
     "lng": 116.628682
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:10:37",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 95.3,
     "lat": 39.870516,
     "lng": 116.465927
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:10:37",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 101.5,
     "lat": 39.870516,
     "lng": 116.465927
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:10:37",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 79.2,
     "lat": 39.875746,
     "lng": 116.451236
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:37",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 110.8,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:10:37",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 103.3,
     "lat": 39.875904,
     "lng": 116.440199
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 125.9,
     "lat": 39.875746,
     "lng": 116.451236
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-嘉禾园",
     "scraped_at": "2026-05-02 20:09:57",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 65.6,
     "lat": 39.87081,
     "lng": 116.46512
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 64.3,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 93.1,
     "lat": 39.873657,
     "lng": 116.449573
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威西里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 79.2,
     "lat": 39.873657,
     "lng": 116.449573
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 74.3,
     "lat": 39.872716,
     "lng": 116.461328
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 121.6,
     "lat": 39.875746,
     "lng": 116.451236
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 91.0,
     "lat": 39.870516,
     "lng": 116.465927
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松六区",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 92.0,
     "lat": 39.877394,
     "lng": 116.442151
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 74.1,
     "lat": 39.875904,
     "lng": 116.440199
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 100.0,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 83.5,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-劲松七区",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 82.1,
     "lat": 39.877505,
     "lng": 116.440877
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 104.3,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-华威北里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 77.6,
     "lat": 39.875746,
     "lng": 116.451236
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆西里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.1,
     "lat": 39.872716,
     "lng": 116.461328
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-潘家园东里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 68.9,
     "lat": 39.875904,
     "lng": 116.440199
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-弘善家园",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 73.2,
     "lat": 39.869835,
     "lng": 116.450983
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "朝阳区-潘家园-松榆里",
     "scraped_at": "2026-05-02 20:10:27",
-    "region": "panjiayuan1",
+    "region": "潘家园",
     "unit_price": 89.5,
     "lat": 39.870516,
     "lng": 116.465927

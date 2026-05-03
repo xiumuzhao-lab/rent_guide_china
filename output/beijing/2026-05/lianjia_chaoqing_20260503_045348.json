@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾南区",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 90.0,
     "lat": 39.918145,
     "lng": 116.515953
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 71.2,
     "lat": 39.922206,
     "lng": 116.50474
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 71.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 76.1,
     "lat": 39.922206,
     "lng": 116.50474
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 72.7,
     "lat": 39.892518,
     "lng": 116.319942
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园东区",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 78.2,
     "lat": 39.924048,
     "lng": 116.511012
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 69.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅凤麟洲",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 72.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-逸翠园",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 100.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-银谷美泉家园",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 78.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 67.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-阿曼寓所",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 76.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 89.9,
     "lat": 39.925146,
     "lng": 116.505438
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-御翠尚府",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 103.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.5,
     "lat": 39.919896,
     "lng": 116.516708
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 74.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 53.2,
     "lat": 39.918345,
     "lng": 116.529541
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 80.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚东区",
     "scraped_at": "2026-05-02 20:36:30",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 100.2,
     "lat": 39.925146,
     "lng": 116.505438
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-姚家园东里",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 90.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 66.9,
     "lat": 39.922206,
     "lng": 116.50474
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 73.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅凤麟洲",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 104.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-宝成雅园",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 107.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 73.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅凤麟洲",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 93.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 95.9,
     "lat": 39.922206,
     "lng": 116.50474
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅凤麟洲",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 73.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.5,
     "lat": 39.922206,
     "lng": 116.50474
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-宝成雅园",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 72.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-宝成雅园",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 80.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 92.1,
     "lat": 39.861689,
     "lng": 116.452594
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 92.2,
     "lat": 39.925146,
     "lng": 116.505438
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 101.2,
     "lat": 39.922206,
     "lng": 116.50474
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-富华家园",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 91.4,
     "lat": 39.919896,
     "lng": 116.516708
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 170.1,
     "lat": 39.919896,
     "lng": 116.516708
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 80.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 88.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年路小区",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 93.5,
     "lat": 39.923124,
     "lng": 116.517988
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-姚家园东里",
     "scraped_at": "2026-05-02 20:38:12",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 94.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-星河湾畅园",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 135.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.4,
     "lat": 39.925146,
     "lng": 116.505438
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 139.5,
     "lat": 39.919896,
     "lng": 116.516708
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 137.7,
     "lat": 39.919896,
     "lng": 116.516708
@@ -982,7 +982,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 65.8,
     "lat": 39.929676,
     "lng": 116.374168
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 72.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:33",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 90.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 78.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-姚家园东里",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 98.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-星河湾朗园",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 129.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园东区",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 101.8,
     "lat": 39.924048,
     "lng": 116.511012
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-晴悦家园",
     "scraped_at": "2026-05-02 20:38:12",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 93.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-晴悦家园",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 132.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-姚家园东里",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 89.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.1,
     "lat": 39.922206,
     "lng": 116.50474
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园东区",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.5,
     "lat": 39.924048,
     "lng": 116.511012
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 86.6,
     "lat": 39.922206,
     "lng": 116.50474
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 110.2,
     "lat": 39.922206,
     "lng": 116.50474
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 97.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾南区",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 110.1,
     "lat": 39.918145,
     "lng": 116.515953
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 87.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 93.3,
     "lat": 39.919896,
     "lng": 116.516708
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 97.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 97.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 105.9,
     "lat": 39.925146,
     "lng": 116.505438
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 102.6,
     "lat": 39.919896,
     "lng": 116.516708
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:38:12",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 112.1,
     "lat": 39.922206,
     "lng": 116.50474
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 71.3,
     "lat": 39.918345,
     "lng": 116.529541
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:36",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 136.8,
     "lat": 39.919896,
     "lng": 116.516708
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅凤麟洲",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 90.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 85.1,
     "lat": 39.919896,
     "lng": 116.516708
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 80.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 88.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 98.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1609,7 +1609,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 207.8,
     "lat": 39.920356,
     "lng": 116.514125
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 144.8,
     "lat": 39.919896,
     "lng": 116.516708
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1685,7 +1685,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 171.4,
     "lat": 39.945158,
     "lng": 116.500045
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 97.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 69.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-雅成一里",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 108.4,
     "lat": 39.922206,
     "lng": 116.50474
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园东区",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 97.6,
     "lat": 39.924048,
     "lng": 116.511012
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 127.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-逸翠园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 114.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 91.5,
     "lat": 39.925146,
     "lng": 116.505438
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-晴悦家园",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 107.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-晴悦家园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 94.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1894,7 +1894,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:36:40",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 119.4,
     "lat": 39.993965,
     "lng": 116.417652
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 111.8,
     "lat": 39.925146,
     "lng": 116.505438
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 87.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.1,
     "lat": 39.861689,
     "lng": 116.452594
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 90.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 103.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 105.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-宝成雅园",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 73.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚东区",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 112.4,
     "lat": 39.925146,
     "lng": 116.505438
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.7,
     "lat": 39.922206,
     "lng": 116.50474
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 73.2,
     "lat": 39.922206,
     "lng": 116.50474
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 100.6,
     "lat": 39.898564,
     "lng": 116.476279
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-姚家园东里",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 104.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 110.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 71.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-御翠尚府",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 95.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-御翠尚府",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 103.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-汇成家园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.1,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 68.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳园",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 68.2,
     "lat": 39.922206,
     "lng": 116.50474
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:44",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 151.8,
     "lat": 39.919896,
     "lng": 116.516708
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 86.8,
     "lat": 39.925146,
     "lng": 116.505438
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 118.0,
     "lat": 39.925146,
     "lng": 116.505438
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 66.8,
     "lat": 39.918345,
     "lng": 116.529541
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-御翠尚府",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 145.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2445,7 +2445,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.0,
     "lat": 39.906586,
     "lng": 116.553348
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-小悦中心创意商业",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 112.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-雅成一里",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 76.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 95.5,
     "lat": 39.918345,
     "lng": 116.529541
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅凤麟洲",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 118.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 89.6,
     "lat": 39.925146,
     "lng": 116.505438
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 73.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园东区",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 91.4,
     "lat": 39.924048,
     "lng": 116.511012
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 78.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 95.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 100.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾南区",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 113.1,
     "lat": 39.918145,
     "lng": 116.515953
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 106.6,
     "lat": 39.925146,
     "lng": 116.505438
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 112.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 98.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-姚家园东里",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 71.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-富华家园",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 71.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳园",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-宝成雅园",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 97.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:47",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年工社",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 111.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 103.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 98.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-银谷美泉家园",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 85.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-雅成一里",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 70.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 67.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳雅筑",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 77.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年工社",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 113.1,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-万杰医院家属院",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 89.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 72.0,
     "lat": 39.918345,
     "lng": 116.529541
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-星河湾畅园",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 134.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 109.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-星河湾朗园",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 138.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 126.6,
     "lat": 39.898564,
     "lng": 116.476279
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 105.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-雅成一里",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 75.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳园",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 90.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 106.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳园",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳园",
     "scraped_at": "2026-05-02 20:36:51",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 91.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 105.4,
     "lat": 39.898564,
     "lng": 116.476279
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 80.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 98.8,
     "lat": 39.919896,
     "lng": 116.516708
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园东区",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 147.6,
     "lat": 39.924048,
     "lng": 116.511012
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 76.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 77.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾南区",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 109.2,
     "lat": 39.918145,
     "lng": 116.515953
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 102.3,
     "lat": 39.922206,
     "lng": 116.50474
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 141.7,
     "lat": 39.919896,
     "lng": 116.516708
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 184.7,
     "lat": 39.919896,
     "lng": 116.516708
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 76.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年路小区",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 92.9,
     "lat": 39.923124,
     "lng": 116.517988
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 109.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 109.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年工社",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 142.1,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 115.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-银谷美泉家园",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 80.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 96.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 93.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 95.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:54",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 105.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾南区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 103.8,
     "lat": 39.918145,
     "lng": 116.515953
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 129.6,
     "lat": 39.919896,
     "lng": 116.516708
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 108.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 93.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅凤麟洲",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 88.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚东区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 104.9,
     "lat": 39.925146,
     "lng": 116.505438
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 99.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾南区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 115.0,
     "lat": 39.918145,
     "lng": 116.515953
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 86.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 115.0,
     "lat": 39.925146,
     "lng": 116.505438
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 110.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.7,
     "lat": 39.922206,
     "lng": 116.50474
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园东区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.7,
     "lat": 39.924048,
     "lng": 116.511012
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 123.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 95.7,
     "lat": 39.922206,
     "lng": 116.50474
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 117.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:36:57",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 91.8,
     "lat": 39.922206,
     "lng": 116.50474
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-银谷美泉家园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 94.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-御翠尚府",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 124.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-晴悦家园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 95.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-银谷美泉家园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 97.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-御翠尚府",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 160.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-逸翠园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 97.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 96.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 92.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅凤麟洲",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 119.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-逸翠园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 100.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 98.9,
     "lat": 39.919896,
     "lng": 116.516708
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 106.1,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-阿曼寓所",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 88.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 84.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-阿曼寓所",
     "scraped_at": "2026-05-02 20:37:55",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 93.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 111.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚东区",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.7,
     "lat": 39.925146,
     "lng": 116.505438
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 103.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-雅成一里",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 74.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-阿曼寓所",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 118.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 70.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 109.4,
     "lat": 39.919896,
     "lng": 116.516708
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳雅筑",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 75.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 66.1,
     "lat": 39.918345,
     "lng": 116.529541
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 87.7,
     "lat": 39.918345,
     "lng": 116.529541
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 96.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 73.1,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 71.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年工社",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 99.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾南区",
     "scraped_at": "2026-05-02 20:38:12",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 102.7,
     "lat": 39.918145,
     "lng": 116.515953
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-珠江罗马嘉园西区",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.4,
     "lat": 39.922206,
     "lng": 116.50474
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 85.3,
     "lat": 39.918345,
     "lng": 116.529541
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 75.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-富华家园",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-晴悦家园",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 96.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:08",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 103.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-雅成一里",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 66.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-大悦城公寓",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 92.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳园",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 95.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:38:12",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 75.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:38:12",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 76.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年路",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 89.8,
     "lat": 39.924817,
     "lng": 116.510319
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-小悦中心创意商业",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 118.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年路小区",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 102.3,
     "lat": 39.923124,
     "lng": 116.517988
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-首开熙悦尚郡",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 151.4,
     "lat": 39.919896,
     "lng": 116.516708
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 120.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 100.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-姚家园东里",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 98.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:12",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 138.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 120.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 176.1,
     "lat": 39.919896,
     "lng": 116.516708
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-万杰医院家属院",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 69.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年路小区",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 109.9,
     "lat": 39.923124,
     "lng": 116.517988
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-逸翠园",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅泰和园",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 153.3,
     "lat": 39.919896,
     "lng": 116.516708
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-雅成一里",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 88.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-小悦中心创意商业",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 147.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-天鹅湾北区",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 149.3,
     "lat": 39.919896,
     "lng": 116.516708
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳雅筑",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 68.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 66.7,
     "lat": 39.918345,
     "lng": 116.529541
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-小悦中心创意商业",
     "scraped_at": "2026-05-02 20:38:20",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 171.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 80.4,
     "lat": 39.925146,
     "lng": 116.505438
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-润枫水尚西区",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 114.5,
     "lat": 39.925146,
     "lng": 116.505438
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 85.1,
     "lat": 39.918345,
     "lng": 116.529541
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 75.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 107.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 76.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 116.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-雅成一里",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 69.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:38:16",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 78.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-小悦中心创意商业",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 161.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 129.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 117.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 71.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 67.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳园",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 82.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 101.3,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-小悦中心创意商业",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 117.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 99.1,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 111.8,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-姚家园东里",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 93.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 83.4,
     "lat": 39.918345,
     "lng": 116.529541
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-朝阳园",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 81.2,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 103.7,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 73.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 106.4,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 77.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-国美第一城",
     "scraped_at": "2026-05-02 20:38:24",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 93.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 85.6,
     "lat": 39.918345,
     "lng": 116.529541
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-南太平庄北巷",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 69.7,
     "lat": 39.918345,
     "lng": 116.529541
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年汇佳园",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 116.9,
     "lat": 39.861689,
     "lng": 116.452594
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-金隅汇星苑",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 73.0,
     "lat": 39.861689,
     "lng": 116.452594
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-雅成一里",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 78.5,
     "lat": 39.861689,
     "lng": 116.452594
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-华纺易城",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 79.6,
     "lat": 39.861689,
     "lng": 116.452594
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝青-青年路小区",
     "scraped_at": "2026-05-02 20:38:29",
-    "region": "chaoqing",
+    "region": "朝青",
     "unit_price": 92.1,
     "lat": 39.923124,
     "lng": 116.517988

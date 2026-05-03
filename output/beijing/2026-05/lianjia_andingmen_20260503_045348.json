@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-巷上嘉园",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 86.6,
     "lat": 39.94416,
     "lng": 116.40442
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 102.3,
     "lat": 39.950203,
     "lng": 116.392419
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-和平里中街",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 131.9,
     "lat": 39.955186,
     "lng": 116.411038
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-京宝花园",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 92.3,
     "lat": 39.940946,
     "lng": 116.388568
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-鼓楼外大街",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 123.9,
     "lat": 39.939336,
     "lng": 116.401088
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 162.9,
     "lat": 39.954705,
     "lng": 116.40139
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 115.9,
     "lat": 39.950289,
     "lng": 116.394221
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-官书院",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 125.8,
     "lat": 39.94416,
     "lng": 116.40442
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 90.7,
     "lat": 39.950289,
     "lng": 116.394221
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德里北街",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 126.8,
     "lat": 39.955016,
     "lng": 116.391448
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 123.3,
     "lat": 39.950289,
     "lng": 116.394221
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 119.3,
     "lat": 39.950289,
     "lng": 116.394221
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-官书院",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 117.3,
     "lat": 39.94416,
     "lng": 116.40442
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 119.6,
     "lat": 39.950289,
     "lng": 116.394221
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-上龙西里",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 117.9,
     "lat": 39.94416,
     "lng": 116.40442
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": "",
     "lat": null,
     "lng": null
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 129.5,
     "lat": 39.950289,
     "lng": 116.394221
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 138.2,
     "lat": 39.960456,
     "lng": 116.410058
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 112.3,
     "lat": 39.960456,
     "lng": 116.410058
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 115.1,
     "lat": 39.960456,
     "lng": 116.410058
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 101.2,
     "lat": 39.960456,
     "lng": 116.410058
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖南街",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 113.8,
     "lat": 39.954506,
     "lng": 116.398968
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 133.8,
     "lat": 39.960456,
     "lng": 116.410058
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 92.8,
     "lat": 39.950289,
     "lng": 116.394221
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 152.6,
     "lat": 39.94416,
     "lng": 116.40442
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 140.5,
     "lat": 39.960456,
     "lng": 116.410058
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-巷上嘉园",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 130.4,
     "lat": 39.94416,
     "lng": 116.40442
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-柴棒胡同",
     "scraped_at": "2026-05-02 19:55:04",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 115.2,
     "lat": 39.944886,
     "lng": 116.400738
@@ -545,7 +545,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 145.0,
     "lat": 39.933122,
     "lng": 116.390016
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 114.6,
     "lat": 39.954506,
     "lng": 116.398968
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 164.2,
     "lat": 39.94416,
     "lng": 116.40442
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-湖景苑",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 156.2,
     "lat": 39.94416,
     "lng": 116.40442
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 86.6,
     "lat": 39.950289,
     "lng": 116.394221
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-花园胡同",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 138.0,
     "lat": 39.944792,
     "lng": 116.397469
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 110.5,
     "lat": 39.954506,
     "lng": 116.398968
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-巷上嘉园",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 129.2,
     "lat": 39.94416,
     "lng": 116.40442
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-上龙西里",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 129.9,
     "lat": 39.94416,
     "lng": 116.40442
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-上龙西里",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 115.4,
     "lat": 39.94416,
     "lng": 116.40442
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 90.6,
     "lat": 39.950289,
     "lng": 116.394221
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 118.8,
     "lat": 39.960456,
     "lng": 116.410058
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 117.6,
     "lat": 39.960456,
     "lng": 116.410058
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-朗家胡同",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 120.0,
     "lat": 39.945736,
     "lng": 116.394968
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 136.2,
     "lat": 39.950289,
     "lng": 116.394221
@@ -830,7 +830,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 234.8,
     "lat": 39.967906,
     "lng": 116.392868
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-安定门-外馆东街",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 104.2,
     "lat": 39.961502,
     "lng": 116.395799
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-上龙西里",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 124.0,
     "lat": 39.94416,
     "lng": 116.40442
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-上龙西里",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 157.2,
     "lat": 39.94416,
     "lng": 116.40442
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外西河沿",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 150.3,
     "lat": 39.954506,
     "lng": 116.398968
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 95.2,
     "lat": 39.954506,
     "lng": 116.398968
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 110.0,
     "lat": 39.950289,
     "lng": 116.394221
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 160.0,
     "lat": 39.954506,
     "lng": 116.398968
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 136.4,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-花园胡同",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 125.0,
     "lat": 39.944792,
     "lng": 116.397469
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-永康胡同",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 147.4,
     "lat": 39.945956,
     "lng": 116.404328
@@ -1039,7 +1039,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 212.0,
     "lat": 39.953002,
     "lng": 116.398207
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 132.3,
     "lat": 39.950203,
     "lng": 116.392419
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖西里",
     "scraped_at": "2026-05-02 19:55:07",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 126.1,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-华府景园",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 109.6,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 109.2,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-官书院",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 146.8,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 137.6,
     "lat": 39.950203,
     "lng": 116.392419
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 153.3,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-京宝花园",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 91.3,
     "lat": 39.940946,
     "lng": 116.388568
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 123.0,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 123.1,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-永康胡同",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 112.4,
     "lat": 39.946296,
     "lng": 116.404038
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 126.1,
     "lat": 39.950203,
     "lng": 116.392419
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-安定门-外馆东街",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 144.8,
     "lat": 39.961502,
     "lng": 116.395799
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 103.3,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖北里",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 117.6,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-华府景园",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 117.0,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-永康胡同",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 129.4,
     "lat": 39.946296,
     "lng": 116.404038
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 122.5,
     "lat": 39.954506,
     "lng": 116.398968
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-黄寺大街",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 131.0,
     "lat": 39.957085,
     "lng": 116.397247
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 103.0,
     "lat": 39.9503,
     "lng": 116.397287
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 129.3,
     "lat": 39.950289,
     "lng": 116.394221
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德里北街",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 138.8,
     "lat": 39.955776,
     "lng": 116.382048
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 117.5,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 127.6,
     "lat": 39.954506,
     "lng": 116.398968
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-永康胡同",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 137.9,
     "lat": 39.945956,
     "lng": 116.404328
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 92.9,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 144.6,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-巷上嘉园",
     "scraped_at": "2026-05-02 19:55:10",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 152.5,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 114.1,
     "lat": 39.950203,
     "lng": 116.392419
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-华府景园",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 126.4,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖南街",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 121.7,
     "lat": 39.954506,
     "lng": 116.398968
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-巷上嘉园",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 138.9,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-西营房",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 143.2,
     "lat": 39.947005,
     "lng": 116.39331
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-官书院",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 76.3,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-府上嘉园",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 91.2,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 142.6,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 106.2,
     "lat": 39.950289,
     "lng": 116.394221
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖南里",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 117.8,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 117.9,
     "lat": 39.960456,
     "lng": 116.410058
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-中景濠庭",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 144.2,
     "lat": 39.946072,
     "lng": 116.401626
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-赵府街",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 180.0,
     "lat": 39.942726,
     "lng": 116.390708
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 144.4,
     "lat": 39.950289,
     "lng": 116.394221
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 128.6,
     "lat": 39.950289,
     "lng": 116.394221
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-鼓楼外大街",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 113.8,
     "lat": 39.939336,
     "lng": 116.401088
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外西河沿路",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 152.3,
     "lat": 39.949796,
     "lng": 116.401478
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 139.4,
     "lat": 39.950203,
     "lng": 116.392419
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路乙",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 118.8,
     "lat": 39.950332,
     "lng": 116.388213
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 135.5,
     "lat": 39.950289,
     "lng": 116.394221
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:22",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 115.8,
     "lat": 39.94416,
     "lng": 116.40442
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 143.8,
     "lat": 39.950289,
     "lng": 116.394221
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 127.6,
     "lat": 39.950289,
     "lng": 116.394221
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-上龙西里",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 124.0,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 149.7,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 171.7,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:12",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 128.7,
     "lat": 39.960456,
     "lng": 116.410058
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-鼓楼外大街",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 130.7,
     "lat": 39.939336,
     "lng": 116.401088
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-湖景苑",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 158.3,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-官书院",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 167.0,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 121.5,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-巷上嘉园",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 137.4,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 123.2,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-花园胡同",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 140.0,
     "lat": 39.944792,
     "lng": 116.397469
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖北里",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 125.3,
     "lat": 39.960456,
     "lng": 116.410058
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-国祥胡同",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 151.8,
     "lat": 39.945046,
     "lng": 116.391698
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-华府景园",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 115.9,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-西营房",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 140.5,
     "lat": 39.947005,
     "lng": 116.39331
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外西河沿",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 130.8,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 110.0,
     "lat": 39.950289,
     "lng": 116.394221
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外西河沿",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 145.2,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 147.4,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-上龙西里",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 105.7,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 121.4,
     "lat": 39.950289,
     "lng": 116.394221
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 124.9,
     "lat": 39.950289,
     "lng": 116.394221
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路乙",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 114.0,
     "lat": 39.950332,
     "lng": 116.388213
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 93.8,
     "lat": 39.950289,
     "lng": 116.394221
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-永康胡同",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 230.3,
     "lat": 39.945476,
     "lng": 116.403768
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 122.3,
     "lat": 39.950289,
     "lng": 116.394221
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-华府景园",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 126.4,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖东里",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 123.5,
     "lat": 39.960456,
     "lng": 116.410058
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-国旺东巷",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 120.8,
     "lat": 39.944825,
     "lng": 116.389337
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外大街",
     "scraped_at": "2026-05-02 19:55:15",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 123.8,
     "lat": 39.960456,
     "lng": 116.400591
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖北里",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 119.6,
     "lat": 39.960456,
     "lng": 116.410058
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 144.6,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-朗家胡同",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 123.3,
     "lat": 39.945736,
     "lng": 116.394968
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德里北街",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 100.0,
     "lat": 39.955776,
     "lng": 116.382048
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-巷上嘉园",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 134.6,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-永恒胡同",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 213.3,
     "lat": 39.94543,
     "lng": 116.400439
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-国旺胡同西巷",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 148.0,
     "lat": 39.944016,
     "lng": 116.389328
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-湖景苑",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 135.3,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外西河沿",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 128.8,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德里北街",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 116.0,
     "lat": 39.955776,
     "lng": 116.382048
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-青年湖北里",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 111.8,
     "lat": 39.960456,
     "lng": 116.410058
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外大街",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 142.0,
     "lat": 39.960456,
     "lng": 116.400591
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外西河沿",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 115.7,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-中轴国际",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 156.5,
     "lat": 39.946072,
     "lng": 116.401626
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 117.5,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 111.5,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 138.9,
     "lat": 39.94416,
     "lng": 116.40442
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-西营房",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 109.6,
     "lat": 39.947005,
     "lng": 116.39331
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-朗家胡同",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 212.8,
     "lat": 39.945736,
     "lng": 116.394968
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 123.5,
     "lat": 39.950203,
     "lng": 116.392419
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 120.0,
     "lat": 39.954506,
     "lng": 116.398968
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-黄寺大街",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 101.5,
     "lat": 39.957085,
     "lng": 116.397247
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外西河沿路",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 168.5,
     "lat": 39.949796,
     "lng": 116.401478
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 120.5,
     "lat": 39.950203,
     "lng": 116.392419
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-六铺炕",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 169.8,
     "lat": 39.94416,
     "lng": 116.40442
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 141.4,
     "lat": 39.954506,
     "lng": 116.398968
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德路",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 114.0,
     "lat": 39.950203,
     "lng": 116.392419
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安外东河沿",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 155.0,
     "lat": 39.954506,
     "lng": 116.398968
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "东城区-安定门-安德里北街",
     "scraped_at": "2026-05-02 19:55:18",
-    "region": "andingmen",
+    "region": "安定门",
     "unit_price": 158.0,
     "lat": 39.955776,
     "lng": 116.382048

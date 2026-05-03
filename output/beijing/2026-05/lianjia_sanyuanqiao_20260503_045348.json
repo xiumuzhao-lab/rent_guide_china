@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 110.3,
     "lat": 39.956461,
     "lng": 116.448228
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 101.1,
     "lat": 39.956461,
     "lng": 116.448228
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-时间国际",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 171.9,
     "lat": 39.960626,
     "lng": 116.444878
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-凤凰城一期",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 117.9,
     "lat": 39.961192,
     "lng": 116.446707
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-曙光西里",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 90.9,
     "lat": 39.962465,
     "lng": 116.443377
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-金星园",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 132.1,
     "lat": 39.955805,
     "lng": 116.453462
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-金星园",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 81.5,
     "lat": 39.955805,
     "lng": 116.453462
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-凤凰城三期",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 160.5,
     "lat": 39.961192,
     "lng": 116.446707
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-曙光里",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 107.1,
     "lat": 39.962465,
     "lng": 116.443377
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-曙光里",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 101.2,
     "lat": 39.962465,
     "lng": 116.443377
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 114.7,
     "lat": 39.956461,
     "lng": 116.448228
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 103.6,
     "lat": 39.956461,
     "lng": 116.448228
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-凤凰城三期",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 130.1,
     "lat": 39.961192,
     "lng": 116.446707
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 115.5,
     "lat": 39.956461,
     "lng": 116.448228
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-曙光西里",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 102.1,
     "lat": 39.962465,
     "lng": 116.443377
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-凤凰城三期",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 184.9,
     "lat": 39.961192,
     "lng": 116.446707
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-凤凰城三期",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 132.7,
     "lat": 39.961192,
     "lng": 116.446707
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-金星园",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 138.9,
     "lat": 39.955805,
     "lng": 116.453462
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 127.0,
     "lat": 39.956461,
     "lng": 116.448228
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-金星园",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 101.4,
     "lat": 39.955805,
     "lng": 116.453462
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 135.6,
     "lat": 39.956461,
     "lng": 116.448228
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-曙光里",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 121.3,
     "lat": 39.962465,
     "lng": 116.443377
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-曙光里",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 108.4,
     "lat": 39.962465,
     "lng": 116.443377
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-凤凰城三期",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 164.7,
     "lat": 39.961192,
     "lng": 116.446707
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-曙光里",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 96.1,
     "lat": 39.962465,
     "lng": 116.443377
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-曙光里",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 106.9,
     "lat": 39.962465,
     "lng": 116.443377
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-凤凰城三期",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 168.5,
     "lat": 39.961192,
     "lng": 116.446707
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 119.1,
     "lat": 39.956461,
     "lng": 116.448228
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥-金星园",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 140.3,
     "lat": 39.955805,
     "lng": 116.453462
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-三元桥",
     "scraped_at": "2026-05-02 20:57:14",
-    "region": "sanyuanqiao",
+    "region": "三元桥",
     "unit_price": 188.6,
     "lat": 39.956461,
     "lng": 116.448228

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 58.9,
     "lat": 39.90595,
     "lng": 116.6332
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 53.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 64.3,
     "lat": 39.902734,
     "lng": 116.631385
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 58.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -108,7 +108,7 @@
     "rent_type": "合租",
     "location": "通州-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 106.7,
     "lat": 39.904203,
     "lng": 116.633011
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京铁潞园",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 78.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 42.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京铁潞园",
     "scraped_at": "2026-05-02 21:09:01",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 53.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 52.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.9,
     "lat": 39.90595,
     "lng": 116.6332
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 61.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长桥园公寓",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 36.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 39.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.0,
     "lat": 39.891603,
     "lng": 116.627248
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 52.5,
     "lat": 39.891603,
     "lng": 116.627248
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.1,
     "lat": 39.90595,
     "lng": 116.6332
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京铁潞园",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:01",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 60.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 50.4,
     "lat": 39.891603,
     "lng": 116.627248
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 51.3,
     "lat": 39.902734,
     "lng": 116.631385
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 70.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 77.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京铁潞园",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 53.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 41.0,
     "lat": 39.90595,
     "lng": 116.6332
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 55.6,
     "lat": 39.896688,
     "lng": 116.630012
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京铁潞园",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 56.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 59.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-惠铭苑",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 65.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄小区",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 48.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城",
     "scraped_at": "2026-05-02 21:08:43",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 53.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-新华联锦园",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 44.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 50.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-新华联锦园",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 48.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 41.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-鑫苑小区",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 37.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 55.7,
     "lat": 39.891603,
     "lng": 116.627248
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西果园小区",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.7,
     "lat": 39.903346,
     "lng": 116.639249
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 49.6,
     "lat": 39.891603,
     "lng": 116.627248
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-华兴园",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 42.1,
     "lat": 39.902746,
     "lng": 116.630468
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 55.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 49.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 49.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 60.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 43.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 43.8,
     "lat": 39.891603,
     "lng": 116.627248
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-广通小区",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 67.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京铁潞园",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 62.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 41.7,
     "lat": 39.903346,
     "lng": 116.639249
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 68.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 62.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 74.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 40.1,
     "lat": 39.891603,
     "lng": 116.627248
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 45.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 75.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-广通小区",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 57.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 62.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 58.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 45.2,
     "lat": 39.896688,
     "lng": 116.630012
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:46",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 45.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 59.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 61.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京铁潞园",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 45.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长桥园公寓",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 57.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 53.1,
     "lat": 39.90595,
     "lng": 116.6332
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 55.5,
     "lat": 39.90595,
     "lng": 116.6332
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 49.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-华兴园",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 40.9,
     "lat": 39.902746,
     "lng": 116.630468
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 42.5,
     "lat": 39.903346,
     "lng": 116.639249
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-新华联锦园",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 41.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-新华联锦园",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 39.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 61.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 73.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 60.5,
     "lat": 39.905736,
     "lng": 116.630765
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 51.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 57.8,
     "lat": 39.90595,
     "lng": 116.6332
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.1,
     "lat": 39.903346,
     "lng": 116.639249
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 61.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-新华联锦园",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄北街",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.8,
     "lat": 39.900878,
     "lng": 116.628922
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通惠苑",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 42.1,
     "lat": 39.90595,
     "lng": 116.6332
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 52.4,
     "lat": 39.903346,
     "lng": 116.639249
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 52.5,
     "lat": 39.891603,
     "lng": 116.627248
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-华兴园",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.9,
     "lat": 39.902746,
     "lng": 116.630468
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 43.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 67.6,
     "lat": 39.90595,
     "lng": 116.6332
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-竹木厂小区",
     "scraped_at": "2026-05-02 21:08:49",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 47.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 45.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 61.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 67.7,
     "lat": 39.90595,
     "lng": 116.6332
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑农机公司宿舍",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 76.4,
     "lat": 39.905736,
     "lng": 116.630765
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 53.3,
     "lat": 39.896688,
     "lng": 116.630012
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 71.5,
     "lat": 39.903346,
     "lng": 116.639249
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 86.4,
     "lat": 39.90595,
     "lng": 116.6332
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 63.3,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 50.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 50.5,
     "lat": 39.896688,
     "lng": 116.630012
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 49.2,
     "lat": 39.90595,
     "lng": 116.6332
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长桥园公寓",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 48.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 60.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 56.0,
     "lat": 39.896688,
     "lng": 116.630012
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-广通小区",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 61.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 57.4,
     "lat": 39.903346,
     "lng": 116.639249
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 58.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 59.9,
     "lat": 39.90595,
     "lng": 116.6332
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-河和居",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 104.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 56.1,
     "lat": 39.905736,
     "lng": 116.630765
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 81.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-广通小区",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 60.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 50.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长桥园公寓",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 60.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 72.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 56.2,
     "lat": 39.903346,
     "lng": 116.639249
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-河和居",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 52.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:52",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 68.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 45.0,
     "lat": 39.903346,
     "lng": 116.639249
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-新华联锦园",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 63.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 79.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 57.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-河和居",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 80.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 51.9,
     "lat": 39.903346,
     "lng": 116.639249
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 66.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.7,
     "lat": 39.891603,
     "lng": 116.627248
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-铁路宿舍",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 50.2,
     "lat": 39.905736,
     "lng": 116.630765
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 68.0,
     "lat": 39.90595,
     "lng": 116.6332
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 49.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西果园小区",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 53.3,
     "lat": 39.903346,
     "lng": 116.639249
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄北街",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 55.2,
     "lat": 39.901766,
     "lng": 116.629868
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-竹木厂小区",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 69.8,
     "lat": 39.907702,
     "lng": 116.636934
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-新华联锦园",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 63.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 87.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-河和居",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 79.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄北街",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 39.9,
     "lat": 39.899986,
     "lng": 116.632488
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长桥园公寓",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 25.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 92.3,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 51.7,
     "lat": 39.891603,
     "lng": 116.627248
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑乙",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.9,
     "lat": 39.905736,
     "lng": 116.630765
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 43.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 56.7,
     "lat": 39.903346,
     "lng": 116.639249
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-科印小区",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 50.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 48.2,
     "lat": 39.90595,
     "lng": 116.6332
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-竹木厂小区",
     "scraped_at": "2026-05-02 21:08:55",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 61.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通惠苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 43.1,
     "lat": 39.90595,
     "lng": 116.6332
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 55.6,
     "lat": 39.905736,
     "lng": 116.630765
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 48.4,
     "lat": 39.903346,
     "lng": 116.639249
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 51.6,
     "lat": 39.891603,
     "lng": 116.627248
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 48.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 72.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.7,
     "lat": 39.905736,
     "lng": 116.630765
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 59.5,
     "lat": 39.907702,
     "lng": 116.636934
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城三期",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 44.8,
     "lat": 39.891603,
     "lng": 116.627248
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 44.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 55.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 66.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-竹木厂小区",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 47.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 63.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 52.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 56.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 58.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长桥园公寓",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 47.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 99.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 50.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 56.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 51.7,
     "lat": 39.907702,
     "lng": 116.636934
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 77.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 66.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-华兴园",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.1,
     "lat": 39.902746,
     "lng": 116.630468
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 72.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3319,7 +3319,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:08:58",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": "",
     "lat": 39.908029,
     "lng": 116.634191
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西果园小区",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 58.8,
     "lat": 39.903346,
     "lng": 116.639249
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:01",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 67.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-新华联锦园",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 48.5,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京铁潞园",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 52.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-新华联锦园",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 72.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄北街",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 58.6,
     "lat": 39.901766,
     "lng": 116.629868
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:01",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 56.4,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-北苑",
     "scraped_at": "2026-05-02 21:09:01",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.6,
     "lat": 39.905736,
     "lng": 116.630765
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-铁路宿舍",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 64.2,
     "lat": 39.905736,
     "lng": 116.630765
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 52.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-科印小区",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 46.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 58.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 70.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-科印小区",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-铁路宿舍",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 74.7,
     "lat": 39.905736,
     "lng": 116.630765
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄北街",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 59.6,
     "lat": 39.901766,
     "lng": 116.629868
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 42.6,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 52.9,
     "lat": 39.90595,
     "lng": 116.6332
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 89.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 54.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 63.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-华兴园",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 40.8,
     "lat": 39.902746,
     "lng": 116.630468
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 53.8,
     "lat": 39.90595,
     "lng": 116.6332
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 39.6,
     "lat": 39.903346,
     "lng": 116.639249
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 41.5,
     "lat": 39.903346,
     "lng": 116.639249
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 49.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 60.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-通典铭居",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 77.3,
     "lat": 39.90595,
     "lng": 116.6332
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 63.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-世纪星城",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 45.8,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 49.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 62.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-天时名苑",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 48.2,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 63.1,
     "lat": 39.902734,
     "lng": 116.631385
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-长城国际",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 62.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄小区",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 42.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 44.6,
     "lat": 39.903346,
     "lng": 116.639249
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄",
     "scraped_at": "2026-05-02 21:09:04",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 48.3,
     "lat": 39.896688,
     "lng": 116.630012
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-杨庄小区",
     "scraped_at": "2026-05-02 21:09:08",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 51.7,
     "lat": 39.902734,
     "lng": 116.631385
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 83.9,
     "lat": 39.902734,
     "lng": 116.631385
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-京贸国际公寓",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 41.0,
     "lat": 39.902734,
     "lng": 116.631385
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西马庄园",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 43.4,
     "lat": 39.903346,
     "lng": 116.639249
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "通州区-通州北苑-西果园小区",
     "scraped_at": "2026-05-02 21:09:32",
-    "region": "tongzhoubeiyuan",
+    "region": "通州北苑",
     "unit_price": 53.6,
     "lat": 39.903346,
     "lng": 116.639249

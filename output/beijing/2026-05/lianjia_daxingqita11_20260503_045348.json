@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-和悦璞云",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.5,
     "lat": 39.805326,
     "lng": 116.487729
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 36.2,
     "lat": 39.693206,
     "lng": 116.325718
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-金鼎欣盛家园",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 42.6,
     "lat": 39.805326,
     "lng": 116.487729
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 31.6,
     "lat": 39.729759,
     "lng": 116.336431
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 30.5,
     "lat": 39.693206,
     "lng": 116.325718
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 96.4,
     "lat": 39.663674,
     "lng": 116.516859
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首创",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 45.2,
     "lat": 39.729636,
     "lng": 116.364168
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 50.0,
     "lat": 39.729759,
     "lng": 116.336431
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.5,
     "lat": 39.805326,
     "lng": 116.487729
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 32.2,
     "lat": 39.804407,
     "lng": 116.453815
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.5,
     "lat": 39.712159,
     "lng": 116.314021
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 33.8,
     "lat": 39.693206,
     "lng": 116.325718
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首创",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 58.6,
     "lat": 39.729636,
     "lng": 116.364168
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 31.5,
     "lat": 39.729759,
     "lng": 116.336431
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.7,
     "lat": 39.693206,
     "lng": 116.325718
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.3,
     "lat": 39.729759,
     "lng": 116.336431
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 40.4,
     "lat": 39.738254,
     "lng": 116.349536
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 40.5,
     "lat": 39.710741,
     "lng": 116.336291
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 36.5,
     "lat": 39.729759,
     "lng": 116.336431
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.9,
     "lat": 39.729759,
     "lng": 116.336431
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首创",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 55.3,
     "lat": 39.729636,
     "lng": 116.364168
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.9,
     "lat": 39.712159,
     "lng": 116.314021
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-和悦璞云",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 32.5,
     "lat": 39.805326,
     "lng": 116.487729
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.0,
     "lat": 39.693206,
     "lng": 116.325718
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-和悦璞云",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 32.6,
     "lat": 39.805326,
     "lng": 116.487729
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 71.1,
     "lat": 39.787044,
     "lng": 116.414224
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首创",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 52.2,
     "lat": 39.729636,
     "lng": 116.364168
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:36",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 42.2,
     "lat": 39.729759,
     "lng": 116.336431
@@ -545,7 +545,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 33.9,
     "lat": 39.866137,
     "lng": 116.446047
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 67.7,
     "lat": 39.866137,
     "lng": 116.446047
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 47.8,
     "lat": 39.729759,
     "lng": 116.336431
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 47.9,
     "lat": 39.738254,
     "lng": 116.349536
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 60.6,
     "lat": 39.612986,
     "lng": 116.435118
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 43.5,
     "lat": 39.712159,
     "lng": 116.314021
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 49.8,
     "lat": 39.693206,
     "lng": 116.325718
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 42.0,
     "lat": 39.729759,
     "lng": 116.336431
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 43.0,
     "lat": 39.712159,
     "lng": 116.314021
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 33.3,
     "lat": 39.805326,
     "lng": 116.487729
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 35.9,
     "lat": 39.804407,
     "lng": 116.453815
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-万嘉街",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 35.5,
     "lat": 39.604289,
     "lng": 116.31537
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-和悦璞云",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 35.3,
     "lat": 39.805326,
     "lng": 116.487729
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-万嘉街",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.9,
     "lat": 39.604289,
     "lng": 116.31537
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.5,
     "lat": 39.804407,
     "lng": 116.453815
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.1,
     "lat": 39.804407,
     "lng": 116.453815
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 39.6,
     "lat": 39.804407,
     "lng": 116.453815
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 46.3,
     "lat": 39.729759,
     "lng": 116.336431
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 37.1,
     "lat": 39.729759,
     "lng": 116.336431
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 36.1,
     "lat": 39.712159,
     "lng": 116.314021
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 36.1,
     "lat": 39.729759,
     "lng": 116.336431
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.7,
     "lat": 39.729759,
     "lng": 116.336431
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 35.0,
     "lat": 39.693206,
     "lng": 116.325718
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 34.7,
     "lat": 39.804407,
     "lng": 116.453815
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 37.9,
     "lat": 39.805326,
     "lng": 116.487729
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 42.1,
     "lat": 39.805326,
     "lng": 116.487729
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 36.0,
     "lat": 39.712159,
     "lng": 116.314021
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-万嘉街",
     "scraped_at": "2026-05-02 22:02:39",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 50.0,
     "lat": 39.604289,
     "lng": 116.31537
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 36.1,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.9,
     "lat": 39.804407,
     "lng": 116.453815
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-万嘉街",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 39.8,
     "lat": 39.604289,
     "lng": 116.31537
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 30.1,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 39.8,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.5,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 36.1,
     "lat": 39.712159,
     "lng": 116.314021
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 40.4,
     "lat": 39.693206,
     "lng": 116.325718
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 33.8,
     "lat": 39.712159,
     "lng": 116.314021
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 34.1,
     "lat": 39.805326,
     "lng": 116.487729
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-金鼎欣盛家园",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 32.5,
     "lat": 39.805326,
     "lng": 116.487729
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 37.5,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.1,
     "lat": 39.712159,
     "lng": 116.314021
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.6,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-万嘉街",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 37.5,
     "lat": 39.604289,
     "lng": 116.31537
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 54.3,
     "lat": 39.712159,
     "lng": 116.314021
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-万嘉街",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 30.1,
     "lat": 39.604289,
     "lng": 116.31537
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 33.7,
     "lat": 39.804407,
     "lng": 116.453815
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 23.7,
     "lat": 39.693206,
     "lng": 116.325718
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 43.7,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.3,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.7,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.9,
     "lat": 39.712159,
     "lng": 116.314021
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首创",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 56.9,
     "lat": 39.729636,
     "lng": 116.364168
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 39.1,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:42",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 48.1,
     "lat": 39.712159,
     "lng": 116.314021
@@ -1571,7 +1571,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 180.0,
     "lat": 39.736286,
     "lng": 116.414468
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-敬贤里",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 39.4,
     "lat": 39.805326,
     "lng": 116.487729
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 31.6,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首创",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 45.8,
     "lat": 39.733966,
     "lng": 116.363509
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-和悦璞云",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 47.6,
     "lat": 39.805326,
     "lng": 116.487729
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首开璞瑅墅",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 26.2,
     "lat": 39.805326,
     "lng": 116.487729
@@ -1685,7 +1685,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 107.1,
     "lat": 39.914186,
     "lng": 116.405558
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.5,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.3,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-万嘉街",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 39.9,
     "lat": 39.604289,
     "lng": 116.31537
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 46.6,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 40.4,
     "lat": 39.693206,
     "lng": 116.325718
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 47.8,
     "lat": 39.693206,
     "lng": 116.325718
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 36.7,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.7,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.1,
     "lat": 39.804407,
     "lng": 116.453815
@@ -1875,7 +1875,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 79.3,
     "lat": 40.080053,
     "lng": 116.355975
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.8,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-万嘉街",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 37.3,
     "lat": 39.604289,
     "lng": 116.31537
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.9,
     "lat": 39.804407,
     "lng": 116.453815
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.6,
     "lat": 39.729759,
     "lng": 116.336431
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 30.0,
     "lat": 39.805326,
     "lng": 116.487729
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 42.0,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首创",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 49.6,
     "lat": 39.729636,
     "lng": 116.364168
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.6,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.5,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-芳泽东路",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 54.3,
     "lat": 39.804407,
     "lng": 116.453815
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首开璞瑅墅",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 39.4,
     "lat": 39.805326,
     "lng": 116.487729
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:45",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 35.0,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-敬贤里",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 44.3,
     "lat": 39.805326,
     "lng": 116.487729
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 28.5,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 50.0,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.4,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 32.2,
     "lat": 39.710741,
     "lng": 116.336291
@@ -2217,7 +2217,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 79.3,
     "lat": 39.751505,
     "lng": 116.486189
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首创",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 43.1,
     "lat": 39.729636,
     "lng": 116.364168
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 50.9,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.3,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.0,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 62.6,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 34.4,
     "lat": 39.805326,
     "lng": 116.487729
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 44.2,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 46.2,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-英培街",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 42.0,
     "lat": 39.712159,
     "lng": 116.314021
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.9,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 37.3,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首开璞瑅墅",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 39.8,
     "lat": 39.805326,
     "lng": 116.487729
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 40.9,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳南路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.9,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 37.6,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 40.0,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 33.8,
     "lat": 39.710741,
     "lng": 116.336291
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-和悦璞云",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 36.7,
     "lat": 39.805326,
     "lng": 116.487729
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 35.2,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2597,7 +2597,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 49.0,
     "lat": 39.663674,
     "lng": 116.516859
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.6,
     "lat": 39.738254,
     "lng": 116.349536
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:02:48",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 39.1,
     "lat": 39.805326,
     "lng": 116.487729
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 46.9,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 47.1,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 38.9,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 56.6,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 77.4,
     "lat": 39.612986,
     "lng": 116.435118
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-春芳北路",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 40.0,
     "lat": 39.729759,
     "lng": 116.336431
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-万嘉街",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 30.1,
     "lat": 39.604289,
     "lng": 116.31537
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-首开璞瑅墅",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 14.9,
     "lat": 39.805326,
     "lng": 116.487729
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 45.2,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 37.5,
     "lat": 39.710741,
     "lng": 116.336291
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 69.1,
     "lat": 39.612986,
     "lng": 116.435118
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 52.3,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它-北京城建北京密码",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 43.4,
     "lat": 39.805326,
     "lng": 116.487729
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "大兴区-大兴其它",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 41.9,
     "lat": 39.693206,
     "lng": 116.325718
@@ -2920,7 +2920,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:03:16",
-    "region": "daxingqita11",
+    "region": "大兴其它",
     "unit_price": 95.0,
     "lat": 39.994587,
     "lng": 116.462266

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-水碓子东路",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 104.3,
     "lat": 39.927481,
     "lng": 116.467131
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖北三条",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 94.7,
     "lat": 39.931386,
     "lng": 116.461668
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-锦湖园公寓",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 111.1,
     "lat": 39.928616,
     "lng": 116.463688
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-白家庄东里",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 104.4,
     "lat": 39.928749,
     "lng": 116.458041
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-水碓子东路",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 89.7,
     "lat": 39.927481,
     "lng": 116.467131
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖公寓",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 107.9,
     "lat": 39.931386,
     "lng": 116.461668
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-白家庄东里",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 110.6,
     "lat": 39.928749,
     "lng": 116.458041
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖水利局宿舍",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 111.1,
     "lat": 39.931386,
     "lng": 116.461668
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-白家庄东里",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 122.7,
     "lat": 39.928749,
     "lng": 116.458041
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-锦湖园公寓",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 103.9,
     "lat": 39.928616,
     "lng": 116.463688
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖公寓",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 76.0,
     "lat": 39.931386,
     "lng": 116.461668
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖北口",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 121.7,
     "lat": 39.931386,
     "lng": 116.461668
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖路",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 115.2,
     "lat": 39.929006,
     "lng": 116.461788
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-白家庄东里",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 98.4,
     "lat": 39.928749,
     "lng": 116.458041
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖中路南三条",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 98.7,
     "lat": 39.924862,
     "lng": 116.465661
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖南里",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 115.0,
     "lat": 39.931386,
     "lng": 116.461668
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖北头条",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 126.4,
     "lat": 39.931386,
     "lng": 116.461668
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖中路南一条",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 114.1,
     "lat": 39.925576,
     "lng": 116.463078
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖中路南三条",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 93.0,
     "lat": 39.924862,
     "lng": 116.465661
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖北三条",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 117.8,
     "lat": 39.931386,
     "lng": 116.461668
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖公寓",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 119.2,
     "lat": 39.931386,
     "lng": 116.461668
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖南里",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 112.9,
     "lat": 39.931386,
     "lng": 116.461668
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖东里",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 84.2,
     "lat": 39.931386,
     "lng": 116.461668
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖公寓",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 94.7,
     "lat": 39.931386,
     "lng": 116.461668
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-水碓子社区",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 85.8,
     "lat": 39.924176,
     "lng": 116.463938
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖中路南二条",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 98.8,
     "lat": 39.925497,
     "lng": 116.463476
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖北三条",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 104.9,
     "lat": 39.931386,
     "lng": 116.461668
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖公寓",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 93.2,
     "lat": 39.931386,
     "lng": 116.461668
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-团结湖北口",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 135.2,
     "lat": 39.931386,
     "lng": 116.461668
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-团结湖-水碓子社区",
     "scraped_at": "2026-05-02 21:09:50",
-    "region": "tuanjiehu",
+    "region": "团结湖",
     "unit_price": 103.9,
     "lat": 39.924176,
     "lng": 116.463938

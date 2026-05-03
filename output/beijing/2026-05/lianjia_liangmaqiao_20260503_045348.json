@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-三源里南小街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 104.4,
     "lat": 39.948099,
     "lng": 116.455589
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-三源里南小街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 97.9,
     "lat": 39.948099,
     "lng": 116.455589
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-新源里西",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 107.7,
     "lat": 39.9562,
     "lng": 116.46015
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 134.8,
     "lat": 39.9562,
     "lng": 116.46015
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-牛王庙",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 139.9,
     "lat": 39.9562,
     "lng": 116.46015
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 595.2,
     "lat": 39.663674,
     "lng": 116.516859
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-世方豪庭",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 125.8,
     "lat": 39.953866,
     "lng": 116.465605
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 125.7,
     "lat": 39.9562,
     "lng": 116.46015
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-顺源里",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 131.2,
     "lat": 39.9562,
     "lng": 116.46015
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-牛王庙",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 136.0,
     "lat": 39.9562,
     "lng": 116.46015
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-儒林苑",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 91.4,
     "lat": 39.9562,
     "lng": 116.46015
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-三源里街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 121.2,
     "lat": 39.948099,
     "lng": 116.455589
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-新源里西",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 121.0,
     "lat": 39.9562,
     "lng": 116.46015
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 145.3,
     "lat": 39.9562,
     "lng": 116.46015
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-新源街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 124.0,
     "lat": 39.948736,
     "lng": 116.452068
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-新源里西",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 114.6,
     "lat": 39.9562,
     "lng": 116.46015
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-世方豪庭",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 109.4,
     "lat": 39.953866,
     "lng": 116.465605
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-三源里南小街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 99.6,
     "lat": 39.948099,
     "lng": 116.455589
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-三源里北小街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 106.8,
     "lat": 39.954886,
     "lng": 116.449788
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-星源汇",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 167.6,
     "lat": 39.9562,
     "lng": 116.46015
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-三源里北小街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 103.5,
     "lat": 39.954886,
     "lng": 116.449788
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-新源街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 114.1,
     "lat": 39.948736,
     "lng": 116.452068
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-新源里东",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 110.5,
     "lat": 39.9562,
     "lng": 116.46015
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-三源里北小街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 107.3,
     "lat": 39.954886,
     "lng": 116.449788
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-星源汇",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 185.2,
     "lat": 39.9562,
     "lng": 116.46015
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-顺源里",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 111.8,
     "lat": 39.9562,
     "lng": 116.46015
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-亮马桥-三源里街",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 95.7,
     "lat": 39.948099,
     "lng": 116.455589
@@ -526,7 +526,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:56:38",
-    "region": "liangmaqiao",
+    "region": "亮马桥",
     "unit_price": 258.3,
     "lat": 39.953075,
     "lng": 116.470127

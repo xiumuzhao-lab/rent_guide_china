@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科王府",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 48.9,
     "lat": 40.173674,
     "lng": 116.418242
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科帕提欧",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 30.4,
     "lat": 40.180131,
     "lng": 116.388396
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-保利垄上八区",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 52.4,
     "lat": 40.164708,
     "lng": 116.390969
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-未来城市",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 78.1,
     "lat": 40.136187,
     "lng": 116.476526
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-未来城市",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 79.0,
     "lat": 40.136187,
     "lng": 116.476526
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科帕提欧",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 42.3,
     "lat": 40.180131,
     "lng": 116.388396
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-未来城市",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 79.3,
     "lat": 40.136187,
     "lng": 116.476526
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科王府",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 128.5,
     "lat": 40.173674,
     "lng": 116.418242
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科帕提欧",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 43.5,
     "lat": 40.180131,
     "lng": 116.388396
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-橘郡",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 123.2,
     "lat": 40.153245,
     "lng": 116.405215
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科帕提欧",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 50.4,
     "lat": 40.180131,
     "lng": 116.388396
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-土沟新村",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 42.7,
     "lat": 40.154826,
     "lng": 116.450095
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-未来城市",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 79.2,
     "lat": 40.136187,
     "lng": 116.476526
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-橘郡",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 65.4,
     "lat": 40.153245,
     "lng": 116.405215
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科帕提欧",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 40.7,
     "lat": 40.180131,
     "lng": 116.388396
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-绿地中央广场",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 53.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-沙顺路",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 20.7,
     "lat": 40.170965,
     "lng": 116.373306
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-未来城市",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 85.4,
     "lat": 40.136187,
     "lng": 116.476526
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-小汤山区医院宿舍",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 51.9,
     "lat": 40.179916,
     "lng": 116.411308
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-小汤山农机厂宿舍楼南区",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 59.5,
     "lat": 40.171116,
     "lng": 116.349068
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-土沟新村",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 29.1,
     "lat": 40.154826,
     "lng": 116.450095
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-小汤山区医院宿舍",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 41.3,
     "lat": 40.179916,
     "lng": 116.411308
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科帕提欧",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 32.7,
     "lat": 40.180131,
     "lng": 116.388396
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-逸品尚枫",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 23.7,
     "lat": 40.174127,
     "lng": 116.375259
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科帕提欧",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 37.2,
     "lat": 40.180131,
     "lng": 116.388396
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-绿地中央广场",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 67.8,
     "lat": 39.944015,
     "lng": 116.647149
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-沙顺路",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 46.5,
     "lat": 40.179371,
     "lng": 116.410834
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科帕提欧",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 56.2,
     "lat": 40.180131,
     "lng": 116.388396
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-金科帕提欧",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 45.1,
     "lat": 40.180131,
     "lng": 116.388396
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "昌平区-小汤山-保利垄上八区",
     "scraped_at": "2026-05-02 22:42:23",
-    "region": "xiaotangshan1",
+    "region": "小汤山",
     "unit_price": 49.9,
     "lat": 40.164708,
     "lng": 116.390969

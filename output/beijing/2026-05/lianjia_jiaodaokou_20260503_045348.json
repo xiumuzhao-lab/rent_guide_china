@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-白米仓胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 195.0,
     "lat": 39.935097,
     "lng": 116.408294
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-土儿胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 164.4,
     "lat": 39.938669,
     "lng": 116.40704
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-交道口北二条",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 151.4,
     "lat": 39.938886,
     "lng": 116.392888
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-交道口东大街",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 177.8,
     "lat": 39.939166,
     "lng": 116.409368
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-香饵胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 120.8,
     "lat": 39.937666,
     "lng": 116.410348
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 300.0,
     "lat": 39.93577,
     "lng": 116.38419
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-花梗胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 170.6,
     "lat": 39.937556,
     "lng": 116.406548
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-细管胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 181.8,
     "lat": 39.935806,
     "lng": 116.410198
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-花梗胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 128.5,
     "lat": 39.937556,
     "lng": 116.406548
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-交道口东大街",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 177.7,
     "lat": 39.939166,
     "lng": 116.409368
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-土儿胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 157.4,
     "lat": 39.938669,
     "lng": 116.40704
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-香饵胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 161.4,
     "lat": 39.937666,
     "lng": 116.410348
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-交道口东大街",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 163.0,
     "lat": 39.939166,
     "lng": 116.409368
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-交道口东大街",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 168.5,
     "lat": 39.939166,
     "lng": 116.409368
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-桃条胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 159.4,
     "lat": 39.935127,
     "lng": 116.405148
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-张自忠路",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 174.7,
     "lat": 39.93195,
     "lng": 116.406761
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-方家胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 233.3,
     "lat": 39.941616,
     "lng": 116.405268
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-香饵胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 194.0,
     "lat": 39.937666,
     "lng": 116.410348
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-交道口东大街",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 164.5,
     "lat": 39.939166,
     "lng": 116.409368
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-土儿胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 210.7,
     "lat": 39.938669,
     "lng": 116.40704
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-花梗胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 290.4,
     "lat": 39.937446,
     "lng": 116.407168
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-东旺胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 120.0,
     "lat": 39.935466,
     "lng": 116.402878
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-大兴胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 178.1,
     "lat": 39.936256,
     "lng": 116.402928
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-交道口东大街",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 143.3,
     "lat": 39.939166,
     "lng": 116.409368
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-青碳局胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 322.6,
     "lat": 39.938886,
     "lng": 116.392888
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-大兴胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 308.2,
     "lat": 39.936256,
     "lng": 116.402928
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-细管胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 252.5,
     "lat": 39.935806,
     "lng": 116.410198
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "东城区-交道口-白米仓胡同",
     "scraped_at": "2026-05-02 20:05:23",
-    "region": "jiaodaokou",
+    "region": "交道口",
     "unit_price": 220.6,
     "lat": 39.935097,
     "lng": 116.408294

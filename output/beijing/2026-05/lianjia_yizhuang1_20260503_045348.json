@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林六期",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 60.0,
     "lat": 39.820806,
     "lng": 116.511368
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.5,
     "lat": 39.787886,
     "lng": 116.512852
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著二期",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 102.5,
     "lat": 39.819799,
     "lng": 116.525334
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-融创亦庄壹号",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 90.0,
     "lat": 39.799155,
     "lng": 116.571073
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-浉城百丽",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 49.4,
     "lat": 39.791266,
     "lng": 116.492734
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 95.5,
     "lat": null,
     "lng": null
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.2,
     "lat": 39.810377,
     "lng": 116.508085
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-长新花园",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 58.3,
     "lat": 39.798837,
     "lng": 116.501899
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 91.7,
     "lat": 39.805362,
     "lng": 116.502081
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 72.5,
     "lat": 39.787886,
     "lng": 116.512852
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-小康东里",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 60.6,
     "lat": 39.82087,
     "lng": 116.5252
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林二期",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.7,
     "lat": 39.820806,
     "lng": 116.511368
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.2,
     "lat": 39.804515,
     "lng": 116.49524
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.6,
     "lat": 39.804515,
     "lng": 116.49524
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 82.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 113.3,
     "lat": 39.790761,
     "lng": 116.506072
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里丙区",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.3,
     "lat": 39.792294,
     "lng": 116.483422
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开壹中心",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 84.0,
     "lat": 39.778869,
     "lng": 116.555526
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-贵园东里",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 51.9,
     "lat": 39.794716,
     "lng": 116.481938
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-和成璟园",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 52.2,
     "lat": 39.826105,
     "lng": 116.529375
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-和成璟园",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.9,
     "lat": 39.826105,
     "lng": 116.529375
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 104.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.2,
     "lat": 39.79026,
     "lng": 116.509128
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:18:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.5,
     "lat": 39.78854,
     "lng": 116.505488
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里乙区",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 55.1,
     "lat": 39.793974,
     "lng": 116.48354
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-通泰国际公馆",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.9,
     "lat": 39.780443,
     "lng": 116.558823
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 103.0,
     "lat": null,
     "lng": null
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园北里戊区",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.1,
     "lat": 39.79724,
     "lng": 116.477678
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 99.4,
     "lat": 39.810377,
     "lng": 116.508085
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林二期",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 60.0,
     "lat": 39.820806,
     "lng": 116.511368
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-郁金香舍",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.9,
     "lat": 39.793271,
     "lng": 116.503489
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林五期",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.8,
     "lat": 39.820806,
     "lng": 116.511368
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-莱茵河畔",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.3,
     "lat": 39.797633,
     "lng": 116.47314
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-卡尔生活馆",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 59.7,
     "lat": 39.787352,
     "lng": 116.493641
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 90.6,
     "lat": 39.79026,
     "lng": 116.509128
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 83.7,
     "lat": 39.78854,
     "lng": 116.505488
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-郁金香舍",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 55.1,
     "lat": 39.793271,
     "lng": 116.503489
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 86.9,
     "lat": 39.80148,
     "lng": 116.501774
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著一期",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.3,
     "lat": 39.816084,
     "lng": 116.518445
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-易居国际",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.6,
     "lat": 39.804162,
     "lng": 116.499736
@@ -773,7 +773,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:18:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": "",
     "lat": null,
     "lng": null
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 89.3,
     "lat": 39.79026,
     "lng": 116.509128
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.7,
     "lat": 39.810377,
     "lng": 116.508085
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:18:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.0,
     "lat": 39.79026,
     "lng": 116.509128
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.1,
     "lat": 39.804515,
     "lng": 116.49524
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:18:12",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 92.1,
     "lat": 39.78854,
     "lng": 116.505488
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-星岛假日",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 57.1,
     "lat": 39.801915,
     "lng": 116.482823
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.1,
     "lat": 39.810377,
     "lng": 116.508085
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 87.3,
     "lat": 39.810377,
     "lng": 116.508085
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.9,
     "lat": 39.79026,
     "lng": 116.509128
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:18:28",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 55.7,
     "lat": 39.805362,
     "lng": 116.502081
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-锋创科技园",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 75.4,
     "lat": 39.752835,
     "lng": 116.494311
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 91.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开壹中心",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 81.8,
     "lat": 39.778869,
     "lng": 116.555526
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 75.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-金地格林小镇",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 62.7,
     "lat": 39.749234,
     "lng": 116.540492
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 82.0,
     "lat": 39.78854,
     "lng": 116.505488
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 110.5,
     "lat": 39.810377,
     "lng": 116.508085
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著一期",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 86.4,
     "lat": 39.816084,
     "lng": 116.518445
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-鹿鸣苑",
     "scraped_at": "2026-05-02 21:18:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 60.1,
     "lat": 39.79984,
     "lng": 116.500054
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 76.1,
     "lat": 39.803581,
     "lng": 116.503808
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.3,
     "lat": 39.803581,
     "lng": 116.503808
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-贵园东里",
     "scraped_at": "2026-05-02 21:18:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 57.0,
     "lat": 39.794716,
     "lng": 116.481938
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-东晶国际",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 38.5,
     "lat": 39.800255,
     "lng": 116.493727
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-和成璟园",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.4,
     "lat": 39.826105,
     "lng": 116.529375
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:18:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.6,
     "lat": 39.78854,
     "lng": 116.505488
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著一期",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 80.1,
     "lat": 39.816084,
     "lng": 116.518445
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 82.0,
     "lat": 39.78854,
     "lng": 116.505488
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 95.5,
     "lat": 39.80148,
     "lng": 116.501774
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 94.2,
     "lat": 39.804515,
     "lng": 116.49524
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-易居国际",
     "scraped_at": "2026-05-02 21:18:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 67.4,
     "lat": 39.804162,
     "lng": 116.499736
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 83.3,
     "lat": 39.79026,
     "lng": 116.509128
@@ -1400,7 +1400,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 106.3,
     "lat": null,
     "lng": null
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 84.8,
     "lat": 39.80148,
     "lng": 116.501774
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-和成璟园",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 67.7,
     "lat": 39.826105,
     "lng": 116.529375
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著三期",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 84.4,
     "lat": 39.818301,
     "lng": 116.523609
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 112.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-金地格林小镇",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.3,
     "lat": 39.749234,
     "lng": 116.540492
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.4,
     "lat": 39.809132,
     "lng": 116.49909
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-中冀大厦",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.4,
     "lat": 39.784717,
     "lng": 116.517713
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-郁金香舍",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 60.2,
     "lat": 39.793271,
     "lng": 116.503489
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-易居国际",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 75.0,
     "lat": 39.804162,
     "lng": 116.499736
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.9,
     "lat": 39.804515,
     "lng": 116.49524
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 79.6,
     "lat": 39.79026,
     "lng": 116.509128
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林一期",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 75.2,
     "lat": 39.820806,
     "lng": 116.511368
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-锋创科技园",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 89.2,
     "lat": 39.752835,
     "lng": 116.494311
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 81.4,
     "lat": 39.79111,
     "lng": 116.504987
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 90.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 98.3,
     "lat": 39.810377,
     "lng": 116.508085
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-三羊里",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.3,
     "lat": 39.819397,
     "lng": 116.515245
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里乙区",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 61.1,
     "lat": 39.793974,
     "lng": 116.48354
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:19",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 67.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 113.8,
     "lat": 39.810377,
     "lng": 116.508085
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开汀塘",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.5,
     "lat": 39.796151,
     "lng": 116.574992
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-锋创科技园",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 97.1,
     "lat": 39.752835,
     "lng": 116.494311
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 79.4,
     "lat": 39.79111,
     "lng": 116.504987
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-卡尔生活馆",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.5,
     "lat": 39.787352,
     "lng": 116.493641
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-易居国际",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 57.5,
     "lat": 39.804162,
     "lng": 116.499736
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-和成璟园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 67.9,
     "lat": 39.826105,
     "lng": 116.529375
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-星岛嘉园",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 39.8,
     "lat": 39.799311,
     "lng": 116.477698
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-定海园二里",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 62.4,
     "lat": 39.800717,
     "lng": 116.565887
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-亲爱的",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 105.4,
     "lat": 39.805362,
     "lng": 116.502081
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-通泰国际公馆",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 84.9,
     "lat": 39.780443,
     "lng": 116.558823
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-贵园东里",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 58.8,
     "lat": 39.794716,
     "lng": 116.481938
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林五期",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.7,
     "lat": 39.820806,
     "lng": 116.511368
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:28",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 94.2,
     "lat": 39.810377,
     "lng": 116.508085
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-东晶国际",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 75.5,
     "lat": 39.800255,
     "lng": 116.493727
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-金地格林小镇",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.9,
     "lat": 39.749234,
     "lng": 116.540492
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:18:22",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 86.5,
     "lat": 39.79111,
     "lng": 116.504987
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 73.9,
     "lat": 39.790175,
     "lng": 116.49958
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.4,
     "lat": 39.787886,
     "lng": 116.512852
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-融创亦庄壹号",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 85.3,
     "lat": 39.799155,
     "lng": 116.571073
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-新康家园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 67.8,
     "lat": 39.798396,
     "lng": 116.488719
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著二期",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 71.0,
     "lat": 39.819799,
     "lng": 116.525334
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-一幅画卷",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.8,
     "lat": 39.803581,
     "lng": 116.503808
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.4,
     "lat": 39.805362,
     "lng": 116.502081
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-鹿鸣苑",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 104.8,
     "lat": 39.79984,
     "lng": 116.500054
@@ -2274,7 +2274,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 85.2,
     "lat": 39.763146,
     "lng": 116.506128
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著二期",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 144.2,
     "lat": 39.819799,
     "lng": 116.525334
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-金地格林小镇",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 59.2,
     "lat": 39.749234,
     "lng": 116.540492
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.4,
     "lat": 39.790175,
     "lng": 116.49958
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 93.4,
     "lat": 39.80148,
     "lng": 116.501774
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-易居国际",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 80.9,
     "lat": 39.804162,
     "lng": 116.499736
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.4,
     "lat": 39.787886,
     "lng": 116.512852
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-三羊里",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 55.0,
     "lat": 39.819397,
     "lng": 116.515245
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-听涛雅苑",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 52.5,
     "lat": 39.798104,
     "lng": 116.490945
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 105.3,
     "lat": 39.810377,
     "lng": 116.508085
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-鹿鸣苑",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 67.7,
     "lat": 39.79984,
     "lng": 116.500054
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-金地格林小镇",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 61.2,
     "lat": 39.749234,
     "lng": 116.540492
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 88.4,
     "lat": 39.78854,
     "lng": 116.505488
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 83.5,
     "lat": 39.790175,
     "lng": 116.49958
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-一幅画卷",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 59.2,
     "lat": 39.803581,
     "lng": 116.503808
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园北里甲区",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 51.0,
     "lat": 39.797545,
     "lng": 116.480357
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 96.9,
     "lat": 39.80148,
     "lng": 116.501774
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-通泰国际公馆",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.6,
     "lat": 39.780443,
     "lng": 116.558823
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-天宝家园",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.2,
     "lat": 39.790502,
     "lng": 116.489265
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-东晶国际",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 112.3,
     "lat": 39.800255,
     "lng": 116.493727
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-通泰国际公馆",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 101.2,
     "lat": 39.780443,
     "lng": 116.558823
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-次渠锦园",
     "scraped_at": "2026-05-02 21:18:25",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 101.6,
     "lat": 39.798053,
     "lng": 116.58089
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-郁金香舍",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.5,
     "lat": 39.793271,
     "lng": 116.503489
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 122.5,
     "lat": 39.810377,
     "lng": 116.508085
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-新康家园",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 62.1,
     "lat": 39.798396,
     "lng": 116.488719
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 99.3,
     "lat": 39.79026,
     "lng": 116.509128
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-小康家园",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 61.2,
     "lat": 39.820503,
     "lng": 116.521423
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 91.9,
     "lat": 39.80148,
     "lng": 116.501774
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-东晶国际",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 115.5,
     "lat": 39.800255,
     "lng": 116.493727
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 90.1,
     "lat": 39.810377,
     "lng": 116.508085
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-听涛雅苑",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 95.3,
     "lat": 39.798104,
     "lng": 116.490945
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开芯中心",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 58.5,
     "lat": 39.783688,
     "lng": 116.498887
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开壹中心",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 84.3,
     "lat": 39.778869,
     "lng": 116.555526
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 123.8,
     "lat": 39.79026,
     "lng": 116.509128
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 100.5,
     "lat": 39.810377,
     "lng": 116.508085
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-大雄公寓",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 71.8,
     "lat": 39.804392,
     "lng": 116.531839
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著二期",
     "scraped_at": "2026-05-02 21:18:28",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 87.0,
     "lat": 39.819799,
     "lng": 116.525334
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:18:28",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.4,
     "lat": 39.805362,
     "lng": 116.502081
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林五期",
     "scraped_at": "2026-05-02 21:18:28",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 71.6,
     "lat": 39.820806,
     "lng": 116.511368
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-秋盛居",
     "scraped_at": "2026-05-02 21:18:28",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.2,
     "lat": 39.805362,
     "lng": 116.502081
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 72.3,
     "lat": 39.804515,
     "lng": 116.49524
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 113.1,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-小康东里",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 50.0,
     "lat": 39.82087,
     "lng": 116.5252
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著三期",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 116.2,
     "lat": 39.818301,
     "lng": 116.523609
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 72.8,
     "lat": 39.805362,
     "lng": 116.502081
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-富源里",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.4,
     "lat": 39.799322,
     "lng": 116.472886
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-新康家园",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.1,
     "lat": 39.798396,
     "lng": 116.488719
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 87.2,
     "lat": 39.803581,
     "lng": 116.503808
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 102.2,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 92.4,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-梅园小区",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 61.3,
     "lat": 39.800407,
     "lng": 116.491092
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 67.5,
     "lat": 39.803921,
     "lng": 116.49395
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-富源里",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.0,
     "lat": 39.799322,
     "lng": 116.472886
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 109.9,
     "lat": 39.79026,
     "lng": 116.509128
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-博客雅居",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 73.7,
     "lat": 39.801462,
     "lng": 116.49696
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 109.0,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 84.0,
     "lat": 39.79111,
     "lng": 116.504987
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:18:32",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 104.6,
     "lat": 39.80148,
     "lng": 116.501774
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-小康家园",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 45.6,
     "lat": 39.820503,
     "lng": 116.521423
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.3,
     "lat": 39.803921,
     "lng": 116.49395
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-富源里",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 62.5,
     "lat": 39.799322,
     "lng": 116.472886
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林一期",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.3,
     "lat": 39.820806,
     "lng": 116.511368
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-春华屋",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 56.0,
     "lat": 39.803581,
     "lng": 116.503808
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林六期",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 60.8,
     "lat": 39.820806,
     "lng": 116.511368
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-融创亦庄壹号",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 90.2,
     "lat": 39.799155,
     "lng": 116.571073
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 100.0,
     "lat": 39.78854,
     "lng": 116.505488
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-和成璟园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 83.4,
     "lat": 39.826105,
     "lng": 116.529375
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-小康家园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.7,
     "lat": 39.820503,
     "lng": 116.521423
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.6,
     "lat": 39.804515,
     "lng": 116.49524
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-金地格林小镇",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 83.3,
     "lat": 39.749234,
     "lng": 116.540492
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 98.3,
     "lat": 39.805362,
     "lng": 116.502081
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:18:35",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 88.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 109.5,
     "lat": 39.80148,
     "lng": 116.501774
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 91.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.0,
     "lat": 39.79026,
     "lng": 116.509128
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 81.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-荣京丽都",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 102.7,
     "lat": 39.794333,
     "lng": 116.511381
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 95.4,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 109.8,
     "lat": 39.79026,
     "lng": 116.509128
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里丙区",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.9,
     "lat": 39.792294,
     "lng": 116.483422
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 138.1,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-一栋洋房",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 35.1,
     "lat": 39.803581,
     "lng": 116.503808
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-浉城百丽",
     "scraped_at": "2026-05-02 21:19:01",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 47.8,
     "lat": 39.791266,
     "lng": 116.492734
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-天宝家园",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.9,
     "lat": 39.790502,
     "lng": 116.489265
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-梅园小区",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 30.8,
     "lat": 39.800407,
     "lng": 116.491092
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-莱茵河畔",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 48.4,
     "lat": 39.797633,
     "lng": 116.47314
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-兴盛国际",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.3,
     "lat": 39.794308,
     "lng": 116.523249
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.5,
     "lat": 39.803581,
     "lng": 116.503808
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 71.6,
     "lat": 39.803581,
     "lng": 116.503808
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 82.2,
     "lat": 39.79111,
     "lng": 116.504987
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-融创亦庄壹号",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 80.9,
     "lat": 39.799155,
     "lng": 116.571073
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-和成璟园",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 75.6,
     "lat": 39.826105,
     "lng": 116.529375
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 81.6,
     "lat": 39.787886,
     "lng": 116.512852
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-大雄公寓",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.5,
     "lat": 39.804392,
     "lng": 116.531839
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 96.2,
     "lat": 39.810377,
     "lng": 116.508085
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园北里甲区",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 55.8,
     "lat": 39.797545,
     "lng": 116.480357
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-新康家园",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 45.7,
     "lat": 39.798396,
     "lng": 116.488719
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 72.9,
     "lat": 39.804515,
     "lng": 116.49524
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 80.6,
     "lat": 39.78854,
     "lng": 116.505488
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-博客雅居",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 83.5,
     "lat": 39.801462,
     "lng": 116.49696
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 101.1,
     "lat": 39.810377,
     "lng": 116.508085
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 76.5,
     "lat": 39.787886,
     "lng": 116.512852
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 87.1,
     "lat": 39.810377,
     "lng": 116.508085
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 81.0,
     "lat": 39.79111,
     "lng": 116.504987
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-次渠南里七区",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 67.4,
     "lat": 39.799958,
     "lng": 116.577445
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-新康家园",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.4,
     "lat": 39.798396,
     "lng": 116.488719
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开壹中心",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.7,
     "lat": 39.778869,
     "lng": 116.555526
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-听涛雅苑",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.6,
     "lat": 39.798104,
     "lng": 116.490945
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开尚庭",
     "scraped_at": "2026-05-02 21:19:11",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 127.1,
     "lat": 39.777675,
     "lng": 116.519551
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里丁区",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 43.4,
     "lat": 39.793242,
     "lng": 116.480011
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 101.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开壹中心",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 84.0,
     "lat": 39.778869,
     "lng": 116.555526
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-新康家园",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.8,
     "lat": 39.798396,
     "lng": 116.488719
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.2,
     "lat": 39.787886,
     "lng": 116.512852
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 101.5,
     "lat": 39.810377,
     "lng": 116.508085
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园北里戊区",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.6,
     "lat": 39.79724,
     "lng": 116.477678
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林五期",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.4,
     "lat": 39.820806,
     "lng": 116.511368
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里丁区",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.3,
     "lat": 39.793242,
     "lng": 116.480011
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 75.6,
     "lat": 39.79026,
     "lng": 116.509128
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 79.2,
     "lat": 39.79111,
     "lng": 116.504987
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-通泰国际公馆",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 82.0,
     "lat": 39.780443,
     "lng": 116.558823
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-听涛雅苑",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.7,
     "lat": 39.798104,
     "lng": 116.490945
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 88.0,
     "lat": 39.79026,
     "lng": 116.509128
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-融创亦庄壹号",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 100.5,
     "lat": 39.799155,
     "lng": 116.571073
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-通泰国际公馆",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.7,
     "lat": 39.780443,
     "lng": 116.558823
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 89.4,
     "lat": 39.787886,
     "lng": 116.512852
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.0,
     "lat": 39.805362,
     "lng": 116.502081
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 121.4,
     "lat": 39.810377,
     "lng": 116.508085
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开芯中心",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 58.1,
     "lat": 39.783688,
     "lng": 116.498887
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-博客雅居",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.0,
     "lat": 39.801462,
     "lng": 116.49696
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林一期",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 59.1,
     "lat": 39.820806,
     "lng": 116.511368
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著二期",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 79.0,
     "lat": 39.819799,
     "lng": 116.525334
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林五期",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 72.1,
     "lat": 39.820806,
     "lng": 116.511368
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.4,
     "lat": 39.810377,
     "lng": 116.508085
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-远洋天著三期",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 75.8,
     "lat": 39.818301,
     "lng": 116.523609
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 94.0,
     "lat": 39.810377,
     "lng": 116.508085
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 93.3,
     "lat": 39.804515,
     "lng": 116.49524
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 82.0,
     "lat": 39.79111,
     "lng": 116.504987
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-浉城百丽",
     "scraped_at": "2026-05-02 21:19:16",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 51.0,
     "lat": 39.791266,
     "lng": 116.492734
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 114.7,
     "lat": 39.810377,
     "lng": 116.508085
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 76.6,
     "lat": 39.79026,
     "lng": 116.509128
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.0,
     "lat": 39.804515,
     "lng": 116.49524
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 85.1,
     "lat": 39.801232,
     "lng": 116.502174
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.8,
     "lat": 39.809132,
     "lng": 116.49909
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-通泰国际公馆",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 84.5,
     "lat": 39.780443,
     "lng": 116.558823
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 100.0,
     "lat": 39.810377,
     "lng": 116.508085
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 91.5,
     "lat": 39.79111,
     "lng": 116.504987
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 120.1,
     "lat": 39.787886,
     "lng": 116.512852
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开壹中心",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 90.4,
     "lat": 39.778869,
     "lng": 116.555526
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 103.0,
     "lat": 39.80148,
     "lng": 116.501774
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-金地格林小镇",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.7,
     "lat": 39.749234,
     "lng": 116.540492
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林一期",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.4,
     "lat": 39.820806,
     "lng": 116.511368
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-郁金香舍",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.2,
     "lat": 39.793271,
     "lng": 116.503489
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯时代",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.4,
     "lat": 39.79111,
     "lng": 116.504987
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 75.4,
     "lat": 39.810377,
     "lng": 116.508085
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-东晶国际",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 105.9,
     "lat": 39.800255,
     "lng": 116.493727
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林五期",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.9,
     "lat": 39.820806,
     "lng": 116.511368
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-浉城百丽",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 51.0,
     "lat": 39.791266,
     "lng": 116.492734
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:19:20",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.6,
     "lat": 39.805362,
     "lng": 116.502081
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-小康家园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 50.0,
     "lat": 39.820503,
     "lng": 116.521423
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.9,
     "lat": 39.790175,
     "lng": 116.49958
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.1,
     "lat": 39.790175,
     "lng": 116.49958
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 73.3,
     "lat": 39.790175,
     "lng": 116.49958
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 100.4,
     "lat": 39.80148,
     "lng": 116.501774
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里丙区",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.5,
     "lat": 39.792294,
     "lng": 116.483422
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-瀛景园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.0,
     "lat": 39.79456,
     "lng": 116.478361
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 81.8,
     "lat": 39.810377,
     "lng": 116.508085
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.3,
     "lat": 39.803921,
     "lng": 116.49395
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 83.1,
     "lat": 39.78854,
     "lng": 116.505488
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-梅园小区",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.8,
     "lat": 39.800407,
     "lng": 116.491092
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.9,
     "lat": 39.809132,
     "lng": 116.49909
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-富源里",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 58.8,
     "lat": 39.799322,
     "lng": 116.472886
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 117.6,
     "lat": 39.801232,
     "lng": 116.502174
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.7,
     "lat": 39.803921,
     "lng": 116.49395
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开尚庭",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 121.8,
     "lat": 39.777675,
     "lng": 116.519551
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林五期",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 62.5,
     "lat": 39.820806,
     "lng": 116.511368
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-富源里",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 56.0,
     "lat": 39.799322,
     "lng": 116.472886
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-荣京丽都",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 127.3,
     "lat": 39.794333,
     "lng": 116.511381
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 116.1,
     "lat": 39.810377,
     "lng": 116.508085
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 110.5,
     "lat": 39.810377,
     "lng": 116.508085
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-星岛嘉园",
     "scraped_at": "2026-05-02 21:19:26",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.9,
     "lat": 39.799311,
     "lng": 116.477698
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 95.2,
     "lat": 39.810377,
     "lng": 116.508085
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-富源里",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 85.2,
     "lat": 39.799322,
     "lng": 116.472886
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-首创远洋禧瑞天著西区",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 76.3,
     "lat": 39.791461,
     "lng": 116.575001
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.9,
     "lat": 39.805362,
     "lng": 116.502081
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 90.4,
     "lat": 39.810377,
     "lng": 116.508085
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 86.2,
     "lat": 39.810377,
     "lng": 116.508085
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-荣京丽都",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 99.7,
     "lat": 39.794333,
     "lng": 116.511381
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-郁金香舍",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 76.4,
     "lat": 39.793271,
     "lng": 116.503489
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 86.8,
     "lat": 39.810377,
     "lng": 116.508085
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 120.6,
     "lat": 39.801232,
     "lng": 116.502174
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-荣京丽都",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 72.6,
     "lat": 39.794333,
     "lng": 116.511381
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-博客雅居",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 61.0,
     "lat": 39.801462,
     "lng": 116.49696
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.7,
     "lat": 39.805362,
     "lng": 116.502081
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.0,
     "lat": 39.804515,
     "lng": 116.49524
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林六期",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 60.0,
     "lat": 39.820806,
     "lng": 116.511368
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-莱茵河畔",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 47.6,
     "lat": 39.797633,
     "lng": 116.47314
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 90.4,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 72.5,
     "lat": 39.790175,
     "lng": 116.49958
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里丙区",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.6,
     "lat": 39.792294,
     "lng": 116.483422
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-一品亦庄",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 57.5,
     "lat": 39.802669,
     "lng": 116.499496
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 83.3,
     "lat": 39.80148,
     "lng": 116.501774
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 130.4,
     "lat": 39.80148,
     "lng": 116.501774
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-荣京丽都",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.8,
     "lat": 39.794333,
     "lng": 116.511381
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 87.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 97.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-博客雅居",
     "scraped_at": "2026-05-02 21:19:30",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 67.5,
     "lat": 39.801462,
     "lng": 116.49696
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-荣京丽都",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 105.5,
     "lat": 39.794333,
     "lng": 116.511381
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 86.7,
     "lat": 39.80148,
     "lng": 116.501774
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-燕景佳园",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 61.4,
     "lat": 39.800491,
     "lng": 116.485472
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-卡尔生活馆",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.9,
     "lat": 39.787352,
     "lng": 116.493641
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.3,
     "lat": 39.803921,
     "lng": 116.49395
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 97.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-定海园二里",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.0,
     "lat": 39.800717,
     "lng": 116.565887
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园北里甲区",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 61.7,
     "lat": 39.797545,
     "lng": 116.480357
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 113.8,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 94.8,
     "lat": 39.805362,
     "lng": 116.502081
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 109.4,
     "lat": 39.80148,
     "lng": 116.501774
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.5,
     "lat": 39.78854,
     "lng": 116.505488
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-首创远洋禧瑞天著西区",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 73.0,
     "lat": 39.791461,
     "lng": 116.575001
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 85.0,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 112.5,
     "lat": 39.80148,
     "lng": 116.501774
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.7,
     "lat": 39.78854,
     "lng": 116.505488
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-易居国际",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.7,
     "lat": 39.804162,
     "lng": 116.499736
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开汀塘",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 72.9,
     "lat": 39.796151,
     "lng": 116.574992
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 108.7,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 87.1,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6606,7 +6606,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-富源里",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 49.3,
     "lat": 39.799322,
     "lng": 116.472886
@@ -6625,7 +6625,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:36",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.3,
     "lat": 39.804515,
     "lng": 116.49524
@@ -6644,7 +6644,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.8,
     "lat": 39.805362,
     "lng": 116.502081
@@ -6663,7 +6663,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 66.4,
     "lat": 39.790175,
     "lng": 116.49958
@@ -6682,7 +6682,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-首创远洋禧瑞天著西区",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 61.7,
     "lat": 39.791461,
     "lng": 116.575001
@@ -6701,7 +6701,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-定海园二里",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.9,
     "lat": 39.800717,
     "lng": 116.565887
@@ -6720,7 +6720,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.4,
     "lat": 39.809132,
     "lng": 116.49909
@@ -6739,7 +6739,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 85.1,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6758,7 +6758,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-禧瑞天著东区",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.8,
     "lat": 39.752835,
     "lng": 116.494311
@@ -6777,7 +6777,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.7,
     "lat": 39.803921,
     "lng": 116.49395
@@ -6796,7 +6796,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 100.7,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6815,7 +6815,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 94.6,
     "lat": 39.801232,
     "lng": 116.502174
@@ -6834,7 +6834,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国锐金嵿",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 103.9,
     "lat": 39.79026,
     "lng": 116.509128
@@ -6853,7 +6853,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 80.7,
     "lat": 39.810377,
     "lng": 116.508085
@@ -6872,7 +6872,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里丙区",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.3,
     "lat": 39.792294,
     "lng": 116.483422
@@ -6891,7 +6891,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:19:42",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.6,
     "lat": 39.804515,
     "lng": 116.49524
@@ -6910,7 +6910,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 97.4,
     "lat": 39.80148,
     "lng": 116.501774
@@ -6929,7 +6929,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-小康家园",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 54.6,
     "lat": 39.820503,
     "lng": 116.521423
@@ -6948,7 +6948,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 61.1,
     "lat": 39.809132,
     "lng": 116.49909
@@ -6967,7 +6967,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-富源里",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.0,
     "lat": 39.799322,
     "lng": 116.472886
@@ -6986,7 +6986,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-力宝广场",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 57.9,
     "lat": 39.805362,
     "lng": 116.502081
@@ -7005,7 +7005,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-一品亦庄",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 56.7,
     "lat": 39.802669,
     "lng": 116.499496
@@ -7024,7 +7024,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 90.8,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7043,7 +7043,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-鹿鸣苑",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.8,
     "lat": 39.79984,
     "lng": 116.500054
@@ -7062,7 +7062,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 89.4,
     "lat": 39.80148,
     "lng": 116.501774
@@ -7081,7 +7081,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-招商",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.1,
     "lat": 39.78854,
     "lng": 116.505488
@@ -7100,7 +7100,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-博客雅居",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 70.2,
     "lat": 39.801462,
     "lng": 116.49696
@@ -7119,7 +7119,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 57.9,
     "lat": 39.809132,
     "lng": 116.49909
@@ -7138,7 +7138,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-和成璟园",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.9,
     "lat": 39.826105,
     "lng": 116.529375
@@ -7157,7 +7157,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林三期",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.6,
     "lat": 39.820806,
     "lng": 116.511368
@@ -7176,7 +7176,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 73.3,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7195,7 +7195,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-荣京丽都",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 73.8,
     "lat": 39.794333,
     "lng": 116.511381
@@ -7214,7 +7214,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-禧瑞天著东区",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.0,
     "lat": 39.752835,
     "lng": 116.494311
@@ -7233,7 +7233,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 97.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7252,7 +7252,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-易居国际",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 52.9,
     "lat": 39.804162,
     "lng": 116.499736
@@ -7271,7 +7271,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-鹿鸣苑",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.8,
     "lat": 39.79984,
     "lng": 116.500054
@@ -7290,7 +7290,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林六期",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 55.9,
     "lat": 39.820806,
     "lng": 116.511368
@@ -7309,7 +7309,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 92.3,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7328,7 +7328,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公寓",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 104.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7347,7 +7347,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 85.5,
     "lat": 39.801232,
     "lng": 116.502174
@@ -7366,7 +7366,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 63.0,
     "lat": 39.787886,
     "lng": 116.512852
@@ -7385,7 +7385,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 77.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7404,7 +7404,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-鹿鸣苑",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 73.8,
     "lat": 39.79984,
     "lng": 116.500054
@@ -7423,7 +7423,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 87.3,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7442,7 +7442,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-北京经开芯中心",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 52.9,
     "lat": 39.783961,
     "lng": 116.497568
@@ -7461,7 +7461,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-博客雅居",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 60.9,
     "lat": 39.801462,
     "lng": 116.49696
@@ -7480,7 +7480,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-春华屋",
     "scraped_at": "2026-05-02 21:20:09",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 52.6,
     "lat": 39.803581,
     "lng": 116.503808
@@ -7499,7 +7499,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-贵园南里乙区",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 65.0,
     "lat": 39.793974,
     "lng": 116.48354
@@ -7518,7 +7518,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 71.9,
     "lat": 39.787886,
     "lng": 116.512852
@@ -7537,7 +7537,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林二期",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 69.6,
     "lat": 39.820806,
     "lng": 116.511368
@@ -7556,7 +7556,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 81.2,
     "lat": 39.790175,
     "lng": 116.49958
@@ -7575,7 +7575,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 74.3,
     "lat": 39.801232,
     "lng": 116.502174
@@ -7594,7 +7594,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 87.6,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7613,7 +7613,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-上海沙龙",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 78.0,
     "lat": 39.790175,
     "lng": 116.49958
@@ -7632,7 +7632,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 86.9,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7651,7 +7651,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-博客雅居",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.6,
     "lat": 39.801462,
     "lng": 116.49696
@@ -7670,7 +7670,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-荣京丽都",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 99.2,
     "lat": 39.794333,
     "lng": 116.511381
@@ -7689,7 +7689,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:20:18",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 100.0,
     "lat": 39.80148,
     "lng": 116.501774
@@ -7708,7 +7708,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-定海园一里",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 56.8,
     "lat": 39.799274,
     "lng": 116.562894
@@ -7727,7 +7727,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.8,
     "lat": 39.804515,
     "lng": 116.49524
@@ -7746,7 +7746,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-次渠锦园",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 64.3,
     "lat": 39.798053,
     "lng": 116.58089
@@ -7765,7 +7765,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-君安国际",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 53.6,
     "lat": 39.787886,
     "lng": 116.512852
@@ -7784,7 +7784,7 @@
     "rent_type": "整租",
     "location": "大兴区-亦庄-金色漫香林五期",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.2,
     "lat": 39.820806,
     "lng": 116.511368
@@ -7803,7 +7803,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-星岛假日",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 53.1,
     "lat": 39.801915,
     "lng": 116.482823
@@ -7822,7 +7822,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-易居国际",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 68.6,
     "lat": 39.804162,
     "lng": 116.499736
@@ -7841,7 +7841,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-林肯公园",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 94.0,
     "lat": 39.810377,
     "lng": 116.508085
@@ -7860,7 +7860,7 @@
     "rent_type": "整租",
     "location": "北京经济技术开发区-亦庄-国融国际",
     "scraped_at": "2026-05-02 21:20:23",
-    "region": "yizhuang1",
+    "region": "亦庄",
     "unit_price": 97.3,
     "lat": 39.80148,
     "lng": 116.501774

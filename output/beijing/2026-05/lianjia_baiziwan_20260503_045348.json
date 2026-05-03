@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 73.5,
     "lat": 39.899689,
     "lng": 116.47037
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 71.9,
     "lat": 39.896526,
     "lng": 116.492848
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城三期",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 88.2,
     "lat": 39.89429,
     "lng": 116.498106
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 92.5,
     "lat": 39.899689,
     "lng": 116.47037
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.1,
     "lat": 39.899214,
     "lng": 116.502724
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 120.0,
     "lat": 39.903678,
     "lng": 116.476846
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 67.9,
     "lat": 39.899009,
     "lng": 116.486368
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 90.6,
     "lat": 39.899009,
     "lng": 116.486368
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 91.3,
     "lat": 39.899689,
     "lng": 116.47037
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 90.1,
     "lat": 39.89429,
     "lng": 116.498106
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 70.7,
     "lat": 39.899689,
     "lng": 116.47037
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 89.1,
     "lat": 39.896526,
     "lng": 116.492848
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 94.7,
     "lat": 39.899689,
     "lng": 116.47037
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 77.3,
     "lat": 39.89429,
     "lng": 116.498106
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 104.6,
     "lat": 39.89429,
     "lng": 116.498106
@@ -298,7 +298,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 97.5,
     "lat": null,
     "lng": null
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 86.2,
     "lat": 39.899689,
     "lng": 116.47037
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园一区",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 63.8,
     "lat": 39.898834,
     "lng": 116.501568
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 97.6,
     "lat": 39.898687,
     "lng": 116.485315
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园三区",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.6,
     "lat": 39.898834,
     "lng": 116.501568
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际南区",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 68.7,
     "lat": 39.89353,
     "lng": 116.488138
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋南区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 81.4,
     "lat": 39.893422,
     "lng": 116.493727
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 104.2,
     "lat": 39.898687,
     "lng": 116.485315
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城一期",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 71.5,
     "lat": 39.89429,
     "lng": 116.498106
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:32:09",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 70.0,
     "lat": 39.89429,
     "lng": 116.498106
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 70.1,
     "lat": 39.899689,
     "lng": 116.47037
@@ -507,7 +507,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 100.0,
     "lat": 39.892311,
     "lng": 116.489462
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 103.0,
     "lat": 39.89429,
     "lng": 116.498106
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城一期",
     "scraped_at": "2026-05-02 20:31:04",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 92.8,
     "lat": 39.89429,
     "lng": 116.498106
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 91.4,
     "lat": 39.90274,
     "lng": 116.51608
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 86.0,
     "lat": 39.89389,
     "lng": 116.49368
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 61.8,
     "lat": 39.899689,
     "lng": 116.47037
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 76.9,
     "lat": 39.899214,
     "lng": 116.502724
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 84.2,
     "lat": 39.89429,
     "lng": 116.498106
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 66.4,
     "lat": 39.89429,
     "lng": 116.498106
@@ -678,7 +678,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": "",
     "lat": 39.8824,
     "lng": 116.497968
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 73.5,
     "lat": 39.899689,
     "lng": 116.47037
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 88.1,
     "lat": 39.899689,
     "lng": 116.47037
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-观音景园一期",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 69.7,
     "lat": 39.889986,
     "lng": 116.513418
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 90.0,
     "lat": 39.899689,
     "lng": 116.47037
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城西区",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 72.8,
     "lat": 39.898985,
     "lng": 116.492332
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 82.8,
     "lat": 39.899009,
     "lng": 116.486368
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 87.2,
     "lat": 39.896526,
     "lng": 116.492848
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际北区",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 76.2,
     "lat": 39.89353,
     "lng": 116.488138
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 65.4,
     "lat": 39.89429,
     "lng": 116.498106
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-中海安德鲁斯庄园西区",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 92.9,
     "lat": 39.884936,
     "lng": 116.515068
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 75.9,
     "lat": 39.899156,
     "lng": 116.495398
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 68.9,
     "lat": 39.899689,
     "lng": 116.47037
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城一期",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 62.9,
     "lat": 39.89429,
     "lng": 116.498106
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-中海安德鲁斯庄园西区",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 79.2,
     "lat": 39.884936,
     "lng": 116.515068
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 98.3,
     "lat": 39.89429,
     "lng": 116.498106
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 109.4,
     "lat": 39.899156,
     "lng": 116.495398
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-北京第二制药厂宿舍",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 99.6,
     "lat": 40.006306,
     "lng": 116.399818
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 84.5,
     "lat": 39.898476,
     "lng": 116.501208
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门村路",
     "scraped_at": "2026-05-02 20:31:08",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 71.9,
     "lat": 39.896876,
     "lng": 116.490985
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 74.7,
     "lat": 39.896526,
     "lng": 116.492848
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城一期",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.7,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 83.3,
     "lat": 39.899156,
     "lng": 116.495398
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋南区",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 85.1,
     "lat": 39.893422,
     "lng": 116.493727
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-观音惠园",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 52.8,
     "lat": 39.899689,
     "lng": 116.47037
@@ -1153,7 +1153,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": "",
     "lat": 39.908021,
     "lng": 116.272513
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城三期",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 86.1,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 71.4,
     "lat": 39.899009,
     "lng": 116.486368
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.9,
     "lat": 39.89389,
     "lng": 116.49368
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 72.8,
     "lat": 39.899689,
     "lng": 116.47037
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 83.6,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 79.0,
     "lat": 39.899214,
     "lng": 116.502724
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 81.9,
     "lat": 39.899689,
     "lng": 116.47037
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 88.1,
     "lat": 39.899689,
     "lng": 116.47037
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 69.4,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1343,7 +1343,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 81.7,
     "lat": 39.923215,
     "lng": 116.512395
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 80.7,
     "lat": 39.899689,
     "lng": 116.47037
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城六期",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 77.5,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园二区",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 75.8,
     "lat": 39.898834,
     "lng": 116.501568
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 77.4,
     "lat": 39.899009,
     "lng": 116.486368
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 79.6,
     "lat": 39.899009,
     "lng": 116.486368
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋南区",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 85.9,
     "lat": 39.893422,
     "lng": 116.493727
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 81.0,
     "lat": 39.899214,
     "lng": 116.502724
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 74.4,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 67.5,
     "lat": 39.899009,
     "lng": 116.486368
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城六期",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 72.6,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1552,7 +1552,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:10",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 125.0,
     "lat": 39.895406,
     "lng": 116.500548
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 72.8,
     "lat": 39.899009,
     "lng": 116.486368
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 100.9,
     "lat": 39.898687,
     "lng": 116.485315
@@ -1609,7 +1609,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 80.0,
     "lat": 39.903678,
     "lng": 116.476846
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:32:09",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 66.2,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 66.2,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 82.4,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 105.1,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.1,
     "lat": 39.899214,
     "lng": 116.502724
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-中海安德鲁斯庄园西区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 61.0,
     "lat": 39.884936,
     "lng": 116.515068
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 73.5,
     "lat": 39.898476,
     "lng": 116.501208
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园三区",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 68.0,
     "lat": 39.898834,
     "lng": 116.501568
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城一期",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 96.7,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1799,7 +1799,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 96.4,
     "lat": 39.893278,
     "lng": 116.537778
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 100.0,
     "lat": 39.898687,
     "lng": 116.485315
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 87.3,
     "lat": 39.896526,
     "lng": 116.492848
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 84.4,
     "lat": 39.899009,
     "lng": 116.486368
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋南区",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 81.5,
     "lat": 39.893422,
     "lng": 116.493727
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 58.5,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城六期",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 80.4,
     "lat": 39.89429,
     "lng": 116.498106
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 83.5,
     "lat": 39.896526,
     "lng": 116.492848
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 97.6,
     "lat": 39.898687,
     "lng": 116.485315
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 87.0,
     "lat": 39.898476,
     "lng": 116.501208
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:31:13",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 89.9,
     "lat": 39.898476,
     "lng": 116.501208
@@ -2008,7 +2008,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 123.3,
     "lat": 39.901801,
     "lng": 116.508335
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 81.3,
     "lat": 39.896526,
     "lng": 116.492848
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 76.2,
     "lat": 39.899689,
     "lng": 116.47037
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城六期",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 82.3,
     "lat": 39.89429,
     "lng": 116.498106
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 102.6,
     "lat": 39.898687,
     "lng": 116.485315
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 86.2,
     "lat": 39.89389,
     "lng": 116.49368
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 92.3,
     "lat": 39.898476,
     "lng": 116.501208
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 122.3,
     "lat": 39.898687,
     "lng": 116.485315
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋南区",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 93.1,
     "lat": 39.893422,
     "lng": 116.493727
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际南区",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 92.0,
     "lat": 39.89353,
     "lng": 116.488138
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾路",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 102.5,
     "lat": 39.894856,
     "lng": 116.496676
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 69.7,
     "lat": 39.899156,
     "lng": 116.495398
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 95.2,
     "lat": 39.89429,
     "lng": 116.498106
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际南区",
     "scraped_at": "2026-05-02 20:31:16",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 72.7,
     "lat": 39.89353,
     "lng": 116.488138
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 118.7,
     "lat": 39.899156,
     "lng": 116.495398
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 82.4,
     "lat": 39.899009,
     "lng": 116.486368
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 93.7,
     "lat": 39.89429,
     "lng": 116.498106
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 90.5,
     "lat": 39.896526,
     "lng": 116.492848
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-建工动力苑",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.7,
     "lat": 39.899809,
     "lng": 116.502063
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 80.6,
     "lat": 39.89389,
     "lng": 116.49368
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 89.9,
     "lat": 39.899156,
     "lng": 116.495398
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 86.3,
     "lat": 39.89429,
     "lng": 116.498106
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 93.5,
     "lat": 39.896526,
     "lng": 116.492848
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 68.7,
     "lat": 39.89429,
     "lng": 116.498106
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-观音惠园",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 58.9,
     "lat": 39.899689,
     "lng": 116.47037
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-观音惠园",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 57.8,
     "lat": 39.899689,
     "lng": 116.47037
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门村路",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 82.4,
     "lat": 39.896876,
     "lng": 116.490985
@@ -2521,7 +2521,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 120.0,
     "lat": 39.847129,
     "lng": 116.558006
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-观音惠园",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 48.9,
     "lat": 39.899689,
     "lng": 116.47037
@@ -2559,7 +2559,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 116.7,
     "lat": 39.892557,
     "lng": 116.442766
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 88.0,
     "lat": 39.899689,
     "lng": 116.47037
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 71.4,
     "lat": 39.896526,
     "lng": 116.492848
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园一区",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 62.5,
     "lat": 39.898834,
     "lng": 116.501568
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-中海安德鲁斯庄园西区",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 72.9,
     "lat": 39.884936,
     "lng": 116.515068
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 85.3,
     "lat": 39.899156,
     "lng": 116.495398
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 74.6,
     "lat": 39.89429,
     "lng": 116.498106
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 84.5,
     "lat": 39.899689,
     "lng": 116.47037
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 100.5,
     "lat": 39.89429,
     "lng": 116.498106
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.8,
     "lat": 39.896526,
     "lng": 116.492848
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-建工动力苑",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 73.9,
     "lat": 39.899809,
     "lng": 116.502063
@@ -2768,7 +2768,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 85.7,
     "lat": 40.542926,
     "lng": 116.816698
@@ -2787,7 +2787,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:31:18",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": "",
     "lat": null,
     "lng": null
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际南区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 76.0,
     "lat": 39.89353,
     "lng": 116.488138
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 94.7,
     "lat": 39.89389,
     "lng": 116.49368
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园二区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 64.4,
     "lat": 39.898834,
     "lng": 116.501568
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 82.0,
     "lat": 39.896526,
     "lng": 116.492848
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 84.5,
     "lat": 39.899214,
     "lng": 116.502724
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园二号院",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.3,
     "lat": 39.88929,
     "lng": 116.49925
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 90.2,
     "lat": 39.89389,
     "lng": 116.49368
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 83.7,
     "lat": 39.896526,
     "lng": 116.492848
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际南区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 77.9,
     "lat": 39.89353,
     "lng": 116.488138
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城一期",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 91.4,
     "lat": 39.89429,
     "lng": 116.498106
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 84.7,
     "lat": 39.899689,
     "lng": 116.47037
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城六期",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 91.9,
     "lat": 39.89429,
     "lng": 116.498106
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 93.1,
     "lat": 39.899689,
     "lng": 116.47037
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 107.7,
     "lat": 39.899156,
     "lng": 116.495398
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 93.6,
     "lat": 39.896526,
     "lng": 116.492848
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 94.0,
     "lat": 39.899689,
     "lng": 116.47037
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 118.4,
     "lat": 39.898687,
     "lng": 116.485315
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-中海安德鲁斯庄园东区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 90.0,
     "lat": 39.882706,
     "lng": 116.518878
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 110.1,
     "lat": 39.898687,
     "lng": 116.485315
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋南区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 81.9,
     "lat": 39.893422,
     "lng": 116.493727
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 80.8,
     "lat": 39.89429,
     "lng": 116.498106
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城西区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 80.5,
     "lat": 39.898985,
     "lng": 116.492332
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园三区",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 82.4,
     "lat": 39.898834,
     "lng": 116.501568
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:21",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 76.5,
     "lat": 39.896526,
     "lng": 116.492848
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-中海安德鲁斯庄园西区",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 88.5,
     "lat": 39.884936,
     "lng": 116.515068
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 87.9,
     "lat": 39.899689,
     "lng": 116.47037
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 80.0,
     "lat": 39.89429,
     "lng": 116.498106
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 73.9,
     "lat": 39.89429,
     "lng": 116.498106
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城西区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 72.8,
     "lat": 39.898985,
     "lng": 116.492332
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 151.7,
     "lat": 39.898687,
     "lng": 116.485315
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 70.0,
     "lat": 39.899689,
     "lng": 116.47037
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 71.1,
     "lat": 39.899009,
     "lng": 116.486368
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 75.0,
     "lat": 39.896526,
     "lng": 116.492848
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园一区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 77.1,
     "lat": 39.898834,
     "lng": 116.501568
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 91.7,
     "lat": 39.898687,
     "lng": 116.485315
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园二号院",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 74.9,
     "lat": 39.88929,
     "lng": 116.49925
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 85.3,
     "lat": 39.899214,
     "lng": 116.502724
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 89.1,
     "lat": 39.899214,
     "lng": 116.502724
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 84.8,
     "lat": 39.89389,
     "lng": 116.49368
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际南区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 68.4,
     "lat": 39.89353,
     "lng": 116.488138
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 89.2,
     "lat": 39.899156,
     "lng": 116.495398
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 72.8,
     "lat": 39.899689,
     "lng": 116.47037
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园二号院",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 73.0,
     "lat": 39.88929,
     "lng": 116.49925
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园二号院",
     "scraped_at": "2026-05-02 20:31:25",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 73.1,
     "lat": 39.88929,
     "lng": 116.49925
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园二号院",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 72.9,
     "lat": 39.88929,
     "lng": 116.49925
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 74.8,
     "lat": 39.89429,
     "lng": 116.498106
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 89.4,
     "lat": 39.899214,
     "lng": 116.502724
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 96.5,
     "lat": 39.898476,
     "lng": 116.501208
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园二区",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 85.9,
     "lat": 39.898834,
     "lng": 116.501568
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.9,
     "lat": 39.898476,
     "lng": 116.501208
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-水磨厂宿舍",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 100.1,
     "lat": 39.901611,
     "lng": 116.496962
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 82.5,
     "lat": 39.896526,
     "lng": 116.492848
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 79.1,
     "lat": 39.89429,
     "lng": 116.498106
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 95.2,
     "lat": 39.89429,
     "lng": 116.498106
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 69.5,
     "lat": 39.899156,
     "lng": 116.495398
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城七期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 89.7,
     "lat": 39.89429,
     "lng": 116.498106
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际南区",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 82.8,
     "lat": 39.89353,
     "lng": 116.488138
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际南区",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 70.9,
     "lat": 39.89353,
     "lng": 116.488138
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 99.5,
     "lat": 39.898687,
     "lng": 116.485315
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 86.1,
     "lat": 39.89429,
     "lng": 116.498106
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 70.0,
     "lat": 39.89389,
     "lng": 116.49368
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:32:09",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 74.7,
     "lat": 39.898476,
     "lng": 116.501208
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 138.1,
     "lat": 39.898687,
     "lng": 116.485315
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-建工动力苑",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 74.1,
     "lat": 39.899809,
     "lng": 116.502063
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:31:30",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 83.5,
     "lat": 39.89389,
     "lng": 116.49368
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 87.5,
     "lat": 39.898687,
     "lng": 116.485315
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 80.0,
     "lat": 39.89429,
     "lng": 116.498106
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-中水电",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 71.7,
     "lat": 39.89932,
     "lng": 116.501
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-燕保百安家园一号院",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.0,
     "lat": 39.88929,
     "lng": 116.49925
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 85.8,
     "lat": 39.899689,
     "lng": 116.47037
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 87.8,
     "lat": 39.899214,
     "lng": 116.502724
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 85.8,
     "lat": 39.899689,
     "lng": 116.47037
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:32:09",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 77.7,
     "lat": 39.89429,
     "lng": 116.498106
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城西区",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 71.6,
     "lat": 39.898985,
     "lng": 116.492332
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金泰先锋北区",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 86.6,
     "lat": 39.89389,
     "lng": 116.49368
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 92.6,
     "lat": 39.898476,
     "lng": 116.501208
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 76.4,
     "lat": 39.899156,
     "lng": 116.495398
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 77.0,
     "lat": 39.89429,
     "lng": 116.498106
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-中水电",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 73.3,
     "lat": 39.89932,
     "lng": 116.501
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-大成国际",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 89.6,
     "lat": 39.898687,
     "lng": 116.485315
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 88.5,
     "lat": 39.898476,
     "lng": 116.501208
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都心语",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 90.5,
     "lat": 39.899214,
     "lng": 116.502724
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城五期",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 95.1,
     "lat": 39.898476,
     "lng": 116.501208
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城二期",
     "scraped_at": "2026-05-02 20:31:53",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 88.0,
     "lat": 39.89429,
     "lng": 116.498106
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-建工动力苑",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 89.7,
     "lat": 39.899809,
     "lng": 116.502063
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-沿海赛洛城四期",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 77.2,
     "lat": 39.89429,
     "lng": 116.498106
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金都杭城东区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 76.9,
     "lat": 39.899156,
     "lng": 116.495398
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 83.3,
     "lat": 39.896526,
     "lng": 116.492848
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-美利山",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 71.8,
     "lat": 39.899009,
     "lng": 116.486368
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 88.1,
     "lat": 39.896526,
     "lng": 116.492848
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 78.7,
     "lat": 39.896526,
     "lng": 116.492848
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 91.5,
     "lat": 39.899689,
     "lng": 116.47037
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园二区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 83.3,
     "lat": 39.898834,
     "lng": 116.501568
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-金海国际南区",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 79.4,
     "lat": 39.89353,
     "lng": 116.488138
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:32:06",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 81.4,
     "lat": 39.896526,
     "lng": 116.492848
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-观音景园二期",
     "scraped_at": "2026-05-02 20:32:09",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 76.4,
     "lat": 39.884925,
     "lng": 116.519843
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-石门新居",
     "scraped_at": "2026-05-02 20:32:09",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 83.0,
     "lat": 39.896526,
     "lng": 116.492848
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:32:09",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 74.3,
     "lat": 39.899689,
     "lng": 116.47037
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-百子湾家园二区",
     "scraped_at": "2026-05-02 20:32:09",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 80.4,
     "lat": 39.898834,
     "lng": 116.501568
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "朝阳区-百子湾-官悦欣园",
     "scraped_at": "2026-05-02 20:32:09",
-    "region": "baiziwan",
+    "region": "百子湾",
     "unit_price": 94.0,
     "lat": 39.899689,
     "lng": 116.47037

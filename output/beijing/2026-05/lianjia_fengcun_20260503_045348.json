@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-润西山苑",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 46.0,
     "lat": 39.908916,
     "lng": 116.096948
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-北京城建上悦居",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 51.3,
     "lat": 39.901266,
     "lng": 116.099078
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-中建",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 52.5,
     "lat": 39.908456,
     "lng": 116.089608
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园南区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 39.3,
     "lat": 39.896368,
     "lng": 116.101582
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-北京城建上悦居",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 42.3,
     "lat": 39.901266,
     "lng": 116.099078
@@ -108,7 +108,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园南区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 49.5,
     "lat": 39.896368,
     "lng": 116.101582
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-丽景长安二期",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 52.9,
     "lat": 39.90421,
     "lng": 116.09981
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-丽景长安二期",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 50.2,
     "lat": 39.90421,
     "lng": 116.09981
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园北区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 42.4,
     "lat": 39.89846,
     "lng": 116.10222
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园南区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 43.2,
     "lat": 39.896368,
     "lng": 116.101582
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园北区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 48.0,
     "lat": 39.89846,
     "lng": 116.10222
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-北京城建上悦居",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 40.5,
     "lat": 39.901266,
     "lng": 116.099078
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-冯村嘉园一区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 34.4,
     "lat": 39.908236,
     "lng": 116.104168
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-润西山苑",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 51.5,
     "lat": 39.908916,
     "lng": 116.096948
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园南区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 42.2,
     "lat": 39.896368,
     "lng": 116.101582
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-北京城建上悦居",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 53.4,
     "lat": 39.901266,
     "lng": 116.099078
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园北区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 46.7,
     "lat": 39.89846,
     "lng": 116.10222
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-冯村信园小区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 39.2,
     "lat": 39.908855,
     "lng": 116.099098
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-润西山苑",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 49.7,
     "lat": 39.908916,
     "lng": 116.096948
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-中建",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 63.3,
     "lat": 39.908456,
     "lng": 116.089608
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-北京城建上悦居",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 50.0,
     "lat": 39.901266,
     "lng": 116.099078
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园北区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 41.2,
     "lat": 39.89846,
     "lng": 116.10222
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-永和新苑",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 37.6,
     "lat": 39.897931,
     "lng": 116.099782
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园南区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 39.3,
     "lat": 39.896368,
     "lng": 116.101582
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-四季怡园南区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 47.4,
     "lat": 39.896368,
     "lng": 116.101582
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-润西山苑",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 53.8,
     "lat": 39.908916,
     "lng": 116.096948
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-丽景长安",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 43.9,
     "lat": 39.90421,
     "lng": 116.09981
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-和合苑西区",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 43.2,
     "lat": 39.94255,
     "lng": 116.08989
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-和苑",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 42.9,
     "lat": 39.898328,
     "lng": 116.099953
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "门头沟区-冯村-丽景长安",
     "scraped_at": "2026-05-02 23:17:12",
-    "region": "fengcun",
+    "region": "冯村",
     "unit_price": 49.0,
     "lat": 39.90421,
     "lng": 116.09981

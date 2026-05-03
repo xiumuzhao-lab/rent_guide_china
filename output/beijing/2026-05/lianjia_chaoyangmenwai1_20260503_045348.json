@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-悠唐国际中心",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 120.0,
     "lat": 39.919456,
     "lng": 116.454758
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 126.3,
     "lat": 39.91715,
     "lng": 116.432261
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-怡景园",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 99.0,
     "lat": 39.919456,
     "lng": 116.454758
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-昆泰国际公寓",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 104.7,
     "lat": 39.919456,
     "lng": 116.454758
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝外",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 112.1,
     "lat": 39.919456,
     "lng": 116.454758
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 213.0,
     "lat": 40.181576,
     "lng": 116.160068
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-天辰大厦",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 103.8,
     "lat": 39.920326,
     "lng": 116.435238
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 118.2,
     "lat": 39.921126,
     "lng": 116.443468
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 113.8,
     "lat": 39.924086,
     "lng": 116.433868
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草苑公寓",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 81.4,
     "lat": 39.919456,
     "lng": 116.454758
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛国际公寓",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 155.3,
     "lat": 39.914146,
     "lng": 116.437488
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 111.8,
     "lat": 39.922465,
     "lng": 116.411618
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-新金山公寓",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 142.5,
     "lat": 39.919456,
     "lng": 116.454758
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 130.8,
     "lat": 39.920646,
     "lng": 116.440468
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 141.2,
     "lat": 39.91715,
     "lng": 116.432261
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-蓝筹名座",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 112.7,
     "lat": 39.919456,
     "lng": 116.454758
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-新金山公寓",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 128.6,
     "lat": 39.919456,
     "lng": 116.454758
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 117.8,
     "lat": 39.91715,
     "lng": 116.432261
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-天福园",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 147.3,
     "lat": 39.920326,
     "lng": 116.435238
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-新金山公寓",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 120.7,
     "lat": 39.919456,
     "lng": 116.454758
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-潘家坡胡同",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 133.8,
     "lat": 39.928175,
     "lng": 116.432201
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-光耀公寓",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 104.0,
     "lat": 39.919456,
     "lng": 116.454758
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-光耀公寓",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 133.8,
     "lat": 39.919456,
     "lng": 116.454758
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝外",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 90.9,
     "lat": 39.919456,
     "lng": 116.454758
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉庆里西区",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 103.7,
     "lat": 39.926778,
     "lng": 116.434417
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-王家园胡同",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 116.0,
     "lat": 39.928276,
     "lng": 116.432018
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:04",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 139.1,
     "lat": 39.924086,
     "lng": 116.433868
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-天福园",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 153.1,
     "lat": 39.920326,
     "lng": 116.435238
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 140.0,
     "lat": 39.920646,
     "lng": 116.440468
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 125.4,
     "lat": 39.921126,
     "lng": 116.443468
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛国际公寓",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 147.4,
     "lat": 39.914146,
     "lng": 116.437488
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 136.8,
     "lat": 39.91715,
     "lng": 116.432261
@@ -621,7 +621,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 258.8,
     "lat": 39.875182,
     "lng": 116.317333
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝阳门南大街",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 109.0,
     "lat": 39.915648,
     "lng": 116.429616
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-蓝筹名座",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 155.5,
     "lat": 39.919456,
     "lng": 116.454758
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 124.2,
     "lat": 39.921126,
     "lng": 116.443468
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-市场街",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 127.3,
     "lat": 39.919146,
     "lng": 116.434208
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝阳门南大街",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 130.5,
     "lat": 39.915648,
     "lng": 116.429616
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 124.0,
     "lat": 39.91715,
     "lng": 116.432261
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-怡景园",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 127.1,
     "lat": 39.919456,
     "lng": 116.454758
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-蓝筹名座",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 145.4,
     "lat": 39.919456,
     "lng": 116.454758
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 136.0,
     "lat": 39.91715,
     "lng": 116.432261
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 124.4,
     "lat": 39.924086,
     "lng": 116.433868
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 141.4,
     "lat": 39.915753,
     "lng": 116.429988
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-天福园",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 138.2,
     "lat": 39.920326,
     "lng": 116.435238
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 134.1,
     "lat": 39.924086,
     "lng": 116.433868
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 118.8,
     "lat": 39.91715,
     "lng": 116.432261
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:26",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 125.7,
     "lat": 39.921126,
     "lng": 116.443468
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-迪阳公寓",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 131.1,
     "lat": 39.919456,
     "lng": 116.454758
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛晶华",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 113.1,
     "lat": 39.914146,
     "lng": 116.437488
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 143.6,
     "lat": 39.921126,
     "lng": 116.443468
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-蓝筹名座",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 134.2,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1001,7 +1001,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 413.8,
     "lat": 39.943127,
     "lng": 116.344977
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 118.0,
     "lat": 39.922465,
     "lng": 116.411618
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-京华豪园",
     "scraped_at": "2026-05-02 19:56:07",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 80.7,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 111.0,
     "lat": 39.920646,
     "lng": 116.440468
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-市场街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 120.6,
     "lat": 39.919146,
     "lng": 116.434208
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-怡景园",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 142.0,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-瑞士公寓",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 158.5,
     "lat": 39.928276,
     "lng": 116.432018
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 119.3,
     "lat": 39.91715,
     "lng": 116.432261
@@ -1153,7 +1153,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 133.3,
     "lat": 39.847129,
     "lng": 116.558006
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 104.8,
     "lat": 39.921126,
     "lng": 116.443468
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝外",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 104.2,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 126.9,
     "lat": 39.920646,
     "lng": 116.440468
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-唐缘私家别墅",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 108.9,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 118.5,
     "lat": 39.922465,
     "lng": 116.411618
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 105.5,
     "lat": 39.921126,
     "lng": 116.443468
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝阳门南大街",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 145.2,
     "lat": 39.915648,
     "lng": 116.429616
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉庆里西区",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 104.5,
     "lat": 39.926778,
     "lng": 116.434417
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草苑公寓",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 110.2,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛国际公寓",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 120.4,
     "lat": 39.914146,
     "lng": 116.437488
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 97.8,
     "lat": 39.91715,
     "lng": 116.432261
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-昆泰国际公寓",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 140.5,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 115.5,
     "lat": 39.922465,
     "lng": 116.411618
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 121.0,
     "lat": 39.921126,
     "lng": 116.443468
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-光耀公寓",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 141.6,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛国际公寓",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 125.5,
     "lat": 39.914146,
     "lng": 116.437488
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-美惠大厦",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 101.7,
     "lat": 39.928276,
     "lng": 116.432018
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-麒麟公馆",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 172.4,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 139.3,
     "lat": 39.921126,
     "lng": 116.443468
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-市场街",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 156.2,
     "lat": 39.919146,
     "lng": 116.434208
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-新金山公寓",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 117.8,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 119.8,
     "lat": 39.921126,
     "lng": 116.443468
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-京华豪园",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 115.7,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛国际公寓",
     "scraped_at": "2026-05-02 19:56:09",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 131.6,
     "lat": 39.914146,
     "lng": 116.437488
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-怡景园",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 118.4,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 143.8,
     "lat": 39.91715,
     "lng": 116.432261
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 159.8,
     "lat": 39.924086,
     "lng": 116.433868
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 135.8,
     "lat": 39.924086,
     "lng": 116.433868
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-新金山公寓",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 122.5,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 122.0,
     "lat": 39.91715,
     "lng": 116.432261
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-天辰大厦",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 122.8,
     "lat": 39.920326,
     "lng": 116.435238
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 94.8,
     "lat": 39.922465,
     "lng": 116.411618
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-蓝筹名座",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 155.5,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-天辰大厦",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 137.7,
     "lat": 39.920326,
     "lng": 116.435238
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 142.1,
     "lat": 39.920646,
     "lng": 116.440468
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 125.4,
     "lat": 39.915753,
     "lng": 116.429988
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 129.8,
     "lat": 39.921126,
     "lng": 116.443468
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 129.3,
     "lat": 39.920646,
     "lng": 116.440468
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-新金山公寓",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 140.1,
     "lat": 39.919456,
     "lng": 116.454758
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉庆里西区",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 131.7,
     "lat": 39.926778,
     "lng": 116.434417
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛北路",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 169.3,
     "lat": 39.914146,
     "lng": 116.437488
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 142.6,
     "lat": 39.924086,
     "lng": 116.433868
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉庆里西区",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 157.5,
     "lat": 39.926778,
     "lng": 116.434417
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-麒麟公馆",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 165.5,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-麒麟公馆",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 154.7,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝外",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 112.1,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 146.9,
     "lat": 39.920646,
     "lng": 116.440468
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛晶华",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 113.1,
     "lat": 39.914146,
     "lng": 116.437488
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-昆泰国际公寓",
     "scraped_at": "2026-05-02 19:56:12",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 119.2,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 133.6,
     "lat": 39.922465,
     "lng": 116.411618
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-天福园",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 165.6,
     "lat": 39.920326,
     "lng": 116.435238
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-迪阳公寓",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 131.0,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 117.6,
     "lat": 39.922465,
     "lng": 116.411618
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-怡景园",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 135.6,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草苑公寓",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 80.0,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 117.9,
     "lat": 39.915753,
     "lng": 116.429988
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 106.9,
     "lat": 39.915753,
     "lng": 116.429988
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-天福园",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 140.2,
     "lat": 39.920326,
     "lng": 116.435238
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 124.1,
     "lat": 39.91715,
     "lng": 116.432261
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛国际公寓",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 136.7,
     "lat": 39.914146,
     "lng": 116.437488
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 158.0,
     "lat": 39.924086,
     "lng": 116.433868
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-美惠大厦",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 106.9,
     "lat": 39.928276,
     "lng": 116.432018
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-唐缘私家别墅",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 121.3,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-怡景园",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 126.9,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-东营房九条",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 90.5,
     "lat": 39.928276,
     "lng": 116.432018
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-瑞士公寓",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 173.0,
     "lat": 39.928276,
     "lng": 116.432018
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 124.8,
     "lat": 39.921126,
     "lng": 116.443468
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛晶华",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 114.1,
     "lat": 39.914146,
     "lng": 116.437488
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-悠唐国际中心",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 139.7,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 127.0,
     "lat": 39.924086,
     "lng": 116.433868
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 119.8,
     "lat": 39.924086,
     "lng": 116.433868
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-市场街",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 141.0,
     "lat": 39.919146,
     "lng": 116.434208
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-日坛国际公寓",
     "scraped_at": "2026-05-02 19:56:15",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 156.2,
     "lat": 39.914146,
     "lng": 116.437488
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-怡景园",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 108.9,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-京华豪园",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 93.4,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里西区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 113.5,
     "lat": 39.924086,
     "lng": 116.433868
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 136.5,
     "lat": 39.91715,
     "lng": 116.432261
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 141.4,
     "lat": 39.915753,
     "lng": 116.429988
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝阳门北大街",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 148.6,
     "lat": 39.926666,
     "lng": 116.428928
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-京华豪园",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 110.1,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 147.9,
     "lat": 39.921126,
     "lng": 116.443468
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-蓝筹名座",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 144.8,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝外",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 108.5,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 113.8,
     "lat": 39.91715,
     "lng": 116.432261
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-美惠大厦",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 76.8,
     "lat": 39.928276,
     "lng": 116.432018
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 158.9,
     "lat": 39.921126,
     "lng": 116.443468
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-唐缘私家别墅",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 108.9,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 113.5,
     "lat": 39.91715,
     "lng": 116.432261
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝阳门南大街",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 123.9,
     "lat": 39.915648,
     "lng": 116.429616
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 126.1,
     "lat": 39.915753,
     "lng": 116.429988
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-新金山公寓",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 137.9,
     "lat": 39.919456,
     "lng": 116.454758
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 115.8,
     "lat": 39.915753,
     "lng": 116.429988
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 144.0,
     "lat": 39.921126,
     "lng": 116.443468
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 133.7,
     "lat": 39.920646,
     "lng": 116.440468
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-美惠大厦",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 80.6,
     "lat": 39.928276,
     "lng": 116.432018
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 137.9,
     "lat": 39.920646,
     "lng": 116.440468
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草苑公寓",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 109.0,
     "lat": 39.919456,
     "lng": 116.454758
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 119.4,
     "lat": 39.915753,
     "lng": 116.429988
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 144.8,
     "lat": 39.91715,
     "lng": 116.432261
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-三丰里小区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 114.7,
     "lat": 39.91715,
     "lng": 116.432261
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝阳门南大街",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 124.4,
     "lat": 39.915648,
     "lng": 116.429616
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝阳门南大街",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 141.0,
     "lat": 39.915648,
     "lng": 116.429616
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-吉祥里东区",
     "scraped_at": "2026-05-02 19:56:19",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 160.0,
     "lat": 39.924086,
     "lng": 116.433868
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-麒麟公馆",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 146.3,
     "lat": 39.919456,
     "lng": 116.454758
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-芳草地西街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 124.0,
     "lat": 39.920646,
     "lng": 116.440468
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-朝阳门北大街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 131.2,
     "lat": 39.926666,
     "lng": 116.428928
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 118.5,
     "lat": 39.922465,
     "lng": 116.411618
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-东大桥路",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 118.1,
     "lat": 39.921126,
     "lng": 116.443468
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 136.7,
     "lat": 39.915753,
     "lng": 116.429988
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-雅宝里社区",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 123.8,
     "lat": 39.915753,
     "lng": 116.429988
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:23",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 116.3,
     "lat": 39.922465,
     "lng": 116.411618
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "东城区-朝阳门外-新中西街",
     "scraped_at": "2026-05-02 19:56:26",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 116.4,
     "lat": 39.922465,
     "lng": 116.411618
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-朝阳门外-麒麟公馆",
     "scraped_at": "2026-05-02 19:56:26",
-    "region": "chaoyangmenwai1",
+    "region": "朝阳门外",
     "unit_price": 171.9,
     "lat": 39.919456,
     "lng": 116.454758

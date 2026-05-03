@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 38.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-那尔水晶城",
     "scraped_at": "2026-05-02 22:05:41",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 37.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-双高花园",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 42.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 65.0,
     "lat": null,
     "lng": null
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 51.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 47.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-天恒世界集",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 56.8,
     "lat": 39.769778,
     "lng": 116.325554
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴创屹墅",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 99.2,
     "lat": 39.765048,
     "lng": 116.328503
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 69.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城一期",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.1,
     "lat": 39.769986,
     "lng": 116.309808
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 44.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-旭辉紫郡",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山东区",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.1,
     "lat": 39.763986,
     "lng": 116.309358
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 40.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 43.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 62.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园二里",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.0,
     "lat": 39.773542,
     "lng": 116.328751
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 54.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 50.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:03",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -526,7 +526,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": "",
     "lat": 39.866137,
     "lng": 116.446047
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城五期",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.4,
     "lat": 39.769986,
     "lng": 116.309808
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.4,
     "lat": 39.77351,
     "lng": 116.329189
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城二期",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.7,
     "lat": 39.770047,
     "lng": 116.311042
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 67.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 63.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华润公元九里",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 87.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-那尔水晶城",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 51.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 39.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城五期",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.0,
     "lat": 39.769986,
     "lng": 116.309808
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 75.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 60.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城三期",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 60.5,
     "lat": 39.769986,
     "lng": 116.309808
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 79.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 66.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-天恒世界集",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 65.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 65.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-青岛嘉园",
     "scraped_at": "2026-05-02 22:04:06",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 42.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-青岛嘉园",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 58.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 59.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 44.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 66.7,
     "lat": 39.769778,
     "lng": 116.325554
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福苑小区",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.1,
     "lat": 39.77158,
     "lng": 116.318438
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-天恒世界集",
     "scraped_at": "2026-05-02 22:04:10",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1001,7 +1001,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 83.8,
     "lat": 39.663674,
     "lng": 116.516859
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:41",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 76.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山东区",
     "scraped_at": "2026-05-02 22:04:10",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 38.5,
     "lat": 39.763986,
     "lng": 116.309358
@@ -1058,7 +1058,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.2,
     "lat": 39.849846,
     "lng": 116.432268
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山东区",
     "scraped_at": "2026-05-02 22:04:10",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 67.0,
     "lat": 39.763986,
     "lng": 116.309358
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城五期",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 56.7,
     "lat": 39.769986,
     "lng": 116.309808
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城三期",
     "scraped_at": "2026-05-02 22:04:10",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 64.1,
     "lat": 39.769986,
     "lng": 116.309808
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-旭辉御府",
     "scraped_at": "2026-05-02 22:04:10",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 60.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1172,7 +1172,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": "",
     "lat": 39.849846,
     "lng": 116.432268
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-那尔水晶城",
     "scraped_at": "2026-05-02 22:04:10",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福苑小区",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 44.9,
     "lat": 39.77158,
     "lng": 116.318438
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福苑小区",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 42.3,
     "lat": 39.77158,
     "lng": 116.318438
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-那尔水晶城",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 43.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-双高花园",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 85.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 44.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 58.1,
     "lat": 39.77351,
     "lng": 116.329189
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 54.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城五期",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.2,
     "lat": 39.769986,
     "lng": 116.309808
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 50.2,
     "lat": 39.763246,
     "lng": 116.306338
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园二里",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 61.3,
     "lat": 39.773542,
     "lng": 116.328751
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 43.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山东区",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 66.5,
     "lat": 39.763986,
     "lng": 116.309358
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 67.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-双高花园",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 50.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 43.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 66.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华润公元九里",
     "scraped_at": "2026-05-02 22:04:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 72.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福苑小区",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 38.0,
     "lat": 39.77158,
     "lng": 116.318438
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:04:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 61.1,
     "lat": 39.763246,
     "lng": 116.306338
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴涛社区",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.5,
     "lat": 39.766606,
     "lng": 116.316268
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 68.0,
     "lat": 39.769778,
     "lng": 116.325554
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福海佳园一区",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 51.5,
     "lat": 39.75609,
     "lng": 116.305264
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 59.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 63.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 89.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-青岛嘉园",
     "scraped_at": "2026-05-02 22:04:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 32.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园三里",
     "scraped_at": "2026-05-02 22:04:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 73.9,
     "lat": 39.771446,
     "lng": 116.318208
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华润公元九里",
     "scraped_at": "2026-05-02 22:04:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 68.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园三里南区",
     "scraped_at": "2026-05-02 22:04:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 68.6,
     "lat": 39.768798,
     "lng": 116.318873
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 64.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 50.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 77.2,
     "lat": 39.77351,
     "lng": 116.329189
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 68.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福苑小区",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 47.7,
     "lat": 39.77158,
     "lng": 116.318438
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 98.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 64.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-绿地中央广场",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 76.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 56.8,
     "lat": 39.77351,
     "lng": 116.329189
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园二里",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 47.1,
     "lat": 39.773542,
     "lng": 116.328751
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园三里南区",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 56.7,
     "lat": 39.768798,
     "lng": 116.318873
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 76.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华润公元九里",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 78.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 58.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 82.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 104.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 64.9,
     "lat": 39.763246,
     "lng": 116.306338
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 61.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-天恒世界集",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 71.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城五期",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.8,
     "lat": 39.769986,
     "lng": 116.309808
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.6,
     "lat": 39.763246,
     "lng": 116.306338
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-云河墅",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 65.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 61.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 56.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:17",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 38.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 80.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 38.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 86.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-双高花园",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 60.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华润公元九里",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 84.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 76.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 72.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-青岛嘉园",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 68.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 50.7,
     "lat": 39.763246,
     "lng": 116.306338
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-旭辉御府",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 63.5,
     "lat": 39.770096,
     "lng": 116.327118
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴创屹墅",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 108.4,
     "lat": 39.765048,
     "lng": 116.328503
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.6,
     "lat": 39.763246,
     "lng": 116.306338
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.7,
     "lat": 39.763246,
     "lng": 116.306338
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 54.5,
     "lat": 39.77351,
     "lng": 116.329189
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-天恒世界集",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 74.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 72.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 58.2,
     "lat": 39.770096,
     "lng": 116.327118
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.4,
     "lat": 39.770096,
     "lng": 116.327118
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康庄路",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 47.2,
     "lat": 39.75958,
     "lng": 116.33014
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 56.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 51.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 67.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.4,
     "lat": 39.763246,
     "lng": 116.306338
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 74.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 81.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:20",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 73.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 67.3,
     "lat": 39.769778,
     "lng": 116.325554
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 68.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 38.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴涛社区",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 58.8,
     "lat": 39.766606,
     "lng": 116.316268
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康庄路",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 47.2,
     "lat": 39.75958,
     "lng": 116.33014
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 86.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 61.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福苑小区",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.0,
     "lat": 39.77158,
     "lng": 116.318438
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 44.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 68.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 103.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-绿地中央广场",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 76.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 86.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-旭辉御府",
     "scraped_at": "2026-05-02 22:04:22",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 54.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城五期",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 60.1,
     "lat": 39.769986,
     "lng": 116.309808
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园三里",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 61.0,
     "lat": 39.771446,
     "lng": 116.318208
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地悦风华",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 67.2,
     "lat": 39.759126,
     "lng": 116.339278
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 47.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-双高花园",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 77.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 41.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴创",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 93.8,
     "lat": 39.765048,
     "lng": 116.328503
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 89.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 47.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 70.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 86.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 65.4,
     "lat": 39.770096,
     "lng": 116.327118
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 68.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:04:26",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 79.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 71.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-那尔水晶城",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 51.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城五期",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 61.1,
     "lat": 39.769986,
     "lng": 116.309808
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-旭辉御府",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 63.8,
     "lat": 39.770096,
     "lng": 116.327118
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-绿地中央广场",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 70.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-双高花园",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴涛社区",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 54.0,
     "lat": 39.766606,
     "lng": 116.316268
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康庄路",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 44.5,
     "lat": 39.75958,
     "lng": 116.33014
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康达园",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 40.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 37.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:04:29",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 80.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 64.1,
     "lat": 39.763246,
     "lng": 116.306338
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 43.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 65.7,
     "lat": 39.770096,
     "lng": 116.327118
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 67.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园三里",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.2,
     "lat": 39.771446,
     "lng": 116.318208
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 73.5,
     "lat": 39.770096,
     "lng": 116.327118
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-那尔水晶城",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 51.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-紫金行政公馆",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 76.9,
     "lat": 39.755926,
     "lng": 116.311215
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.4,
     "lat": 39.77351,
     "lng": 116.329189
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华润公元九里",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 83.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 64.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴涛社区",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 54.3,
     "lat": 39.766606,
     "lng": 116.316268
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴创屹墅",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 101.6,
     "lat": 39.765048,
     "lng": 116.328503
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 87.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福海佳园一区",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.4,
     "lat": 39.75609,
     "lng": 116.305264
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 50.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华润公元九里",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 74.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:05:02",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 77.6,
     "lat": 39.77351,
     "lng": 116.329189
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园三里南区",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.1,
     "lat": 39.768798,
     "lng": 116.318873
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.4,
     "lat": 39.763246,
     "lng": 116.306338
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园二里",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.1,
     "lat": 39.772186,
     "lng": 116.318068
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城一期",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.5,
     "lat": 39.769986,
     "lng": 116.309808
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 42.4,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 80.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.3,
     "lat": 39.770096,
     "lng": 116.327118
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 61.7,
     "lat": 39.770096,
     "lng": 116.327118
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴涛社区",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 62.4,
     "lat": 39.766606,
     "lng": 116.316268
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-云河墅",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 63.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-骏城",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-双高花园",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 44.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 96.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 43.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 56.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 65.3,
     "lat": 39.770096,
     "lng": 116.327118
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 51.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:13",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 69.2,
     "lat": 39.77351,
     "lng": 116.329189
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 71.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华润公元九里",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 108.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城五期",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 74.2,
     "lat": 39.769986,
     "lng": 116.309808
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地悦风华",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 69.7,
     "lat": 39.759126,
     "lng": 116.339278
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 66.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园三里",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 59.7,
     "lat": 39.770096,
     "lng": 116.327118
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地悦风华",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 67.4,
     "lat": 39.759126,
     "lng": 116.339278
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城一期",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.7,
     "lat": 39.769986,
     "lng": 116.309808
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 69.2,
     "lat": 39.77351,
     "lng": 116.329189
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴创屹墅",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 108.0,
     "lat": 39.765048,
     "lng": 116.328503
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园三里南区",
     "scraped_at": "2026-05-02 22:05:18",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.6,
     "lat": 39.768798,
     "lng": 116.318873
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园二里",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 84.6,
     "lat": 39.773542,
     "lng": 116.328751
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 81.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-翡翠城五期",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 54.3,
     "lat": 39.769986,
     "lng": 116.309808
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-原生墅",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 75.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-骏城",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-骏城",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 47.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-云河墅",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 65.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴创",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 71.2,
     "lat": 39.765048,
     "lng": 116.328503
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.4,
     "lat": 39.763246,
     "lng": 116.306338
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 60.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园二里",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 50.8,
     "lat": 39.772186,
     "lng": 116.318068
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-兴涛社区",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 60.0,
     "lat": 39.766606,
     "lng": 116.316268
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 58.0,
     "lat": 39.77351,
     "lng": 116.329189
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福苑小区",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 38.7,
     "lat": 39.77158,
     "lng": 116.318438
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.7,
     "lat": 39.763246,
     "lng": 116.306338
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园二里",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.2,
     "lat": 39.773542,
     "lng": 116.328751
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 89.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 51.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:23",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 82.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 47.8,
     "lat": 39.77351,
     "lng": 116.329189
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 98.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-保利茉莉公馆",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 73.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 70.0,
     "lat": 39.77351,
     "lng": 116.329189
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 40.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地悦风华",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 55.9,
     "lat": 39.759126,
     "lng": 116.339278
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 77.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 91.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 52.8,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金惠园三里南区",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.2,
     "lat": 39.768798,
     "lng": 116.318873
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 81.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.3,
     "lat": 39.77351,
     "lng": 116.329189
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 44.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.4,
     "lat": 39.77351,
     "lng": 116.329189
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-天恒世界集",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 80.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:05:27",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 58.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 34.3,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园二里",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.2,
     "lat": 39.773542,
     "lng": 116.328751
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 81.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 76.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园二里",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.8,
     "lat": 39.773542,
     "lng": 116.328751
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园二里",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 61.4,
     "lat": 39.773542,
     "lng": 116.328751
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 94.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 113.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 49.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 57.5,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 94.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 87.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 87.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 65.0,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-顺驰领海",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 78.2,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-华远西红世商业",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 62.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-金地仰山西区",
     "scraped_at": "2026-05-02 22:05:31",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.1,
     "lat": 39.763246,
     "lng": 116.306338
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-新里西斯莱公馆",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 58.6,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 45.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-福苑小区",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 48.8,
     "lat": 39.77158,
     "lng": 116.318438
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康泰园",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 42.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-郁花园一里",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 53.2,
     "lat": 39.77351,
     "lng": 116.329189
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-可可家园",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 37.7,
     "lat": 39.763954,
     "lng": 116.328502
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-康盛园",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 39.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-首邑溪谷",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 90.1,
     "lat": 39.763954,
     "lng": 116.328502
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:37",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 51.9,
     "lat": 39.763954,
     "lng": 116.328502
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "大兴区-高米店-泰中花园",
     "scraped_at": "2026-05-02 22:05:41",
-    "region": "gaomidian",
+    "region": "高米店",
     "unit_price": 46.1,
     "lat": 39.763954,
     "lng": 116.328502

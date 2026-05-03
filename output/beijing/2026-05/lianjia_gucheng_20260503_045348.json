@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 84.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 86.6,
     "lat": 39.911099,
     "lng": 116.187781
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金玺公馆",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.5,
     "lat": 39.910556,
     "lng": 116.174298
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 80.8,
     "lat": 39.908717,
     "lng": 116.176513
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 74.7,
     "lat": 39.910019,
     "lng": 116.182662
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": "",
     "lat": 39.943806,
     "lng": 116.419028
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 84.8,
     "lat": 39.911099,
     "lng": 116.187781
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 106.7,
     "lat": 39.908717,
     "lng": 116.176513
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.9,
     "lat": 39.910019,
     "lng": 116.182662
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.0,
     "lat": 39.911099,
     "lng": 116.187781
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 74.6,
     "lat": 39.914116,
     "lng": 116.182268
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 69.2,
     "lat": 39.911099,
     "lng": 116.187781
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 98.9,
     "lat": 39.908717,
     "lng": 116.176513
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下熙山府",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 96.8,
     "lat": 39.910556,
     "lng": 116.174298
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-栌韵苑",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 68.1,
     "lat": 39.911099,
     "lng": 116.187781
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 131.6,
     "lat": 39.910556,
     "lng": 116.174298
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-长安家园",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 69.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 58.9,
     "lat": 39.914116,
     "lng": 116.182268
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 90.0,
     "lat": 39.908717,
     "lng": 116.176513
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-丁香苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 66.6,
     "lat": 39.915098,
     "lng": 116.169902
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.5,
     "lat": 39.911099,
     "lng": 116.187781
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 84.7,
     "lat": 39.908717,
     "lng": 116.176513
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:21:54",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 83.1,
     "lat": 39.908717,
     "lng": 116.176513
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城副食楼",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 79.2,
     "lat": 39.914116,
     "lng": 116.182268
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 73.2,
     "lat": 39.910556,
     "lng": 116.174298
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金玺公馆",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 75.0,
     "lat": 39.910556,
     "lng": 116.174298
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 95.8,
     "lat": 39.904959,
     "lng": 116.177198
@@ -526,7 +526,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 45.8,
     "lat": 40.087606,
     "lng": 116.343122
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-玉兰苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 86.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 106.6,
     "lat": 39.908717,
     "lng": 116.176513
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 79.9,
     "lat": 39.910556,
     "lng": 116.174298
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 66.0,
     "lat": 39.904959,
     "lng": 116.177198
@@ -621,7 +621,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 125.0,
     "lat": 39.663674,
     "lng": 116.516859
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-紫薇苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 84.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-海棠苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 86.0,
     "lat": 39.911099,
     "lng": 116.187781
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-长安家园",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 61.0,
     "lat": 39.911099,
     "lng": 116.187781
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 101.3,
     "lat": 39.908717,
     "lng": 116.176513
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 97.0,
     "lat": 39.908717,
     "lng": 116.176513
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-梨花苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 79.1,
     "lat": 39.911099,
     "lng": 116.187781
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 71.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -773,7 +773,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 121.7,
     "lat": 39.905656,
     "lng": 116.185568
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 84.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城西路",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 61.9,
     "lat": 39.912436,
     "lng": 116.171968
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-樱花苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.0,
     "lat": 39.911099,
     "lng": 116.187781
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-丁香苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 74.9,
     "lat": 39.915098,
     "lng": 116.169902
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 72.6,
     "lat": 39.904959,
     "lng": 116.177198
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-海棠苑",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.9,
     "lat": 39.911099,
     "lng": 116.187781
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:21:56",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 68.4,
     "lat": 39.904959,
     "lng": 116.177198
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-海棠苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 79.8,
     "lat": 39.911099,
     "lng": 116.187781
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 100.8,
     "lat": 39.910556,
     "lng": 116.174298
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-长安家园",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 60.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-栌韵苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 91.1,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-梨花苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.6,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-玉兰苑",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 73.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-枫香苑",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 63.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-十万坪",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 63.3,
     "lat": 39.906703,
     "lng": 116.17997
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-丁香苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 75.4,
     "lat": 39.915098,
     "lng": 116.169902
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 92.3,
     "lat": 39.904959,
     "lng": 116.177198
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金玺公馆",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 85.8,
     "lat": 39.910556,
     "lng": 116.174298
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-枫香苑",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 63.6,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-玉兰苑",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 73.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 63.8,
     "lat": 39.904959,
     "lng": 116.177198
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 99.0,
     "lat": 39.910556,
     "lng": 116.174298
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 78.4,
     "lat": 39.916396,
     "lng": 116.182968
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 75.0,
     "lat": 39.904959,
     "lng": 116.177198
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.7,
     "lat": 39.908717,
     "lng": 116.176513
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 70.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-海棠苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 69.0,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金玺公馆",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 73.8,
     "lat": 39.910556,
     "lng": 116.174298
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 61.0,
     "lat": 39.916396,
     "lng": 116.182968
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 90.0,
     "lat": 39.908717,
     "lng": 116.176513
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:00",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 87.9,
     "lat": 39.908717,
     "lng": 116.176513
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-丁香苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 86.6,
     "lat": 39.915098,
     "lng": 116.169902
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 111.6,
     "lat": 39.908717,
     "lng": 116.176513
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-栌韵苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 69.6,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 75.0,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-丁香苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.5,
     "lat": 39.915098,
     "lng": 116.169902
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南里",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 65.7,
     "lat": 39.909524,
     "lng": 116.185021
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南里",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.6,
     "lat": 39.909524,
     "lng": 116.185021
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城西路",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.0,
     "lat": 39.912436,
     "lng": 116.171968
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 95.6,
     "lat": 39.908717,
     "lng": 116.176513
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 104.2,
     "lat": 39.910556,
     "lng": 116.174298
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-曦景长安",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 57.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 93.2,
     "lat": 39.908717,
     "lng": 116.176513
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-栌韵苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 84.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下熙山府",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 102.4,
     "lat": 39.910556,
     "lng": 116.174298
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 106.1,
     "lat": 39.908717,
     "lng": 116.176513
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下景山府",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 101.1,
     "lat": 39.910556,
     "lng": 116.174298
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-丁香苑",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.7,
     "lat": 39.915098,
     "lng": 116.169902
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 86.4,
     "lat": 39.910019,
     "lng": 116.182662
@@ -1723,7 +1723,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 160.0,
     "lat": 39.663674,
     "lng": 116.516859
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 87.3,
     "lat": 39.910556,
     "lng": 116.174298
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下景山府",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 108.2,
     "lat": 39.910556,
     "lng": 116.174298
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 82.2,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 81.6,
     "lat": 39.908717,
     "lng": 116.176513
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南里",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 66.7,
     "lat": 39.909524,
     "lng": 116.185021
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-梨花苑",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 79.1,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 58.8,
     "lat": 39.914116,
     "lng": 116.182268
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 111.9,
     "lat": 39.910556,
     "lng": 116.174298
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 61.5,
     "lat": 39.914116,
     "lng": 116.182268
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 99.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 127.4,
     "lat": 39.910019,
     "lng": 116.182662
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.9,
     "lat": 39.911099,
     "lng": 116.187781
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城西路",
     "scraped_at": "2026-05-02 22:22:02",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 75.0,
     "lat": 39.912436,
     "lng": 116.171968
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金石公馆",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 92.8,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.9,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 94.1,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金玺公馆",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.5,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城西路",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 64.6,
     "lat": 39.912436,
     "lng": 116.171968
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.0,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-栌韵苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 73.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 90.5,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下景山府",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 106.1,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金玺公馆",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 91.8,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 78.7,
     "lat": 39.904959,
     "lng": 116.177198
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 58.4,
     "lat": 39.914116,
     "lng": 116.182268
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-栌韵苑",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 70.6,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 66.7,
     "lat": 39.914116,
     "lng": 116.182268
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 97.1,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城特钢楼",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 74.0,
     "lat": 39.914116,
     "lng": 116.182268
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-十万坪",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 65.4,
     "lat": 39.906703,
     "lng": 116.17997
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-宏鑫家园",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 62.2,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:05",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 64.5,
     "lat": 39.916396,
     "lng": 116.182968
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 92.1,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-紫薇苑",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.5,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金石公馆",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 99.6,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 64.0,
     "lat": 39.914116,
     "lng": 116.182268
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 66.4,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 104.9,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金石公馆",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 82.2,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 81.2,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金玺公馆",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 70.4,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 100.2,
     "lat": 39.910019,
     "lng": 116.182662
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 100.3,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-十万坪",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 81.5,
     "lat": 39.906703,
     "lng": 116.17997
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 100.0,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 75.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城特钢楼",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 81.6,
     "lat": 39.914116,
     "lng": 116.182268
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 72.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下御山府",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 97.0,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-梨花苑",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 103.9,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海大厦",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 109.9,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.6,
     "lat": 39.914116,
     "lng": 116.182268
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-十万坪",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 89.5,
     "lat": 39.906703,
     "lng": 116.17997
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-栌韵苑",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 90.2,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 119.5,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 87.9,
     "lat": 39.914116,
     "lng": 116.182268
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 134.9,
     "lat": 39.910019,
     "lng": 116.182662
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 134.9,
     "lat": 39.910019,
     "lng": 116.182662
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 144.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海大厦",
     "scraped_at": "2026-05-02 22:22:09",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 110.6,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南里",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.9,
     "lat": 39.909524,
     "lng": 116.185021
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 79.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 72.9,
     "lat": 39.916396,
     "lng": 116.182968
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 95.2,
     "lat": 39.910019,
     "lng": 116.182662
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 78.2,
     "lat": 39.910556,
     "lng": 116.174298
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南里",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 86.6,
     "lat": 39.909524,
     "lng": 116.185021
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城服务楼",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 58.3,
     "lat": 39.914116,
     "lng": 116.182268
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 73.7,
     "lat": 39.910556,
     "lng": 116.174298
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 85.1,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-长安家园",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 61.8,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.1,
     "lat": 39.916396,
     "lng": 116.182968
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-紫薇苑",
     "scraped_at": "2026-05-02 22:22:11",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 77.9,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 65.3,
     "lat": 39.916396,
     "lng": 116.182968
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 81.4,
     "lat": 39.916396,
     "lng": 116.182968
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.2,
     "lat": 39.916396,
     "lng": 116.182968
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城西路",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 69.2,
     "lat": 39.912436,
     "lng": 116.171968
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-十万坪",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 82.6,
     "lat": 39.906703,
     "lng": 116.17997
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-栌韵苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.0,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 80.3,
     "lat": 39.910019,
     "lng": 116.182662
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南里",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 81.2,
     "lat": 39.909524,
     "lng": 116.185021
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 80.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 82.2,
     "lat": 39.904959,
     "lng": 116.177198
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 73.7,
     "lat": 39.910556,
     "lng": 116.174298
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-紫薇苑",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 71.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金玺公馆",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 79.5,
     "lat": 39.910556,
     "lng": 116.174298
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 91.8,
     "lat": 39.910019,
     "lng": 116.182662
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海寰宇天下熙山府",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.5,
     "lat": 39.910556,
     "lng": 116.174298
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-十万坪",
     "scraped_at": "2026-05-02 22:22:15",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 68.7,
     "lat": 39.906703,
     "lng": 116.17997
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 72.0,
     "lat": 39.914116,
     "lng": 116.182268
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 70.3,
     "lat": 39.910556,
     "lng": 116.174298
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 111.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城西路",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.1,
     "lat": 39.912436,
     "lng": 116.171968
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 70.2,
     "lat": 39.910019,
     "lng": 116.182662
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南里",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 65.0,
     "lat": 39.909524,
     "lng": 116.185021
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.5,
     "lat": 39.916396,
     "lng": 116.182968
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 82.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南里",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 71.3,
     "lat": 39.909524,
     "lng": 116.185021
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 104.2,
     "lat": 39.908717,
     "lng": 116.176513
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 70.2,
     "lat": 39.916396,
     "lng": 116.182968
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-梅花苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-梅花苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 71.1,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-海棠苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 66.9,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-海棠苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 62.0,
     "lat": 39.910556,
     "lng": 116.174298
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 73.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-枫香苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 68.2,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-玉兰苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 69.6,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-栌韵苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 70.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.1,
     "lat": 39.910556,
     "lng": 116.174298
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-海棠苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 88.6,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-紫薇苑",
     "scraped_at": "2026-05-02 22:22:18",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 69.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-十万坪",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 64.5,
     "lat": 39.906703,
     "lng": 116.17997
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 84.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.1,
     "lat": 39.916396,
     "lng": 116.182968
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-紫薇苑",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 65.3,
     "lat": 39.911099,
     "lng": 116.187781
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 96.9,
     "lat": 39.904959,
     "lng": 116.177198
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 71.2,
     "lat": 39.910556,
     "lng": 116.174298
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城西路",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 60.7,
     "lat": 39.912436,
     "lng": 116.171968
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-海棠苑",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 86.4,
     "lat": 39.911099,
     "lng": 116.187781
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 81.2,
     "lat": 39.910019,
     "lng": 116.182662
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 71.9,
     "lat": 39.910556,
     "lng": 116.174298
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:40",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 77.8,
     "lat": 39.911099,
     "lng": 116.187781
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.9,
     "lat": 39.910019,
     "lng": 116.182662
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-十万坪",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 81.8,
     "lat": 39.906703,
     "lng": 116.17997
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 81.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 101.1,
     "lat": 39.908717,
     "lng": 116.176513
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 86.9,
     "lat": 39.910019,
     "lng": 116.182662
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城西路",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 74.3,
     "lat": 39.912436,
     "lng": 116.171968
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-十万坪",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 72.9,
     "lat": 39.906703,
     "lng": 116.17997
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 80.3,
     "lat": 39.910019,
     "lng": 116.182662
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城南路",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 74.8,
     "lat": 39.911099,
     "lng": 116.187781
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 105.1,
     "lat": 39.904959,
     "lng": 116.177198
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 43.8,
     "lat": 39.916396,
     "lng": 116.182968
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-丁香苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 70.5,
     "lat": 39.915098,
     "lng": 116.169902
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-丁香苑",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 82.6,
     "lat": 39.915098,
     "lng": 116.169902
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金玺公馆",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 71.0,
     "lat": 39.910556,
     "lng": 116.174298
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 70.8,
     "lat": 39.910019,
     "lng": 116.182662
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:52",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 85.1,
     "lat": 39.910019,
     "lng": 116.182662
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 75.5,
     "lat": 39.910019,
     "lng": 116.182662
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城北路",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 76.0,
     "lat": 39.916396,
     "lng": 116.182968
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-樱花苑",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 84.7,
     "lat": 39.911099,
     "lng": 116.187781
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 92.3,
     "lat": 39.904959,
     "lng": 116.177198
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.2,
     "lat": 39.914116,
     "lng": 116.182268
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 106.5,
     "lat": 39.908717,
     "lng": 116.176513
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-金融街长安中心",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 67.6,
     "lat": 39.904959,
     "lng": 116.177198
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 84.2,
     "lat": 39.910019,
     "lng": 116.182662
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 65.7,
     "lat": 39.914116,
     "lng": 116.182268
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城路小区",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 83.8,
     "lat": 39.910019,
     "lng": 116.182662
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海金鑫阁",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 95.8,
     "lat": 39.908717,
     "lng": 116.176513
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-丁香苑",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 68.4,
     "lat": 39.915098,
     "lng": 116.169902
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-古城现代嘉园",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 54.9,
     "lat": 39.914116,
     "lng": 116.182268
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-槿花苑",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 93.9,
     "lat": 39.911099,
     "lng": 116.187781
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "石景山区-古城-中海长安雅苑",
     "scraped_at": "2026-05-02 22:22:57",
-    "region": "gucheng",
+    "region": "古城",
     "unit_price": 77.3,
     "lat": 39.910556,
     "lng": 116.174298

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园南里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 77.6,
     "lat": 40.001796,
     "lng": 116.270668
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园南里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 86.5,
     "lat": 40.001796,
     "lng": 116.270668
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园西里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 92.9,
     "lat": 39.977431,
     "lng": 116.239695
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园西里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 85.4,
     "lat": 39.977431,
     "lng": 116.239695
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-骚子营",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 65.0,
     "lat": 39.988586,
     "lng": 116.302668
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 134.3,
     "lat": 39.877626,
     "lng": 116.401131
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园南里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 85.9,
     "lat": 40.001796,
     "lng": 116.270668
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园西里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 96.5,
     "lat": 39.977431,
     "lng": 116.239695
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-骚子营",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 93.9,
     "lat": 39.988586,
     "lng": 116.302668
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园西里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 101.2,
     "lat": 39.977431,
     "lng": 116.239695
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园南里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 81.2,
     "lat": 40.001796,
     "lng": 116.270668
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园北里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 82.3,
     "lat": 39.978561,
     "lng": 116.244571
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园南里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 88.2,
     "lat": 40.001796,
     "lng": 116.270668
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-邮局宿舍",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 99.1,
     "lat": 40.010646,
     "lng": 116.280268
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园北里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 86.0,
     "lat": 39.978561,
     "lng": 116.244571
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-骚子营",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 115.4,
     "lat": 39.988586,
     "lng": 116.302668
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园南里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 83.5,
     "lat": 40.001796,
     "lng": 116.270668
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-邮局宿舍",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 86.6,
     "lat": 40.010646,
     "lng": 116.280268
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-颐和园宿舍",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 114.5,
     "lat": 39.997067,
     "lng": 116.264061
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园西里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 82.4,
     "lat": 39.977431,
     "lng": 116.239695
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-骚子营",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 85.4,
     "lat": 39.988586,
     "lng": 116.302668
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园南里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 88.2,
     "lat": 40.001796,
     "lng": 116.270668
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-燕北园",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 124.4,
     "lat": 39.988586,
     "lng": 116.302668
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园西里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 89.0,
     "lat": 39.977431,
     "lng": 116.239695
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-燕北园",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 95.0,
     "lat": 39.988586,
     "lng": 116.302668
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-邮局宿舍",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 92.4,
     "lat": 40.010646,
     "lng": 116.280268
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-颐和园-北坞嘉园北里",
     "scraped_at": "2026-05-02 22:00:43",
-    "region": "yiheyuan",
+    "region": "颐和园",
     "unit_price": 82.1,
     "lat": 39.978561,
     "lng": 116.244571

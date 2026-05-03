@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-燕西华府",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 57.9,
     "lat": 39.85336,
     "lng": 116.39287
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-红山郡",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 45.3,
     "lat": 39.85336,
     "lng": 116.39287
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-万科雲庐",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 66.4,
     "lat": 39.85336,
     "lng": 116.39287
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-珠江御景",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 34.4,
     "lat": 39.85336,
     "lng": 116.39287
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-园博派",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 64.8,
     "lat": 39.85336,
     "lng": 116.39287
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 84.0,
     "lat": 40.64591,
     "lng": 117.26197
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-燕西华府",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 40.5,
     "lat": 39.85336,
     "lng": 116.39287
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-燕西华府",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 50.5,
     "lat": 39.85336,
     "lng": 116.39287
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-翡翠西湖二期",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 43.8,
     "lat": 39.792116,
     "lng": 116.094138
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-山语城一区",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 39.8,
     "lat": 39.809706,
     "lng": 116.134368
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-西山甲一号",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 60.2,
     "lat": 39.85336,
     "lng": 116.39287
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-璟博苑",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 47.1,
     "lat": 39.85336,
     "lng": 116.39287
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-燕西华府",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 40.9,
     "lat": 39.85336,
     "lng": 116.39287
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-西山甲一号",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 68.5,
     "lat": 39.85336,
     "lng": 116.39287
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-聚源阳光新城",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 34.7,
     "lat": 39.85336,
     "lng": 116.39287
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-西山甲一号时代中心",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 87.1,
     "lat": 39.85336,
     "lng": 116.39287
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-西山甲一号",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 61.9,
     "lat": 39.85336,
     "lng": 116.39287
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-燕西华府",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 33.8,
     "lat": 39.85336,
     "lng": 116.39287
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-珠光御景西园",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 37.8,
     "lat": 39.85336,
     "lng": 116.39287
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-万科雲庐",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 62.4,
     "lat": 39.85336,
     "lng": 116.39287
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-燕西华府",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 36.8,
     "lat": 39.85336,
     "lng": 116.39287
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-山语城",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 39.7,
     "lat": 39.85336,
     "lng": 116.39287
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-汤泉墅",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 44.7,
     "lat": 39.85336,
     "lng": 116.39287
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-璟博苑",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 50.7,
     "lat": 39.85336,
     "lng": 116.39287
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-西山甲一号时代中心",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 94.6,
     "lat": 39.85336,
     "lng": 116.39287
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-熙悦天寰",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 68.4,
     "lat": 39.85336,
     "lng": 116.39287
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-龙湖建工",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 61.0,
     "lat": 39.851431,
     "lng": 116.426984
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-领秀翡翠山",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 62.2,
     "lat": 39.85336,
     "lng": 116.39287
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "丰台区-丰台其它-熙悦晴翠",
     "scraped_at": "2026-05-02 22:03:58",
-    "region": "fengtaiqita1",
+    "region": "丰台其它",
     "unit_price": 71.1,
     "lat": 39.85336,
     "lng": 116.39287

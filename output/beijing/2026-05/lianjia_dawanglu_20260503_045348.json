@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 80.3,
     "lat": 39.88772,
     "lng": 116.474
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 79.8,
     "lat": 39.899483,
     "lng": 116.474534
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-万科蓝山",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 110.8,
     "lat": 39.885646,
     "lng": 116.480878
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 103.8,
     "lat": 39.896886,
     "lng": 116.478998
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 87.2,
     "lat": 39.896786,
     "lng": 116.481438
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 120.0,
     "lat": 39.847129,
     "lng": 116.558006
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 85.9,
     "lat": 39.896786,
     "lng": 116.481438
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 92.0,
     "lat": 39.896786,
     "lng": 116.481438
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 123.6,
     "lat": 39.892786,
     "lng": 116.481068
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 98.4,
     "lat": 39.898516,
     "lng": 116.479473
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 103.6,
     "lat": 39.881742,
     "lng": 116.469428
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-易构空间",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 94.9,
     "lat": 39.898326,
     "lng": 116.476218
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 87.2,
     "lat": 39.896786,
     "lng": 116.481438
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-外企公寓",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 111.9,
     "lat": 39.893575,
     "lng": 116.4704
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 85.2,
     "lat": 39.888616,
     "lng": 116.469298
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 118.5,
     "lat": 39.886406,
     "lng": 116.468768
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-华腾国际",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 93.8,
     "lat": 39.898376,
     "lng": 116.473668
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 86.1,
     "lat": 39.896786,
     "lng": 116.481438
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-石韵浩庭",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 99.7,
     "lat": 39.893786,
     "lng": 116.468188
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-乐成公馆",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.5,
     "lat": 39.895026,
     "lng": 116.471018
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 64.0,
     "lat": 39.886406,
     "lng": 116.468768
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府南区",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 135.8,
     "lat": 39.892826,
     "lng": 116.478368
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 87.0,
     "lat": 39.899483,
     "lng": 116.474534
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 69.8,
     "lat": 39.888616,
     "lng": 116.469298
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 105.6,
     "lat": 39.898516,
     "lng": 116.479473
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 218.8,
     "lat": 39.892379,
     "lng": 116.476246
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 129.7,
     "lat": 39.886406,
     "lng": 116.468768
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-鸿坤花语墅",
     "scraped_at": "2026-05-02 20:40:23",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 136.1,
     "lat": 39.880769,
     "lng": 116.471603
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 84.9,
     "lat": 39.886406,
     "lng": 116.468768
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 73.5,
     "lat": 39.899483,
     "lng": 116.474534
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 74.0,
     "lat": 39.888616,
     "lng": 116.469298
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 64.3,
     "lat": 39.898516,
     "lng": 116.479473
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 100.6,
     "lat": 39.898126,
     "lng": 116.480912
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.6,
     "lat": 39.898126,
     "lng": 116.480912
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 108.0,
     "lat": 39.896886,
     "lng": 116.474238
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 95.7,
     "lat": 39.898516,
     "lng": 116.479473
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 103.1,
     "lat": 39.898516,
     "lng": 116.479473
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 101.4,
     "lat": 39.88772,
     "lng": 116.474
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 92.4,
     "lat": 39.898126,
     "lng": 116.480912
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-住总香榭",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 129.5,
     "lat": 39.890262,
     "lng": 116.471073
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-石韵浩庭",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 118.9,
     "lat": 39.893786,
     "lng": 116.468188
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 90.1,
     "lat": 39.899483,
     "lng": 116.474534
@@ -811,7 +811,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": "",
     "lat": 39.887448,
     "lng": 116.479522
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-乐成豪丽",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.4,
     "lat": 39.895026,
     "lng": 116.471018
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-首府官邸",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 148.1,
     "lat": 39.894746,
     "lng": 116.474078
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-万科蓝山",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 98.7,
     "lat": 39.885646,
     "lng": 116.480878
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府北区",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 212.4,
     "lat": 39.894156,
     "lng": 116.477838
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府北区",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 179.8,
     "lat": 39.894156,
     "lng": 116.477838
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 139.6,
     "lat": 39.88772,
     "lng": 116.474
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 115.0,
     "lat": 39.886406,
     "lng": 116.468768
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-华腾新天地大厦",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 67.7,
     "lat": 39.883636,
     "lng": 116.481848
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-石韵浩庭",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 115.7,
     "lat": 39.893786,
     "lng": 116.468188
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 94.7,
     "lat": 39.898126,
     "lng": 116.480912
@@ -1020,7 +1020,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 132.0,
     "lat": 39.663674,
     "lng": 116.516859
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景博悦",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 120.5,
     "lat": 39.88772,
     "lng": 116.474
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:40:26",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 106.9,
     "lat": 39.896886,
     "lng": 116.474238
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 94.7,
     "lat": 39.881742,
     "lng": 116.469428
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 113.3,
     "lat": 39.886406,
     "lng": 116.468768
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 87.8,
     "lat": 39.898516,
     "lng": 116.479473
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 95.2,
     "lat": 39.88772,
     "lng": 116.474
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 90.3,
     "lat": 39.899483,
     "lng": 116.474534
@@ -1172,7 +1172,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 250.0,
     "lat": 39.958586,
     "lng": 116.458638
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 83.0,
     "lat": 39.881742,
     "lng": 116.469428
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 75.4,
     "lat": 39.898516,
     "lng": 116.479473
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 89.2,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 73.8,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 85.3,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 89.4,
     "lat": 39.898516,
     "lng": 116.479473
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 89.4,
     "lat": 39.899483,
     "lng": 116.474534
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 85.9,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 95.4,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 90.9,
     "lat": 39.899483,
     "lng": 116.474534
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 115.8,
     "lat": 39.886406,
     "lng": 116.468768
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 92.6,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 129.0,
     "lat": 39.892786,
     "lng": 116.481068
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 88.2,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 89.3,
     "lat": 39.898516,
     "lng": 116.479473
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 127.4,
     "lat": 39.886406,
     "lng": 116.468768
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:29",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 94.4,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 76.1,
     "lat": 39.888616,
     "lng": 116.469298
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 83.0,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 91.0,
     "lat": 39.881742,
     "lng": 116.469428
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 96.1,
     "lat": 39.898516,
     "lng": 116.479473
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-鸿坤花语墅",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 128.4,
     "lat": 39.880769,
     "lng": 116.471603
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景博悦",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 109.6,
     "lat": 39.88772,
     "lng": 116.474
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 98.4,
     "lat": 39.898126,
     "lng": 116.480912
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 111.0,
     "lat": 39.896886,
     "lng": 116.474238
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 101.0,
     "lat": 39.88772,
     "lng": 116.474
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.8,
     "lat": 39.898126,
     "lng": 116.480912
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-乐成豪丽",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 107.7,
     "lat": 39.895026,
     "lng": 116.471018
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-乐成豪丽",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 145.6,
     "lat": 39.895026,
     "lng": 116.471018
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-西大望路",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 99.2,
     "lat": 39.905358,
     "lng": 116.472844
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 106.2,
     "lat": 39.888616,
     "lng": 116.469298
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 99.8,
     "lat": 39.896786,
     "lng": 116.481438
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.7,
     "lat": 39.88772,
     "lng": 116.474
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 114.2,
     "lat": 39.88772,
     "lng": 116.474
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 121.0,
     "lat": 39.888616,
     "lng": 116.469298
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 104.5,
     "lat": 39.886406,
     "lng": 116.468768
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 94.5,
     "lat": 39.881742,
     "lng": 116.469428
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 113.3,
     "lat": 39.88772,
     "lng": 116.474
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 154.3,
     "lat": 39.88772,
     "lng": 116.474
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 86.3,
     "lat": 39.886406,
     "lng": 116.468768
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 143.2,
     "lat": 39.892786,
     "lng": 116.481068
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:32",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 138.1,
     "lat": 39.88772,
     "lng": 116.474
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府南区",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 174.6,
     "lat": 39.892826,
     "lng": 116.478368
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-易构空间",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 111.3,
     "lat": 39.898326,
     "lng": 116.476218
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 130.2,
     "lat": 39.892786,
     "lng": 116.481068
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 103.5,
     "lat": 39.896886,
     "lng": 116.474238
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-石韵浩庭",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 91.5,
     "lat": 39.893786,
     "lng": 116.468188
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 124.0,
     "lat": 39.896886,
     "lng": 116.474238
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-大旸楼",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 98.4,
     "lat": 39.890806,
     "lng": 116.468968
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 158.8,
     "lat": 39.892786,
     "lng": 116.481068
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府北区",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 207.5,
     "lat": 39.894156,
     "lng": 116.477838
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 89.8,
     "lat": 39.88772,
     "lng": 116.474
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-易构空间",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 113.6,
     "lat": 39.898326,
     "lng": 116.476218
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 67.2,
     "lat": 39.898516,
     "lng": 116.479473
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 98.2,
     "lat": 39.896886,
     "lng": 116.474238
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-乐成公馆",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 128.7,
     "lat": 39.895026,
     "lng": 116.471018
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-鸿坤花语墅",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 236.5,
     "lat": 39.880769,
     "lng": 116.471603
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 98.8,
     "lat": 39.886406,
     "lng": 116.468768
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府南区",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 133.4,
     "lat": 39.892826,
     "lng": 116.478368
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.9,
     "lat": 39.88772,
     "lng": 116.474
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府南区",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 135.7,
     "lat": 39.892826,
     "lng": 116.478368
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-住总香榭",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 126.4,
     "lat": 39.890262,
     "lng": 116.471073
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 94.9,
     "lat": 39.898126,
     "lng": 116.480912
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 69.2,
     "lat": 39.881742,
     "lng": 116.469428
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 93.8,
     "lat": 39.898516,
     "lng": 116.479473
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-易构空间",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 124.4,
     "lat": 39.898326,
     "lng": 116.476218
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 88.5,
     "lat": 39.888616,
     "lng": 116.469298
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-乐成公馆",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 128.6,
     "lat": 39.895026,
     "lng": 116.471018
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 128.1,
     "lat": 39.888616,
     "lng": 116.469298
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 91.6,
     "lat": 39.88772,
     "lng": 116.474
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 101.4,
     "lat": 39.888616,
     "lng": 116.469298
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:35",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 109.5,
     "lat": 39.886406,
     "lng": 116.468768
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.7,
     "lat": 39.896786,
     "lng": 116.481438
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-鸿坤花语墅",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 131.8,
     "lat": 39.880769,
     "lng": 116.471603
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-万科蓝山",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 114.0,
     "lat": 39.885646,
     "lng": 116.480878
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 92.9,
     "lat": 39.88772,
     "lng": 116.474
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-首府官邸",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 188.1,
     "lat": 39.894746,
     "lng": 116.474078
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-乐成豪丽",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 124.1,
     "lat": 39.895026,
     "lng": 116.471018
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 116.5,
     "lat": 39.898126,
     "lng": 116.480912
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 121.6,
     "lat": 39.898126,
     "lng": 116.480912
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 92.2,
     "lat": 39.88772,
     "lng": 116.474
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府北区",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 162.5,
     "lat": 39.894156,
     "lng": 116.477838
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-地材宿舍",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 100.0,
     "lat": 39.907495,
     "lng": 116.47112
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 111.5,
     "lat": 39.881742,
     "lng": 116.469428
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 88.5,
     "lat": 39.899483,
     "lng": 116.474534
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 134.6,
     "lat": 39.881742,
     "lng": 116.469428
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 129.9,
     "lat": 39.886406,
     "lng": 116.468768
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-石韵浩庭",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 95.0,
     "lat": 39.893786,
     "lng": 116.468188
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 108.7,
     "lat": 39.88772,
     "lng": 116.474
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 99.8,
     "lat": 39.88772,
     "lng": 116.474
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 107.5,
     "lat": 39.898516,
     "lng": 116.479473
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-石韵浩庭",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 121.2,
     "lat": 39.893786,
     "lng": 116.468188
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-石韵浩庭",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 117.4,
     "lat": 39.893786,
     "lng": 116.468188
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 131.7,
     "lat": 39.886406,
     "lng": 116.468768
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:40:39",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 109.0,
     "lat": 39.896886,
     "lng": 116.478998
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 92.2,
     "lat": 39.898516,
     "lng": 116.479473
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 88.7,
     "lat": 39.898126,
     "lng": 116.480912
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 123.7,
     "lat": 39.896886,
     "lng": 116.478998
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 93.8,
     "lat": 39.899483,
     "lng": 116.474534
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 129.0,
     "lat": 39.886406,
     "lng": 116.468768
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 159.2,
     "lat": 39.892786,
     "lng": 116.481068
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-鸿坤花语墅",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 129.7,
     "lat": 39.880769,
     "lng": 116.471603
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 107.8,
     "lat": 39.898516,
     "lng": 116.479473
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-乐成公馆",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 124.3,
     "lat": 39.895026,
     "lng": 116.471018
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 120.0,
     "lat": 39.886406,
     "lng": 116.468768
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 135.3,
     "lat": 39.892786,
     "lng": 116.481068
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 91.7,
     "lat": 39.888616,
     "lng": 116.469298
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景伯爵山",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 127.8,
     "lat": 39.88772,
     "lng": 116.474
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 135.9,
     "lat": 39.892786,
     "lng": 116.481068
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 97.6,
     "lat": 39.88772,
     "lng": 116.474
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府北区",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 210.5,
     "lat": 39.894156,
     "lng": 116.477838
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 81.7,
     "lat": 39.898516,
     "lng": 116.479473
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 85.2,
     "lat": 39.886406,
     "lng": 116.468768
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:03",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 98.5,
     "lat": 39.88772,
     "lng": 116.474
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-鸿坤花语墅",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 136.0,
     "lat": 39.880769,
     "lng": 116.471603
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 119.6,
     "lat": 39.88772,
     "lng": 116.474
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府北区",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 260.7,
     "lat": 39.894156,
     "lng": 116.477838
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 85.9,
     "lat": 39.898516,
     "lng": 116.479473
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 117.6,
     "lat": 39.881742,
     "lng": 116.469428
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府南区",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 178.7,
     "lat": 39.892826,
     "lng": 116.478368
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 87.5,
     "lat": 39.896886,
     "lng": 116.478998
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 108.0,
     "lat": 39.88772,
     "lng": 116.474
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-首府官邸",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 113.4,
     "lat": 39.894746,
     "lng": 116.474078
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 113.4,
     "lat": 39.896886,
     "lng": 116.478998
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 111.0,
     "lat": 39.896786,
     "lng": 116.481438
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 156.0,
     "lat": 39.892786,
     "lng": 116.481068
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 92.0,
     "lat": 39.896786,
     "lng": 116.481438
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.4,
     "lat": 39.888616,
     "lng": 116.469298
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 104.1,
     "lat": 39.898126,
     "lng": 116.480912
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 134.9,
     "lat": 39.892786,
     "lng": 116.481068
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 159.2,
     "lat": 39.892786,
     "lng": 116.481068
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 78.9,
     "lat": 39.896786,
     "lng": 116.481438
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-西大望路铁西宿舍",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 98.7,
     "lat": 39.912551,
     "lng": 116.470413
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 158.7,
     "lat": 39.896886,
     "lng": 116.478998
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:09",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 87.0,
     "lat": 39.899483,
     "lng": 116.474534
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-西大望路",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 79.2,
     "lat": 39.885473,
     "lng": 116.469978
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 106.2,
     "lat": 39.898126,
     "lng": 116.480912
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 100.9,
     "lat": 39.898126,
     "lng": 116.480912
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景博悦",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 144.9,
     "lat": 39.88772,
     "lng": 116.474
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 109.5,
     "lat": 39.898516,
     "lng": 116.479473
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 121.8,
     "lat": 39.88772,
     "lng": 116.474
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-易构空间",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 121.6,
     "lat": 39.898326,
     "lng": 116.476218
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 104.5,
     "lat": 39.886406,
     "lng": 116.468768
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:13",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 92.6,
     "lat": 39.899483,
     "lng": 116.474534
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 94.7,
     "lat": 39.899483,
     "lng": 116.474534
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 126.0,
     "lat": 39.886406,
     "lng": 116.468768
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-易构空间",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 91.2,
     "lat": 39.898326,
     "lng": 116.476218
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 86.3,
     "lat": 39.898126,
     "lng": 116.480912
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 78.1,
     "lat": 39.898516,
     "lng": 116.479473
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 76.3,
     "lat": 39.898126,
     "lng": 116.480912
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 93.9,
     "lat": 39.898126,
     "lng": 116.480912
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-易构空间",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 99.5,
     "lat": 39.898326,
     "lng": 116.476218
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 82.2,
     "lat": 39.899483,
     "lng": 116.474534
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 97.0,
     "lat": 39.88772,
     "lng": 116.474
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 84.0,
     "lat": 39.896786,
     "lng": 116.481438
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 120.7,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:36",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 90.3,
     "lat": 39.896786,
     "lng": 116.481438
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 156.2,
     "lat": 39.892786,
     "lng": 116.481068
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 96.7,
     "lat": 39.88772,
     "lng": 116.474
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 100.9,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 74.7,
     "lat": 39.896786,
     "lng": 116.481438
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 101.6,
     "lat": 39.896886,
     "lng": 116.474238
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 117.0,
     "lat": 39.898126,
     "lng": 116.480912
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 91.0,
     "lat": 39.896886,
     "lng": 116.478998
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 99.7,
     "lat": 39.898516,
     "lng": 116.479473
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 111.9,
     "lat": 39.896886,
     "lng": 116.474238
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-易构空间",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 74.6,
     "lat": 39.898326,
     "lng": 116.476218
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景新博悦",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 109.2,
     "lat": 39.88772,
     "lng": 116.474
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 101.9,
     "lat": 39.898126,
     "lng": 116.480912
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-西大望路",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 107.6,
     "lat": 39.905358,
     "lng": 116.472844
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 83.1,
     "lat": 39.896886,
     "lng": 116.478998
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 97.0,
     "lat": 39.898516,
     "lng": 116.479473
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 94.7,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 105.0,
     "lat": 39.881742,
     "lng": 116.469428
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 91.0,
     "lat": 39.881742,
     "lng": 116.469428
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 106.3,
     "lat": 39.898126,
     "lng": 116.480912
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 88.6,
     "lat": 39.888616,
     "lng": 116.469298
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 160.6,
     "lat": 39.88772,
     "lng": 116.474
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 88.9,
     "lat": 39.896786,
     "lng": 116.481438
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 92.3,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 95.2,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 119.4,
     "lat": 39.896886,
     "lng": 116.474238
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景新博悦",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 120.0,
     "lat": 39.88772,
     "lng": 116.474
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 81.1,
     "lat": 39.896786,
     "lng": 116.481438
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 77.3,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 121.5,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 87.0,
     "lat": 39.896786,
     "lng": 116.481438
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.0,
     "lat": 39.898516,
     "lng": 116.479473
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 114.1,
     "lat": 39.896886,
     "lng": 116.474238
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 101.0,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:48",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 104.7,
     "lat": 39.898126,
     "lng": 116.480912
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.8,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府南区",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 127.6,
     "lat": 39.892826,
     "lng": 116.478368
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 85.7,
     "lat": 39.896786,
     "lng": 116.481438
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 113.7,
     "lat": 39.898126,
     "lng": 116.480912
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 105.7,
     "lat": 39.886406,
     "lng": 116.468768
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 101.7,
     "lat": 39.896786,
     "lng": 116.481438
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 119.0,
     "lat": 39.898126,
     "lng": 116.480912
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 82.9,
     "lat": 39.896886,
     "lng": 116.478998
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 117.3,
     "lat": 39.881742,
     "lng": 116.469428
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 114.0,
     "lat": 39.896886,
     "lng": 116.474238
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 126.2,
     "lat": 39.886406,
     "lng": 116.468768
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:51",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 105.0,
     "lat": 39.88772,
     "lng": 116.474
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 97.0,
     "lat": 39.88772,
     "lng": 116.474
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 88.6,
     "lat": 39.886406,
     "lng": 116.468768
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 115.3,
     "lat": 39.898126,
     "lng": 116.480912
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 111.1,
     "lat": 39.898126,
     "lng": 116.480912
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-西大望路",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 104.0,
     "lat": 39.905358,
     "lng": 116.472844
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-禧福汇",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 124.1,
     "lat": 39.881742,
     "lng": 116.469428
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 108.8,
     "lat": 39.898126,
     "lng": 116.480912
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金港国际",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 82.4,
     "lat": 39.896886,
     "lng": 116.474238
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 93.7,
     "lat": 39.899483,
     "lng": 116.474534
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景伯爵山",
     "scraped_at": "2026-05-02 20:41:55",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 77.8,
     "lat": 39.88772,
     "lng": 116.474
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-京铁瑞园",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 98.0,
     "lat": 39.899483,
     "lng": 116.474534
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 105.2,
     "lat": 39.888616,
     "lng": 116.469298
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-东方雅苑",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 129.1,
     "lat": 39.886406,
     "lng": 116.468768
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 103.6,
     "lat": 39.898516,
     "lng": 116.479473
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 131.4,
     "lat": 39.892786,
     "lng": 116.481068
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-珠江帝景",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 102.5,
     "lat": 39.88772,
     "lng": 116.474
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-风度柏林",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 96.9,
     "lat": 39.888616,
     "lng": 116.469298
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-金茂府东区",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 140.5,
     "lat": 39.892786,
     "lng": 116.481068
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "朝阳区-大望路-后现代城",
     "scraped_at": "2026-05-02 20:42:00",
-    "region": "dawanglu",
+    "region": "大望路",
     "unit_price": 94.4,
     "lat": 39.896886,
     "lng": 116.478998

@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽御府",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 355.7,
     "lat": 40.050345,
     "lng": 116.426871
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 67.2,
     "lat": 40.044355,
     "lng": 116.428108
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 31.0,
     "lat": 40.041937,
     "lng": 116.407202
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 67.9,
     "lat": 40.043036,
     "lng": 116.406578
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 67.2,
     "lat": 40.044355,
     "lng": 116.428108
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": "",
     "lat": 39.916416,
     "lng": 116.366718
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 78.1,
     "lat": 40.042157,
     "lng": 116.409011
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园绣菊园南区",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 63.7,
     "lat": 40.040717,
     "lng": 116.416355
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 100.1,
     "lat": 40.046173,
     "lng": 116.425577
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 69.6,
     "lat": 40.046173,
     "lng": 116.425577
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 80.2,
     "lat": 40.040738,
     "lng": 116.415649
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:28:50",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 76.3,
     "lat": 40.027724,
     "lng": 116.431384
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽公馆",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.9,
     "lat": 40.050345,
     "lng": 116.426871
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.4,
     "lat": 40.046173,
     "lng": 116.425577
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.1,
     "lat": 40.046173,
     "lng": 116.425577
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-筑华年",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.2,
     "lat": 40.035852,
     "lng": 116.421611
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 89.2,
     "lat": 40.044355,
     "lng": 116.428108
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.3,
     "lat": 40.027724,
     "lng": 116.431384
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.5,
     "lat": 40.040738,
     "lng": 116.415649
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.9,
     "lat": 40.042157,
     "lng": 116.409011
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-安外北苑",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 62.0,
     "lat": 40.035665,
     "lng": 116.411389
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.4,
     "lat": 39.994586,
     "lng": 116.413598
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 89.3,
     "lat": 40.040738,
     "lng": 116.415649
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 115.0,
     "lat": 40.027724,
     "lng": 116.431384
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-来北家园",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 77.2,
     "lat": 40.025553,
     "lng": 116.430567
@@ -488,7 +488,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 240.0,
     "lat": 40.026876,
     "lng": 116.410198
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.7,
     "lat": 40.031609,
     "lng": 116.412925
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-恒大名都",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 74.0,
     "lat": 40.026786,
     "lng": 116.433968
@@ -545,7 +545,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:27:18",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 170.9,
     "lat": 39.874882,
     "lng": 116.630125
@@ -564,7 +564,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": "",
     "lat": 39.963183,
     "lng": 116.318816
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.6,
     "lat": 40.046173,
     "lng": 116.425577
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园紫绶园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 68.4,
     "lat": 40.041937,
     "lng": 116.407202
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 95.9,
     "lat": 40.046173,
     "lng": 116.425577
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园莲葩园",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 65.3,
     "lat": 40.041937,
     "lng": 116.407202
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.7,
     "lat": 40.027724,
     "lng": 116.431384
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-时代庄园",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 100.1,
     "lat": 40.036599,
     "lng": 116.412917
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽庄园",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 95.7,
     "lat": 40.05349,
     "lng": 116.430319
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-新街坊",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.8,
     "lat": 40.026786,
     "lng": 116.433968
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园清友园",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 61.3,
     "lat": 40.041937,
     "lng": 116.407202
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-新街坊",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.9,
     "lat": 40.026786,
     "lng": 116.433968
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园绣菊园南区",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 59.6,
     "lat": 40.040717,
     "lng": 116.416355
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.7,
     "lat": 40.041937,
     "lng": 116.407202
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 92.4,
     "lat": 40.031609,
     "lng": 116.412925
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 87.0,
     "lat": 39.994586,
     "lng": 116.413598
@@ -849,7 +849,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 80.3,
     "lat": 40.029276,
     "lng": 116.330198
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 76.5,
     "lat": 40.027724,
     "lng": 116.431384
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.5,
     "lat": 40.043036,
     "lng": 116.406578
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.2,
     "lat": 40.041937,
     "lng": 116.407202
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-环科院",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 86.1,
     "lat": 40.026786,
     "lng": 116.433968
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 71.3,
     "lat": 40.044355,
     "lng": 116.428108
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.8,
     "lat": 40.046173,
     "lng": 116.425577
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-恒大名都",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.2,
     "lat": 40.026786,
     "lng": 116.433968
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 61.8,
     "lat": 40.041937,
     "lng": 116.407202
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-来北家园",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 70.8,
     "lat": 40.025553,
     "lng": 116.430567
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-筑华年",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 89.3,
     "lat": 40.035852,
     "lng": 116.421611
@@ -1058,7 +1058,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": "",
     "lat": 39.874882,
     "lng": 116.630125
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建国际城",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 87.8,
     "lat": 40.027724,
     "lng": 116.431384
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:21",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 93.8,
     "lat": 40.044355,
     "lng": 116.428108
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 96.1,
     "lat": 40.044355,
     "lng": 116.428108
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 74.3,
     "lat": 40.041937,
     "lng": 116.407202
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 74.3,
     "lat": 40.041937,
     "lng": 116.407202
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽悦溪",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.8,
     "lat": 40.050345,
     "lng": 116.426871
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 73.8,
     "lat": 40.041937,
     "lng": 116.407202
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 72.3,
     "lat": 40.042157,
     "lng": 116.409011
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-筑华年",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 93.4,
     "lat": 40.035852,
     "lng": 116.421611
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽悦溪",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.6,
     "lat": 40.050345,
     "lng": 116.426871
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建国际城",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 106.5,
     "lat": 40.027724,
     "lng": 116.431384
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 84.2,
     "lat": 40.040384,
     "lng": 116.433471
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.3,
     "lat": 40.026786,
     "lng": 116.433968
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-城市绿洲花园",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.7,
     "lat": 40.040746,
     "lng": 116.415785
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 89.0,
     "lat": 40.042157,
     "lng": 116.409011
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 76.6,
     "lat": 40.043036,
     "lng": 116.406578
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.5,
     "lat": 40.036151,
     "lng": 116.412643
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-新街坊",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 69.4,
     "lat": 40.026786,
     "lng": 116.433968
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 87.2,
     "lat": 40.046173,
     "lng": 116.425577
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园清友园",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 68.6,
     "lat": 40.041937,
     "lng": 116.407202
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 80.2,
     "lat": 40.026786,
     "lng": 116.433968
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 95.3,
     "lat": 40.043036,
     "lng": 116.406578
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.6,
     "lat": 40.031609,
     "lng": 116.412925
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽庄园",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 106.4,
     "lat": 40.05349,
     "lng": 116.430319
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-山水蓝维",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.2,
     "lat": 40.030935,
     "lng": 116.409467
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园绣菊园",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 61.4,
     "lat": 40.041937,
     "lng": 116.407202
@@ -1571,7 +1571,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 87.3,
     "lat": 39.825257,
     "lng": 116.299039
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:25",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 99.7,
     "lat": 40.031609,
     "lng": 116.412925
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.1,
     "lat": 40.031609,
     "lng": 116.412925
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 73.9,
     "lat": 40.026786,
     "lng": 116.433968
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.0,
     "lat": 40.046173,
     "lng": 116.425577
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 84.2,
     "lat": 40.027724,
     "lng": 116.431384
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 90.2,
     "lat": 40.026786,
     "lng": 116.433968
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 109.4,
     "lat": 40.031609,
     "lng": 116.412925
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园绣菊园南区",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 67.5,
     "lat": 40.040717,
     "lng": 116.416355
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.6,
     "lat": 40.043036,
     "lng": 116.406578
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.1,
     "lat": 40.045663,
     "lng": 116.425267
@@ -1780,7 +1780,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 124.0,
     "lat": 39.892365,
     "lng": 116.476215
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.0,
     "lat": 40.026786,
     "lng": 116.433968
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 97.6,
     "lat": 40.046173,
     "lng": 116.425577
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北京青年城",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 68.0,
     "lat": 40.041937,
     "lng": 116.407202
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 77.1,
     "lat": 40.040738,
     "lng": 116.415649
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:27:28",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.3,
     "lat": 40.043036,
     "lng": 116.406578
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.5,
     "lat": 40.041937,
     "lng": 116.407202
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 98.0,
     "lat": 40.044355,
     "lng": 116.428108
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.6,
     "lat": 40.046173,
     "lng": 116.425577
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.6,
     "lat": 40.046173,
     "lng": 116.425577
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.5,
     "lat": 40.040738,
     "lng": 116.415649
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 101.9,
     "lat": 40.044355,
     "lng": 116.428108
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽悦溪",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.7,
     "lat": 40.050345,
     "lng": 116.426871
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 87.5,
     "lat": 40.031609,
     "lng": 116.412925
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-亚奥金茂悦",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 107.9,
     "lat": 40.027286,
     "lng": 116.417468
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 76.1,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-筑华年",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.2,
     "lat": 40.035852,
     "lng": 116.421611
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天怡家园",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 68.4,
     "lat": 40.031804,
     "lng": 116.407943
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 103.5,
     "lat": 40.044355,
     "lng": 116.428108
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-大羊坊甲",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 96.1,
     "lat": 40.03637,
     "lng": 116.41501
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 72.2,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建国际城",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 80.9,
     "lat": 40.027724,
     "lng": 116.431384
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.7,
     "lat": 40.026786,
     "lng": 116.433968
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-环科院",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.1,
     "lat": 40.026786,
     "lng": 116.433968
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园紫绶园",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.4,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽公馆",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 107.5,
     "lat": 40.050345,
     "lng": 116.426871
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.2,
     "lat": 40.027724,
     "lng": 116.431384
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-大羊坊甲",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.1,
     "lat": 40.03637,
     "lng": 116.41501
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-恒大名都",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.2,
     "lat": 40.026786,
     "lng": 116.433968
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北京青年城",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 74.0,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-亚奥万和四季",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 108.4,
     "lat": 40.027286,
     "lng": 116.417468
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 84.8,
     "lat": 40.042157,
     "lng": 116.409011
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-山水巢东",
     "scraped_at": "2026-05-02 20:27:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 74.0,
     "lat": 40.030935,
     "lng": 116.409467
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-安外北苑",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 76.3,
     "lat": 40.035665,
     "lng": 116.411389
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 64.4,
     "lat": 40.043036,
     "lng": 116.406578
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 65.7,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 77.3,
     "lat": 40.027724,
     "lng": 116.431384
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-新街坊",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 69.9,
     "lat": 40.026786,
     "lng": 116.433968
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园紫绶园",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 63.1,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 94.6,
     "lat": 40.044355,
     "lng": 116.428108
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-朝来绿色家园嬴秋苑",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.6,
     "lat": 40.037537,
     "lng": 116.427575
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.8,
     "lat": 40.040738,
     "lng": 116.415649
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 100.5,
     "lat": 40.026786,
     "lng": 116.433968
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.1,
     "lat": 40.046173,
     "lng": 116.425577
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.3,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 116.7,
     "lat": 40.027724,
     "lng": 116.431384
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 100.5,
     "lat": 40.043036,
     "lng": 116.406578
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 98.8,
     "lat": 40.046173,
     "lng": 116.425577
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 73.0,
     "lat": 40.046173,
     "lng": 116.425577
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 95.4,
     "lat": 39.994586,
     "lng": 116.413598
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园清友园",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 66.2,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 78.9,
     "lat": 40.040738,
     "lng": 116.415649
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 74.8,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北京青年城",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 63.6,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 101.5,
     "lat": 40.026786,
     "lng": 116.433968
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-安外北苑",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 118.4,
     "lat": 40.035665,
     "lng": 116.411389
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园莲葩园",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 77.2,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 89.5,
     "lat": 40.040738,
     "lng": 116.415649
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.2,
     "lat": 40.043036,
     "lng": 116.406578
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:27:35",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 37.7,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 69.7,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园清友园",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 66.6,
     "lat": 40.041937,
     "lng": 116.407202
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.1,
     "lat": 39.994586,
     "lng": 116.413598
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 77.0,
     "lat": 40.042157,
     "lng": 116.409011
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 93.3,
     "lat": 40.031609,
     "lng": 116.412925
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽庄园",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 97.1,
     "lat": 40.05349,
     "lng": 116.430319
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 117.8,
     "lat": 40.027724,
     "lng": 116.431384
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 74.1,
     "lat": 40.041937,
     "lng": 116.407202
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园清友园",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 66.0,
     "lat": 40.041937,
     "lng": 116.407202
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 73.9,
     "lat": 39.994586,
     "lng": 116.413598
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-山水蓝维",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.8,
     "lat": 40.030935,
     "lng": 116.409467
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 78.2,
     "lat": 40.041937,
     "lng": 116.407202
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽公馆",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 102.9,
     "lat": 40.050345,
     "lng": 116.426871
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 104.8,
     "lat": 40.026786,
     "lng": 116.433968
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 74.2,
     "lat": 40.046173,
     "lng": 116.425577
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:38",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 100.1,
     "lat": 40.044355,
     "lng": 116.428108
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 114.1,
     "lat": 40.027724,
     "lng": 116.431384
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-新街坊",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.8,
     "lat": 40.026786,
     "lng": 116.433968
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 124.6,
     "lat": 40.046173,
     "lng": 116.425577
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 101.8,
     "lat": 40.027724,
     "lng": 116.431384
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-新街坊",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.4,
     "lat": 40.026786,
     "lng": 116.433968
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-鑫兆丽园",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 66.4,
     "lat": 40.026786,
     "lng": 116.433968
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 87.6,
     "lat": 40.044355,
     "lng": 116.428108
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽悦溪",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 111.2,
     "lat": 40.050345,
     "lng": 116.426871
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.7,
     "lat": 39.994586,
     "lng": 116.413598
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.7,
     "lat": 39.994586,
     "lng": 116.413598
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽庄园",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 118.2,
     "lat": 40.05349,
     "lng": 116.430319
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.8,
     "lat": 40.040738,
     "lng": 116.415649
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 99.4,
     "lat": 40.031609,
     "lng": 116.412925
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 95.6,
     "lat": 39.994586,
     "lng": 116.413598
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.4,
     "lat": 40.043036,
     "lng": 116.406578
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:27:42",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 100.0,
     "lat": 40.031609,
     "lng": 116.412925
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.7,
     "lat": 40.031609,
     "lng": 116.412925
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.3,
     "lat": 39.994586,
     "lng": 116.413598
@@ -3566,7 +3566,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 80.9,
     "lat": 40.043036,
     "lng": 116.406578
@@ -3585,7 +3585,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 69.2,
     "lat": 39.994586,
     "lng": 116.413598
@@ -3604,7 +3604,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 128.7,
     "lat": 40.031609,
     "lng": 116.412925
@@ -3623,7 +3623,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-朝来绿色家园蕴实园",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.6,
     "lat": 40.037537,
     "lng": 116.427575
@@ -3642,7 +3642,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 89.5,
     "lat": 40.027724,
     "lng": 116.431384
@@ -3661,7 +3661,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 62.7,
     "lat": 40.041937,
     "lng": 116.407202
@@ -3680,7 +3680,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-安外北苑",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 76.5,
     "lat": 40.035665,
     "lng": 116.411389
@@ -3699,7 +3699,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑五号院四区",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 93.7,
     "lat": 40.033908,
     "lng": 116.414685
@@ -3718,7 +3718,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 78.6,
     "lat": 40.040738,
     "lng": 116.415649
@@ -3737,7 +3737,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:28:04",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 73.1,
     "lat": 40.026786,
     "lng": 116.433968
@@ -3756,7 +3756,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽悦溪",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 78.7,
     "lat": 40.050345,
     "lng": 116.426871
@@ -3775,7 +3775,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-城锦苑",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 101.0,
     "lat": 40.040746,
     "lng": 116.415785
@@ -3794,7 +3794,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-城锦苑",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 99.4,
     "lat": 40.040746,
     "lng": 116.415785
@@ -3813,7 +3813,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.5,
     "lat": 40.040384,
     "lng": 116.433471
@@ -3832,7 +3832,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 74.3,
     "lat": 40.041937,
     "lng": 116.407202
@@ -3851,7 +3851,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.2,
     "lat": 40.043036,
     "lng": 116.406578
@@ -3870,7 +3870,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-亚奥金茂悦",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 111.2,
     "lat": 40.027286,
     "lng": 116.417468
@@ -3889,7 +3889,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.8,
     "lat": 40.027724,
     "lng": 116.431384
@@ -3908,7 +3908,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 90.8,
     "lat": 40.043036,
     "lng": 116.406578
@@ -3927,7 +3927,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-大羊坊甲",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 112.8,
     "lat": 40.03637,
     "lng": 116.41501
@@ -3946,7 +3946,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-安外北苑",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 69.4,
     "lat": 40.035665,
     "lng": 116.411389
@@ -3965,7 +3965,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 128.9,
     "lat": 40.031609,
     "lng": 116.412925
@@ -3984,7 +3984,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.5,
     "lat": 40.046173,
     "lng": 116.425577
@@ -4003,7 +4003,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-大羊坊甲",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 86.5,
     "lat": 40.03637,
     "lng": 116.41501
@@ -4022,7 +4022,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽公馆",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 102.9,
     "lat": 40.050345,
     "lng": 116.426871
@@ -4041,7 +4041,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 100.0,
     "lat": 40.046173,
     "lng": 116.425577
@@ -4060,7 +4060,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-恒大名都",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 99.5,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4079,7 +4079,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园清友园",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.9,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4098,7 +4098,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-亚奥金茂悦",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 109.5,
     "lat": 40.027286,
     "lng": 116.417468
@@ -4117,7 +4117,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-恒大名都",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.6,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4136,7 +4136,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-环科院",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.0,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4155,7 +4155,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽悦溪",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 130.9,
     "lat": 40.050345,
     "lng": 116.426871
@@ -4174,7 +4174,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 89.2,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4193,7 +4193,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园莲葩园",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 58.2,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4212,7 +4212,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 102.7,
     "lat": 40.044355,
     "lng": 116.428108
@@ -4231,7 +4231,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.1,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4250,7 +4250,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:28:32",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.0,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4269,7 +4269,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-大羊坊甲",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 96.6,
     "lat": 40.03637,
     "lng": 116.41501
@@ -4288,7 +4288,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑五号院四区",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 78.9,
     "lat": 40.033908,
     "lng": 116.414685
@@ -4307,7 +4307,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 90.4,
     "lat": 40.027724,
     "lng": 116.431384
@@ -4326,7 +4326,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-城锦苑",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 104.2,
     "lat": 40.040746,
     "lng": 116.415785
@@ -4345,7 +4345,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 72.2,
     "lat": 40.044355,
     "lng": 116.428108
@@ -4364,7 +4364,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-鑫兆丽园",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.8,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4383,7 +4383,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-朝来绿色家园蕴实园",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 73.5,
     "lat": 40.037537,
     "lng": 116.427575
@@ -4402,7 +4402,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 98.7,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4421,7 +4421,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-城锦苑",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 105.8,
     "lat": 40.040746,
     "lng": 116.415785
@@ -4440,7 +4440,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-亚奥金茂悦",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 105.3,
     "lat": 40.027286,
     "lng": 116.417468
@@ -4459,7 +4459,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 95.2,
     "lat": 40.046173,
     "lng": 116.425577
@@ -4478,7 +4478,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:28:41",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 64.2,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4497,7 +4497,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 66.1,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4516,7 +4516,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 100.0,
     "lat": 40.044355,
     "lng": 116.428108
@@ -4535,7 +4535,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 73.5,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4554,7 +4554,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 66.6,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4573,7 +4573,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 117.1,
     "lat": 40.046173,
     "lng": 116.425577
@@ -4592,7 +4592,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-来北家园",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.2,
     "lat": 40.025553,
     "lng": 116.430567
@@ -4611,7 +4611,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-亚奥金茂悦",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 103.1,
     "lat": 40.027286,
     "lng": 116.417468
@@ -4630,7 +4630,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 90.5,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4649,7 +4649,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑路",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 70.1,
     "lat": 40.033566,
     "lng": 116.413088
@@ -4668,7 +4668,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北京青年城",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 107.5,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4687,7 +4687,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 76.9,
     "lat": 40.043036,
     "lng": 116.406578
@@ -4706,7 +4706,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 78.6,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4725,7 +4725,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-鑫兆丽园",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 92.7,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4744,7 +4744,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 87.1,
     "lat": 40.031609,
     "lng": 116.412925
@@ -4763,7 +4763,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.1,
     "lat": 40.046173,
     "lng": 116.425577
@@ -4782,7 +4782,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:28:56",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 56.0,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4801,7 +4801,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-安外北苑",
     "scraped_at": "2026-05-02 20:28:56",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 115.8,
     "lat": 40.035665,
     "lng": 116.411389
@@ -4820,7 +4820,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 123.3,
     "lat": 40.046173,
     "lng": 116.425577
@@ -4839,7 +4839,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑",
     "scraped_at": "2026-05-02 20:28:46",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.1,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4858,7 +4858,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-筑华年",
     "scraped_at": "2026-05-02 20:28:56",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 89.8,
     "lat": 40.035852,
     "lng": 116.421611
@@ -4877,7 +4877,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:28:50",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 99.4,
     "lat": 40.031609,
     "lng": 116.412925
@@ -4896,7 +4896,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:28:50",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 62.8,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4915,7 +4915,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:28:50",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 68.3,
     "lat": 40.046173,
     "lng": 116.425577
@@ -4934,7 +4934,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园绣菊园",
     "scraped_at": "2026-05-02 20:28:50",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 64.3,
     "lat": 40.041937,
     "lng": 116.407202
@@ -4953,7 +4953,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:28:50",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 94.1,
     "lat": 40.043036,
     "lng": 116.406578
@@ -4972,7 +4972,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-恒大名都",
     "scraped_at": "2026-05-02 20:28:50",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.6,
     "lat": 40.026786,
     "lng": 116.433968
@@ -4991,7 +4991,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:28:50",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.4,
     "lat": 40.040738,
     "lng": 116.415649
@@ -5010,7 +5010,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-安外北苑",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.0,
     "lat": 40.035665,
     "lng": 116.411389
@@ -5029,7 +5029,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 110.4,
     "lat": 40.031609,
     "lng": 116.412925
@@ -5048,7 +5048,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园紫绶园",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 66.5,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5067,7 +5067,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 61.3,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5086,7 +5086,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-亚奥金茂悦",
     "scraped_at": "2026-05-02 20:28:50",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 90.7,
     "lat": 40.027286,
     "lng": 116.417468
@@ -5105,7 +5105,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.4,
     "lat": 40.031609,
     "lng": 116.412925
@@ -5124,7 +5124,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 86.1,
     "lat": 40.043036,
     "lng": 116.406578
@@ -5143,7 +5143,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 103.7,
     "lat": 40.046173,
     "lng": 116.425577
@@ -5162,7 +5162,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园清友园",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 65.7,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5181,7 +5181,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 90.9,
     "lat": 40.046173,
     "lng": 116.425577
@@ -5200,7 +5200,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 89.2,
     "lat": 40.027724,
     "lng": 116.431384
@@ -5219,7 +5219,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 104.2,
     "lat": 40.046173,
     "lng": 116.425577
@@ -5238,7 +5238,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 73.4,
     "lat": 40.043036,
     "lng": 116.406578
@@ -5257,7 +5257,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 86.2,
     "lat": 40.040738,
     "lng": 116.415649
@@ -5276,7 +5276,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.0,
     "lat": 40.046173,
     "lng": 116.425577
@@ -5295,7 +5295,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.7,
     "lat": 40.046173,
     "lng": 116.425577
@@ -5314,7 +5314,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.1,
     "lat": 40.043036,
     "lng": 116.406578
@@ -5333,7 +5333,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-恒大名都",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.3,
     "lat": 40.026786,
     "lng": 116.433968
@@ -5352,7 +5352,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园莲葩园",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 84.8,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5371,7 +5371,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 116.7,
     "lat": 40.046173,
     "lng": 116.425577
@@ -5390,7 +5390,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 76.1,
     "lat": 40.027724,
     "lng": 116.431384
@@ -5409,7 +5409,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 127.7,
     "lat": 40.026786,
     "lng": 116.433968
@@ -5428,7 +5428,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园清友园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 61.5,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5447,7 +5447,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 102.3,
     "lat": 40.042157,
     "lng": 116.409011
@@ -5466,7 +5466,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:28:56",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 65.0,
     "lat": 40.026786,
     "lng": 116.433968
@@ -5485,7 +5485,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑",
     "scraped_at": "2026-05-02 20:28:56",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.2,
     "lat": 40.036151,
     "lng": 116.412643
@@ -5504,7 +5504,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 102.3,
     "lat": 40.046173,
     "lng": 116.425577
@@ -5523,7 +5523,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 84.4,
     "lat": 40.031609,
     "lng": 116.412925
@@ -5542,7 +5542,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-恒大名都",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.6,
     "lat": 40.026786,
     "lng": 116.433968
@@ -5561,7 +5561,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 66.6,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5580,7 +5580,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 98.4,
     "lat": 40.043036,
     "lng": 116.406578
@@ -5599,7 +5599,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北京青年城",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 107.5,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5618,7 +5618,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 86.9,
     "lat": 40.043036,
     "lng": 116.406578
@@ -5637,7 +5637,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:28:56",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 81.9,
     "lat": 40.031609,
     "lng": 116.412925
@@ -5656,7 +5656,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:28:56",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.8,
     "lat": 40.044355,
     "lng": 116.428108
@@ -5675,7 +5675,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 77.9,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5694,7 +5694,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-新街坊",
     "scraped_at": "2026-05-02 20:28:56",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 109.2,
     "lat": 40.026786,
     "lng": 116.433968
@@ -5713,7 +5713,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园望春园",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 69.4,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5732,7 +5732,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园清友园",
     "scraped_at": "2026-05-02 20:28:56",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 65.7,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5751,7 +5751,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-世华泊郡",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 82.2,
     "lat": 40.040738,
     "lng": 116.415649
@@ -5770,7 +5770,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 76.5,
     "lat": 40.026786,
     "lng": 116.433968
@@ -5789,7 +5789,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.9,
     "lat": 40.031609,
     "lng": 116.412925
@@ -5808,7 +5808,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-环科院",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.2,
     "lat": 40.026786,
     "lng": 116.433968
@@ -5827,7 +5827,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 87.6,
     "lat": 39.994586,
     "lng": 116.413598
@@ -5846,7 +5846,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.0,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5865,7 +5865,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-乐想汇",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 87.2,
     "lat": 39.994586,
     "lng": 116.413598
@@ -5884,7 +5884,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 88.9,
     "lat": 40.043036,
     "lng": 116.406578
@@ -5903,7 +5903,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-安外北苑",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 61.8,
     "lat": 40.035665,
     "lng": 116.411389
@@ -5922,7 +5922,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 109.6,
     "lat": 40.046173,
     "lng": 116.425577
@@ -5941,7 +5941,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 92.0,
     "lat": 40.031609,
     "lng": 116.412925
@@ -5960,7 +5960,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-天润福熙大道",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.9,
     "lat": 40.044355,
     "lng": 116.428108
@@ -5979,7 +5979,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:29:01",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 68.4,
     "lat": 40.041937,
     "lng": 116.407202
@@ -5998,7 +5998,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 77.6,
     "lat": 40.042157,
     "lng": 116.409011
@@ -6017,7 +6017,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.3,
     "lat": 40.026786,
     "lng": 116.433968
@@ -6036,7 +6036,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-平安嘉苑",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.1,
     "lat": 40.026786,
     "lng": 116.433968
@@ -6055,7 +6055,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园莲葩园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 67.3,
     "lat": 40.041937,
     "lng": 116.407202
@@ -6074,7 +6074,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 70.7,
     "lat": 40.041937,
     "lng": 116.407202
@@ -6093,7 +6093,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 84.6,
     "lat": 40.042157,
     "lng": 116.409011
@@ -6112,7 +6112,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-润泽悦溪",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.7,
     "lat": 40.050345,
     "lng": 116.426871
@@ -6131,7 +6131,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园茉藜园",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 57.4,
     "lat": 40.041937,
     "lng": 116.407202
@@ -6150,7 +6150,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-新街坊",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 107.0,
     "lat": 40.026786,
     "lng": 116.433968
@@ -6169,7 +6169,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-新街坊",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 96.1,
     "lat": 40.026786,
     "lng": 116.433968
@@ -6188,7 +6188,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 114.9,
     "lat": 40.031609,
     "lng": 116.412925
@@ -6207,7 +6207,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-旭辉奥都",
     "scraped_at": "2026-05-02 20:29:05",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 80.6,
     "lat": 40.043036,
     "lng": 116.406578
@@ -6226,7 +6226,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 106.7,
     "lat": 40.031609,
     "lng": 116.412925
@@ -6245,7 +6245,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 84.8,
     "lat": 40.031609,
     "lng": 116.412925
@@ -6264,7 +6264,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 86.6,
     "lat": 40.046173,
     "lng": 116.425577
@@ -6283,7 +6283,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑五号院四区",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 91.8,
     "lat": 40.033908,
     "lng": 116.414685
@@ -6302,7 +6302,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园绣菊园南区",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 61.0,
     "lat": 40.040717,
     "lng": 116.416355
@@ -6321,7 +6321,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-山水欧雷山二期",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 86.2,
     "lat": 40.034238,
     "lng": 116.435117
@@ -6340,7 +6340,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 75.8,
     "lat": 40.027724,
     "lng": 116.431384
@@ -6359,7 +6359,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-来北家园",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 69.0,
     "lat": 40.025553,
     "lng": 116.430567
@@ -6378,7 +6378,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.7,
     "lat": 40.046173,
     "lng": 116.425577
@@ -6397,7 +6397,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华发颐园",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 85.7,
     "lat": 40.042157,
     "lng": 116.409011
@@ -6416,7 +6416,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-城市绿洲花园",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.2,
     "lat": 40.040746,
     "lng": 116.415785
@@ -6435,7 +6435,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 105.5,
     "lat": 40.026786,
     "lng": 116.433968
@@ -6454,7 +6454,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 113.1,
     "lat": 40.046173,
     "lng": 116.425577
@@ -6473,7 +6473,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园绣菊园南区",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 79.8,
     "lat": 40.040717,
     "lng": 116.416355
@@ -6492,7 +6492,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-北苑家园紫绶园",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 71.4,
     "lat": 40.041937,
     "lng": 116.407202
@@ -6511,7 +6511,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-中国铁建广场",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 90.4,
     "lat": 40.027724,
     "lng": 116.431384
@@ -6530,7 +6530,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-城锦苑",
     "scraped_at": "2026-05-02 20:29:09",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 83.1,
     "lat": 40.040746,
     "lng": 116.415785
@@ -6549,7 +6549,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 96.0,
     "lat": 40.031609,
     "lng": 116.412925
@@ -6568,7 +6568,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-美立方",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 71.4,
     "lat": 40.031609,
     "lng": 116.412925
@@ -6587,7 +6587,7 @@
     "rent_type": "整租",
     "location": "朝阳区-北苑-华贸城",
     "scraped_at": "2026-05-02 20:29:43",
-    "region": "beiyuan2",
+    "region": "北苑",
     "unit_price": 115.1,
     "lat": 40.046173,
     "lng": 116.425577

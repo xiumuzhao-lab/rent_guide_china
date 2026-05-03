@@ -13,7 +13,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-钓鱼台",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 342.9,
     "lat": 39.926126,
     "lng": 116.327368
@@ -32,7 +32,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-景王坟",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 135.7,
     "lat": 39.926126,
     "lng": 116.327368
@@ -51,7 +51,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-钓鱼台",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 361.1,
     "lat": 39.926126,
     "lng": 116.327368
@@ -70,7 +70,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 92.9,
     "lat": 39.926596,
     "lng": 116.317438
@@ -89,7 +89,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-水科院北小区",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 127.6,
     "lat": 39.926126,
     "lng": 116.327368
@@ -108,7 +108,7 @@
     "rent_type": "独栋",
     "location": "",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 208.0,
     "lat": 39.875182,
     "lng": 116.317333
@@ -127,7 +127,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 100.5,
     "lat": 39.923886,
     "lng": 116.323448
@@ -146,7 +146,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路甲",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 113.0,
     "lat": 39.926416,
     "lng": 116.319158
@@ -165,7 +165,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 100.5,
     "lat": 39.923886,
     "lng": 116.323448
@@ -184,7 +184,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路甲",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 125.0,
     "lat": 39.926416,
     "lng": 116.319158
@@ -203,7 +203,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 125.6,
     "lat": 39.923886,
     "lng": 116.323448
@@ -222,7 +222,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 106.8,
     "lat": 39.926266,
     "lng": 116.306048
@@ -241,7 +241,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学家属院",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 111.8,
     "lat": 39.92427,
     "lng": 116.32311
@@ -260,7 +260,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-后白堆子",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 114.4,
     "lat": 39.926126,
     "lng": 116.327368
@@ -279,7 +279,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-高第小区",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 109.4,
     "lat": 39.926126,
     "lng": 116.327368
@@ -298,7 +298,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 80.9,
     "lat": 39.927456,
     "lng": 116.327218
@@ -317,7 +317,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-国兴家园",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 135.7,
     "lat": 39.926126,
     "lng": 116.327368
@@ -336,7 +336,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中纺宿舍北院",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 102.7,
     "lat": 39.926567,
     "lng": 116.322713
@@ -355,7 +355,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中海馥园",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 138.5,
     "lat": 39.925994,
     "lng": 116.323627
@@ -374,7 +374,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-劳动关系学院",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 99.2,
     "lat": 39.923986,
     "lng": 116.323508
@@ -393,7 +393,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-三里河路",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 99.1,
     "lat": 39.933446,
     "lng": 116.324608
@@ -412,7 +412,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 106.5,
     "lat": 39.924891,
     "lng": 116.305228
@@ -431,7 +431,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 143.5,
     "lat": 39.927456,
     "lng": 116.327218
@@ -450,7 +450,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光佳苑",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 120.4,
     "lat": 39.926646,
     "lng": 116.324018
@@ -469,7 +469,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:33",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 143.4,
     "lat": 39.927456,
     "lng": 116.327218
@@ -488,7 +488,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 113.0,
     "lat": 39.923886,
     "lng": 116.323448
@@ -507,7 +507,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-机械研究院东区",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 116.1,
     "lat": 39.989508,
     "lng": 116.280065
@@ -526,7 +526,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-机械研究院东区",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 101.9,
     "lat": 39.989508,
     "lng": 116.280065
@@ -545,7 +545,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-水科院北小区",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 108.2,
     "lat": 39.926126,
     "lng": 116.327368
@@ -564,7 +564,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-赏竹阁",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 146.1,
     "lat": 39.926126,
     "lng": 116.327368
@@ -583,7 +583,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜北小区",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 114.3,
     "lat": 39.922361,
     "lng": 116.32363
@@ -602,7 +602,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 157.9,
     "lat": 39.926266,
     "lng": 116.306048
@@ -621,7 +621,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-高第小区",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 97.3,
     "lat": 39.926126,
     "lng": 116.327368
@@ -640,7 +640,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-花园村小区",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 97.5,
     "lat": 39.926126,
     "lng": 116.327368
@@ -659,7 +659,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-海赋国际",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 120.5,
     "lat": 39.934516,
     "lng": 116.326687
@@ -678,7 +678,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 119.6,
     "lat": 39.927456,
     "lng": 116.327218
@@ -697,7 +697,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-车公庄西路",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 114.9,
     "lat": 39.928465,
     "lng": 116.306477
@@ -716,7 +716,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-后白堆子",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 81.1,
     "lat": 39.926126,
     "lng": 116.327368
@@ -735,7 +735,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-赏竹阁",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 130.4,
     "lat": 39.926126,
     "lng": 116.327368
@@ -754,7 +754,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 99.0,
     "lat": 39.924891,
     "lng": 116.305228
@@ -773,7 +773,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 96.6,
     "lat": 39.926966,
     "lng": 116.312398
@@ -792,7 +792,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 169.0,
     "lat": 39.921016,
     "lng": 116.312028
@@ -811,7 +811,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 128.7,
     "lat": 39.927456,
     "lng": 116.327218
@@ -830,7 +830,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中海馥园",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 146.2,
     "lat": 39.925994,
     "lng": 116.323627
@@ -849,7 +849,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜光里小区",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 100.9,
     "lat": 39.922361,
     "lng": 116.32363
@@ -868,7 +868,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中纺宿舍北院",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 138.1,
     "lat": 39.926567,
     "lng": 116.322713
@@ -887,7 +887,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-高第小区",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 102.4,
     "lat": 39.926126,
     "lng": 116.327368
@@ -906,7 +906,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学家属院",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 108.6,
     "lat": 39.92427,
     "lng": 116.32311
@@ -925,7 +925,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜光里小区",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 107.1,
     "lat": 39.922361,
     "lng": 116.32363
@@ -944,7 +944,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 157.5,
     "lat": 39.927456,
     "lng": 116.327218
@@ -963,7 +963,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学家属院",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 86.5,
     "lat": 39.92427,
     "lng": 116.32311
@@ -982,7 +982,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:36",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 104.1,
     "lat": 39.924891,
     "lng": 116.305228
@@ -1001,7 +1001,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 136.6,
     "lat": 39.926596,
     "lng": 116.317438
@@ -1020,7 +1020,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 124.6,
     "lat": 39.926596,
     "lng": 116.317438
@@ -1039,7 +1039,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-车公庄西路",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 158.3,
     "lat": 39.929919,
     "lng": 116.318872
@@ -1058,7 +1058,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路北三街",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 102.3,
     "lat": 39.926064,
     "lng": 116.310357
@@ -1077,7 +1077,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-三里河路",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 117.8,
     "lat": 39.933446,
     "lng": 116.324608
@@ -1096,7 +1096,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-水科院北小区",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 108.0,
     "lat": 39.926126,
     "lng": 116.327368
@@ -1115,7 +1115,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 110.4,
     "lat": 39.926596,
     "lng": 116.317438
@@ -1134,7 +1134,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-车公庄西路",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 122.1,
     "lat": 39.928465,
     "lng": 116.306477
@@ -1153,7 +1153,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-国兴家园",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 155.6,
     "lat": 39.926126,
     "lng": 116.327368
@@ -1172,7 +1172,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜北小区",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 119.2,
     "lat": 39.922361,
     "lng": 116.32363
@@ -1191,7 +1191,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学家属院",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 132.3,
     "lat": 39.92427,
     "lng": 116.32311
@@ -1210,7 +1210,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中纺宿舍北院",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 93.0,
     "lat": 39.926567,
     "lng": 116.322713
@@ -1229,7 +1229,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-高第小区",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 121.4,
     "lat": 39.926126,
     "lng": 116.327368
@@ -1248,7 +1248,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-三里河路",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 123.7,
     "lat": 39.933446,
     "lng": 116.324608
@@ -1267,7 +1267,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-新苑街",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 143.9,
     "lat": 39.935236,
     "lng": 116.325122
@@ -1286,7 +1286,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-机械研究院东区",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 162.6,
     "lat": 39.989508,
     "lng": 116.280065
@@ -1305,7 +1305,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-劳动关系学院",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 102.7,
     "lat": 39.923986,
     "lng": 116.323508
@@ -1324,7 +1324,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光佳苑",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 146.3,
     "lat": 39.926646,
     "lng": 116.324018
@@ -1343,7 +1343,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路北三街",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 113.9,
     "lat": 39.926064,
     "lng": 116.310357
@@ -1362,7 +1362,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中纺宿舍北院",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 151.1,
     "lat": 39.926567,
     "lng": 116.322713
@@ -1381,7 +1381,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-花园村小区",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 120.5,
     "lat": 39.926126,
     "lng": 116.327368
@@ -1400,7 +1400,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学东校区",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 123.3,
     "lat": 39.92427,
     "lng": 116.32311
@@ -1419,7 +1419,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 116.3,
     "lat": 39.926966,
     "lng": 116.312398
@@ -1438,7 +1438,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-劳动关系学院",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 121.9,
     "lat": 39.923986,
     "lng": 116.323508
@@ -1457,7 +1457,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 109.8,
     "lat": 39.923886,
     "lng": 116.323448
@@ -1476,7 +1476,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜北小区",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 103.5,
     "lat": 39.922361,
     "lng": 116.32363
@@ -1495,7 +1495,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 129.0,
     "lat": 39.923886,
     "lng": 116.323448
@@ -1514,7 +1514,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-景熙国际",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 101.4,
     "lat": 39.926126,
     "lng": 116.327368
@@ -1533,7 +1533,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 137.9,
     "lat": 39.923886,
     "lng": 116.323448
@@ -1552,7 +1552,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 122.0,
     "lat": 39.921016,
     "lng": 116.312028
@@ -1571,7 +1571,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-劳动关系学院",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 132.7,
     "lat": 39.923986,
     "lng": 116.323508
@@ -1590,7 +1590,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜南小区",
     "scraped_at": "2026-05-02 21:30:40",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 144.6,
     "lat": 39.922361,
     "lng": 116.32363
@@ -1609,7 +1609,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜光里小区",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 113.2,
     "lat": 39.922361,
     "lng": 116.32363
@@ -1628,7 +1628,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-高第小区",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 118.7,
     "lat": 39.926126,
     "lng": 116.327368
@@ -1647,7 +1647,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 121.4,
     "lat": 39.927456,
     "lng": 116.327218
@@ -1666,7 +1666,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 114.0,
     "lat": 39.923886,
     "lng": 116.323448
@@ -1685,7 +1685,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-车公庄西路",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 108.0,
     "lat": 39.930051,
     "lng": 116.318164
@@ -1704,7 +1704,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜南小区",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 120.5,
     "lat": 39.922361,
     "lng": 116.32363
@@ -1723,7 +1723,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-世纪经贸大厦",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 128.4,
     "lat": 39.926126,
     "lng": 116.327368
@@ -1742,7 +1742,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-新苑街",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 107.6,
     "lat": 39.935236,
     "lng": 116.325122
@@ -1761,7 +1761,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学东校区",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 108.3,
     "lat": 39.92427,
     "lng": 116.32311
@@ -1780,7 +1780,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜南小区",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 129.7,
     "lat": 39.922361,
     "lng": 116.32363
@@ -1799,7 +1799,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-新苑街",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 152.9,
     "lat": 39.935352,
     "lng": 116.326603
@@ -1818,7 +1818,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 112.7,
     "lat": 39.926562,
     "lng": 116.315873
@@ -1837,7 +1837,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 136.4,
     "lat": 39.923886,
     "lng": 116.323448
@@ -1856,7 +1856,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 108.3,
     "lat": 39.924891,
     "lng": 116.305228
@@ -1875,7 +1875,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 110.8,
     "lat": 39.926562,
     "lng": 116.315873
@@ -1894,7 +1894,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜光里小区",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 110.8,
     "lat": 39.922361,
     "lng": 116.32363
@@ -1913,7 +1913,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光佳苑",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 119.7,
     "lat": 39.926646,
     "lng": 116.324018
@@ -1932,7 +1932,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜北小区",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 127.3,
     "lat": 39.922361,
     "lng": 116.32363
@@ -1951,7 +1951,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜北小区",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 101.1,
     "lat": 39.922361,
     "lng": 116.32363
@@ -1970,7 +1970,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-景王坟",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 103.9,
     "lat": 39.926126,
     "lng": 116.327368
@@ -1989,7 +1989,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜南小区",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 133.5,
     "lat": 39.922361,
     "lng": 116.32363
@@ -2008,7 +2008,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-三里河路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 121.2,
     "lat": 39.933446,
     "lng": 116.324608
@@ -2027,7 +2027,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 159.3,
     "lat": 39.927456,
     "lng": 116.327218
@@ -2046,7 +2046,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-机械研究院东区",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 117.4,
     "lat": 39.989508,
     "lng": 116.280065
@@ -2065,7 +2065,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜光里小区",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 125.5,
     "lat": 39.922361,
     "lng": 116.32363
@@ -2084,7 +2084,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-车公庄西路",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 133.5,
     "lat": 39.929919,
     "lng": 116.318872
@@ -2103,7 +2103,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 165.3,
     "lat": 39.927456,
     "lng": 116.327218
@@ -2122,7 +2122,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 139.0,
     "lat": 39.924891,
     "lng": 116.305228
@@ -2141,7 +2141,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-国兴家园",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 124.2,
     "lat": 39.926126,
     "lng": 116.327368
@@ -2160,7 +2160,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-高第小区",
     "scraped_at": "2026-05-02 21:30:43",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 137.1,
     "lat": 39.926126,
     "lng": 116.327368
@@ -2179,7 +2179,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-水科院北小区",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 111.3,
     "lat": 39.926126,
     "lng": 116.327368
@@ -2198,7 +2198,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 135.9,
     "lat": 39.927456,
     "lng": 116.327218
@@ -2217,7 +2217,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜南小区",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 102.6,
     "lat": 39.922361,
     "lng": 116.32363
@@ -2236,7 +2236,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-车公庄西路",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 100.0,
     "lat": 39.928465,
     "lng": 116.306477
@@ -2255,7 +2255,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中纺宿舍南院",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 102.3,
     "lat": 39.926567,
     "lng": 116.322713
@@ -2274,7 +2274,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜北小区",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 126.1,
     "lat": 39.922361,
     "lng": 116.32363
@@ -2293,7 +2293,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 168.2,
     "lat": 39.927456,
     "lng": 116.327218
@@ -2312,7 +2312,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 161.8,
     "lat": 39.921016,
     "lng": 116.312028
@@ -2331,7 +2331,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光佳苑",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 178.6,
     "lat": 39.926646,
     "lng": 116.324018
@@ -2350,7 +2350,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-国兴家园",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 138.1,
     "lat": 39.926126,
     "lng": 116.327368
@@ -2369,7 +2369,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学家属院",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 118.8,
     "lat": 39.92427,
     "lng": 116.32311
@@ -2388,7 +2388,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学家属院",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 124.1,
     "lat": 39.92427,
     "lng": 116.32311
@@ -2407,7 +2407,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-海赋国际",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 127.0,
     "lat": 39.934516,
     "lng": 116.326687
@@ -2426,7 +2426,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路甲",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 114.0,
     "lat": 39.926416,
     "lng": 116.319158
@@ -2445,7 +2445,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学东校区",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 134.1,
     "lat": 39.92427,
     "lng": 116.32311
@@ -2464,7 +2464,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-三里河路",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 140.3,
     "lat": 39.933446,
     "lng": 116.324608
@@ -2483,7 +2483,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中海馥园",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 115.7,
     "lat": 39.925994,
     "lng": 116.323627
@@ -2502,7 +2502,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-水科院北小区",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 137.2,
     "lat": 39.926126,
     "lng": 116.327368
@@ -2521,7 +2521,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 128.4,
     "lat": 39.924891,
     "lng": 116.305228
@@ -2540,7 +2540,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-景王坟",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 170.8,
     "lat": 39.926126,
     "lng": 116.327368
@@ -2559,7 +2559,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-劳动关系学院",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 112.8,
     "lat": 39.923986,
     "lng": 116.323508
@@ -2578,7 +2578,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学东校区",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 162.1,
     "lat": 39.92427,
     "lng": 116.32311
@@ -2597,7 +2597,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-钓鱼台",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 231.8,
     "lat": 39.926126,
     "lng": 116.327368
@@ -2616,7 +2616,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中海馥园",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 124.0,
     "lat": 39.925994,
     "lng": 116.323627
@@ -2635,7 +2635,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜光里小区",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 112.1,
     "lat": 39.922361,
     "lng": 116.32363
@@ -2654,7 +2654,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学家属院",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 134.5,
     "lat": 39.92427,
     "lng": 116.32311
@@ -2673,7 +2673,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 129.0,
     "lat": 39.926266,
     "lng": 116.306048
@@ -2692,7 +2692,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学家属院",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 137.2,
     "lat": 39.92427,
     "lng": 116.32311
@@ -2711,7 +2711,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 147.7,
     "lat": 39.927456,
     "lng": 116.327218
@@ -2730,7 +2730,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:45",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 170.2,
     "lat": 39.927456,
     "lng": 116.327218
@@ -2749,7 +2749,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-三里河路",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 143.4,
     "lat": 39.933446,
     "lng": 116.324608
@@ -2768,7 +2768,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 121.2,
     "lat": 39.923133,
     "lng": 116.312607
@@ -2787,7 +2787,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学东校区",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 119.1,
     "lat": 39.92427,
     "lng": 116.32311
@@ -2806,7 +2806,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜光里小区",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 104.7,
     "lat": 39.922361,
     "lng": 116.32363
@@ -2825,7 +2825,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 128.7,
     "lat": 39.927456,
     "lng": 116.327218
@@ -2844,7 +2844,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 143.2,
     "lat": 39.926596,
     "lng": 116.317438
@@ -2863,7 +2863,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路北三街",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 148.3,
     "lat": 39.925466,
     "lng": 116.309498
@@ -2882,7 +2882,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 128.6,
     "lat": 39.926596,
     "lng": 116.317438
@@ -2901,7 +2901,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中海馥园",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 136.4,
     "lat": 39.925994,
     "lng": 116.323627
@@ -2920,7 +2920,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 129.4,
     "lat": 39.921016,
     "lng": 116.312028
@@ -2939,7 +2939,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中纺宿舍南院",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 127.0,
     "lat": 39.926567,
     "lng": 116.322713
@@ -2958,7 +2958,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路甲",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 105.0,
     "lat": 39.926416,
     "lng": 116.319158
@@ -2977,7 +2977,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 157.5,
     "lat": 39.927456,
     "lng": 116.327218
@@ -2996,7 +2996,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-后白堆子",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 126.5,
     "lat": 39.926126,
     "lng": 116.327368
@@ -3015,7 +3015,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中海馥园",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 132.3,
     "lat": 39.925994,
     "lng": 116.323627
@@ -3034,7 +3034,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 135.6,
     "lat": 39.921397,
     "lng": 116.306879
@@ -3053,7 +3053,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 142.2,
     "lat": 39.927456,
     "lng": 116.327218
@@ -3072,7 +3072,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 120.0,
     "lat": 39.926221,
     "lng": 116.325972
@@ -3091,7 +3091,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-工商大学家属院",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 146.1,
     "lat": 39.92427,
     "lng": 116.32311
@@ -3110,7 +3110,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-中纺宿舍北院",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 99.9,
     "lat": 39.926567,
     "lng": 116.322713
@@ -3129,7 +3129,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-水科院北小区",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 166.3,
     "lat": 39.926126,
     "lng": 116.327368
@@ -3148,7 +3148,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-首师大东校区",
     "scraped_at": "2026-05-02 21:30:49",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 136.7,
     "lat": 39.926126,
     "lng": 116.327368
@@ -3167,7 +3167,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜光里小区",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 88.0,
     "lat": 39.922361,
     "lng": 116.32363
@@ -3186,7 +3186,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 153.3,
     "lat": 39.927456,
     "lng": 116.327218
@@ -3205,7 +3205,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜成路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 158.7,
     "lat": 39.921397,
     "lng": 116.306879
@@ -3224,7 +3224,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜光里小区",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 141.2,
     "lat": 39.922361,
     "lng": 116.32363
@@ -3243,7 +3243,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 133.0,
     "lat": 39.927456,
     "lng": 116.327218
@@ -3262,7 +3262,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 129.2,
     "lat": 39.926966,
     "lng": 116.312398
@@ -3281,7 +3281,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜南小区",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 120.1,
     "lat": 39.922361,
     "lng": 116.32363
@@ -3300,7 +3300,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-建设部大院",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 172.3,
     "lat": 39.927456,
     "lng": 116.327218
@@ -3319,7 +3319,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 120.9,
     "lat": 39.926221,
     "lng": 116.325972
@@ -3338,7 +3338,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-劳动关系学院",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 155.8,
     "lat": 39.923986,
     "lng": 116.323508
@@ -3357,7 +3357,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 102.5,
     "lat": 39.926646,
     "lng": 116.324018
@@ -3376,7 +3376,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-三里河路",
     "scraped_at": "2026-05-02 21:30:52",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 130.8,
     "lat": 39.933446,
     "lng": 116.324608
@@ -3395,7 +3395,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-车公庄西路甲",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 115.8,
     "lat": 39.931486,
     "lng": 116.314678
@@ -3414,7 +3414,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 131.9,
     "lat": 39.923886,
     "lng": 116.323448
@@ -3433,7 +3433,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-增光路甲",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 120.0,
     "lat": 39.926416,
     "lng": 116.319158
@@ -3452,7 +3452,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 113.8,
     "lat": 39.923886,
     "lng": 116.323448
@@ -3471,7 +3471,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 117.7,
     "lat": 39.923886,
     "lng": 116.323448
@@ -3490,7 +3490,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-西三环北路",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 144.4,
     "lat": 39.924891,
     "lng": 116.305228
@@ -3509,7 +3509,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-阜南小区",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 116.3,
     "lat": 39.922361,
     "lng": 116.32363
@@ -3528,7 +3528,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-新苑街",
     "scraped_at": "2026-05-02 21:30:55",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 157.1,
     "lat": 39.935352,
     "lng": 116.326603
@@ -3547,7 +3547,7 @@
     "rent_type": "整租",
     "location": "海淀区-甘家口-甘家口小区",
     "scraped_at": "2026-05-02 21:30:58",
-    "region": "ganjiakou",
+    "region": "甘家口",
     "unit_price": 114.0,
     "lat": 39.923886,
     "lng": 116.323448
