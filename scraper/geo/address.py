@@ -11,7 +11,7 @@ from scraper.geo.validation import (
 )
 
 
-def build_address(name, location=""):
+def build_address(name, location="", city_cn=""):
     """
     构造精确的查询地址.
 
@@ -22,6 +22,7 @@ def build_address(name, location=""):
     Args:
         name: 小区名
         location: location 字段 (如 "浦东-惠南-小区名" 或 "朝阳区-望京-小区名")
+        city_cn: 城市中文名 (如 "北京"、"上海")，无 location 时用作前缀
 
     Returns:
         str: 查询地址
@@ -47,4 +48,6 @@ def build_address(name, location=""):
                 rest = " ".join(sub_parts)
                 return f"上海市{district}{district_suffix}{rest} {name}"
         return f"{location.replace('-', ' ').replace(' ', '')}{name}"
+    if city_cn:
+        return f"{city_cn}{name}"
     return f"{name}"

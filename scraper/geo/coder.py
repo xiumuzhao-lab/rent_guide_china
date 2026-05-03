@@ -11,10 +11,17 @@ from typing import Optional
 from scraper.config import CITY, CITY_NAMES, TENCENT_GEO_BATCH_INTERVAL
 from scraper.geo.cache import GeoCache
 from scraper.geo.address import build_address
-from scraper.geo.validation import validate_coords
+from scraper.geo.validation import (
+    validate_coords, SH_BOUNDARY, BJ_BOUNDARY,
+)
 from scraper.geo.providers import create_providers
 
 logger = logging.getLogger('lianjia')
+
+_CITY_BOUNDARIES = {
+    'shanghai': SH_BOUNDARY,
+    'beijing': BJ_BOUNDARY,
+}
 
 
 class GeoCoder:
@@ -30,10 +37,19 @@ class GeoCoder:
     def __init__(self, city=None):
         self._city = city or CITY
         self._city_cn = CITY_NAMES.get(self._city, '')
+        self._boundary = _CITY_BOUNDARIES.get(self._city)
         self._cache = GeoCache(self._city)
         self._providers = create_providers()
         names = [p.name for p in self._providers]
         logger.info(f"GeoCoder 初始化: city={self._city}, providers={names}")
+
+    def _in_city(self, lat, lng):
+        """检查坐标是否在当前城市边界内."""
+        b = self._boundary
+        if not b:
+            return True
+        return (b['lat_min'] <= lat <= b['lat_max']
+                and b['lng_min'] <= lng <= b['lng_max'])
 
     def _api_geocode(self, address):
         """
@@ -72,14 +88,15 @@ class GeoCoder:
             elif entry.get("lat") is None:
                 return None
             else:
-                if validate_coords(entry["lat"], entry["lng"], location):
+                if (self._in_city(entry["lat"], entry["lng"])
+                        and validate_coords(entry["lat"], entry["lng"], location)):
                     return (entry["lat"], entry["lng"])
                 logger.info(
                     f"坐标校验失败，重新查询: {name} "
                     f"({entry['lat']}, {entry['lng']})")
                 del self._cache[name]
 
-        address = build_address(name, location)
+        address = build_address(name, location, self._city_cn)
         coords, provider_name = self._api_geocode(address)
         if coords:
             if not validate_coords(coords[0], coords[1], location):
@@ -184,14 +201,15 @@ class GeoCoder:
         """
         entry = self._cache.get(name)
         if entry and not force and entry.get("source") not in ("hash", "miss"):
-            if validate_coords(entry["lat"], entry["lng"], location):
+            if (self._in_city(entry["lat"], entry["lng"])
+                    and validate_coords(entry["lat"], entry["lng"], location)):
                 return (entry["lat"], entry["lng"])
             logger.info(f"坐标偏离预期区，重查: {name} ({location})")
 
         if name in self._cache:
             del self._cache[name]
 
-        address = build_address(name, location)
+        address = build_address(name, location, self._city_cn)
         coords, provider_name = self._api_geocode(address)
         if not coords and location and self._city_cn:
             coords, provider_name = self._api_geocode(
