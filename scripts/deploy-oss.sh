@@ -60,6 +60,51 @@ echo "  Bucket: $OSS_BUCKET"
 echo "  Region: $OSS_REGION"
 echo ""
 
+# Step 0: 应用安全策略
+echo "[0/4] 应用安全策略..."
+
+# Bucket Policy: 允许 HTTPS 公开读取，允许 HTTP 访问 index.html（用于重定向），拒绝 HTTP 访问其他资源
+POLICY_FILE=$(mktemp)
+cat > "$POLICY_FILE" << 'POLICY'
+{
+  "Version": "1",
+  "Statement": [
+    {
+      "Sid": "AllowPublicRead",
+      "Effect": "Allow",
+      "Action": ["oss:GetObject"],
+      "Principal": ["*"],
+      "Resource": ["REPLACE_RESOURCE/*"]
+    },
+    {
+      "Sid": "DenyHTTPNonHtml",
+      "Effect": "Deny",
+      "Action": ["oss:GetObject"],
+      "Principal": ["*"],
+      "Resource": [
+        "REPLACE_RESOURCE/assets/*",
+        "REPLACE_RESOURCE/data/*",
+        "REPLACE_RESOURCE/favicon.svg",
+        "REPLACE_RESOURCE/robots.txt",
+        "REPLACE_RESOURCE/sitemap.xml",
+        "REPLACE_RESOURCE/CNAME"
+      ],
+      "Condition": {
+        "Bool": {
+          "acs:SecureTransport": ["false"]
+        }
+      }
+    }
+  ]
+}
+POLICY
+sed -i '' "s|REPLACE_RESOURCE|acs:oss:*:*:$OSS_BUCKET|g" "$POLICY_FILE"
+ossutil api put-bucket-policy --bucket "$OSS_BUCKET" --body "file://$POLICY_FILE" 2>/dev/null
+rm -f "$POLICY_FILE"
+echo "  ✓ Bucket Policy 已应用（HTTP 仅允许 index.html）"
+
+echo ""
+
 # Step 1: 构建（可选）
 SKIP_BUILD=false
 if [[ "${1:-}" == "--skip-build" ]]; then
@@ -67,7 +112,7 @@ if [[ "${1:-}" == "--skip-build" ]]; then
 fi
 
 if [ "$SKIP_BUILD" = false ]; then
-  echo "[1/3] 构建前端..."
+  echo "[1/4] 构建前端..."
   cd "$FRONTEND_DIR"
 
   # 先运行数据准备脚本
@@ -79,7 +124,7 @@ if [ "$SKIP_BUILD" = false ]; then
   echo "  构建完成"
   echo ""
 else
-  echo "[1/3] 跳过构建 (--skip-build)"
+  echo "[1/4] 跳过构建 (--skip-build)"
   if [ ! -d "$DIST_DIR" ]; then
     echo "错误: dist 目录不存在，请先构建或去掉 --skip-build 参数"
     exit 1
@@ -88,7 +133,7 @@ else
 fi
 
 # Step 2: 上传到 OSS
-echo "[2/3] 上传到 OSS..."
+echo "[2/4] 上传到 OSS..."
 
 # 清理旧文件（保留 data 目录，因为数据文件可能很大）
 echo "  清理旧文件..."
@@ -105,7 +150,7 @@ echo "  上传完成"
 echo ""
 
 # Step 3: 验证上传
-echo "[3/3] 验证上传..."
+echo "[3/4] 验证上传..."
 sleep 1
 
 # 检查关键文件
@@ -122,20 +167,35 @@ for file in "${CHECK_FILES[@]}"; do
 done
 
 if [ "$ALL_OK" = true ]; then
-  echo ""
-  echo "=== 部署完成 ==="
-  echo "  访问地址: https://$OSS_BUCKET.oss-$OSS_REGION.aliyuncs.com/"
-  if [ -f "$DIST_DIR/CNAME" ]; then
-    DOMAIN=$(cat "$DIST_DIR/CNAME")
-    echo "  自定义域名: https://$DOMAIN/"
-  fi
+  echo "  ✓ 所有关键文件已上传"
 else
-  echo ""
-  echo "=== 部署完成（有警告）==="
-  echo "  请检查缺失的文件"
+  echo "  ✗ 有文件缺失，请检查"
+fi
+echo ""
+
+# Step 4: 安全验证
+echo "[4/4] 安全验证..."
+
+echo "  检查 HTTPS 访问..."
+HTTPS_STATUS=$(curl -sI "https://www.scoreless.top/index.html" 2>/dev/null | head -1 | awk '{print $2}')
+if [ "$HTTPS_STATUS" = "200" ]; then
+  echo "  ✓ HTTPS 访问正常"
+else
+  echo "  ✗ HTTPS 访问异常 (状态码: $HTTPS_STATUS)"
 fi
 
-# Step 4: 百度主动推送（配置了 token 时自动执行）
+echo "  检查 HTTP 重定向..."
+HTTP_REDIRECT=$(curl -s -o /dev/null -w "%{http_code} %{redirect_url}" "http://www.scoreless.top/" 2>/dev/null)
+if echo "$HTTP_REDIRECT" | grep -q "200\|30"; then
+  echo "  ✓ HTTP 访问 index.html 正常（JS 重定向到 HTTPS）"
+else
+  echo "  ~ HTTP 返回: $HTTP_REDIRECT"
+fi
+
+echo ""
+echo "=== 部署完成 ==="
+
+# Step 5: 百度主动推送（配置了 token 时自动执行）
 if grep -qE '^\s*BAIDU_PUSH_TOKEN\s*=\s*\S' "$PROJECT_DIR/.env" 2>/dev/null; then
   echo ""
   bash "$PROJECT_DIR/scripts/baidu-push.sh"

@@ -2,6 +2,14 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
+    <!-- HTTP→HTTPS redirect: must be first script to execute (skip for localhost dev) -->
+    <script>
+    if (location.protocol === 'http:' && location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
+      location.replace(location.href.replace(/^http:/, 'https:'));
+    }
+    </script>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://hm.baidu.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://*.adtrafficquality.google https://www.google.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://*.is.autonavi.com https://hm.baidu.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://tpc.googlesyndication.com https://*.adtrafficquality.google; connect-src 'self' https://server.scoreless.top https://hm.baidu.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://*.adtrafficquality.google; font-src 'self'; frame-src https://www.google.com https://googleads.g.doubleclick.net https://*.adtrafficquality.google; worker-src 'self' blob:;" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="theme-color" content="#3b82f6" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
