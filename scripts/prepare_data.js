@@ -86,6 +86,27 @@ function copyFile(srcPath, destName, destDir) {
 }
 
 /**
+ * 用 geo_cache 补全 listings 中缺失的 lat/lng.
+ */
+function enrichWithGeoCache(listings, geoCachePath) {
+  if (!geoCachePath || !fs.existsSync(geoCachePath)) return { enriched: 0 };
+
+  const cache = JSON.parse(fs.readFileSync(geoCachePath, 'utf-8'));
+  let enriched = 0;
+  for (const item of listings) {
+    if (item.lat && item.lng) continue;
+    const community = (item.community || '').trim();
+    const entry = cache[community];
+    if (entry && entry.lat && entry.lng) {
+      item.lat = Math.round(entry.lat * 1000000) / 1000000;
+      item.lng = Math.round(entry.lng * 1000000) / 1000000;
+      enriched++;
+    }
+  }
+  return { enriched };
+}
+
+/**
  * 合并 partial 文件为单个 all 文件 (用于北京等非上海城市).
  */
 function mergePartials(cityName, cityDir, timestamp) {
@@ -142,44 +163,53 @@ function main() {
   const timestamp = formatTimestamp(new Date());
   const cityDir = path.join(OUTPUT_DIR, city);
 
-  // 北京等非上海城市: 输出到 data/{city}/ 子目录
-  const isDefaultCity = city === 'shanghai';
-  const destDir = isDefaultCity ? PUBLIC_DATA_DIR : path.join(PUBLIC_DATA_DIR, city);
+  // 所有城市: 输出到 data/{city}/ 子目录
+  const destDir = path.join(PUBLIC_DATA_DIR, city);
   fs.mkdirSync(destDir, { recursive: true });
 
-  // 找最新数据文件 (优先城市目录，再 fallback 根目录)
-  // 北京数据在 partial 文件里，需要合并
-  let dataFile = null;
-  if (city !== 'shanghai') {
-    // 合并 partial 文件为 all 文件
+  // 找最新数据文件 (优先城市目录)
+  // 优先级: merged_latest (Python 管道输出，已清洗+补全) > partial 合并 > 任意最新
+  const mergedLatest = path.join(cityDir, 'lianjia_merged_latest.json');
+  let dataFile = fs.existsSync(mergedLatest) ? mergedLatest : null;
+  if (!dataFile) {
     dataFile = mergePartials(city, cityDir, timestamp);
   }
   if (!dataFile) {
     dataFile = findLatest('lianjia_all_', cityDir);
   }
   if (!dataFile) {
-    dataFile = findLatest('lianjia_all_', OUTPUT_DIR);
-  }
-  if (!dataFile) {
     dataFile = findLatest('lianjia_', cityDir);
-  }
-  if (!dataFile) {
-    dataFile = findLatest('lianjia_', OUTPUT_DIR);
   }
   if (!dataFile) {
     console.error(`错误: 未找到 ${city} 的爬取数据`);
     process.exit(1);
   }
 
+  // 读取数据并用 geo_cache 补全坐标
+  const rawData = fs.readFileSync(dataFile, 'utf-8');
+  const listings = JSON.parse(rawData);
+  const geoPath = findGeoCache(cityDir);
+  const { enriched } = enrichWithGeoCache(listings, geoPath);
+
   const dataFileName = path.basename(dataFile);
+  const beforeWith = listings.filter(it => it.lat && it.lng).length;
   console.log(`准备前端数据 (城市: ${city}):`);
   console.log(`  数据源: ${path.relative(OUTPUT_DIR, dataFile)}`);
+  if (enriched > 0) {
+    console.log(`  geo 补全: ${enriched} 条 (${beforeWith}/${listings.length} 有坐标)`);
+  }
 
-  copyFile(dataFile, `listings_${timestamp}.json`, destDir);
-  copyFile(dataFile, 'listings.json', destDir);
+  const outputJson = JSON.stringify(listings, null, 2);
+  const writeListings = (destName) => {
+    const dest = path.join(destDir, destName);
+    fs.writeFileSync(dest, outputJson);
+    const size = (Buffer.byteLength(outputJson) / 1024).toFixed(1);
+    console.log(`  ${destName} (${size} KB)`);
+  };
+  writeListings(`listings_${timestamp}.json`);
+  writeListings('listings.json');
 
   // 地理编码缓存
-  const geoPath = findGeoCache(cityDir);
   if (geoPath) {
     copyFile(geoPath, `geo_cache_${timestamp}.json`, destDir);
     copyFile(geoPath, 'geo_cache.json', destDir);
@@ -201,13 +231,11 @@ function main() {
   console.log(`  versions.json (${timestamp})`);
 
   console.log('\n完成!');
-  if (isDefaultCity) {
-    console.log('');
-    console.log('下一步:');
-    console.log('  git add frontend/public/data/');
-    console.log('  git commit -m "Update rental data"');
-    console.log('  git push   # 触发 GitHub Actions 自动部署');
-  }
+  console.log('');
+  console.log('下一步:');
+  console.log('  git add frontend/public/data/');
+  console.log('  git commit -m "Update rental data"');
+  console.log('  git push   # 触发 GitHub Actions 自动部署');
 }
 
 main();
