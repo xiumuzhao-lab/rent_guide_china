@@ -14,7 +14,8 @@
       "enabled": true,
       "priority": 2,
       "keys": [
-        {"token": "fa67e47eee7dba69ad0e3e418fe3b977"}
+        {"token": "fa67e47eee7dba69ad0e3e418fe3b977"},
+        {"token": "f46c438fd056e72d5eb789c8bebcb0fc"}
       ]
     }
   ]

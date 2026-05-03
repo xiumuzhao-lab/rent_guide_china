@@ -46,8 +46,8 @@ class GeoCache:
         )
         self._dirty = False
 
-    def get(self, name):
-        return self._data.get(name)
+    def get(self, name, default=None):
+        return self._data.get(name, default)
 
     def __contains__(self, name):
         return name in self._data

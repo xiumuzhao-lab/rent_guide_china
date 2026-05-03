@@ -81,24 +81,14 @@ def get_geo_cache_file(city: str = None) -> Path:
     """
     获取城市的地理编码缓存文件路径.
 
-    优先使用新路径 output/{city}/community_geo_cache.json，
-    若不存在则 fallback 到旧路径 output/community_geo_cache.json。
-
     Args:
         city: 城市标识，None 则使用全局 CITY
 
     Returns:
-        Path: 缓存文件路径
+        Path: 缓存文件路径 (output/{city}/community_geo_cache.json)
     """
     city = city or CITY
-    new_path = get_city_dir(city) / "community_geo_cache.json"
-    old_path = OUTPUT_DIR / "community_geo_cache.json"
-    if new_path.exists():
-        return new_path
-    if old_path.exists():
-        return old_path
-    # 都不存在则返回新路径 (用于创建)
-    return new_path
+    return get_city_dir(city) / "community_geo_cache.json"
 
 
 # ============================================================

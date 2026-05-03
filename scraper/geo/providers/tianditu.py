@@ -96,7 +96,10 @@ class TiandituProvider(GeoProvider):
                         logger.warning(
                             f"天地图限速重试 {max_429_retries} 次仍 429: "
                             f"{address[:20]}")
-                        return None
+                        self._km.mark_depleted(key_dict)
+                        tried.add(token)
+                        retries_on_429 = 0
+                        continue
                     wait = _TIANDITU_MIN_INTERVAL * retries_on_429 * 3
                     logger.debug(f"天地图限速 429, 等待 {wait:.1f}s")
                     time.sleep(wait)
@@ -110,7 +113,10 @@ class TiandituProvider(GeoProvider):
                         logger.warning(
                             f"天地图限速重试 {max_429_retries} 次仍 429: "
                             f"{address[:20]}")
-                        return None
+                        self._km.mark_depleted(key_dict)
+                        tried.add(token)
+                        retries_on_429 = 0
+                        continue
                     wait = _TIANDITU_MIN_INTERVAL * retries_on_429 * 3
                     logger.debug(f"天地图限速 429, 等待 {wait:.1f}s")
                     time.sleep(wait)

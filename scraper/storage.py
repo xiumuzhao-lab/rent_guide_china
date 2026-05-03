@@ -13,7 +13,6 @@ from pathlib import Path
 from scraper.config import (
     CITY,
     CSV_FIELDS,
-    OUTPUT_DIR,
     SAVE_INTERVAL,
     get_city_dir,
     get_geo_cache_file,
@@ -47,8 +46,6 @@ def load_resume(area_slug: str, city: str = None):
     """
     加载断点续爬数据.
 
-    优先从新目录查找，fallback 到旧目录。
-
     Args:
         area_slug: 区域标识
         city: 城市标识，None 则使用全局 CITY
@@ -57,9 +54,6 @@ def load_resume(area_slug: str, city: str = None):
         tuple: (existing_data, start_page, completed) — 已有数据、起始页码、是否已完成
     """
     pfile = partial_path(area_slug, city)
-    # fallback: 旧路径 output/lianjia_{slug}.partial.json
-    if not pfile.exists():
-        pfile = OUTPUT_DIR / f"lianjia_{area_slug}.partial.json"
     if not pfile.exists():
         return [], 1, False
     try:
@@ -125,38 +119,28 @@ def clear_partial(area_slug: str, city: str = None):
     """
     清除断点文件 (区域完成后调用).
 
-    同时清理新路径和旧路径。
-
     Args:
         area_slug: 区域标识
         city: 城市标识，None 则使用全局 CITY
     """
-    for pfile in [partial_path(area_slug, city),
-                  OUTPUT_DIR / f"lianjia_{area_slug}.partial.json"]:
-        if pfile.exists():
-            pfile.unlink()
+    pfile = partial_path(area_slug, city)
+    if pfile.exists():
+        pfile.unlink()
 
 
 def clear_all_partials(city: str = None):
     """
     清除所有断点文件 (--fresh 时调用).
 
-    同时清理新路径和旧路径。
-
     Args:
         city: 城市标识，None 则使用全局 CITY
     """
     count = 0
-    # 新路径: output/{city}/{YYYY-MM}/*.partial.json
     city_dir = get_city_dir(city)
     if city_dir.exists():
         for pfile in city_dir.rglob('lianjia_*.partial.json'):
             pfile.unlink()
             count += 1
-    # 旧路径: output/lianjia_*.partial.json
-    for pfile in OUTPUT_DIR.glob('lianjia_*.partial.json'):
-        pfile.unlink()
-        count += 1
     if count:
         logger.info(f"已清除 {count} 个断点文件")
 
@@ -520,7 +504,7 @@ def refresh_geo_in_files(force=False, city: str = None):
         2. 调用 batch_refresh 更新主缓存 (含坐标校验)
         3. 用新缓存更新每个文件的 lat/lng 字段
 
-    搜索范围: output/{city}/ 下递归 + output/ 根目录 (向后兼容)。
+    搜索范围: output/{city}/ 下递归。
 
     Args:
         force: 是否强制重查所有条目 (包括已有腾讯API结果的)
@@ -535,7 +519,6 @@ def refresh_geo_in_files(force=False, city: str = None):
     all_communities = {}
     file_list = []
 
-    # 新路径: output/{city}/ 下递归搜索
     city_dir = get_city_dir(city)
     if city_dir.exists():
         for pattern in ['lianjia_*.json', 'lianjia_*.csv']:
@@ -547,19 +530,6 @@ def refresh_geo_in_files(force=False, city: str = None):
                 for name, info in comms.items():
                     if name not in all_communities:
                         all_communities[name] = info
-
-    # 旧路径: output/ 根目录 (向后兼容)
-    for pattern in ['lianjia_*.json', 'lianjia_*.csv']:
-        for fp in sorted(OUTPUT_DIR.glob(pattern)):
-            if fp.name == 'community_geo_cache.json':
-                continue
-            if fp in file_list:
-                continue
-            file_list.append(fp)
-            comms = _collect_community_info(fp)
-            for name, info in comms.items():
-                if name not in all_communities:
-                    all_communities[name] = info
 
     if not all_communities:
         logger.info("未找到数据文件，无需刷新")
@@ -612,7 +582,7 @@ def merge_all_partials(fmt='both', city: str = None):
 
     同时保存一份 lianjia_merged_latest.json 供前端和后续流程使用。
 
-    搜索范围: output/{city}/ 下递归 + output/ 根目录 (向后兼容)。
+    搜索范围: output/{city}/ 下递归。
 
     Args:
         fmt: 输出格式 (csv/json/both)
@@ -623,13 +593,10 @@ def merge_all_partials(fmt='both', city: str = None):
     """
     city = city or CITY
     all_listings = []
-    seen_names = set()
 
-    # 新路径: output/{city}/ 下递归搜索
     city_dir = get_city_dir(city)
     if city_dir.exists():
         for pf in sorted(city_dir.rglob('lianjia_*.partial.json')):
-            seen_names.add(pf.name)
             try:
                 data = json.loads(pf.read_text(encoding='utf-8'))
                 records = data.get('data', [])
@@ -640,20 +607,6 @@ def merge_all_partials(fmt='both', city: str = None):
                 all_listings.extend(records)
             except (json.JSONDecodeError, OSError) as e:
                 logger.warning(f"  {pf.name}: 读取失败 ({e})")
-
-    # 旧路径: output/ 根目录 (向后兼容)
-    for pf in sorted(OUTPUT_DIR.glob('lianjia_*.partial.json')):
-        if pf.name in seen_names:
-            continue
-        try:
-            data = json.loads(pf.read_text(encoding='utf-8'))
-            records = data.get('data', [])
-            completed = data.get('completed', False)
-            status = "完成" if completed else "未完成"
-            logger.info(f"  {pf.name}: {len(records)} 条 [{status}]")
-            all_listings.extend(records)
-        except (json.JSONDecodeError, OSError) as e:
-            logger.warning(f"  {pf.name}: 读取失败 ({e})")
 
     if not all_listings:
         logger.warning("未找到任何 partial 文件")
@@ -700,10 +653,11 @@ def merge_all_partials(fmt='both', city: str = None):
         save_to_json(all_listings, p)
         latest_json = p
 
-    # always 写一份 latest 快捷引用 (城市根目录)
-    latest_path = get_city_dir(city) / "lianjia_merged_latest.json"
-    latest_path.parent.mkdir(parents=True, exist_ok=True)
-    save_to_json(all_listings, latest_path)
+    # always 写一份 latest 快捷引用 (城市根目录，JSON + CSV)
+    city_root = get_city_dir(city)
+    city_root.mkdir(parents=True, exist_ok=True)
+    save_to_json(all_listings, city_root / "lianjia_merged_latest.json")
+    save_to_csv(all_listings, city_root / "lianjia_merged_latest.csv")
 
     # 统计
     region_stats = {}
@@ -727,7 +681,7 @@ def find_latest_data(city: str = None) -> Path:
     """
     在 output/ 下递归查找最新爬取数据.
 
-    搜索范围: output/{city}/ 递归 + output/ 根目录 (向后兼容)。
+    搜索范围: output/{city}/ 递归。
 
     Args:
         city: 城市标识，None 则使用全局 CITY
@@ -740,17 +694,10 @@ def find_latest_data(city: str = None) -> Path:
     """
     candidates = []
 
-    # 新路径: output/{city}/ 下递归搜索
     city_dir = get_city_dir(city)
     if city_dir.exists():
         for pattern in ['lianjia_all_*.json', 'lianjia_*_*.json']:
             candidates.extend(city_dir.rglob(pattern))
-
-    # 旧路径: output/ 根目录
-    for pattern in ['lianjia_all_*.json', 'lianjia_*_*.json']:
-        for fp in OUTPUT_DIR.glob(pattern):
-            if fp not in candidates:
-                candidates.append(fp)
 
     # 按文件名中的时间戳排序
     if candidates:

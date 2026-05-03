@@ -52,9 +52,10 @@ DISTRICT_SLUGS = {
         'shenzhenzhoubianqu',
     ],
     'hangzhou': [
-        'shangcheng', 'xiacheng', 'jianggan', 'gongshu', 'xihu',
-        'binjiang', 'xiaoshan', 'yuhang', 'fuyang', 'linan',
-        'tonglu', 'chun', 'jiande', 'dajingqu',
+        'shangchengqu', 'gongshuqu', 'xihuqu', 'binjiangqu',
+        'xiaoshanqu', 'yuhangqu', 'linpingqu', 'qiantangqu',
+        'fuyangqu', 'linanqu', 'tongluxian', 'chunanxian',
+        'jiandeshi', 'hangzhouzhoubian',
     ],
     'chengdu': [
         'jinjiang', 'qingyang', 'jinniu', 'wuhou', 'chenghua',
