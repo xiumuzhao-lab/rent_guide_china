@@ -16,6 +16,20 @@ const PROJECT_DIR = path.join(__dirname, '..');
 const OUTPUT_DIR = path.join(PROJECT_DIR, 'output');
 const PUBLIC_DATA_DIR = path.join(PROJECT_DIR, 'frontend', 'public', 'data');
 
+// 城市边界 (与 scraper/geo/validation.py 保持一致)
+const CITY_BOUNDARIES = {
+  beijing:  { latMin: 39.40, latMax: 41.10, lngMin: 115.40, lngMax: 117.60 },
+  shanghai: { latMin: 30.65, latMax: 31.95, lngMin: 120.70, lngMax: 122.10 },
+  shenzhen: { latMin: 22.40, latMax: 22.90, lngMin: 113.70, lngMax: 114.70 },
+  hangzhou: { latMin: 29.90, latMax: 30.60, lngMin: 119.80, lngMax: 120.70 },
+};
+
+function isInCity(lat, lng, cityName) {
+  const b = CITY_BOUNDARIES[cityName];
+  if (!b) return true;
+  return lat >= b.latMin && lat <= b.latMax && lng >= b.lngMin && lng <= b.lngMax;
+}
+
 // 解析 --city 参数
 const args = process.argv.slice(2);
 let city = 'shanghai';
@@ -87,23 +101,31 @@ function copyFile(srcPath, destName, destDir) {
 
 /**
  * 用 geo_cache 补全 listings 中缺失的 lat/lng.
+ * 同时校验已有坐标是否在城市边界内，越界坐标会被清除.
  */
-function enrichWithGeoCache(listings, geoCachePath) {
-  if (!geoCachePath || !fs.existsSync(geoCachePath)) return { enriched: 0 };
+function enrichWithGeoCache(listings, geoCachePath, cityName) {
+  if (!geoCachePath || !fs.existsSync(geoCachePath)) return { enriched: 0, cleared: 0 };
 
   const cache = JSON.parse(fs.readFileSync(geoCachePath, 'utf-8'));
   let enriched = 0;
+  let cleared = 0;
   for (const item of listings) {
+    // 清除越界坐标
+    if (item.lat && item.lng && !isInCity(item.lat, item.lng, cityName)) {
+      item.lat = null;
+      item.lng = null;
+      cleared++;
+    }
     if (item.lat && item.lng) continue;
     const community = (item.community || '').trim();
     const entry = cache[community];
-    if (entry && entry.lat && entry.lng) {
+    if (entry && entry.lat && entry.lng && isInCity(entry.lat, entry.lng, cityName)) {
       item.lat = Math.round(entry.lat * 1000000) / 1000000;
       item.lng = Math.round(entry.lng * 1000000) / 1000000;
       enriched++;
     }
   }
-  return { enriched };
+  return { enriched, cleared };
 }
 
 /**
@@ -189,12 +211,15 @@ function main() {
   const rawData = fs.readFileSync(dataFile, 'utf-8');
   const listings = JSON.parse(rawData);
   const geoPath = findGeoCache(cityDir);
-  const { enriched } = enrichWithGeoCache(listings, geoPath);
+  const { enriched, cleared } = enrichWithGeoCache(listings, geoPath, city);
 
   const dataFileName = path.basename(dataFile);
   const beforeWith = listings.filter(it => it.lat && it.lng).length;
   console.log(`准备前端数据 (城市: ${city}):`);
   console.log(`  数据源: ${path.relative(OUTPUT_DIR, dataFile)}`);
+  if (cleared > 0) {
+    console.log(`  越界坐标清除: ${cleared} 条`);
+  }
   if (enriched > 0) {
     console.log(`  geo 补全: ${enriched} 条 (${beforeWith}/${listings.length} 有坐标)`);
   }
