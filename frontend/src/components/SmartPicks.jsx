@@ -22,14 +22,14 @@ function findNearestStation(lat, lng, subwayLines) {
 
 /**
  * 综合评分: 单价越低越好，地铁越近越好，距离越近越好.
- * score = unitPriceNorm * 0.4 + subwayDistNorm * 0.35 + commuteDistNorm * 0.25
+ * score = unitPriceNorm * 0.4 + subwayDistNorm * 0.25 + commuteDistNorm * 0.35
  * (归一化到 0-1，0 最优)
  */
 function computeScore(up, subwayDist, commuteDist, maxUP, maxSubway, maxCommute) {
   const upN = maxUP > 0 ? up / maxUP : 0;
   const sdN = maxSubway > 0 ? subwayDist / maxSubway : 0;
   const cdN = maxCommute > 0 ? commuteDist / maxCommute : 0;
-  return upN * 0.4 + sdN * 0.35 + cdN * 0.25;
+  return upN * 0.4 + sdN * 0.25 + cdN * 0.35;
 }
 
 function SubwayBadge({ station, line, dist, color }) {
@@ -69,8 +69,22 @@ export default function SmartPicks({ enrichedStats, listings, workplace, isMobil
     const candidates = enrichedStats.filter((s) => s.dist <= 3 && s.avgPrice <= 6000);
     if (candidates.length === 0) return [];
 
+    // 按板块计算均价，过滤单价低于板块均价 1/3 的异常值
+    const regionAvg = {};
+    for (const s of candidates) {
+      if (!s.region) continue;
+      if (!regionAvg[s.region]) regionAvg[s.region] = { sum: 0, cnt: 0 };
+      regionAvg[s.region].sum += s.avgUnitPrice;
+      regionAvg[s.region].cnt++;
+    }
+    const regionAvgMap = {};
+    for (const [r, v] of Object.entries(regionAvg)) {
+      regionAvgMap[r] = v.sum / v.cnt;
+    }
+    const filtered = candidates.filter((s) => !s.region || s.avgUnitPrice >= regionAvgMap[s.region] / 3);
+
     // 为每个候选小区计算最近地铁站
-    const withSubway = candidates.map((s) => {
+    const withSubway = filtered.map((s) => {
       const nearest = findNearestStation(s.lat, s.lng, subwayLines);
       return { ...s, subway: nearest };
     });
@@ -86,9 +100,50 @@ export default function SmartPicks({ enrichedStats, listings, workplace, isMobil
       score: computeScore(s.avgUnitPrice, s.subway?.dist || 99, s.dist, maxUP, maxSubway, maxCommute),
     }));
 
-    // 按综合评分排序，取 top 8
+    // 按综合评分排序
     scored.sort((a, b) => a.score - b.score);
-    return scored.slice(0, 8);
+
+    // 去重：迭代剥离后缀得到基底名，再按前缀包含关系合并，同组只保留评分最优
+    const getBaseName = (name) => {
+      let base = name;
+      let changed = true;
+      while (changed) {
+        changed = false;
+        if (base.length <= 2) break;
+        // 剥离 2 字后缀：方位/序号 + 后缀字（如 南区、北苑、二期、1号楼）
+        const m2 = base.match(/^(.+)[东南西北中上下前后里外一二三四五六七八九十甲乙丙丁\d][苑园区阁庭府邸居坊里城村小区期幢栋号楼座]/);
+        if (m2 && m2[1].length >= 2) { base = m2[1]; changed = true; continue; }
+        // 剥离 1 字后缀
+        const m1 = base.match(/^(.+)[苑园区阁庭府邸居坊里城村]/);
+        if (m1 && m1[1].length >= 2) { base = m1[1]; changed = true; continue; }
+      }
+      return base;
+    };
+
+    // 用并查集思路：基底名之间如果存在前缀包含关系（至少 3 字），合并为同一组
+    const baseGroups = []; // 每组: { base, best }
+    for (const item of scored) {
+      const base = getBaseName(item.name);
+      let matched = -1;
+      for (let g = 0; g < baseGroups.length; g++) {
+        const gb = baseGroups[g].base;
+        const shorter = base.length <= gb.length ? base : gb;
+        const longer = base.length <= gb.length ? gb : base;
+        if (shorter.length >= 3 && longer.startsWith(shorter)) {
+          matched = g;
+          break;
+        }
+      }
+      if (matched >= 0) {
+        if (item.score < baseGroups[matched].best.score) {
+          baseGroups[matched].best = item;
+        }
+      } else {
+        baseGroups.push({ base, best: item });
+      }
+    }
+
+    return baseGroups.map((g) => g.best).slice(0, 8);
   }, [enrichedStats]);
 
   const summary = useMemo(() => {
@@ -215,7 +270,7 @@ export default function SmartPicks({ enrichedStats, listings, workplace, isMobil
       </div>
 
       <div style={{ fontSize: 11, color: '#d9d9d9', marginTop: 14, textAlign: 'center', letterSpacing: 0.3 }}>
-        综合评分：单价 40% + 地铁距离 35% + 通勤距离 25%　点击小区查看详情
+        综合评分：单价 40% + 地铁距离 25% + 通勤距离 35%　点击小区查看详情
       </div>
 
       <CommunityListings

@@ -8,7 +8,6 @@ const DISTANCE_RINGS = [3, 5, 8, 10, 15];
 function getUnitPriceColor(unitPrice, min, max) {
   if (max === min) return '#f39c12';
   const ratio = (unitPrice - min) / (max - min);
-  // 低价=红(醒目), 高价=绿(冷色)
   const r = Math.round((1 - ratio) * 220);
   const g = Math.round(ratio * 180);
   return `rgb(${r}, ${g}, 50)`;
@@ -94,7 +93,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
     const maxUP = Math.max(...unitPrices);
     const priceRange = maxUP - minUP;
 
-    // 按距离环分组，单价≤6000 中取最低 10% 标红
+    // 按距离环分组，avgPrice<=6000 中取单价最低 10% 标红
     const bottomSet = new Set();
     {
       const rings = [3, 5, 8, 10, 15];
@@ -243,71 +242,6 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
     }
     ctx.globalAlpha = 1;
 
-    // ── 地铁站点标记 ──
-    const stationLabels = [];
-    for (const line of filteredSubwayLines) {
-      for (const st of line.stations) {
-        const x = toX(st.lng);
-        const y = toY(st.lat);
-        if (x < -20 || x > W + 20 || y < -20 || y > H + 20) continue;
-
-        if (st.transfer) {
-          // 换乘站：双圈标记
-          ctx.beginPath();
-          ctx.arc(x, y, 5.5 * sf, 0, Math.PI * 2);
-          ctx.fillStyle = '#fff';
-          ctx.fill();
-          ctx.strokeStyle = line.color;
-          ctx.lineWidth = Math.max(1, 2.5 * sf);
-          ctx.stroke();
-          ctx.beginPath();
-          ctx.arc(x, y, 3 * sf, 0, Math.PI * 2);
-          ctx.fillStyle = line.color;
-          ctx.fill();
-        } else {
-          // 普通站：白色圆点 + 线路色边框
-          ctx.beginPath();
-          ctx.arc(x, y, 3 * sf, 0, Math.PI * 2);
-          ctx.fillStyle = '#fff';
-          ctx.fill();
-          ctx.strokeStyle = line.color;
-          ctx.lineWidth = Math.max(0.8, 1.5 * sf);
-          ctx.stroke();
-        }
-        stationLabels.push({ x, y, name: st.name, color: line.color, transfer: st.transfer });
-      }
-    }
-
-    // ── 站名标注（碰撞检测） ──
-    const sLabelRects = [];
-    stationLabels.sort((a, b) => (b.transfer ? 1 : 0) - (a.transfer ? 1 : 0));
-    ctx.font = `bold ${Math.round(9 * sf)}px sans-serif`;
-    ctx.textAlign = 'center';
-    ctx.textBaseline = 'top';
-    for (const sl of stationLabels) {
-      const name = sl.name.length > 5 ? sl.name.slice(0, 5) + '…' : sl.name;
-      const tw = ctx.measureText(name).width;
-      const lw = tw + 6 * sf;
-      const lh = 13 * sf;
-      const lx = sl.x - lw / 2;
-      const ly = sl.y + (sl.transfer ? 8 * sf : 5 * sf);
-
-      const overlaps = sLabelRects.some(
-        (r) => lx < r.x + r.w && lx + lw > r.x && ly < r.y + r.h && ly + lh > r.y,
-      );
-      if (overlaps) continue;
-
-      sLabelRects.push({ x: lx, y: ly, w: lw, h: lh });
-      ctx.fillStyle = 'rgba(255,255,255,0.88)';
-      ctx.beginPath();
-      ctx.roundRect(lx, ly, lw, lh, 2 * sf);
-      ctx.fill();
-      ctx.strokeStyle = sl.color;
-      ctx.lineWidth = Math.max(0.4, 0.6 * sf);
-      ctx.stroke();
-      ctx.fillStyle = sl.color;
-      ctx.fillText(name, sl.x, ly + 1.5 * sf);
-    }
 
     // 距离环
     const visibleRings = DISTANCE_RINGS.filter((r) => r <= maxDistance);
@@ -357,7 +291,7 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
       const y = toY(stat.lat);
       const isLowPrice = bottomSet.has(stat.name);
       const radius = isLowPrice ? Math.max(3, 7 * sf) : Math.max(2, 4 * sf);
-      const color = getUnitPriceColor(stat.avgUnitPrice, minUP, maxUP);
+      const color = isLowPrice ? '#e74c3c' : '#5b8ff9';
 
       ctx.beginPath();
       ctx.arc(x, y, radius, 0, Math.PI * 2);
@@ -368,6 +302,71 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
       ctx.lineWidth = Math.max(0.8, 1.5 * sf);
       ctx.stroke();
       ctx.globalAlpha = 1;
+    }
+
+    // ── 地铁站圆点（最上层，覆盖小区散点） ──
+    const stationLabels = [];
+    ctx.globalAlpha = 1;
+    for (const line of filteredSubwayLines) {
+      for (const st of line.stations) {
+        const x = toX(st.lng);
+        const y = toY(st.lat);
+        if (x < -20 || x > W + 20 || y < -20 || y > H + 20) continue;
+
+        if (st.transfer) {
+          ctx.beginPath();
+          ctx.arc(x, y, 5.5 * sf, 0, Math.PI * 2);
+          ctx.fillStyle = '#fff';
+          ctx.fill();
+          ctx.strokeStyle = line.color;
+          ctx.lineWidth = Math.max(1, 2.5 * sf);
+          ctx.stroke();
+          ctx.beginPath();
+          ctx.arc(x, y, 3 * sf, 0, Math.PI * 2);
+          ctx.fillStyle = line.color;
+          ctx.fill();
+        } else {
+          ctx.beginPath();
+          ctx.arc(x, y, 3 * sf, 0, Math.PI * 2);
+          ctx.fillStyle = '#fff';
+          ctx.fill();
+          ctx.strokeStyle = line.color;
+          ctx.lineWidth = Math.max(0.8, 1.5 * sf);
+          ctx.stroke();
+        }
+        stationLabels.push({ x, y, name: st.name, color: line.color, transfer: st.transfer });
+      }
+    }
+
+    // ── 站名标注（碰撞检测，最上层） ──
+    const sLabelRects = [];
+    stationLabels.sort((a, b) => (b.transfer ? 1 : 0) - (a.transfer ? 1 : 0));
+    ctx.font = `bold ${Math.round(9 * sf)}px sans-serif`;
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'top';
+    for (const sl of stationLabels) {
+      const name = sl.name.length > 5 ? sl.name.slice(0, 5) + '…' : sl.name;
+      const tw = ctx.measureText(name).width;
+      const lw = tw + 6 * sf;
+      const lh = 13 * sf;
+      const lx = sl.x - lw / 2;
+      const ly = sl.y + (sl.transfer ? 8 * sf : 5 * sf);
+
+      const overlaps = sLabelRects.some(
+        (r) => lx < r.x + r.w && lx + lw > r.x && ly < r.y + r.h && ly + lh > r.y,
+      );
+      if (overlaps) continue;
+
+      sLabelRects.push({ x: lx, y: ly, w: lw, h: lh });
+      ctx.fillStyle = 'rgba(255,255,255,0.88)';
+      ctx.beginPath();
+      ctx.roundRect(lx, ly, lw, lh, 2 * sf);
+      ctx.fill();
+      ctx.strokeStyle = sl.color;
+      ctx.lineWidth = Math.max(0.4, 0.6 * sf);
+      ctx.stroke();
+      ctx.fillStyle = sl.color;
+      ctx.fillText(name, sl.x, ly + 1.5 * sf);
     }
 
     // 工作地点
@@ -401,19 +400,30 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
     ctx.textBaseline = 'middle';
     const nameText = workplace.name;
     const ntw = ctx.measureText(nameText).width;
+    // 工作地点标签区域（用于碰撞检测）
+    const wpLabelX = wpx + 14 * sf;
+    const wpLabelY = wpy - 12 * sf;
+    const wpLabelW = ntw + 14 * sf;
+    const wpLabelH = 24 * sf;
     ctx.fillStyle = 'rgba(255,255,255,0.9)';
     ctx.strokeStyle = '#e74c3c';
     ctx.lineWidth = Math.max(0.6, 1 * sf);
     ctx.beginPath();
-    ctx.roundRect(wpx + 14 * sf, wpy - 12 * sf, ntw + 14 * sf, 24 * sf, 6 * sf);
+    ctx.roundRect(wpLabelX, wpLabelY, wpLabelW, wpLabelH, 6 * sf);
     ctx.fill();
     ctx.stroke();
     ctx.fillStyle = '#c0392b';
     ctx.fillText(nameText, wpx + 21 * sf, wpy);
 
-    // 低价小区标签 — 碰撞检测防重叠
+    // 检查标签是否与工作地点区域碰撞
+    const overlapsWorkplace = (x, y, w, h) => {
+      return x < wpLabelX + wpLabelW + 8 && x + w > wpLabelX - 8 && y < wpLabelY + wpLabelH + 8 && y + h > wpLabelY - 8;
+    };
+
+    // 低价小区标签 — 碰撞检测防重叠（跳过 bottomSet，它们有专属红色标签）
     const labelRects = [];
     const labelStats = [...enrichedStats]
+      .filter((s) => !bottomSet.has(s.name))
       .sort((a, b) => a.avgUnitPrice - b.avgUnitPrice);
     ctx.font = `${Math.round(10 * sf)}px sans-serif`;
     for (const stat of labelStats) {
@@ -427,10 +437,10 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
       const lx = x - lw / 2;
       const ly = y - 18 * sf - lh;
 
-      // 碰撞检测
+      // 碰撞检测（包括工作地点）
       const overlaps = labelRects.some(
         (r) => lx < r.x + r.w && lx + lw > r.x && ly < r.y + r.h && ly + lh > r.y
-      );
+      ) || overlapsWorkplace(lx, ly, lw, lh);
       if (overlaps) continue;
 
       labelRects.push({ x: lx, y: ly, w: lw, h: lh });
@@ -460,6 +470,9 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
       const lx = x - lw / 2;
       const ly = y + 10 * sf;
 
+      // 跳过与工作地点重叠的标签
+      if (overlapsWorkplace(lx, ly, lw, lh)) continue;
+
       labelRects.push({ x: lx, y: ly, w: lw, h: lh });
       ctx.fillStyle = 'rgba(255,255,255,0.9)';
       ctx.beginPath();
@@ -476,11 +489,12 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
     const barH = H * 0.4;
     const barX = W - 40 * sf;
     const barY = (H - barH) / 2;
-    for (let i = 0; i < barH; i++) {
-      const ratio = 1 - i / barH;
-      ctx.fillStyle = getUnitPriceRGBA(minUP + priceRange * ratio, minUP, maxUP, 1);
-      ctx.fillRect(barX, barY + i, barW, 1);
-    }
+    // 图例: 红色=高性价比(低价), 蓝色=其他
+    const halfH = barH / 2;
+    ctx.fillStyle = '#e74c3c';
+    ctx.fillRect(barX, barY, barW, halfH);
+    ctx.fillStyle = '#5b8ff9';
+    ctx.fillRect(barX, barY + halfH, barW, halfH);
     ctx.strokeStyle = '#ccc';
     ctx.lineWidth = 1;
     ctx.strokeRect(barX, barY, barW, barH);
@@ -488,9 +502,9 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
     ctx.font = `${Math.round(10 * sf)}px sans-serif`;
     ctx.textAlign = 'left';
     ctx.textBaseline = 'top';
-    ctx.fillText(`${maxUP}元`, barX + barW + 4 * sf, barY);
+    ctx.fillText('高性价比', barX + barW + 4 * sf, barY);
     ctx.textBaseline = 'bottom';
-    ctx.fillText(`${minUP}元`, barX + barW + 4 * sf, barY + barH);
+    ctx.fillText('其他', barX + barW + 4 * sf, barY + barH);
 
     // 标题
     ctx.font = `bold ${Math.round(14 * sf)}px sans-serif`;

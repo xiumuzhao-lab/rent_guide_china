@@ -49,7 +49,7 @@ function readURLParams() {
       }
     }
   }
-  if (!isNaN(dist) && dist >= 3 && dist <= 30) result.maxDistance = dist;
+  if (!isNaN(dist) && dist >= 3 && dist <= 30) result.maxDistance = Number(dist);
   return result;
 }
 
@@ -82,16 +82,14 @@ export default function App() {
   const [workplace, setWorkplace] = useState(
     initial.workplace || CITY_CONFIG[initial.city].workplaces[0],
   );
-  const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 3);
+  const [maxDistance, setMaxDistance] = useState(initial.maxDistance || 5);
   const [view, setView] = useState('main');
 
   // IP 定位匹配最近工作地
   const [locating, setLocating] = useState(false);
   const locateByIP = useCallback(() => {
     setLocating(true);
-    const proxyBase = window.location.hostname === 'localhost'
-      ? '' : 'https://server.scoreless.top';
-    fetch(`${proxyBase}/api/ip-location`)
+    fetch(`${location.hostname === 'localhost' ? '' : 'https://server.scoreless.top'}/api/ip-location`)
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json();
@@ -100,9 +98,31 @@ export default function App() {
         if (data.status !== 0) throw new Error(data.message || `status ${data.status}`);
         if (!data.result?.location) throw new Error('no location in response');
         const { lat, lng } = data.result.location;
-        const b = cityConfig.bounds;
-        if (lat < b.latMin || lat > b.latMax || lng < b.lngMin || lng > b.lngMax) return;
         const address = data.result.address || '';
+
+        // 查找定位位置落在哪个城市内
+        let matchedCity = null;
+        for (const [cityKey, config] of Object.entries(CITY_CONFIG)) {
+          const b = config.bounds;
+          if (lat >= b.latMin && lat <= b.latMax && lng >= b.lngMin && lng <= b.lngMax) {
+            matchedCity = cityKey;
+            break;
+          }
+        }
+
+        if (!matchedCity) {
+          const supported = Object.values(CITY_CONFIG).map((c) => c.name).join('、');
+          message.info(`当前位置不在支持的城市范围内，目前仅支持 ${supported}`);
+          return;
+        }
+
+        // 如果匹配到的城市不是当前城市，切换城市
+        if (matchedCity !== city) {
+          setCity(matchedCity);
+          setWorkplace(CITY_CONFIG[matchedCity].workplaces[0]);
+          setMaxDistance(5);
+        }
+
         setWorkplace({
           key: 'custom',
           name: address || `定位位置`,
@@ -113,7 +133,7 @@ export default function App() {
       })
       .catch((err) => { console.error('[IP定位失败]', err.message); })
       .finally(() => setLocating(false));
-  }, [cityConfig]);
+  }, [cityConfig, city]);
 
   // 无 URL 参数时，自动定位
   useEffect(() => {
@@ -243,7 +263,10 @@ export default function App() {
           <a href={window.location.origin} style={{ display: 'flex', alignItems: 'center', gap: 8, textDecoration: 'none', color: 'inherit' }}>
             <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" width={28} height={28} />
             <Title level={1} style={{ margin: 0, fontSize: isMobile ? 16 : 20, fontWeight: 700 }}>租房雷达</Title>
+            <span style={{ color: '#999', fontSize: isMobile ? 11 : 13, borderLeft: '1px solid #ddd', paddingLeft: 8, lineHeight: 1 }}>好房不贵 · 同价优选</span>
           </a>
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: isMobile ? 8 : 16, flexWrap: 'wrap', width: isMobile ? '100%' : 'auto' }}>
           {CITY_LIST.length > 1 && (
             <Select
               value={city}
@@ -252,17 +275,17 @@ export default function App() {
                 const cfg = CITY_CONFIG[c];
                 setCity(c);
                 setWorkplace(cfg.workplaces[0]);
-                setMaxDistance(3);
+                setMaxDistance(5);
               }}
               options={CITY_LIST.map((c) => ({ value: c, label: CITY_CONFIG[c].name }))}
-              style={{ width: isMobile ? 80 : 90 }}
               size="small"
               popupMatchSelectWidth={false}
+              style={{ width: isMobile ? 80 : 90, fontWeight: 500 }}
+              suffixIcon={<span style={{ fontSize: 10, color: '#999' }}>▼</span>}
+              dropdownStyle={{ borderRadius: 8, overflow: 'hidden' }}
             />
           )}
-        </div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: isMobile ? 8 : 16, flexWrap: 'wrap', width: isMobile ? '100%' : 'auto' }}>
-          <WorkplaceSelector value={workplace} onChange={setWorkplace} workplaces={cityConfig.workplaces} />
+          <WorkplaceSelector value={workplace} onChange={(wp) => { setWorkplace(wp); setMaxDistance(5); }} workplaces={cityConfig.workplaces} city={cityConfig.name} />
           <div style={{ width: isMobile ? '100%' : 160, flexShrink: 0 }}>
             <Slider min={3} max={30} value={maxDistance} onChange={setMaxDistance} step={1} marks={{ 3: '3km', 15: '15km', 30: '30km' }} />
           </div>
@@ -308,6 +331,7 @@ export default function App() {
                 导出图片
               </button>
             </div>
+            <RegionDistanceText enrichedStats={enrichedStats} maxDistance={maxDistance} workplace={workplace} />
             <div style={{ display: 'grid', gridTemplateColumns: isMobile ? '1fr' : '1fr 1fr', gap: isMobile ? 10 : 16, marginTop: 12 }}>
               <div>
                 <RentTypePie data={analysisListings} enrichedStats={enrichedStats} listings={filteredListings} />
@@ -325,9 +349,6 @@ export default function App() {
                 <PriceVsArea data={analysisListings} topRegions={topRegions} />
                 <div style={{ fontSize: 11, color: '#999', marginTop: -8, marginBottom: 8 }}>数据口径: {maxDistance}km 内房源面积与月租金关系, 帮助判断性价比</div>
               </div>
-            </div>
-            <div style={{ marginTop: 12 }}>
-              <RegionDistanceText enrichedStats={enrichedStats} maxDistance={maxDistance} workplace={workplace} />
             </div>
           </section>
 
@@ -366,14 +387,15 @@ export default function App() {
           <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4, lineHeight: '22px' }}>
             数据源自公开信息统计分析，纯免费工具，仅供学习探索使用，不构成租房建议。如有偏差请以各平台实时信息为准。
           </Paragraph>
-          <button onClick={() => setView(view === 'main' ? 'report' : 'main')} style={{
-            background: 'none', border: 'none', color: '#bbb', cursor: 'pointer',
-            fontSize: 12, padding: 0, textDecoration: 'underline',
-          }}>
-            {view === 'main' ? '传播报告' : '返回地图'}
-          </button>
           <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 8, marginBottom: 0 }}>
             &copy; {new Date().getFullYear()} 租房数据分析 · v{__APP_VERSION__}
+            {' · '}
+            <button onClick={() => setView(view === 'main' ? 'report' : 'main')} style={{
+              background: 'none', border: 'none', color: '#bbb', cursor: 'pointer',
+              fontSize: 12, padding: 0, textDecoration: 'underline',
+            }}>
+              {view === 'main' ? '传播报告' : '返回地图'}
+            </button>
           </Paragraph>
           <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 4, marginBottom: 0 }}>
             <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer" style={{ color: '#999' }}>浙ICP备2026028673号</a>
