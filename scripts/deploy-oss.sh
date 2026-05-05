@@ -130,7 +130,7 @@ ossutil rm "$OSS_PATH" -r -f --exclude "data/*" 2>/dev/null || true
 # 上传 index.html (不缓存)
 echo "  上传 index.html (no-cache)..."
 ossutil cp "$DIST_DIR/index.html" "${OSS_PATH}index.html" -f \
-  --meta-header "Cache-Control: no-cache"
+  --cache-control "Cache-Control: no-cache"
 
 # 上传 hashed 静态资源 (长缓存)
 echo "  上传静态资源 (长缓存 365 天)..."
@@ -138,13 +138,13 @@ ossutil cp "$DIST_DIR/assets/" "${OSS_PATH}assets/" -r -f \
   --update \
   -j 5 \
   --parallel 5 \
-  --meta-header "Cache-Control: public, max-age=31536000, immutable"
+  --cache-control "Cache-Control: public, max-age=31536000, immutable"
 
 # 上传其他根目录文件 (长缓存)
 for f in favicon.svg robots.txt; do
   if [ -f "$DIST_DIR/$f" ]; then
     ossutil cp "$DIST_DIR/$f" "${OSS_PATH}$f" -f \
-      --meta-header "Cache-Control: public, max-age=604800"
+      --cache-control "Cache-Control: public, max-age=604800"
   fi
 done
 
@@ -152,7 +152,7 @@ done
 if [ -f "$DIST_DIR/sitemap.xml" ]; then
   echo "  上传 sitemap.xml..."
   ossutil cp "$DIST_DIR/sitemap.xml" "${OSS_PATH}sitemap.xml" -f \
-    --meta-header "Cache-Control: public, max-age=86400"
+    --cache-control "Cache-Control: public, max-age=86400"
 fi
 
 # 上传预渲染页面: dist/{city}/{workplace}/index.html -> OSS
@@ -166,7 +166,7 @@ for city_dir in "$DIST_DIR"/*/; do
     wp_name=$(basename "$wp_dir")
     if [ -f "$wp_dir/index.html" ]; then
       ossutil cp "$wp_dir/index.html" "${OSS_PATH}${city_name}/${wp_name}/index.html" -f \
-        --meta-header "Cache-Control: no-cache" 2>/dev/null
+        --cache-control "Cache-Control: no-cache" 2>/dev/null
     fi
   done
   echo "  上传预渲染页面 ${city_name}/ 完成"
@@ -180,7 +180,7 @@ for city_dir in "$DIST_DIR"/data/*/; do
   # versions.json: 短缓存
   if [ -f "$city_dir/versions.json" ]; then
     ossutil cp "$city_dir/versions.json" "${OSS_PATH}data/$city_name/versions.json" -f \
-      --meta-header "Cache-Control: no-cache"
+      --cache-control "Cache-Control: no-cache"
   fi
 
   # 带 hash 的数据文件: 长缓存
@@ -190,7 +190,7 @@ for city_dir in "$DIST_DIR"/data/*/; do
     --include "geo_cache_*.json" \
     -j 5 \
     --parallel 5 \
-    --meta-header "Cache-Control: public, max-age=31536000, immutable"
+    --cache-control "Cache-Control: public, max-age=31536000, immutable"
 done
 
 echo "  上传完成"
