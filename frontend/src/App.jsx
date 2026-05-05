@@ -25,8 +25,22 @@ import { exportDouyinPoster, generateDouyinText } from './utils/douyinPoster';
 const { Header, Content, Footer } = Layout;
 const { Title, Text, Paragraph } = Typography;
 
-/** 从 URL search params 解析初始城市、工作地点和距离 */
+/** 从 URL 解析初始城市、工作地点和距离 (支持 path 和 query 两种形式) */
 function readURLParams() {
+  // path 形式: /{city}/{workplace}/
+  const pathMatch = window.location.pathname.match(/^\/(shanghai|beijing|hangzhou|shenzhen)\/([^/]+)\/?$/);
+  if (pathMatch) {
+    const city = CITY_CONFIG[pathMatch[1]] ? pathMatch[1] : 'shanghai';
+    const config = CITY_CONFIG[city];
+    const wpName = decodeURIComponent(pathMatch[2]);
+    const preset = config.workplaces.find((w) => w.name === wpName || w.key === wpName);
+    // 替换为 query 形式 URL
+    const qs = `?city=${city}&wp=${encodeURIComponent(wpName)}&dist=5`;
+    window.history.replaceState(null, '', qs);
+    return preset ? { city, workplace: preset, maxDistance: 5 } : { city, maxDistance: 5 };
+  }
+
+  // query 形式: ?city=shanghai&wp=张江&dist=5
   const p = new URLSearchParams(window.location.search);
   const cityParam = p.get('city');
   const city = CITY_CONFIG[cityParam] ? cityParam : 'shanghai';
@@ -352,13 +366,13 @@ export default function App() {
             </div>
           </section>
 
-          <SmartPicks enrichedStats={enrichedStats} listings={listings} workplace={workplace} isMobile={isMobile} city={city} />
-
           <section aria-label="单价热力图" style={{ background: '#fff', padding: 16, borderRadius: 8 }}>
             <Title level={2}>{workplace.name} 全景单价热力图</Title>
             <div style={{ fontSize: 12, color: '#999', marginBottom: 8 }}>红色标注为各距离环内单价最低前20%小区，散点颜色由绿到红反映单价从高到低，距离环标注通勤范围</div>
             <HeatmapCanvas workplace={workplace} enrichedStats={enrichedStats} maxDistance={maxDistance} city={city} />
           </section>
+
+          <SmartPicks enrichedStats={enrichedStats} listings={listings} workplace={workplace} isMobile={isMobile} city={city} />
 
           <AdSlot slot="SLOT_MIDDLE" format="horizontal" />
 

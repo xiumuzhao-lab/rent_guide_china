@@ -63,7 +63,7 @@ echo ""
 # Step 0: 应用安全策略
 echo "[0/4] 应用安全策略..."
 
-# Bucket Policy: 允许 HTTPS 公开读取，允许 HTTP 访问 index.html（用于重定向），拒绝 HTTP 访问其他资源
+# Bucket Policy: 公开读取（HTTPS 强制由 CDN 层负责，不在 OSS 层限制，避免 CDN 回源 HTTP 被 403）
 POLICY_FILE=$(mktemp)
 cat > "$POLICY_FILE" << 'POLICY'
 {
@@ -75,25 +75,6 @@ cat > "$POLICY_FILE" << 'POLICY'
       "Action": ["oss:GetObject"],
       "Principal": ["*"],
       "Resource": ["REPLACE_RESOURCE/*"]
-    },
-    {
-      "Sid": "DenyHTTPNonHtml",
-      "Effect": "Deny",
-      "Action": ["oss:GetObject"],
-      "Principal": ["*"],
-      "Resource": [
-        "REPLACE_RESOURCE/assets/*",
-        "REPLACE_RESOURCE/data/*",
-        "REPLACE_RESOURCE/favicon.svg",
-        "REPLACE_RESOURCE/robots.txt",
-        "REPLACE_RESOURCE/sitemap.xml",
-        "REPLACE_RESOURCE/CNAME"
-      ],
-      "Condition": {
-        "Bool": {
-          "acs:SecureTransport": ["false"]
-        }
-      }
     }
   ]
 }
@@ -101,7 +82,7 @@ POLICY
 sed -i '' "s|REPLACE_RESOURCE|acs:oss:*:*:$OSS_BUCKET|g" "$POLICY_FILE"
 ossutil api put-bucket-policy --bucket "$OSS_BUCKET" --body "file://$POLICY_FILE" 2>/dev/null
 rm -f "$POLICY_FILE"
-echo "  ✓ Bucket Policy 已应用（HTTP 仅允许 index.html）"
+echo "  ✓ Bucket Policy 已应用（公开读取）"
 
 echo ""
 
@@ -121,6 +102,13 @@ if [ "$SKIP_BUILD" = false ]; then
   # 构建
   npm run build
 
+  # SEO 预渲染
+  echo "  预渲染 SEO 页面..."
+  node ../scripts/prerender.js
+
+  # 生成 sitemap
+  node ../scripts/generate-sitemap.js
+
   echo "  构建完成"
   echo ""
 else
@@ -139,12 +127,71 @@ echo "[2/4] 上传到 OSS..."
 echo "  清理旧文件..."
 ossutil rm "$OSS_PATH" -r -f --exclude "data/*" 2>/dev/null || true
 
-# 上传新文件
-echo "  上传新文件..."
-ossutil cp "$DIST_DIR/" "$OSS_PATH" -r -f \
+# 上传 index.html (不缓存)
+echo "  上传 index.html (no-cache)..."
+ossutil cp "$DIST_DIR/index.html" "${OSS_PATH}index.html" -f \
+  --meta-header "Cache-Control: no-cache"
+
+# 上传 hashed 静态资源 (长缓存)
+echo "  上传静态资源 (长缓存 365 天)..."
+ossutil cp "$DIST_DIR/assets/" "${OSS_PATH}assets/" -r -f \
   --update \
   -j 5 \
-  --parallel 5
+  --parallel 5 \
+  --meta-header "Cache-Control: public, max-age=31536000, immutable"
+
+# 上传其他根目录文件 (长缓存)
+for f in favicon.svg robots.txt; do
+  if [ -f "$DIST_DIR/$f" ]; then
+    ossutil cp "$DIST_DIR/$f" "${OSS_PATH}$f" -f \
+      --meta-header "Cache-Control: public, max-age=604800"
+  fi
+done
+
+# 上传 sitemap.xml
+if [ -f "$DIST_DIR/sitemap.xml" ]; then
+  echo "  上传 sitemap.xml..."
+  ossutil cp "$DIST_DIR/sitemap.xml" "${OSS_PATH}sitemap.xml" -f \
+    --meta-header "Cache-Control: public, max-age=86400"
+fi
+
+# 上传预渲染页面: dist/{city}/{workplace}/index.html -> OSS
+for city_dir in "$DIST_DIR"/*/; do
+  city_name=$(basename "$city_dir")
+  # 跳过非城市目录
+  if [[ ! "$city_name" =~ ^(shanghai|beijing|hangzhou|shenzhen)$ ]]; then
+    continue
+  fi
+  for wp_dir in "$city_dir"*/; do
+    wp_name=$(basename "$wp_dir")
+    if [ -f "$wp_dir/index.html" ]; then
+      ossutil cp "$wp_dir/index.html" "${OSS_PATH}${city_name}/${wp_name}/index.html" -f \
+        --meta-header "Cache-Control: no-cache" 2>/dev/null
+    fi
+  done
+  echo "  上传预渲染页面 ${city_name}/ 完成"
+done
+
+# 上传数据文件: versions.json 不缓存，带 hash 的数据文件长缓存
+for city_dir in "$DIST_DIR"/data/*/; do
+  city_name=$(basename "$city_dir")
+  echo "  上传 data/$city_name/ ..."
+
+  # versions.json: 短缓存
+  if [ -f "$city_dir/versions.json" ]; then
+    ossutil cp "$city_dir/versions.json" "${OSS_PATH}data/$city_name/versions.json" -f \
+      --meta-header "Cache-Control: no-cache"
+  fi
+
+  # 带 hash 的数据文件: 长缓存
+  ossutil cp "$city_dir" "${OSS_PATH}data/$city_name/" -r -f \
+    --update \
+    --include "listings_*.json" \
+    --include "geo_cache_*.json" \
+    -j 5 \
+    --parallel 5 \
+    --meta-header "Cache-Control: public, max-age=31536000, immutable"
+done
 
 echo "  上传完成"
 echo ""
@@ -195,8 +242,8 @@ fi
 echo ""
 echo "=== 部署完成 ==="
 
-# Step 5: 百度主动推送（配置了 token 时自动执行）
-if grep -qE '^\s*BAIDU_PUSH_TOKEN\s*=\s*\S' "$PROJECT_DIR/.env" 2>/dev/null; then
+# Step 5: 搜索引擎推送（配置了 token 时自动执行）
+if grep -qE '^\s*(BAIDU_PUSH_TOKEN|BING_INDEXNOW_KEY)\s*=\s*\S' "$PROJECT_DIR/.env" 2>/dev/null; then
   echo ""
-  bash "$PROJECT_DIR/scripts/baidu-push.sh"
+  node "$PROJECT_DIR/scripts/search-engine-push.js"
 fi
