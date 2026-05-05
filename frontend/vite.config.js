@@ -80,12 +80,13 @@ function tmapProxyPlugin() {
         const rawUrl = req.url || ''
         const search = new URLSearchParams(rawUrl.startsWith('?') ? rawUrl : rawUrl.replace(/^[^?]*/, ''))
         const keyword = search.get('keyword') || ''
+        const city = search.get('city') || '上海'
 
         const uri = '/ws/place/v1/suggestion'
         const apiParams = {
           keyword,
           key: apiKey,
-          region: '上海',
+          region: city,
           page_size: '5',
           output: 'json',
         }

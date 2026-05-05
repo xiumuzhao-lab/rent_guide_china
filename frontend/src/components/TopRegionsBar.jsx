@@ -125,7 +125,7 @@ export default function TopRegionsBar({ enrichedStats, listings }) {
 
   return (
     <>
-      <ReactECharts option={option} style={{ height: isMobile ? 220 : 280 }} onEvents={{ click: handleClick }} />
+      <ReactECharts option={option} notMerge style={{ height: isMobile ? 220 : 280 }} onEvents={{ click: handleClick }} />
       <Modal
         title={`${regionName} — ${regionListings.length} 套房源`}
         open={!!selected}

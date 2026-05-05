@@ -12,7 +12,7 @@ from scraper.config import CITY, CITY_NAMES, TENCENT_GEO_BATCH_INTERVAL
 from scraper.geo.cache import GeoCache
 from scraper.geo.address import build_address
 from scraper.geo.validation import (
-    validate_coords, SH_BOUNDARY, BJ_BOUNDARY,
+    validate_coords, SH_BOUNDARY, BJ_BOUNDARY, SZ_BOUNDARY, HZ_BOUNDARY,
 )
 from scraper.geo.providers import create_providers
 
@@ -21,6 +21,8 @@ logger = logging.getLogger('lianjia')
 _CITY_BOUNDARIES = {
     'shanghai': SH_BOUNDARY,
     'beijing': BJ_BOUNDARY,
+    'shenzhen': SZ_BOUNDARY,
+    'hangzhou': HZ_BOUNDARY,
 }
 
 
@@ -34,12 +36,16 @@ class GeoCoder:
     - API 未返回结果时标记为 miss，不生成伪坐标
     """
 
+    # 同一坐标被超过此数量的小区共用时，视为区中心假坐标
+    _DUP_COORD_THRESHOLD = 5
+
     def __init__(self, city=None):
         self._city = city or CITY
         self._city_cn = CITY_NAMES.get(self._city, '')
         self._boundary = _CITY_BOUNDARIES.get(self._city)
         self._cache = GeoCache(self._city)
         self._providers = create_providers()
+        self._coord_usage = self._build_coord_usage()
         names = [p.name for p in self._providers]
         logger.info(f"GeoCoder 初始化: city={self._city}, providers={names}")
 
@@ -51,20 +57,57 @@ class GeoCoder:
         return (b['lat_min'] <= lat <= b['lat_max']
                 and b['lng_min'] <= lng <= b['lng_max'])
 
+    def _build_coord_usage(self):
+        """从缓存构建坐标→小区名集合的映射."""
+        usage = {}
+        for name, entry in self._cache._data.items():
+            lat = entry.get('lat')
+            lng = entry.get('lng')
+            if lat is None or lng is None:
+                continue
+            key = (round(lat, 6), round(lng, 6))
+            usage.setdefault(key, set()).add(name)
+        return usage
+
+    def _is_dup_coord(self, lat, lng):
+        """检查坐标是否已被过多小区共用（区中心假坐标）."""
+        key = (round(lat, 6), round(lng, 6))
+        return len(self._coord_usage.get(key, ())) >= self._DUP_COORD_THRESHOLD
+
+    def _record_coord(self, name, lat, lng):
+        """记录坐标使用."""
+        key = (round(lat, 6), round(lng, 6))
+        self._coord_usage.setdefault(key, set()).add(name)
+
+    def _remove_coord(self, name, lat, lng):
+        """移除坐标使用记录."""
+        if lat is None or lng is None:
+            return
+        key = (round(lat, 6), round(lng, 6))
+        s = self._coord_usage.get(key)
+        if s:
+            s.discard(name)
+            if not s:
+                del self._coord_usage[key]
+
     def _api_geocode(self, address):
         """
         按优先级尝试各 provider.
 
         Returns:
-            tuple: ((lat, lng), provider_name) 或 (None, None)
+            tuple: ((lat, lng), provider_name, api_responded) 或 (None, None, bool)
+                api_responded: True 表示至少一个 provider 成功响应 (无论是否找到),
+                              False 表示所有 provider 都因限速/配额耗尽/网络错误未响应
         """
+        any_responded = False
         for provider in self._providers:
             if not provider.available:
                 continue
             coords = provider.geocode(address)
             if coords:
-                return coords, provider.name
-        return None, None
+                return coords, provider.name, True
+            any_responded = True
+        return None, None, any_responded
 
     def geocode(self, name, region="", location=""):
         """
@@ -88,39 +131,57 @@ class GeoCoder:
             elif entry.get("lat") is None:
                 return None
             else:
-                if (self._in_city(entry["lat"], entry["lng"])
-                        and validate_coords(entry["lat"], entry["lng"], location)):
-                    return (entry["lat"], entry["lng"])
-                logger.info(
-                    f"坐标校验失败，重新查询: {name} "
-                    f"({entry['lat']}, {entry['lng']})")
+                lat, lng = entry["lat"], entry["lng"]
+                if (self._in_city(lat, lng)
+                        and validate_coords(lat, lng, location)
+                        and not self._is_dup_coord(lat, lng)):
+                    return (lat, lng)
+                reason = "偏离预期区" if not validate_coords(lat, lng, location) else "重复坐标过多"
+                logger.info(f"坐标校验失败({reason})，重新查询: {name} ({lat}, {lng})")
+                self._remove_coord(name, lat, lng)
                 del self._cache[name]
 
         address = build_address(name, location, self._city_cn)
-        coords, provider_name = self._api_geocode(address)
+        coords, provider_name, api_responded = self._api_geocode(address)
         if coords:
             if not validate_coords(coords[0], coords[1], location):
                 logger.warning(
                     f"API 返回坐标仍偏离预期区: {name} "
                     f"address={address} -> ({coords[0]}, {coords[1]})")
-            self._cache[name] = {
-                "lat": coords[0],
-                "lng": coords[1],
-                "source": provider_name,
-            }
-            return coords
-
-        # 带区域查不到，尝试只用城市+小区名
-        if location and self._city_cn:
-            coords, provider_name = self._api_geocode(
-                f"{self._city_cn}{name}")
-            if coords:
+            if self._is_dup_coord(coords[0], coords[1]):
+                logger.warning(
+                    f"API 返回坐标已被 {self._DUP_COORD_THRESHOLD}+ 个小区共用，拒绝: "
+                    f"{name} -> ({coords[0]}, {coords[1]}) provider={provider_name}")
+            else:
                 self._cache[name] = {
                     "lat": coords[0],
                     "lng": coords[1],
                     "source": provider_name,
                 }
+                self._record_coord(name, coords[0], coords[1])
                 return coords
+
+        # 带区域查不到，尝试只用城市+小区名
+        if location and self._city_cn:
+            coords, provider_name, fallback_responded = self._api_geocode(
+                f"{self._city_cn}{name}")
+            api_responded = api_responded or fallback_responded
+            if coords:
+                if self._is_dup_coord(coords[0], coords[1]):
+                    logger.warning(
+                        f"回退查询坐标重复过多，拒绝: {name} -> ({coords[0]}, {coords[1]})")
+                else:
+                    self._cache[name] = {
+                        "lat": coords[0],
+                        "lng": coords[1],
+                        "source": provider_name,
+                    }
+                    self._record_coord(name, coords[0], coords[1])
+                    return coords
+
+        if not api_responded:
+            logger.debug(f"API 未响应 (限速/配额耗尽), 跳过: {name}")
+            return None
 
         logger.debug(f"地理编码无结果: {name}")
         self._cache[name] = {"lat": None, "lng": None, "source": "miss"}
@@ -201,26 +262,43 @@ class GeoCoder:
         """
         entry = self._cache.get(name)
         if entry and not force and entry.get("source") not in ("hash", "miss"):
-            if (self._in_city(entry["lat"], entry["lng"])
-                    and validate_coords(entry["lat"], entry["lng"], location)):
-                return (entry["lat"], entry["lng"])
-            logger.info(f"坐标偏离预期区，重查: {name} ({location})")
+            lat, lng = entry["lat"], entry["lng"]
+            if (self._in_city(lat, lng)
+                    and validate_coords(lat, lng, location)
+                    and not self._is_dup_coord(lat, lng)):
+                return (lat, lng)
+            reason = "偏离预期区" if not validate_coords(lat, lng, location) else "重复坐标过多"
+            logger.info(f"坐标{reason}，重查: {name} ({location})")
 
         if name in self._cache:
+            old = self._cache[name]
+            self._remove_coord(name, old.get("lat"), old.get("lng"))
             del self._cache[name]
 
         address = build_address(name, location, self._city_cn)
-        coords, provider_name = self._api_geocode(address)
+        coords, provider_name, api_responded = self._api_geocode(address)
         if not coords and location and self._city_cn:
-            coords, provider_name = self._api_geocode(
+            coords, provider_name, fallback_responded = self._api_geocode(
                 f"{self._city_cn}{name}")
+            api_responded = api_responded or fallback_responded
         if coords:
+            if self._is_dup_coord(coords[0], coords[1]):
+                logger.warning(
+                    f"刷新坐标重复过多，拒绝: {name} -> ({coords[0]}, {coords[1]})")
+                self._cache[name] = {"lat": None, "lng": None, "source": "miss"}
+                return None
             self._cache[name] = {
                 "lat": coords[0],
                 "lng": coords[1],
                 "source": provider_name,
             }
+            self._record_coord(name, coords[0], coords[1])
             return coords
+
+        if not api_responded:
+            logger.debug(f"API 未响应 (限速/配额耗尽), 跳过: {name}")
+            # 恢复原来的 miss 状态，不做 mark
+            return None
 
         logger.debug(f"地理编码刷新无结果: {name}")
         self._cache[name] = {"lat": None, "lng": None, "source": "miss"}

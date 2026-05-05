@@ -11,6 +11,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 
 const PROJECT_DIR = path.join(__dirname, '..');
 const OUTPUT_DIR = path.join(PROJECT_DIR, 'output');
@@ -22,6 +23,46 @@ const CITY_BOUNDARIES = {
   shanghai: { latMin: 30.65, latMax: 31.95, lngMin: 120.70, lngMax: 122.10 },
   shenzhen: { latMin: 22.40, latMax: 22.90, lngMin: 113.70, lngMax: 114.70 },
   hangzhou: { latMin: 29.90, latMax: 30.60, lngMin: 119.80, lngMax: 120.70 },
+};
+
+// 板块 slug -> 中文名映射
+const REGION_SLUG_MAP = {
+  shanghai: {}, // 上海数据已用中文
+  beijing: {}, // 北京数据已用中文
+  hangzhou: {aoti: '奥体', baimahu: '白马湖', banshan: '半山', binjiangquzhengfu: '滨江区政府', caihe1: '采荷', caihongcheng: '彩虹城', changhe: '长河', changqing1112: '长庆', chaohui: '朝晖', chaoming11: '潮鸣', chengdongxincheng: '城东新城', chengzhan: '城站', chongxian: '崇贤', daguan: '大关', dajiangdong: '大江东', desheng: '德胜', deshengdong: '德胜东', dingqiao: '丁桥', donghu6: '东湖', daxuechengbei: '大学城北', feicuicheng1: '翡翠城', fuxing: '复兴', gaojiaoyuanqudong: '高教园区东', gaojiaoyuanquxi: '高教园区西', gongchenqiao: '拱宸桥', gongyeyuanbei: '工业园北', gongyeyuannan: '工业园南', gouzhuang: '勾庄', gulou2: '鼓楼', guali: '瓜沥', hemu: '和睦', heping2: '和平', hubin1: '湖滨', huajiachi: '华家池', huochedongzhan: '火车东站', hushu1: '湖墅', jianguobeilu: '建国北路', jianqiao: '笕桥', jinhua2: '进化', jinshahu: '金沙湖', jinjiang1: '近江', jingfang1: '景芳', jiubao: '九堡', liangzhu: '良渚', liuxia1: '留下', linpingxincheng: '临平新城', linpingyunhe: '临平运河', linpu: '临浦', liushuiyuan: '流水苑', laoyuhang: '老余杭', nanbuwocheng: '南部卧城', nanxing: '南星', nanxiaobu: '南肖埠', pingyao: '瓶窑', puyan: '浦沿', qibao1: '七堡', qianjiangshijicheng: '钱江世纪城', qianjiangxincheng: '钱江新城', qiaosi: '乔司', qiaoxi1: '桥西', qingbo: '清波', qingtai: '清泰', renhe2: '仁和', sanliting: '三里亭', sandun: '三墩', santang: '三塘', shenhua: '申花', shiqiao: '石桥', sichoucheng1: '丝绸城', sijiqing1: '四季青', tangqi1: '塘栖', tiyuchanglu: '体育场路', tianshui1: '天水', wandaguangchang2: '万达广场', wangjiang: '望江', weilaikejicheng: '未来科技城', wenyan: '闻堰', xianlin1: '闲林', xianghu: '湘湖', xiaoheshan: '小和山', xiaoshankaifaqu: '萧山开发区', xiaoshankejicheng: '萧山科技城', xiaoshanshiqu: '萧山市区', xiaoshanxinchengqu: '萧山新城区', xihujingqu: '西湖景区', xingqiao: '星桥', xiongzhenlou: '雄镇楼', xixi: '西溪', xixing: '西兴', xinyifang: '信义坊', yanjiangbei: '沿江北', yanjiangnan: '沿江南', yiqiao: '义桥', yunhexincheng: '运河新城', zhanongkou: '闸弄口', zhonganqiao: '众安桥', zhongtai: '中泰', wulin11: '武林'},
+  shenzhen: {
+    bagualing: '八卦岭', baihua: '百花', baishida: '百仕达',
+    baishizhou: '白石洲', bantian: '坂田', baoanzhongxin: '宝安中心',
+    bihai1: '碧海', bujidafen: '布吉大芬', bujiguan: '布吉关',
+    bujijie: '布吉街', bujinanling: '布吉南岭', bujishiyaling: '布吉石牙岭',
+    bujishuijing: '布吉水径', buxin: '布心', chegongmiao: '车公庙',
+    chiwei: '赤尾', chunfenglu: '春风路', cuizhu: '翠竹',
+    danzhutou: '丹竹头', daxuecheng3: '大学城', dayunxincheng: '大运新城',
+    diwang: '地王', dongmen: '东门', fanshen: '翻身',
+    futianbaoshuiqu: '福田保税区', futianzhongxin: '福田中心',
+    fuyong: '福永', gongming: '公明', guangming1: '光明',
+    guanlan: '观澜', hangcheng: '航城', henggang: '横岗',
+    honghu: '洪湖', hongshan6: '红山', hongshuwan: '红树湾',
+    houhai: '后海', huangbeiling: '黄贝岭', huanggang: '皇岗',
+    huangmugang: '黄木岗', huaqiangbei: '华强北', huaqiangnan: '华强南',
+    huaqiaocheng1: '华侨城', jingtian: '景田', kejiyuan: '科技园',
+    lianhua: '莲花', liantang: '莲塘', longgangbaohe: '龙岗宝荷',
+    longgangshuanglong: '龙岗双龙', longgangzhongxincheng: '龙岗中心城',
+    longhuaxinqu: '龙华新区', longhuazhongxin: '龙华中心',
+    luohukouan: '罗湖口岸', luoling: '螺岭', meilin: '梅林',
+    meilinguan: '梅林关', meisha: '梅沙', minzhi: '民治',
+    nanshanzhongxin: '南山中心', nantou: '南头', pingdi: '坪地',
+    pinghu: '平湖', qianhai: '前海', qingshuihe: '清水河',
+    shajing: '沙井', shangbu: '上步', shangtang: '上塘',
+    shangxiasha: '上下沙', shatoujiao: '沙头角', shawei: '沙尾',
+    shekou: '蛇口', shenzhenwan: '深圳湾', shixia: '石厦',
+    shiyan: '石岩', songgang: '松岗', sungang: '笋岗',
+    taoyuanju: '桃源居', wanxiangcheng: '万象城', xiangmeibei: '香梅北',
+    xiangmihu: '香蜜湖', xicheng1: '西城', xili1: '西丽',
+    xinan: '西乡', xinxiu: '新秀', xinzhou1: '新洲',
+    xixiang: '西乡', yantiangang: '盐田港', yinhu: '银湖',
+    yuanling: '园岭', zhuzilin: '竹子林',
+  },
 };
 
 function isInCity(lat, lng, cityName) {
@@ -213,6 +254,17 @@ function main() {
   const geoPath = findGeoCache(cityDir);
   const { enriched, cleared } = enrichWithGeoCache(listings, geoPath, city);
 
+  // 将 region slug 转为中文名
+  const slugMap = REGION_SLUG_MAP[city] || {};
+  if (Object.keys(slugMap).length > 0) {
+    let converted = 0;
+    for (const item of listings) {
+      const cn = slugMap[item.region];
+      if (cn) { item.region = cn; converted++; }
+    }
+    if (converted > 0) console.log(`  板块名转中文: ${converted} 条`);
+  }
+
   const dataFileName = path.basename(dataFile);
   const beforeWith = listings.filter(it => it.lat && it.lng).length;
   console.log(`准备前端数据 (城市: ${city}):`);
@@ -225,19 +277,30 @@ function main() {
   }
 
   const outputJson = JSON.stringify(listings, null, 2);
+  const contentHash = (data) => {
+    const buf = typeof data === 'string' ? Buffer.from(data) : data;
+    return crypto.createHash('md5').update(buf).digest('hex').slice(0, 8);
+  };
+  const listingsHash = contentHash(outputJson);
+
   const writeListings = (destName) => {
     const dest = path.join(destDir, destName);
     fs.writeFileSync(dest, outputJson);
     const size = (Buffer.byteLength(outputJson) / 1024).toFixed(1);
     console.log(`  ${destName} (${size} KB)`);
   };
-  writeListings(`listings_${timestamp}.json`);
-  writeListings('listings.json');
+  writeListings(`listings_${listingsHash}.json`);
 
   // 地理编码缓存
+  let geoHash = '';
   if (geoPath) {
-    copyFile(geoPath, `geo_cache_${timestamp}.json`, destDir);
-    copyFile(geoPath, 'geo_cache.json', destDir);
+    const geoRaw = fs.readFileSync(geoPath);
+    geoHash = contentHash(geoRaw);
+    const hashedName = `geo_cache_${geoHash}.json`;
+    const dest = path.join(destDir, hashedName);
+    fs.writeFileSync(dest, geoRaw);
+    const size = (geoRaw.length / 1024).toFixed(1);
+    console.log(`  ${hashedName} (${size} KB)`);
   } else {
     console.log('  geo_cache.json (未找到，跳过)');
   }
@@ -245,15 +308,15 @@ function main() {
   // 写入版本映射文件
   const versionMap = {
     city,
-    listings: `listings_${timestamp}.json`,
-    geo_cache: `geo_cache_${timestamp}.json`,
+    listings: `listings_${listingsHash}.json`,
+    geo_cache: geoHash ? `geo_cache_${geoHash}.json` : '',
     timestamp,
   };
   fs.writeFileSync(
     path.join(destDir, 'versions.json'),
     JSON.stringify(versionMap, null, 2),
   );
-  console.log(`  versions.json (${timestamp})`);
+  console.log(`  versions.json (listings=${listingsHash}, geo=${geoHash || 'n/a'})`);
 
   console.log('\n完成!');
   console.log('');

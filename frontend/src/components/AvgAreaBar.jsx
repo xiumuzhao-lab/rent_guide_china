@@ -30,5 +30,5 @@ export default function AvgAreaBar({ data }) {
     grid: { left: 60, right: 30, bottom: 40, top: 50 },
   };
 
-  return <ReactECharts option={option} style={{ height: 300 }} />;
+  return <ReactECharts option={option} notMerge style={{ height: 300 }} />;
 }

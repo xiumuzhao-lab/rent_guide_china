@@ -70,3 +70,33 @@ class GeoCache:
         cache_file = get_geo_cache_file(self._city)
         if cache_file.exists():
             cache_file.unlink()
+
+    def purge_dup_coords(self, threshold=5):
+        """
+        清理被过多小区共享的坐标（区中心假坐标）.
+
+        Args:
+            threshold: 同一坐标被 >=threshold 个小区共用时视为假坐标
+
+        Returns:
+            int: 清除的条目数
+        """
+        from collections import defaultdict
+        coord_names = defaultdict(list)
+        for name, entry in self._data.items():
+            lat = entry.get('lat')
+            lng = entry.get('lng')
+            if lat is None or lng is None:
+                continue
+            key = (round(lat, 6), round(lng, 6))
+            coord_names[key].append(name)
+
+        purged = 0
+        for coord, names in coord_names.items():
+            if len(names) >= threshold:
+                for n in names:
+                    self._data[n] = {'lat': None, 'lng': None, 'source': 'miss'}
+                    purged += 1
+        if purged:
+            self._dirty = True
+        return purged

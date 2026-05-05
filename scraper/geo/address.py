@@ -7,6 +7,8 @@
 from scraper.geo.validation import (
     BJ_DISTRICT_CENTERS,
     SH_DISTRICT_CENTERS,
+    SZ_DISTRICT_CENTERS,
+    HZ_DISTRICT_CENTERS,
     KNOWN_TOWNS,
 )
 
@@ -31,9 +33,19 @@ def build_address(name, location="", city_cn=""):
         parts = [p.strip() for p in location.split("-") if p.strip()]
         if len(parts) >= 2:
             district = parts[0]
-            is_bj = district in BJ_DISTRICT_CENTERS or district.endswith('区')
-            is_sh = not is_bj and district in SH_DISTRICT_CENTERS
-            if is_bj and not is_sh:
+            is_bj = district in BJ_DISTRICT_CENTERS
+            is_sh = district in SH_DISTRICT_CENTERS
+            is_sz = district in SZ_DISTRICT_CENTERS
+            is_hz = district in HZ_DISTRICT_CENTERS
+            # 区名可能带 "区" 后缀 (如 "临平区" -> "临平")
+            district_base = district.rstrip('区')
+            if not is_sz and district_base in SZ_DISTRICT_CENTERS:
+                is_sz = True
+                district = district_base
+            if not is_hz and district_base in HZ_DISTRICT_CENTERS:
+                is_hz = True
+                district = district_base
+            if is_bj:
                 sub_parts = parts[1:]
                 rest = " ".join(sub_parts)
                 return f"北京市{district}{rest} {name}"
@@ -47,6 +59,14 @@ def build_address(name, location="", city_cn=""):
                         sub_parts.append(p)
                 rest = " ".join(sub_parts)
                 return f"上海市{district}{district_suffix}{rest} {name}"
+            if is_sz:
+                sub_parts = parts[1:]
+                rest = " ".join(sub_parts)
+                return f"深圳市{district}区{rest} {name}"
+            if is_hz:
+                sub_parts = parts[1:]
+                rest = " ".join(sub_parts)
+                return f"杭州市{district}区{rest} {name}"
         return f"{location.replace('-', ' ').replace(' ', '')}{name}"
     if city_cn:
         return f"{city_cn}{name}"

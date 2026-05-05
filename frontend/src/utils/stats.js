@@ -248,7 +248,7 @@ export function buildCommunityStats(data) {
   const grouped = {};
   for (const item of data) {
     const community = (item.community || '').trim();
-    if (!community) continue;
+    if (!community || community.includes(' ')) continue;
     if (!grouped[community]) grouped[community] = [];
     grouped[community].push(item);
   }

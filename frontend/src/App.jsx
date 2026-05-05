@@ -37,18 +37,21 @@ function readURLParams() {
     // 替换为 query 形式 URL
     const qs = `?city=${city}&wp=${encodeURIComponent(wpName)}&dist=5`;
     window.history.replaceState(null, '', qs);
-    return preset ? { city, workplace: preset, maxDistance: 5 } : { city, maxDistance: 5 };
+    return preset
+      ? { city, workplace: preset, maxDistance: 5, fromURL: true }
+      : { city, maxDistance: 5, fromURL: true };
   }
 
   // query 形式: ?city=shanghai&wp=张江&dist=5
   const p = new URLSearchParams(window.location.search);
   const cityParam = p.get('city');
+  const wp = p.get('wp');
   const city = CITY_CONFIG[cityParam] ? cityParam : 'shanghai';
   const config = CITY_CONFIG[city];
-  const wp = p.get('wp');
   const dist = parseInt(p.get('dist'), 10);
   const loc = p.get('loc');
-  const result = { city };
+  const hasExplicitParams = cityParam != null || wp != null;
+  const result = { city, fromURL: hasExplicitParams };
   if (wp) {
     const decoded = decodeURIComponent(wp);
     const preset = config.workplaces.find((w) => w.name === decoded || w.key === decoded);
@@ -151,9 +154,9 @@ export default function App() {
 
   // 无 URL 参数时，自动定位
   useEffect(() => {
-    if (hasURLWorkplace) return;
+    if (hasURLWorkplace || initial.fromURL) return;
     locateByIP();
-  }, [hasURLWorkplace, locateByIP]);
+  }, [hasURLWorkplace, initial.fromURL, locateByIP]);
 
   // state 变化时同步回 URL
   useEffect(() => { writeURLParams(city, workplace, maxDistance); }, [city, workplace, maxDistance]);

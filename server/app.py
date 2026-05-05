@@ -40,7 +40,10 @@ def tmap():
     if not keyword:
         return jsonify({"status": -1, "message": "keyword required"}), 400
 
-    entry = _cache.get(keyword)
+    city = request.args.get("city", "上海")
+
+    cache_key = "{}:{}".format(city, keyword)
+    entry = _cache.get(cache_key)
     if entry and time.time() - entry["cached_at"] < CACHE_TTL:
         return entry["data"], entry["status"], {"Content-Type": "application/json"}
 
@@ -48,7 +51,7 @@ def tmap():
     params = {
         "keyword": keyword,
         "key": API_KEY,
-        "region": "上海",
+        "region": city,
         "page_size": "5",
         "output": "json",
     }
@@ -63,7 +66,7 @@ def tmap():
             if len(_cache) >= CACHE_MAX_SIZE:
                 oldest = min(_cache, key=lambda k: _cache[k]["cached_at"])
                 del _cache[oldest]
-            _cache[keyword] = {
+            _cache[cache_key] = {
                 "data": resp.content,
                 "status": resp.status_code,
                 "cached_at": time.time(),

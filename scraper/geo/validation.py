@@ -238,15 +238,58 @@ BJ_SUB_REGION_CENTERS = {
     '天桥': (39.89, 116.39), '椿树': (39.90, 116.37),
 }
 
+# ── 深圳数据 ──────────────────────────────────────────────
+
+SZ_BOUNDARY = {'lat_min': 22.40, 'lat_max': 22.90,
+               'lng_min': 113.70, 'lng_max': 114.70}
+
+SZ_DISTRICT_CENTERS = {
+    '福田': (22.52, 114.06), '罗湖': (22.56, 114.13),
+    '南山': (22.53, 113.93), '盐田': (22.56, 114.24),
+    '宝安': (22.56, 113.88), '龙岗': (22.72, 114.25),
+    '龙华': (22.66, 114.04), '坪山': (22.71, 114.35),
+    '光明': (22.75, 113.94), '大鹏': (22.60, 114.48),
+}
+
+SZ_DISTRICT_TOLERANCE_KM = {d: 20 for d in SZ_DISTRICT_CENTERS}
+for d in ('宝安', '龙岗', '龙华', '坪山', '光明'):
+    SZ_DISTRICT_TOLERANCE_KM[d] = 35
+SZ_DISTRICT_TOLERANCE_KM['大鹏'] = 40
+
+# ── 杭州数据 ──────────────────────────────────────────────
+
+HZ_BOUNDARY = {'lat_min': 29.90, 'lat_max': 30.60,
+               'lng_min': 119.80, 'lng_max': 120.70}
+
+HZ_DISTRICT_CENTERS = {
+    '上城': (30.25, 120.17), '拱墅': (30.32, 120.14),
+    '西湖': (30.26, 120.13), '滨江': (30.21, 120.21),
+    '萧山': (30.18, 120.26), '余杭': (30.29, 120.30),
+    '临平': (30.42, 120.30), '钱塘': (30.32, 120.35),
+    '富阳': (30.05, 119.96), '临安': (30.23, 119.72),
+    '桐庐': (29.79, 119.69), '淳安': (29.61, 119.05),
+    '建德': (29.47, 119.28),
+}
+
+HZ_DISTRICT_TOLERANCE_KM = {d: 25 for d in HZ_DISTRICT_CENTERS}
+for d in ('余杭', '临平', '萧山', '钱塘', '富阳', '临安'):
+    HZ_DISTRICT_TOLERANCE_KM[d] = 40
+for d in ('桐庐', '淳安', '建德'):
+    HZ_DISTRICT_TOLERANCE_KM[d] = 50
+
 # ── 合并所有区中心 (向后兼容) ───────────────────────────
 
 DISTRICT_CENTERS = {}
 DISTRICT_CENTERS.update(SH_DISTRICT_CENTERS)
 DISTRICT_CENTERS.update(BJ_DISTRICT_CENTERS)
+DISTRICT_CENTERS.update(SZ_DISTRICT_CENTERS)
+DISTRICT_CENTERS.update(HZ_DISTRICT_CENTERS)
 
 DISTRICT_TOLERANCE_KM = {}
 DISTRICT_TOLERANCE_KM.update(SH_DISTRICT_TOLERANCE_KM)
 DISTRICT_TOLERANCE_KM.update(BJ_DISTRICT_TOLERANCE_KM)
+DISTRICT_TOLERANCE_KM.update(SZ_DISTRICT_TOLERANCE_KM)
+DISTRICT_TOLERANCE_KM.update(HZ_DISTRICT_TOLERANCE_KM)
 
 SUB_REGION_CENTERS = {}
 SUB_REGION_CENTERS.update(SH_SUB_REGION_CENTERS)
@@ -295,7 +338,11 @@ def validate_coords(lat, lng, location):
              and SH_BOUNDARY['lng_min'] <= lng <= SH_BOUNDARY['lng_max'])
     in_bj = (BJ_BOUNDARY['lat_min'] <= lat <= BJ_BOUNDARY['lat_max']
              and BJ_BOUNDARY['lng_min'] <= lng <= BJ_BOUNDARY['lng_max'])
-    if not in_sh and not in_bj:
+    in_sz = (SZ_BOUNDARY['lat_min'] <= lat <= SZ_BOUNDARY['lat_max']
+             and SZ_BOUNDARY['lng_min'] <= lng <= SZ_BOUNDARY['lng_max'])
+    in_hz = (HZ_BOUNDARY['lat_min'] <= lat <= HZ_BOUNDARY['lat_max']
+             and HZ_BOUNDARY['lng_min'] <= lng <= HZ_BOUNDARY['lng_max'])
+    if not in_sh and not in_bj and not in_sz and not in_hz:
         logger.debug(f"坐标超出城市边界: ({lat}, {lng})")
         return False
 

@@ -1,3 +1,13 @@
 User-agent: *
 Allow: /
+Disallow: /assets/
+Disallow: /data/
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /assets/
+Disallow: /data/
+Crawl-delay: 1
+
 Sitemap: https://www.scoreless.top/sitemap.xml

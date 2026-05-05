@@ -86,5 +86,5 @@ export default function RoomsBarChart({ data, topRegions = [] }) {
     grid: { left: 60, right: 30, bottom: 40, top: 80 },
   };
 
-  return <ReactECharts option={option} style={{ height: isMobile ? 220 : 280 }} />;
+  return <ReactECharts option={option} notMerge style={{ height: isMobile ? 220 : 280 }} />;
 }

@@ -5,7 +5,7 @@ import useIsMobile from '../hooks/useIsMobile';
 
 const CUSTOM_KEY = '__custom__';
 
-export default function WorkplaceSelector({ value, onChange, workplaces }) {
+export default function WorkplaceSelector({ value, onChange, workplaces, city }) {
   const isMobile = useIsMobile();
   const defaultOptions = useMemo(
     () => workplaces.map((wp) => ({ value: wp.key, label: wp.name, isPreset: true })),
@@ -20,10 +20,10 @@ export default function WorkplaceSelector({ value, onChange, workplaces }) {
 
   const searchTmap = useCallback(async (keyword) => {
     // 生产环境用远程代理, 开发环境用 Vite 代理
-    const proxyBase = window.location.hostname === 'localhost'
-      ? '' : 'https://server.scoreless.top';
     try {
-      const res = await fetch(`${proxyBase}/api/tmap?keyword=${encodeURIComponent(keyword)}`);
+      const apiBase = location.hostname === 'localhost' ? '' : 'https://server.scoreless.top';
+      const cityParam = city ? `&city=${encodeURIComponent(city)}` : '';
+      const res = await fetch(`${apiBase}/api/tmap?keyword=${encodeURIComponent(keyword)}${cityParam}`);
       if (!res.ok) throw new Error(res.statusText);
       const json = await res.json();
       if (json.status === 0 && json.data?.length) {
@@ -117,7 +117,6 @@ export default function WorkplaceSelector({ value, onChange, workplaces }) {
     return (
       <div style={{ width: '100%' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-          <span style={{ fontSize: 13, color: '#555', whiteSpace: 'nowrap', fontWeight: 500, flexShrink: 0 }}>工作地</span>
           <AutoComplete {...acProps} style={{ flex: 1, minWidth: 0 }} />
         </div>
         {isCustom && (
@@ -133,7 +132,6 @@ export default function WorkplaceSelector({ value, onChange, workplaces }) {
   return (
     <Space wrap>
       <EnvironmentOutlined style={{ color: '#e74c3c', fontSize: 18 }} />
-      <span style={{ fontSize: 13, color: '#555', whiteSpace: 'nowrap', fontWeight: 500 }}>工作地</span>
       <AutoComplete {...acProps} style={{ width: 260 }} />
       {isCustom && (
         <>

@@ -28,5 +28,5 @@ export default function TopCommunities({ data }) {
     grid: { left: 140, right: 40, bottom: 30, top: 50 },
   };
 
-  return <ReactECharts option={option} style={{ height: 350 }} />;
+  return <ReactECharts option={option} notMerge style={{ height: 350 }} />;
 }

@@ -216,11 +216,16 @@ export const REGION_NAMES = {
 };
 
 export const WORKPLACES = [
-  { key: 'zhangjiang', name: '张江国创中心', lat: 31.2214, lng: 121.6282, address: '浦东新区丹桂路899号' },
-  { key: 'zhangjiang_2', name: '张江国创二期', lat: 31.219406, lng: 121.627225, address: '浦东新区张江国创中心二期' },
-  { key: 'jinqiao', name: '金桥开发区', lat: 31.2475, lng: 121.6282, address: '浦东新区金桥经济技术开发区' },
-  { key: 'tangzhen', name: '唐镇', lat: 31.2150, lng: 121.6550, address: '浦东新区唐镇中心' },
-  { key: 'chuansha', name: '川沙', lat: 31.1900, lng: 121.7000, address: '浦东新区川沙新镇' },
+  { key: 'shanghai_tower', name: '上海中心大厦', lat: 31.2335, lng: 121.5054, address: '浦东新区陆家嘴' },
+  { key: 'swfc', name: '上海环球金融中心', lat: 31.2343, lng: 121.5078, address: '浦东新区陆家嘴' },
+  { key: 'ifc_sh', name: '上海国金中心', lat: 31.2364, lng: 121.5022, address: '浦东新区陆家嘴' },
+  { key: 'henglong', name: '上海恒隆广场', lat: 31.2277, lng: 121.4536, address: '静安区南京西路' },
+  { key: 'wheelock', name: '上海会德丰国际广场', lat: 31.2216, lng: 121.4448, address: '静安区南京西路' },
+  { key: 'bfc', name: '上海BFC外滩金融中心', lat: 31.2267, lng: 121.4979, address: '黄浦区外滩' },
+  { key: 'century_finance', name: '上海陆家嘴世纪金融广场', lat: 31.2128, lng: 121.5353, address: '浦东新区陆家嘴' },
+  { key: 'zhangjiang_gate', name: '上海张江科学之门', lat: 31.1865, lng: 121.6175, address: '浦东新区张江' },
+  { key: 'chuangzhi', name: '上海创智天地', lat: 31.3060, lng: 121.5123, address: '杨浦区五角场' },
+  { key: 'caohojing', name: '上海漕河泾科技绿洲', lat: 31.1661, lng: 121.3904, address: '闵行区漕河泾' },
 ];
 
 export const DISTANCE_RINGS = [3, 5, 8, 10, 15];
@@ -347,12 +352,16 @@ export const BJ_REGION_NAMES = {
 };
 
 export const BJ_WORKPLACES = [
-  { key: 'wangjing', name: '望京', lat: 40.0018, lng: 116.4743, address: '朝阳区望京' },
-  { key: 'zhongguancun', name: '中关村', lat: 39.9818, lng: 116.3174, address: '海淀区中关村' },
-  { key: 'guomao', name: '国贸CBD', lat: 39.9087, lng: 116.4603, address: '朝阳区国贸' },
-  { key: 'shangdi', name: '上地', lat: 40.0380, lng: 116.3100, address: '海淀区上地' },
-  { key: 'yizhuang', name: '亦庄', lat: 39.7950, lng: 116.5050, address: '大兴区亦庄' },
-  { key: 'xierqi', name: '西二旗', lat: 40.0560, lng: 116.3070, address: '海淀区西二旗' },
+  { key: 'zhongxin_tower', name: '北京中信大厦', lat: 39.9129, lng: 116.4663, address: '朝阳区CBD' },
+  { key: 'guomao_iii', name: '北京国贸三期', lat: 39.9125, lng: 116.4598, address: '朝阳区国贸' },
+  { key: 'zhongguanzun', name: '北京中国尊', lat: 39.9129, lng: 116.4663, address: '朝阳区CBD' },
+  { key: 'yintai', name: '北京银泰中心', lat: 39.9074, lng: 116.4593, address: '朝阳区国贸' },
+  { key: 'huamao', name: '北京华贸中心', lat: 39.9092, lng: 116.4808, address: '朝阳区华贸' },
+  { key: 'wfc_bj', name: '北京环球金融中心', lat: 39.9187, lng: 116.4590, address: '朝阳区CBD' },
+  { key: 'fortune', name: '北京财富中心', lat: 39.9161, lng: 116.4601, address: '朝阳区CBD' },
+  { key: 'kerry_bj', name: '北京嘉里中心', lat: 39.9141, lng: 116.4593, address: '朝阳区国贸' },
+  { key: 'yinglan', name: '北京金融街英蓝国际金融中心', lat: 39.9206, lng: 116.3579, address: '西城区金融街' },
+  { key: 'rongke', name: '北京融科资讯中心', lat: 39.9835, lng: 116.3261, address: '海淀区中关村' },
 ];
 
 // ============================================================
@@ -398,12 +407,67 @@ export const HZ_REGION_NAMES = {
 };
 
 export const HZ_WORKPLACES = [
-  { key: 'weilaikejicheng', name: '未来科技城', lat: 30.2850, lng: 120.0260, address: '余杭区未来科技城' },
-  { key: 'binjiang', name: '滨江', lat: 30.2080, lng: 120.2100, address: '滨江区网商路' },
-  { key: 'qianjiangxincheng', name: '钱江新城', lat: 30.2500, lng: 120.2150, address: '上城区钱江新城' },
-  { key: 'wulin', name: '武林广场', lat: 30.2750, lng: 120.1650, address: '拱墅区武林广场' },
-  { key: 'xixi', name: '西溪', lat: 30.2680, lng: 120.0600, address: '西湖区西溪湿地' },
-  { key: 'xiasha', name: '下沙', lat: 30.3150, lng: 120.3500, address: '钱塘区下沙' },
+  { key: 'raffles_hz', name: '杭州来福士中心', lat: 30.2487, lng: 120.2131, address: '上城区钱江新城' },
+  { key: 'pingan_hz', name: '杭州平安金融中心', lat: 30.2510, lng: 120.2130, address: '上城区钱江新城' },
+  { key: 'huarun_hz', name: '杭州华润大厦', lat: 30.2538, lng: 120.2150, address: '上城区钱江新城' },
+  { key: 'qianjiang_core', name: '杭州钱江新城核心区', lat: 30.2520, lng: 120.2050, address: '上城区钱江新城' },
+  { key: 'efc', name: '杭州EFC欧美金融城', lat: 30.2811, lng: 120.0031, address: '余杭区未来科技城' },
+  { key: 'alixixi', name: '杭州阿里西溪园区', lat: 30.2782, lng: 120.0311, address: '余杭区西溪' },
+  { key: 'netease', name: '杭州网易杭州园区', lat: 30.1520, lng: 120.2017, address: '滨江区网商路' },
+  { key: 'hikvision', name: '杭州海康威视总部', lat: 30.2100, lng: 120.2211, address: '滨江区阡陌路' },
+  { key: 'iot_town', name: '杭州滨江物联网小镇', lat: 30.2122, lng: 120.2290, address: '滨江区物联网街' },
+  { key: 'yunqi', name: '杭州云栖小镇', lat: 30.1277, lng: 120.0849, address: '西湖区云栖小镇' },
+];
+
+// ============================================================
+// 深圳配置
+// ============================================================
+
+export const SZ_REGION_NAMES = {
+  bagualing: '八卦岭', baihua: '百花', baishida: '百仕达',
+  baishizhou: '白石洲', bantian: '坂田', baoanzhongxin: '宝安中心',
+  bihai1: '碧海', bujidafen: '布吉大芬', bujiguan: '布吉关',
+  bujijie: '布吉街', bujinanling: '布吉南岭', bujishiyaling: '布吉石牙岭',
+  bujishuijing: '布吉水径', buxin: '布心', chegongmiao: '车公庙',
+  chiwei: '赤尾', chunfenglu: '春风路', cuizhu: '翠竹',
+  danzhutou: '丹竹头', daxuecheng3: '大学城', dayunxincheng: '大运新城',
+  diwang: '地王', dongmen: '东门', fanshen: '翻身',
+  futianbaoshuiqu: '福田保税区', futianzhongxin: '福田中心',
+  fuyong: '福永', gongming: '公明', guangming1: '光明',
+  guanlan: '观澜', hangcheng: '航城', henggang: '横岗',
+  honghu: '洪湖', hongshan6: '红山', hongshuwan: '红树湾',
+  houhai: '后海', huangbeiling: '黄贝岭', huanggang: '皇岗',
+  huangmugang: '黄木岗', huaqiangbei: '华强北', huaqiangnan: '华强南',
+  huaqiaocheng1: '华侨城', jingtian: '景田', kejiyuan: '科技园',
+  lianhua: '莲花', liantang: '莲塘', longgangbaohe: '龙岗宝荷',
+  longgangshuanglong: '龙岗双龙', longgangzhongxincheng: '龙岗中心城',
+  longhuaxinqu: '龙华新区', longhuazhongxin: '龙华中心',
+  luohukouan: '罗湖口岸', luoling: '螺岭', meilin: '梅林',
+  meilinguan: '梅林关', meisha: '梅沙', minzhi: '民治',
+  nanshanzhongxin: '南山中心', nantou: '南头', pingdi: '坪地',
+  pinghu: '平湖', qianhai: '前海', qingshuihe: '清水河',
+  shajing: '沙井', shangbu: '上步', shangtang: '上塘',
+  shangxiasha: '上下沙', shatoujiao: '沙头角', shawei: '沙尾',
+  shekou: '蛇口', shenzhenwan: '深圳湾', shixia: '石厦',
+  shiyan: '石岩', songgang: '松岗', sungang: '笋岗',
+  taoyuanju: '桃源居', wanxiangcheng: '万象城', xiangmeibei: '香梅北',
+  xiangmihu: '香蜜湖', xicheng1: '西城', xili1: '西丽',
+  xinan: '西乡', xinxiu: '新秀', xinzhou1: '新洲',
+  xixiang: '西乡', yantiangang: '盐田港', yinhu: '银湖',
+  yuanling: '园岭', zhuzilin: '竹子林',
+};
+
+export const SZ_WORKPLACES = [
+  { key: 'pingan_sz', name: '深圳平安金融中心', lat: 22.5332, lng: 114.0556, address: '福田区福田CBD' },
+  { key: 'tencent_binhai', name: '深圳腾讯滨海大厦', lat: 22.5228, lng: 113.9353, address: '南山区科技园' },
+  { key: 'huarun_chunsun', name: '深圳华润春笋', lat: 22.5150, lng: 113.9465, address: '南山区后海' },
+  { key: 'kexing', name: '深圳科兴科学园', lat: 22.5482, lng: 113.9436, address: '南山区科技园' },
+  { key: 'shenzhenwan_eco', name: '深圳深圳湾科技生态园', lat: 22.5299, lng: 113.9525, address: '南山区科技园' },
+  { key: 'tencent_tower', name: '深圳腾讯大厦', lat: 22.5404, lng: 113.9346, address: '南山区科技园' },
+  { key: 'baidu_sz', name: '深圳百度国际大厦', lat: 22.5246, lng: 113.9422, address: '南山区科技园' },
+  { key: 'dji', name: '深圳大疆天空之城', lat: 22.5775, lng: 113.9429, address: '南山区留仙洞' },
+  { key: 'skyworth', name: '深圳创维半导体设计大厦', lat: 22.5373, lng: 113.9536, address: '南山区科技园' },
+  { key: 'zhongliang', name: '深圳中粮科技园', lat: 22.5760, lng: 113.9230, address: '宝安区中粮科技创新园' },
 ];
 
 // ============================================================
@@ -437,6 +501,15 @@ export const CITY_CONFIG = {
     defaultZoom: 25,
     bounds: { latMin: 29.9, latMax: 30.6, lngMin: 119.5, lngMax: 120.7 },
     dataPath: 'hangzhou/',
+  },
+  shenzhen: {
+    name: '深圳',
+    workplaces: SZ_WORKPLACES,
+    regionNames: SZ_REGION_NAMES,
+    defaultCenter: [22.55, 114.05],
+    defaultZoom: 25,
+    bounds: { latMin: 22.4, latMax: 22.9, lngMin: 113.7, lngMax: 114.7 },
+    dataPath: 'shenzhen/',
   },
 };
 

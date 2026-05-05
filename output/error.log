@@ -518,3 +518,19 @@ Call log:
   File "/Users/admin/lianjia/scraper/scraper_core.py", line 499, in scrape_with_browser
     subareas = await _detect_subareas(page, area_slug)
 
+2026-05-04 01:44:04 [ERROR] 地图 | BrokenPipeError: [Errno 32] Broken pipe | 重试第 1 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    result = self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 413, in <lambda>
+    logger.info(f"地图生成 | 工作地点: {workplace['name']} "
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 262, in _step_map
+    logger.warning("无数据文件，跳过地图生成")
+
+2026-05-04 01:44:05 [ERROR] 地图 | BrokenPipeError: [Errno 32] Broken pipe | 重试第 2 次
+  File "/Users/admin/lianjia/scraper/retry.py", line 249, in execute
+    result = self.func(*args, **kwargs)
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 413, in <lambda>
+    logger.info(f"地图生成 | 工作地点: {workplace['name']} "
+  File "/Users/admin/lianjia/scraper/pipeline.py", line 262, in _step_map
+    logger.warning("无数据文件，跳过地图生成")
+

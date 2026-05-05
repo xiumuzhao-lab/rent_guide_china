@@ -21,5 +21,5 @@ export default function RentTypePie({ data }) {
     }],
   };
 
-  return <ReactECharts option={option} style={{ height: 280 }} />;
+  return <ReactECharts option={option} notMerge style={{ height: 280 }} />;
 }

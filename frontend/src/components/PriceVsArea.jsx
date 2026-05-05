@@ -155,5 +155,5 @@ export default function PriceVsArea({ data, topRegions = [] }) {
     grid: { left: 80, right: 30, bottom: 40, top: 80 },
   };
 
-  return <ReactECharts option={option} style={{ height: isMobile ? 220 : 280 }} />;
+  return <ReactECharts option={option} notMerge style={{ height: isMobile ? 220 : 280 }} />;
 }
