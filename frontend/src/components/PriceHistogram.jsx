@@ -123,7 +123,7 @@ export default function PriceHistogram({ data, topRegions = [] }) {
             {
               xAxis: medianBinIdx,
               lineStyle: { color: '#3498db', type: 'dotted', width: 2 },
-              label: { formatter: `中位 ${median.toLocaleString()}元`, position: 'insideStartTop', fontSize: 11, color: '#3498db' },
+              label: { formatter: `中位 ${median.toLocaleString()}元`, position: 'insideEndTop', fontSize: 11, color: '#3498db' },
             },
           ],
         },
@@ -133,6 +133,5 @@ export default function PriceHistogram({ data, topRegions = [] }) {
     grid: { left: 60, right: 20, bottom: 55, top: 80 },
   };
 
-  console.log('[PriceHistogram] maxTotal:', maxTotal, 'totals:', JSON.stringify(totals), 'seriesCount:', series.length, 'data.length:', data.length);
-  return <ReactECharts option={option} style={{ height: isMobile ? 220 : 280 }} />;
+  return <ReactECharts option={option} notMerge style={{ height: isMobile ? 220 : 280 }} />;
 }

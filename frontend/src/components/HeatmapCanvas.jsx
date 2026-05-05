@@ -487,9 +487,9 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
     // 色阶条
     const barW = Math.max(10, 16 * sf);
     const barH = H * 0.4;
-    const barX = W - 40 * sf;
+    const barPad = 6 * sf;
+    const barX = W - barW - barPad * 2;
     const barY = (H - barH) / 2;
-    // 图例: 红色=高性价比(低价), 蓝色=其他
     const halfH = barH / 2;
     ctx.fillStyle = '#e74c3c';
     ctx.fillRect(barX, barY, barW, halfH);
@@ -500,11 +500,11 @@ export default function HeatmapCanvas({ workplace, enrichedStats, maxDistance, c
     ctx.strokeRect(barX, barY, barW, barH);
     ctx.fillStyle = '#666';
     ctx.font = `${Math.round(10 * sf)}px sans-serif`;
-    ctx.textAlign = 'left';
-    ctx.textBaseline = 'top';
-    ctx.fillText('高性价比', barX + barW + 4 * sf, barY);
+    ctx.textAlign = 'center';
     ctx.textBaseline = 'bottom';
-    ctx.fillText('其他', barX + barW + 4 * sf, barY + barH);
+    ctx.fillText('低', barX + barW / 2, barY - 2);
+    ctx.textBaseline = 'top';
+    ctx.fillText('高', barX + barW / 2, barY + barH + 2);
 
     // 标题
     ctx.font = `bold ${Math.round(14 * sf)}px sans-serif`;

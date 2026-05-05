@@ -15,8 +15,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 72.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.549606,
+    "lng": 114.126773
   },
   {
     "title": "整租·海珑华苑 1室0厅 南",
@@ -34,8 +34,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 69.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.546836,
+    "lng": 114.132529
   },
   {
     "title": "独栋·天汇 仁恒深之源 245平米丨奢阔大横厅丨三房 3室1厅",
@@ -53,8 +53,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 175.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.52271,
+    "lng": 113.9314
   },
   {
     "title": "整租·京基东方华都 1室0厅 东",
@@ -72,8 +72,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 87.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·新世界大厦 1室0厅 南",
@@ -91,8 +91,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 109.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·深港花园 3室2厅 北",
@@ -110,8 +110,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 57.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.545992,
+    "lng": 114.131878
   },
   {
     "title": "整租·名都大厦 3室2厅 东南",
@@ -129,8 +129,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 59.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.550742,
+    "lng": 114.129824
   },
   {
     "title": "整租·环岛丽园 2室2厅 西南",
@@ -148,8 +148,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 89.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.552296,
+    "lng": 114.133999
   },
   {
     "title": "整租·海珑华苑 1室0厅 南",
@@ -167,8 +167,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 84.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.546836,
+    "lng": 114.132529
   },
   {
     "title": "整租·新世界大厦 1室0厅 北",
@@ -186,8 +186,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 116.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·凤凰印象 2室1厅 北",
@@ -205,8 +205,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 101.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.547269,
+    "lng": 114.133307
   },
   {
     "title": "整租·东门168 1室0厅 南",
@@ -224,8 +224,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 80.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·东门168 1室1厅 东",
@@ -243,8 +243,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 91.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·京基东方华都 1室0厅 东",
@@ -262,8 +262,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 87.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·华丽西村 3室1厅 东南",
@@ -281,8 +281,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 68.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.55307,
+    "lng": 114.12957
   },
   {
     "title": "整租·东门168 2室1厅 南",
@@ -300,8 +300,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 95.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·华隆园 1室0厅 南",
@@ -319,8 +319,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 83.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·新世界大厦 1室0厅 东南",
@@ -338,8 +338,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 118.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·聚龙大厦 2室1厅 西南",
@@ -357,8 +357,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 75.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·东门168 1室0厅 西北",
@@ -376,8 +376,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 97.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·华隆园 1室0厅 东",
@@ -395,8 +395,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 96.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·华润置地未来城 1室1厅 西",
@@ -414,8 +414,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 124.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.552926,
+    "lng": 114.127017
   },
   {
     "title": "整租·东门168 1室0厅 南",
@@ -433,8 +433,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 104.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·锦绣大厦 1室1厅 南",
@@ -452,8 +452,8 @@
     "scraped_at": "2026-05-03 05:28:00",
     "region": "luoling",
     "unit_price": 85.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.548909,
+    "lng": 114.13176
   },
   {
     "title": "整租·金城华庭 1室1厅 西北",
@@ -471,8 +471,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 82.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·名都大厦 1室0厅 西",
@@ -490,8 +490,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 105.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.550742,
+    "lng": 114.129824
   },
   {
     "title": "整租·东门168 1室0厅 南",
@@ -509,8 +509,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 104.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·东门168 1室0厅 东北",
@@ -528,8 +528,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 77.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·东门168 1室0厅 南",
@@ -547,8 +547,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 92.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·都心名苑 1室0厅 南",
@@ -566,8 +566,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 91.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.549111,
+    "lng": 114.126125
   },
   {
     "title": "整租·京基东方华都 1室0厅 东",
@@ -585,8 +585,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·京基东方颐园 2室1厅 东南",
@@ -604,8 +604,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 109.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.549606,
+    "lng": 114.126773
   },
   {
     "title": "整租·福德花园 3室2厅 北",
@@ -623,8 +623,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 67.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.546346,
+    "lng": 114.133299
   },
   {
     "title": "整租·缤纷时代家园 1室1厅 南/北",
@@ -642,8 +642,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 101.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·聚龙大厦 3室2厅 西南",
@@ -661,8 +661,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 77.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·环岛丽园 4室2厅 南",
@@ -680,8 +680,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.552296,
+    "lng": 114.133999
   },
   {
     "title": "整租·东门168 1室0厅 东南",
@@ -699,8 +699,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 103.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -718,8 +718,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 135.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·华裕花园 1室1厅 南",
@@ -737,8 +737,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 70.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.546084,
+    "lng": 114.132537
   },
   {
     "title": "整租·凤凰印象 1室1厅 东南",
@@ -756,8 +756,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 116.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.547269,
+    "lng": 114.133307
   },
   {
     "title": "整租·名都大厦 3室2厅 东南",
@@ -775,8 +775,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 69.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.550742,
+    "lng": 114.129824
   },
   {
     "title": "整租·都心名苑 2室1厅 北",
@@ -794,8 +794,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 98.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.549111,
+    "lng": 114.126125
   },
   {
     "title": "整租·锦绣大厦 3室2厅 东南",
@@ -813,8 +813,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 61.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.548909,
+    "lng": 114.13176
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -832,8 +832,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 134.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -851,8 +851,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 155.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·凤凰印象 1室1厅 东北",
@@ -870,8 +870,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 109.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.547269,
+    "lng": 114.133307
   },
   {
     "title": "整租·联兴大厦 1室1厅 东南",
@@ -889,8 +889,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 116.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·缤纷时代家园 1室0厅 西南",
@@ -908,8 +908,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 106.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·环岛丽园 2室2厅 东北",
@@ -927,8 +927,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 86.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.552296,
+    "lng": 114.133999
   },
   {
     "title": "整租·锦绣大厦 2室1厅 西南",
@@ -946,8 +946,8 @@
     "scraped_at": "2026-05-03 05:28:03",
     "region": "luoling",
     "unit_price": 75.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.548909,
+    "lng": 114.13176
   },
   {
     "title": "整租·新世界大厦 1室0厅 南",
@@ -965,8 +965,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 127.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·新世界大厦 1室0厅 东南",
@@ -984,8 +984,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 111.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·京基东方华都 1室1厅 东南",
@@ -1003,8 +1003,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 87.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·华丽花园 3室2厅 南",
@@ -1022,8 +1022,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 61.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.550477,
+    "lng": 114.133733
   },
   {
     "title": "整租·海珑华苑 1室1厅 东南",
@@ -1041,8 +1041,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 50.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.546836,
+    "lng": 114.132529
   },
   {
     "title": "整租·东门168 1室0厅 东",
@@ -1060,8 +1060,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 105.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·华隆园 1室1厅 东南",
@@ -1079,8 +1079,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 97.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·缤纷时代家园 1室0厅 西",
@@ -1098,8 +1098,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 108.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·登高村 2室1厅 南",
@@ -1117,8 +1117,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 55.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.550831,
+    "lng": 114.124138
   },
   {
     "title": "整租·仁恒深之源 2室2厅 西北",
@@ -1136,8 +1136,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 141.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东北",
@@ -1155,8 +1155,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 132.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·东门168 1室0厅 南",
@@ -1174,8 +1174,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 114.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·汇锦名园 2室2厅 东南",
@@ -1193,8 +1193,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 82.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.548216,
+    "lng": 114.132417
   },
   {
     "title": "整租·华隆园 1室0厅 东南/南/西南",
@@ -1212,8 +1212,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 80.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·金城华庭 3室2厅 东北",
@@ -1231,8 +1231,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 96.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·华丽西村 1室0厅 南",
@@ -1250,8 +1250,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 116.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.55307,
+    "lng": 114.12957
   },
   {
     "title": "整租·东郊街三巷 2室0厅 北",
@@ -1269,8 +1269,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 66.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·万达丰大厦 3室1厅 东南",
@@ -1288,8 +1288,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 53.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.551935,
+    "lng": 114.125022
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -1307,8 +1307,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 134.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东",
@@ -1326,8 +1326,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 141.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -1345,8 +1345,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 128.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 西南",
@@ -1364,8 +1364,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 135.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -1383,8 +1383,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 130.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -1402,8 +1402,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 141.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室1厅 东北",
@@ -1421,8 +1421,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 128.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -1440,8 +1440,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 145.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·新世界大厦 1室1厅 东南",
@@ -1459,8 +1459,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 136.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·仁恒深之源 2室2厅 西北",
@@ -1478,8 +1478,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 136.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·东门168 1室0厅 南/西南",
@@ -1497,8 +1497,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 109.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·金城华庭 2室2厅 东南",
@@ -1516,8 +1516,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 80.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·外贸集团大厦 1室1厅 西南",
@@ -1535,8 +1535,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 44.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.553979,
+    "lng": 114.12405
   },
   {
     "title": "整租·金盾花园 2室1厅 南",
@@ -1554,8 +1554,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 73.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·锦绣大厦 1室1厅 南",
@@ -1573,8 +1573,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 86.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.548909,
+    "lng": 114.13176
   },
   {
     "title": "整租·京基东方华都 1室1厅 东南",
@@ -1592,8 +1592,8 @@
     "scraped_at": "2026-05-03 05:28:06",
     "region": "luoling",
     "unit_price": 107.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·东门168 1室0厅 南",
@@ -1611,8 +1611,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 86.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东北",
@@ -1630,8 +1630,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 128.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 2室2厅 东南",
@@ -1649,8 +1649,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 131.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·东门168 1室0厅 东/南",
@@ -1668,8 +1668,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 90.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·京基东方华都 1室1厅 南/北",
@@ -1687,8 +1687,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 108.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·东门168 1室0厅 东北",
@@ -1706,8 +1706,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 114.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·环岛丽园 1室1厅 西南",
@@ -1725,8 +1725,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 114.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.552296,
+    "lng": 114.133999
   },
   {
     "title": "整租·环岛丽园 3室2厅 南",
@@ -1744,8 +1744,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 85.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.552296,
+    "lng": 114.133999
   },
   {
     "title": "整租·海珑华苑 1室1厅 东北",
@@ -1763,8 +1763,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 76.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.546836,
+    "lng": 114.132529
   },
   {
     "title": "整租·缤纷时代家园 1室0厅 西南",
@@ -1782,8 +1782,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 121.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·海珑华苑 0室1厅 北",
@@ -1801,8 +1801,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 67.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.546836,
+    "lng": 114.132529
   },
   {
     "title": "整租·福德花园 1室1厅 南",
@@ -1820,8 +1820,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 95.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.546346,
+    "lng": 114.133299
   },
   {
     "title": "整租·湖臻大厦 1室2厅 东南",
@@ -1839,8 +1839,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 60.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.545274,
+    "lng": 114.125559
   },
   {
     "title": "整租·华润置地未来城 5室2厅 西南",
@@ -1858,8 +1858,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 136.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.552926,
+    "lng": 114.127017
   },
   {
     "title": "整租·中兴路144号大院 2室1厅 南",
@@ -1877,8 +1877,8 @@
     "scraped_at": "2026-05-03 05:28:10",
     "region": "luoling",
     "unit_price": 67.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.55265,
+    "lng": 114.12014
   },
   {
     "title": "整租·凤凰印象 1室1厅 南",
@@ -1896,8 +1896,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 116.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.547269,
+    "lng": 114.133307
   },
   {
     "title": "整租·环岛丽园 2室2厅 东南",
@@ -1915,8 +1915,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 90.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.552296,
+    "lng": 114.133999
   },
   {
     "title": "整租·东门168 1室1厅 西北",
@@ -1934,8 +1934,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 81.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·东门168 1室0厅 南",
@@ -1953,8 +1953,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 100.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·缤纷时代家园 1室0厅 西",
@@ -1972,8 +1972,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 111.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·缤纷时代家园 1室0厅 西",
@@ -1991,8 +1991,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 104.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·华隆园 1室0厅 东",
@@ -2010,8 +2010,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 86.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -2029,8 +2029,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 153.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 2室2厅 西北",
@@ -2048,8 +2048,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 132.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·金城华庭 3室2厅 东南",
@@ -2067,8 +2067,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 92.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·缤纷时代家园 1室1厅 东南/南",
@@ -2086,8 +2086,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 105.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·聚龙大厦 2室1厅 东南",
@@ -2105,8 +2105,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 73.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·凤凰56号大院 3室2厅 南",
@@ -2124,8 +2124,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 59.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.548805,
+    "lng": 114.133455
   },
   {
     "title": "整租·华丽花园 3室2厅 西南",
@@ -2143,8 +2143,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 65.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.550477,
+    "lng": 114.133733
   },
   {
     "title": "整租·华隆园 1室0厅 东北",
@@ -2162,8 +2162,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 80.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·华丽西村 3室2厅 南/北",
@@ -2181,8 +2181,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 58.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.55307,
+    "lng": 114.12957
   },
   {
     "title": "整租·京基东方华都 1室1厅 西南",
@@ -2200,8 +2200,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 102.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·京基东方华都 1室0厅 东南",
@@ -2219,8 +2219,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 96.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·环岛丽园 2室1厅 南",
@@ -2238,8 +2238,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 83.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.552296,
+    "lng": 114.133999
   },
   {
     "title": "整租·环岛丽园 2室2厅 东北",
@@ -2257,8 +2257,8 @@
     "scraped_at": "2026-05-03 05:28:12",
     "region": "luoling",
     "unit_price": 84.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.552296,
+    "lng": 114.133999
   },
   {
     "title": "整租·金城华庭 2室1厅 北",
@@ -2276,8 +2276,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 106.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·金城华庭 3室2厅 南",
@@ -2295,8 +2295,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·华隆园 1室0厅 西南",
@@ -2314,8 +2314,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 86.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·京基东方华都 1室1厅 南/西南",
@@ -2333,8 +2333,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 102.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·海珑华苑 1室1厅 南",
@@ -2352,8 +2352,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 48.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.546836,
+    "lng": 114.132529
   },
   {
     "title": "整租·中兴路144号大院 3室1厅 东南",
@@ -2371,8 +2371,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 51.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.55265,
+    "lng": 114.12014
   },
   {
     "title": "整租·华润置地未来城 1室1厅 西南",
@@ -2390,8 +2390,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 143.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.552926,
+    "lng": 114.127017
   },
   {
     "title": "整租·华润置地未来城 1室1厅 东南",
@@ -2409,8 +2409,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 143.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.552926,
+    "lng": 114.127017
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东北",
@@ -2428,8 +2428,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 129.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·聚龙大厦 2室1厅 西北",
@@ -2447,8 +2447,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 79.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·深港花园 6室2厅 东南",
@@ -2466,8 +2466,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 43.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.545992,
+    "lng": 114.131878
   },
   {
     "title": "整租·华润置地未来城 2室1厅 南",
@@ -2485,8 +2485,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 104.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.552926,
+    "lng": 114.127017
   },
   {
     "title": "整租·金盾花园 3室1厅 南/北",
@@ -2504,8 +2504,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 61.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·联兴大厦 1室1厅 东南",
@@ -2523,8 +2523,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 116.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·联兴大厦 1室1厅 东南",
@@ -2542,8 +2542,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 108.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·联兴大厦 2室1厅 东南",
@@ -2561,8 +2561,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·联兴大厦 2室1厅 东南",
@@ -2580,8 +2580,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·联兴大厦 1室1厅 东南",
@@ -2599,8 +2599,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·联兴大厦 1室1厅 东南",
@@ -2618,8 +2618,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·京基东方华都 1室1厅 东南",
@@ -2637,8 +2637,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·华丽花园 3室2厅 东",
@@ -2656,8 +2656,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 63.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.550477,
+    "lng": 114.133733
   },
   {
     "title": "整租·华润置地未来城 1室0厅 南",
@@ -2675,8 +2675,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 148.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.552926,
+    "lng": 114.127017
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -2694,8 +2694,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 135.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东北",
@@ -2713,8 +2713,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 128.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 2室2厅 西北",
@@ -2732,8 +2732,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 132.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 2室1厅 西北",
@@ -2751,8 +2751,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 132.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 2室2厅 西北",
@@ -2770,8 +2770,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 132.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东南",
@@ -2789,8 +2789,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 141.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 2室2厅 西北",
@@ -2808,8 +2808,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 132.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 2室2厅 西北",
@@ -2827,8 +2827,8 @@
     "scraped_at": "2026-05-03 05:28:15",
     "region": "luoling",
     "unit_price": 132.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·新世界大厦 1室0厅 东南",
@@ -2846,8 +2846,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 111.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·凤凰印象 1室1厅 南",
@@ -2865,8 +2865,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 111.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.547269,
+    "lng": 114.133307
   },
   {
     "title": "整租·华隆园 1室1厅 东",
@@ -2884,8 +2884,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 83.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·东门168 1室1厅 南",
@@ -2903,8 +2903,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 84.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·聚龙大厦 3室1厅 南/西南",
@@ -2922,8 +2922,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 90.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·外贸集团大厦 3室1厅 南",
@@ -2941,8 +2941,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 46.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.553979,
+    "lng": 114.12405
   },
   {
     "title": "整租·缤纷时代家园 1室1厅 西南",
@@ -2960,8 +2960,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 101.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·东门168 1室0厅 东南",
@@ -2979,8 +2979,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 115.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·金城华庭 1室1厅 南",
@@ -2998,8 +2998,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 102.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·缤纷时代家园 1室0厅 西南",
@@ -3017,8 +3017,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 116.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·凤凰街58号大院 2室1厅 东",
@@ -3036,8 +3036,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 46.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.552996,
+    "lng": 114.127881
   },
   {
     "title": "整租·金城华庭 2室2厅 东南",
@@ -3055,8 +3055,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 110.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "合租·华深公寓 2居室 东南卧",
@@ -3074,8 +3074,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 96.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.551128,
+    "lng": 114.133216
   },
   {
     "title": "整租·凤凰印象 1室1厅 北",
@@ -3093,8 +3093,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 122.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.547269,
+    "lng": 114.133307
   },
   {
     "title": "整租·缤纷时代家园 1室1厅 东北",
@@ -3112,8 +3112,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 102.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·东门168 1室0厅 东北",
@@ -3131,8 +3131,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·联兴大厦 1室1厅 东南",
@@ -3150,8 +3150,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 108.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·联兴大厦 1室1厅 东南",
@@ -3169,8 +3169,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·联兴大厦 1室1厅 东南",
@@ -3188,8 +3188,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 116.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·联兴大厦 2室1厅 东南",
@@ -3207,8 +3207,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·联兴大厦 1室1厅 东南",
@@ -3226,8 +3226,8 @@
     "scraped_at": "2026-05-03 05:28:19",
     "region": "luoling",
     "unit_price": 108.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.548882,
+    "lng": 114.130535
   },
   {
     "title": "整租·缤纷时代家园 1室1厅 西南",
@@ -3245,8 +3245,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 97.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·聚龙大厦 2室1厅 西南",
@@ -3264,8 +3264,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 79.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·凤凰印象 1室0厅 南",
@@ -3283,8 +3283,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 120.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.547269,
+    "lng": 114.133307
   },
   {
     "title": "整租·金城华庭 3室1厅 南",
@@ -3302,8 +3302,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 98.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·东门168 1室0厅 西南",
@@ -3321,8 +3321,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 168.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·翠园十四巷 3室1厅 东南",
@@ -3340,8 +3340,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 42.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.55548,
+    "lng": 114.12214
   },
   {
     "title": "整租·翠园十六巷 1室1厅 东南/南",
@@ -3359,8 +3359,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 150.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.55548,
+    "lng": 114.12214
   },
   {
     "title": "整租·海珑华苑 1室0厅 南",
@@ -3378,8 +3378,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 76.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.546836,
+    "lng": 114.132529
   },
   {
     "title": "整租·仁恒深之源 3室2厅 东/东南",
@@ -3397,8 +3397,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 132.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室1厅 西北",
@@ -3416,8 +3416,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 128.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 2室1厅 西北",
@@ -3435,8 +3435,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 132.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·仁恒深之源 3室1厅 西北",
@@ -3454,8 +3454,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 148.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.546612,
+    "lng": 114.131649
   },
   {
     "title": "整租·新世界大厦 1室1厅 西",
@@ -3473,8 +3473,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 121.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·东门168 1室0厅 东",
@@ -3492,8 +3492,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 100.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·聚龙大厦 4室1厅 南",
@@ -3511,8 +3511,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 86.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·京基东方颐园 2室1厅 东南",
@@ -3530,8 +3530,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 109.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.549606,
+    "lng": 114.126773
   },
   {
     "title": "整租·翠园十六巷 1室1厅 南/北",
@@ -3549,8 +3549,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 200.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.55548,
+    "lng": 114.12214
   },
   {
     "title": "整租·东门168 1室0厅 东南",
@@ -3568,8 +3568,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 93.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·金城华庭 2室1厅 西南",
@@ -3587,8 +3587,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 94.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·金城华庭 2室1厅 北",
@@ -3606,8 +3606,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 92.3,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·聚龙大厦 2室2厅 东",
@@ -3625,8 +3625,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 77.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·海珑华苑 3室1厅 北",
@@ -3644,8 +3644,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 87.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.546836,
+    "lng": 114.132529
   },
   {
     "title": "整租·锦绣大厦 3室1厅 东南",
@@ -3663,8 +3663,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 76.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.548909,
+    "lng": 114.13176
   },
   {
     "title": "整租·东门168 1室0厅 东",
@@ -3682,8 +3682,8 @@
     "scraped_at": "2026-05-03 05:28:22",
     "region": "luoling",
     "unit_price": 93.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·华隆园 1室0厅 东南",
@@ -3701,8 +3701,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 85.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·金城华庭 1室1厅 南",
@@ -3720,8 +3720,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·京基东方华都 1室1厅 西",
@@ -3739,8 +3739,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 105.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·凤凰印象 1室1厅 东",
@@ -3758,8 +3758,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 109.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.547269,
+    "lng": 114.133307
   },
   {
     "title": "整租·京基东方华都 1室1厅 西南",
@@ -3777,8 +3777,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 105.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·福德花园 3室2厅 西南",
@@ -3796,8 +3796,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 72.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.546346,
+    "lng": 114.133299
   },
   {
     "title": "整租·海丽大厦 3室2厅 东北",
@@ -3815,8 +3815,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 66.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.549789,
+    "lng": 114.131634
   },
   {
     "title": "整租·缤纷时代家园 1室0厅 西南",
@@ -3834,8 +3834,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 113.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·都心名苑 1室1厅 北",
@@ -3853,8 +3853,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.549111,
+    "lng": 114.126125
   },
   {
     "title": "整租·京基东方华都 1室1厅 西南",
@@ -3872,8 +3872,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·华隆园 1室0厅 北",
@@ -3891,8 +3891,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 81.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·东门168 1室0厅 南",
@@ -3910,8 +3910,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 109.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·缤纷时代家园 1室0厅 东",
@@ -3929,8 +3929,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 114.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·登高村 2室1厅 南",
@@ -3948,8 +3948,8 @@
     "scraped_at": "2026-05-03 05:28:25",
     "region": "luoling",
     "unit_price": 63.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.550831,
+    "lng": 114.124138
   },
   {
     "title": "整租·金城华庭 3室1厅 南",
@@ -3967,8 +3967,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 92.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·新世界大厦 1室0厅 南",
@@ -3986,8 +3986,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 125.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·京基东方颐园 1室1厅 东南/南",
@@ -4005,8 +4005,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 104.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.549606,
+    "lng": 114.126773
   },
   {
     "title": "整租·京基东方华都 1室0厅 东南",
@@ -4024,8 +4024,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 100.4,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·京基东方华都 1室0厅 南",
@@ -4043,8 +4043,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 93.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.551335,
+    "lng": 114.129127
   },
   {
     "title": "整租·华润置地未来城 1室1厅 南",
@@ -4062,8 +4062,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 126.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.552926,
+    "lng": 114.127017
   },
   {
     "title": "整租·缤纷时代家园 1室1厅 西",
@@ -4081,8 +4081,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 116.1,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·华隆园 1室0厅 东",
@@ -4100,8 +4100,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 80.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.550182,
+    "lng": 114.126888
   },
   {
     "title": "整租·海珑华苑 2室1厅 南",
@@ -4119,8 +4119,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 53.8,
-    "lat": null,
-    "lng": null
+    "lat": 22.546836,
+    "lng": 114.132529
   },
   {
     "title": "整租·聚龙大厦 2室1厅 西南",
@@ -4138,8 +4138,8 @@
     "scraped_at": "2026-05-03 05:29:04",
     "region": "luoling",
     "unit_price": 74.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·缤纷时代家园 1室0厅 西南/西",
@@ -4157,8 +4157,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 123.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·海丽大厦 3室2厅 北",
@@ -4176,8 +4176,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 66.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.549789,
+    "lng": 114.131634
   },
   {
     "title": "整租·东门168 1室1厅 东南",
@@ -4195,8 +4195,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 90.6,
-    "lat": null,
-    "lng": null
+    "lat": 22.55545,
+    "lng": 114.12401
   },
   {
     "title": "整租·汇锦名园 2室1厅 南",
@@ -4214,8 +4214,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 76.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.548216,
+    "lng": 114.132417
   },
   {
     "title": "整租·缤纷时代家园 1室1厅 东南",
@@ -4233,8 +4233,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 109.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·缤纷时代家园 1室1厅 西",
@@ -4252,8 +4252,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 100.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·金城华庭 1室1厅 西",
@@ -4271,8 +4271,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 103.5,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·聚龙大厦 2室1厅 西南",
@@ -4290,8 +4290,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 76.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.553402,
+    "lng": 114.127183
   },
   {
     "title": "整租·名都大厦 3室2厅 南",
@@ -4309,8 +4309,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 81.0,
-    "lat": null,
-    "lng": null
+    "lat": 22.550742,
+    "lng": 114.129824
   },
   {
     "title": "整租·金城华庭 2室1厅 南",
@@ -4328,8 +4328,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 103.2,
-    "lat": null,
-    "lng": null
+    "lat": 22.555614,
+    "lng": 114.121116
   },
   {
     "title": "整租·缤纷时代家园 3室1厅 东南",
@@ -4347,8 +4347,8 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 95.7,
-    "lat": null,
-    "lng": null
+    "lat": 22.551186,
+    "lng": 114.125519
   },
   {
     "title": "整租·环岛丽园 2室2厅 北",
@@ -4366,7 +4366,7 @@
     "scraped_at": "2026-05-03 05:29:15",
     "region": "luoling",
     "unit_price": 103.9,
-    "lat": null,
-    "lng": null
+    "lat": 22.552296,
+    "lng": 114.133999
   }
 ]

@@ -399,7 +399,7 @@ export default function App() {
       }}>
         <div style={{ maxWidth: 900, margin: '0 auto' }}>
           <Paragraph type="secondary" style={{ fontSize: 12, marginBottom: 4, lineHeight: '22px' }}>
-            数据源自公开信息统计分析，纯免费工具，仅供学习探索使用，不构成租房建议。如有偏差请以各平台实时信息为准。
+            数据源自公开信息统计分析，纯免费工具，仅供学习探索使用，不构成租房建议
           </Paragraph>
           <Paragraph type="secondary" style={{ fontSize: 12, marginTop: 8, marginBottom: 0 }}>
             &copy; {new Date().getFullYear()} 租房数据分析 · v{__APP_VERSION__}
